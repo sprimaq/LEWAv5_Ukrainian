@@ -344,7 +344,7 @@
 	<string name="usbotg_title">USB OTG</string>
 	<string name="usbotg_name">USB OTG</string>
 	<string name="sdcard_io_error">Помилка SD-карти</string>
-	<string name="FileListDateFormat">DD.MM.YYYY</string>
+	<string name="FileListDateFormat">dd.MM.yyyy</string>
 	<string name="file_move_failed">переміщення не вдалося</string>
 	<string name="file_not_found">файл не знайдено</string>
 	<string name="file_search">Пошук файлів</string>
