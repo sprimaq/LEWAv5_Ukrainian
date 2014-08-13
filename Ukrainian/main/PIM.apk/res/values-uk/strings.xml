@@ -757,7 +757,7 @@
 Завершено: %d 
 Не виконано: %d"</string>
     <string name="user_profile_cannot_sd_card">Не можна поділитися вмістом за допомогою цього методу.</string>
-    <string name="app_label">SMS/MMS</string>
+    <string name="app_label">Повідомлення</string>
     <string name="new_message">Нове повідомлення</string>
     <string name="menu_call_back">Виклик %s</string>
     <string name="menu_send_email">Написати ел. лист %s</string>
@@ -1008,7 +1008,7 @@
     <string name="edit_slide_activity">Змінити слайд</string>
     <string name="slideshow_activity">Слайд-шоу</string>
     <string name="class_0_message_activity">Повідомлення класу 0</string>
-    <string name="search_label">SMS/MMS</string>
+    <string name="search_label">Повідомлення</string>
     <string name="search_hint">Пошук повідомлень</string>
     <string name="search">SMS/MMS</string>
     <string name="search_setting_description">Текст повідомлення</string>
