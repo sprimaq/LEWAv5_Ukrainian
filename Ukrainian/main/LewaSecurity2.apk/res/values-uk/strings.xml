@@ -47,10 +47,10 @@
 	<string name="dialog_finish">Вийти негайно</string>
 	<string name="dialog_continue_scan">Продовжити</string>
 	<string name="dialog_continue_optimize">Продовжити</string>
-	<string name="optimized_complete_hint">Вітаємо, Ваш пристрій у відмінному стані!</string>
-	<string name="complte_hint_safe">Перевірку завершено. Безпека забезпечена</string>
-	<string name="complte_hint_risk">Перевірку завершено. Будь ласка, оптимізуйте</string>
-	<string name="complte_hint_danger">Перевірка завершено!</string>
+	<string name="optimized_complete_hint">Пристрій у відмінному стані!</string>
+	<string name="complte_hint_safe">Пристрій у безпеці</string>
+	<string name="complte_hint_risk">Необхідно провести оптимізацію</string>
+	<string name="complte_hint_danger">Проведіть оптимізацію!</string>
 	<string name="security_protect">Параметри</string>
 	<string name="logo_notice">Технічна підтримка: Tencent mobile</string>
 </resources>
