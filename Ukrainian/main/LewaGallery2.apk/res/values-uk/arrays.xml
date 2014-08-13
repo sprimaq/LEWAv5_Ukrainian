@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="default_albums_name">
-        <item>Сім'я</item>
+        <item>Сім\'я</item>
         <item>Друзі</item>
         <item>Подорожі</item>
         <item>Колеги</item>
@@ -22,7 +22,7 @@
         <item>Вівторок</item>
         <item>Середа</item>
         <item>Четвер</item>
-        <item>П'ятница</item>
+        <item>П\'ятница</item>
         <item>Субота</item>
     </string-array>
 </resources>
