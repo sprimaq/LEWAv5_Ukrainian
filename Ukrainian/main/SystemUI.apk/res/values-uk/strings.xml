@@ -226,7 +226,7 @@
     <string name="title_toggle_gemini_data">Інет SIM 1/2</string>
     <string name="recent_meminfo">%1$dM/%2$dM</string>
     <string name="recent_noapp">Немає запущених додатків</string>
-    <string name="notifilter_cloud">Повідомлення перехоплювача</string>
+    <string name="notifilter_cloud">Перехоплення повідомлень</string>
     <string name="notifilter_addtoblack">Додати до чорного списку</string>
     <string name="notifilter_del">Видалити з чорного списку</string>
     <string name="notifilter_allow">Дозволити</string>
