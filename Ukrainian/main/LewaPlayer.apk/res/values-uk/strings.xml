@@ -57,6 +57,7 @@
     <string name="btn_favorite_text">Лайк!</string>
     <string name="btn_remove_text">Видалити</string>
     <string name="EQ_title_text">Еквалайзер</string>
+    <string name="EQ">Еквалайзер</string>
     <string name="adjust_EQ">Регулювання еквалайзеру</string>
     <string name="text_hound_prompt">Натисніть для розпізнавання</string>
     <string name="text_bt_begin_hound">Старт розпізнавання</string>
