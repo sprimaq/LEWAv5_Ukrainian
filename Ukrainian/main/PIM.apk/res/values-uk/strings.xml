@@ -1277,7 +1277,7 @@
     <string name="error_add_attachment">Невідома помилка, неможливо додати %1$s повідомлення</string>
     <string name="no_application_response">Немає додатків для обробки запиту</string>
     <string name="label_loaderframent">Контакти</string>
-    <string name="label_mmsframent">SMS/MMS</string>
+    <string name="label_mmsframent">Повідомлення</string>
     <string name="label_calllogframent">Виклики</string>
     <string name="label_updatefragment">Подробиці оновлення</string>
     <string name="label_loaderframents">Контакт</string>
