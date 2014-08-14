@@ -352,7 +352,7 @@
 	<string name="accessibility_shutter_button">Кнопка \"Затвор\"</string>
 	<string name="accessibility_review_thumbnail">Недавні фото</string>
 	<string name="accessibility_camera_picker">Перемикання на передню або задню камеру</string>
-	<string name="accessibility_mode_picker">Перемикач між режимами \"Фото\", \"Відео\" і \"Динамо\"</string>
+	<string name="accessibility_mode_picker">Перемикач між режимами \"Фото\", \"Відео\" і \"Панорама\"</string>
 	<string name="accessibility_second_level_indicators">Додаткові налаштування</string>
 	<string name="accessibility_back_to_first_level">Закрити</string>
 	<string name="accessibility_zoom_control">Зум</string>
@@ -449,19 +449,10 @@
 	<string name="rotate">Поворот</string>
 	<string name="done">Готово</string>
 	<string name="vignette">Віньєтка</string>
-	<string name="dcim_album_path">DCIM/Camera</string>
 	<string name="family_album_path">Фотографії/сім’я</string>
 	<string name="friend_album_path">Фотографії/друзі</string>
 	<string name="colleague_album_path">Фотографії/колеги</string>
 	<string name="travel_album_path">Фотографії подорожі</string>
-	<string name="mapview_zoomlevel_china">4.5555005</string>
-	<string name="baidu_sdk_key">7825fe7ed97a39b2f9e8b36a136f0f5d</string>
-    <string name="gallery_mask_path">M52.501,0c27.023,0,37.899,0,45.2,7.3C105,14.6,105,25.188,105,52.5c0,27.584,0,37.9-7.325,45.226 C90.401,105,79.261,105,52.501,105c-26.684,0-37.899,0-45.288-7.389C-0.338,90.06,0.002,79.254,0.002,52.5 c0-27.482,0-37.9,7.241-45.141C14.602,0,25.088,0,52.501,0z</string>
-    <string name="gallery_album_mask_path">M101.09,22.816c40.253,0.01,56.453,0.014,67.326,10.891c10.87,10.877,10.866,26.648,10.856,67.332 c-0.01,41.088-0.014,56.455-10.928,67.365c-10.838,10.832-27.432,10.828-67.293,10.818c-39.748-0.01-56.453-0.014-67.457-11.023 c-11.245-11.251-10.734-27.347-10.724-67.199c0.01-40.937,0.014-56.455,10.803-67.238C44.636,22.802,60.256,22.806,101.09,22.816z</string>
-    <string name="gallery_album_2_mask_path">M128.376,21.458c39.408,8.204,55.268,11.506,63.699,24.369c8.428,12.862,5.213,28.302-3.079,68.132 c-8.375,40.226-11.507,55.27-24.413,63.73c-12.816,8.399-29.062,5.017-68.086-3.107c-38.913-8.101-55.268-11.506-63.8-24.525 c-8.719-13.304-4.943-28.959,3.18-67.975c8.344-40.077,11.507-55.27,24.265-63.631C73.108,9.952,88.4,13.135,128.376,21.458z</string>
-    <string name="gallery_mapview_mask_path">M47.01,13.304c18.374,0.005,25.769,0.006,30.731,4.971c4.962,4.965,4.96,12.164,4.955,30.734 c-0.005,18.755-0.006,25.769-4.988,30.749c-4.947,4.945-12.521,4.943-30.716,4.938c-18.143-0.005-25.769-0.006-30.791-5.032 c-5.133-5.135-4.9-12.483-4.895-30.673c0.005-18.686,0.006-25.769,4.931-30.691C21.242,13.297,28.371,13.299,47.01,13.304z</string>
-    <string name="gallery_mapview_2_mask_path">M61.378,13.477c17.774,4.404,24.928,6.176,28.541,12.167c3.611,5.991,1.886,12.955-2.565,30.92 c-4.495,18.143-6.176,24.929-12.188,28.554c-5.97,3.599-13.297,1.784-30.899-2.577C26.716,78.192,19.34,76.365,15.684,70.3 c-3.736-6.197-1.752-13.249,2.608-30.847c4.478-18.076,6.176-24.929,12.119-28.512C36.45,7.301,43.347,9.01,61.378,13.477z</string>
-    <string name="default_camera_category">android.intent.category.LAUNCHER</string>
 	<string name="camera_roll_tab">Камера</string>
 	<string name="phone_pictures_tab">Зображення</string>
 	<string name="today">Сьогодні</string>
@@ -907,6 +898,4 @@
 	<string name="please_install_lewa_camera">Встановіть Камеру від Lewa</string>
 	<string name="rename_album">Перейменування альбому</string>
 	<string name="album_no_change">Назва без змін</string>
-	<string type="string" name="APKTOOL_DUMMY_00fc">false</string>
-	<string type="string" name="APKTOOL_DUMMY_03ac">false</string>
 </resources>
