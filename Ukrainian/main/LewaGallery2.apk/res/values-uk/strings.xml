@@ -449,7 +449,7 @@
 	<string name="rotate">Поворот</string>
 	<string name="done">Готово</string>
 	<string name="vignette">Віньєтка</string>
-	<string name="dcim_album_path">DCIM/Камера</string>
+	<string name="dcim_album_path">DCIM/Camera</string>
 	<string name="family_album_path">Фотографії/сім’я</string>
 	<string name="friend_album_path">Фотографії/друзі</string>
 	<string name="colleague_album_path">Фотографії/колеги</string>
