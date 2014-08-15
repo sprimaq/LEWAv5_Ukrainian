@@ -1,12 +1,22 @@
 <strings>
-    <string name="short_date_format" value="dd/MM EEEE" />
-    <string name="long_date_format" value="dd/MM/yyyy" />
-    <string name="slide_down" value="Вниз щоб розблокувати" />
+    <string name="short_date_format" value="EEEE, d MMMM" />
+    <string name="long_date_format" value="dd.MM.yyyy" />
+    <string name="slide_up_camera" value="Уверх для запуску камери" />
+    <string name="slide_down_lock" value="Вниз для разблокування" />
+    <string name="slide_down_call" value="Вниз для дзвінків" />
+    <string name="slide_down_mess" value="Вниз для SMS" />
     <string name="air_quality" value="AQI:" />
     <string name="chinese_calendar_show" value="0"/>
     <string name="week_offsetY" value="0"/>
-    <string name="week_offsetX" value="90"/>
+    <string name="week_offsetX" value="60"/>
     <string name="week_typeface" value="NeoSans-Light.otf"/>
-    <string name="unreadSMS" value=" Непрочитаних SMS"/>
-    <string name="missCALL" value=" Пропущених викликів"/>
+    <string name="am" value="AM"/>
+    <string name="pm" value="PM"/>
+    <string name="over99" value="Понад 99"/>
+    <string name="miss_call_1" value="пропущений виклик"/>
+    <string name="miss_call_234" value="пропущених виклика"/>
+    <string name="miss_call_5" value="пропущених викликів"/>
+    <string name="sms_unread_1" value="нове повідомлення"/>
+    <string name="sms_unread_234" value="нових повідомлення"/>
+    <string name="sms_unread_5" value="нових повідомлень"/>
 </strings>
