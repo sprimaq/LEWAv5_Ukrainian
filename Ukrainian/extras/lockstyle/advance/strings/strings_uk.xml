@@ -12,6 +12,8 @@
     <string name="week_typeface" value="NeoSans-Light.otf"/>
     <string name="am" value="AM"/>
     <string name="pm" value="PM"/>
+    <string name="unreadSMS" value=" нових повідомлень"/>
+    <string name="missCALL" value=" пропущених викликів"/>
     <string name="over99" value="Понад 99"/>
     <string name="miss_call_1" value="пропущений виклик"/>
     <string name="miss_call_234" value="пропущених виклика"/>
