@@ -1,5 +1,5 @@
 <strings>
-    <string name="slide_down_answer" value="Вниз щоби відповісти" />
-    <string name="slide_down_hangup" value="Вниз щоби відхилити" />
-    <string name="slide_down_reply" value="Відповісти SMS" />
+    <string name="slide_down_answer" value="Вниз щоб відповісти" />
+    <string name="slide_down_hangup" value="Вниз щоб відхилити" />
+    <string name="slide_down_reply" value="Відповісти СМС" />
 </strings>
