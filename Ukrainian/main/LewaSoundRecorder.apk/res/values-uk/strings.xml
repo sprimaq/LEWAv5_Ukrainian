@@ -6,7 +6,7 @@
     <string name="review_message">Проглянути повідомлення</string>
     <string name="recording">Запис</string>
     <string name="recording_stopped">Запис зупинено</string>
-    <string name="storage_is_full">Пам'ять заповнена</string>
+    <string name="storage_is_full">Пам\'ять заповнена</string>
     <string name="max_length_reached">Досягнута максимальна довжина</string>
     <string name="insert_sd_card">Встановіть SD-карту</string>
     <string name="min_available">Залишилось %d хв.</string>
