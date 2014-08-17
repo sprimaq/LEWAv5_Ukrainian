@@ -353,7 +353,6 @@
     <string name="tethered_ipv4">(Протокол IPv6 недоступний)</string>
     <string name="tethering_apn_settings_title">Параметри APN</string>
     <string name="tethering_apn_settings_summary">Налаштування APN для роздачі Інтернету</string>
-
     <string name="usb_tether_type_title">USB-інтернет</string>
     <string name="usb_connect_as_cdrom_category">Підключити як CD-ROM</string>
     <string name="wifi_tether_setting_title">Основні налаштування</string>
