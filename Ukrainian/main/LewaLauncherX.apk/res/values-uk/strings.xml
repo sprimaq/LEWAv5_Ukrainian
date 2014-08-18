@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="config_workspaceDefaultTransitionEffect">Standard</string>
+
     <string name="application_name">Лаунчер Lewa</string>
     <string name="folder_name">Без імені</string>
-    <string name="chooser_wallpaper">Вибрати шпалери з</string>
+    <string name="chooser_wallpaper">Обрати шпалери з</string>
     <string name="wallpaper_instructions">Встановити шпалери</string>
     <string name="pick_wallpaper">Шпалери</string>
     <string name="activity_not_found">Додаток не встановлено</string>
@@ -34,16 +34,16 @@
     <string name="folder_hint_text">Тека</string>
     <string name="workspace_description_format">Робочий стіл %1$d</string>
     <string name="default_scroll_format">Сторінка %1$d из %2$d</string>
-    <string name="workspace_scroll_format">Робочий стіл %1$d из %2$d</string>
-    <string name="folder_opened">Тека відкрита, %1$d by %2$d</string>
-    <string name="folder_tap_to_close">Натисніть для закриття</string>
-    <string name="folder_tap_to_rename">Натисніть для збереження</string>
+    <string name="workspace_scroll_format">Робочий стіл %1$d з %2$d</string>
+    <string name="folder_opened">Тека відкрита, %1$d до %2$d</string>
+    <string name="folder_tap_to_close">Натисніть щоб закрити</string>
+    <string name="folder_tap_to_rename">Натисніть щоб зберегти</string>
     <string name="folder_closed">Тека закрита</string>
     <string name="folder_renamed">Тека перейменована на %1$s</string>
     <string name="folder_name_format">Тека: %1$s</string>
     <string name="cannot_add_more_screen">Не можна додати більше екранів</string>
     <string name="cannot_delete_more_screen">Немає робочих столів для видалення</string>
-    <string name="menu_preview">Прев’ю</string>
+    <string name="menu_preview">Прев'ю</string>
     <string name="menu_edit">Віджети</string>
     <string name="menu_theme">Теми</string>
     <string name="menu_wallpaper">Шпалери</string>
@@ -51,22 +51,22 @@
     <string name="menu_desktop_settings">Налаштування лаунчера</string>
     <string name="pref_desktop_effect">Ефект анімації робочого столу</string>
     <string name="pref_screen_layout">Сітка екрану</string>
-    <string name="pref_screen_layout_summary">Виберіть екранне розташування значків</string>
-    <string name="pref_icon_size">Розмір ікон</string>
-    <string name="pref_icon_size_summary">Виберіть розмір іконок</string>
+    <string name="pref_screen_layout_summary">Виберіть розташування значків на екрані</string>
+    <string name="pref_icon_size">Розмір іконок</string>
+    <string name="pref_icon_size_summary">Оберіть розмір іконок</string>
     <string name="small_icon_size">Маленький</string>
     <string name="normal_icon_size">Нормальний</string>
-    <string name="pref_desktop_effect_summary">Ефекти при переміщенні робочих столів</string>
-    <string name="pref_title_wallpaper_scrolling">Прокрутка шпалер</string>
-    <string name="pref_summary_wallpaper_scrolling">Шпалери переміщаються разом з робочим столом</string>
+    <string name="pref_desktop_effect_summary">Ефекти переміщення робочих столів</string>
+    <string name="pref_title_wallpaper_scrolling">Прокручування шпалер</string>
+    <string name="pref_summary_wallpaper_scrolling">Шпалери переміщуються разом з робочим столом</string>
     <string name="pref_title_action_updown">Жести робочого столу</string>
     <string name="pref_summary_action_updown">Жест вниз, щоб відкрити рядок повідомлень</string>
     <string name="pref_title_shake">Групування струшуванням</string>
     <string name="pref_summary_shake">Швидке групування додатків струшуванням на поточному робочому столі</string>
     <string name="shake_degree_title">Чутливість струшування</string>
     <string name="shake_degree_summary">Налаштування сили струшування, необхідної для групування додатків</string>
-    <string name="shake_degree_gentle">М’яко</string>
-    <string name="shake_degree_common">Средне</string>
+    <string name="shake_degree_gentle">М'яко</string>
+    <string name="shake_degree_common">Середньо</string>
     <string name="shake_degree_force">Сильно</string>
     <string name="apps_recommend_title">Рекомендовані додатки</string>
     <string name="apps_recommend_summary">Рекомендувати схожі додатки</string>
@@ -75,13 +75,13 @@
     <string name="pref_title_lewa_lockscreen">Використовувати Локскрін Lewa</string>
     <string name="pref_hide_status_bar">Заховати рядок повідомлень при заблокованому екрані</string>
     <string name="pref_title_resetlauncher">Скидання налаштувань лаунчера</string>
-    <string name="pref_summary_resetlauncher">Скидання налаштувань за умовчанням</string>
+    <string name="pref_summary_resetlauncher">Встановлення налаштувань за замовчуванням</string>
     <string name="pref_title_update">Оновлення</string>
-    <string name="pref_summary_update">Перевірити Лаунчер Lewa на наявність оновлень</string>
-    <string name="message_resetlauncher">Відновити ікони, теки, віджети, розташування екранів?</string>
+    <string name="pref_summary_update">Перевірити на наявність оновлень Лаунчера Lewa</string>
+    <string name="message_resetlauncher">Відновити іконки, теки, віджети, розташування екранів?</string>
     <string name="pref_label_settings">Налаштування робочого столу</string>
-    <string name="pref_keep_resident">Тримати в пам’яті</string>
-    <string name="pref_summary_keep_resident">Не вивантажувати лаунчер з пам’яті</string>
+    <string name="pref_keep_resident">Тримати в пам'яті</string>
+    <string name="pref_summary_keep_resident">Не вивантажувати лаунчер з пам'яті</string>
     <string name="pref_screen_cycle">Циклічна прокрутка</string>
     <string name="pref_title_anim_scale">Шкала анімації</string>
     <string name="pref_title_anim_duration">Тривалість анімації</string>
@@ -110,13 +110,13 @@
     <string name="server_others_category">Різне</string>
     <string name="app_recommend_title">Рекомендоване</string>
     <string name="confirm_smart_sort">Розумне сортування по теках</string>
-    <string name="restore_smart_sort">Відновлення сортованих додатків на робоче місце</string>
+    <string name="restore_smart_sort">Відновлення сортованих додатків на попереднє місце</string>
     <string name="sorting_prompt">Сортується, почекайте будь ласка...</string>
     <string name="sorting_complete">Розумне сортування завершено.</string>
     <string name="restore_complete">Відновлення сортованих додатків завершено</string>
     <string name="no_available_network">Немає доступу до мережі, спробуйте пізніше</string>
     <string name="download_prompt_title">Підтвердження завантаження</string>
-    <string name="download_prompt_message">Ви використовуєте мобільну передачу даних. За це може стягуватися дод. плата. Далі?</string>
+    <string name="download_prompt_message">Ви використовуєте мобільну передачу даних. За це може стягуватися додаткова плата. Продовжити?</string>
     <string name="download_start_hint">%s початок...</string>
     <string name="download_end_hint">%s завантажено...</string>
     <string name="download_failed_hint">%s не завантажено</string>
@@ -132,16 +132,15 @@
     <string name="uninstall_done">Видалення завершене</string>
     <string name="uninstall_failed">Видалення не вдалося</string>
     <string name="uninstall_failed_msg">%1$s не може бути видалено</string>
-    <string name="uninstall_application_text">Видалити це застосування?</string>
+    <string name="uninstall_application_text">Видалити цей додаток?</string>
     <string name="uninstall_failed_device_policy_manager">Неможливо видалити, оскільки додаток є адміністратором пристрою</string>
     <string name="uninstall_app_not_found_text">Додаток відсутній в списку встановлених</string>
     <string name="uninstall_application_title">Видалення додатку</string>
     <string name="uninstall_update_title">Видалення оновлення</string>
-    <string name="uninstall_activity_text">%1$s є частиною наступного застосування:</string>
+    <string name="uninstall_activity_text">%1$s є частиною наступного додатку:</string>
     <string name="uninstall_update_text">Ви хочете видалити оновлення і повернутися на початкову версію додатку?</string>
     <string name="app_not_found_dlg_text">Додаток відсутній в списку встановлених</string>
-    <item type="string" name="APKTOOL_DUMMY_008c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_008d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_008e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_008f">false</item>
+    <string name="extra_tiny_icon_size">Крихітний</string>
+    <string name="tiny_icon_size">Дрібний</string>
+    <string name="big_icon_size">Великий</string>
 </resources>
