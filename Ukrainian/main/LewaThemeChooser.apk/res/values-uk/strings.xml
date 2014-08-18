@@ -8,7 +8,7 @@
     <string name="live_wallpaper_delete">Ви впевнені, що хочете видалити живі шпалери?</string>
     <string name="theme_local">Локально</string>
     <string name="theme_online">Онлайн</string>
-    <string name="theme_customize">Налаштування</string>
+    <string name="theme_customize">Налаштувати</string>
     <string name="theme_loading">Завантаження...</string>
     <string name="app_name">Теми</string>
     <string name="app_title">Теми</string>
@@ -53,7 +53,7 @@
     <string name="custom_font">Шрифт</string>
     <string name="no_sdcard">Будь ласка, вставити SD-карту і спробуйте ще раз</string>
     <string name="can_not_find_app">Не вдається знайти додаток!</string>
-    <string name="import_other_app">Імпорт з інших додатків</string>
+    <string name="import_other_app">Імпорт</string>
     <string name="theme_count">Ця тема містить %s модулів</string>
     <string name="theme_details">деталі теми</string>
     <string name="no_modules_to_apply">Немає модулів для застосування</string>
