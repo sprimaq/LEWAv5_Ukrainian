@@ -1371,15 +1371,15 @@
 "<li>Обліковий запис Google</li>"
 "<li>Системні дані, програми і параметри</li>"
 "<li>Завантажені програми</li></string>
-    <string name="master_clear_accounts">"
+    <string name="master_clear_accounts">"\u0009
+
 В даний час Ви виконали вхід в такі акаунти:
 "</string>
-    <string name="master_clear_desc_also_erases_external"><li>Музика</li>"
-"<li>Фото</li>"
+    <string name="master_clear_desc_also_erases_external">\" \"<li>Музика</li>\" <li>Фото</li>"
 "<li>Інші дані користувача</li></string>
     <string name="master_clear_desc_erase_external_storage">" 
 
-Щоб видалити музику, фотографії та інші дані, необхідно очистити SD"</string>
+Щоб видалити музику, фотографії та інші дані, необхідно очистити  \""<b>SD</b>"\". "</string>
     <string name="erase_external_storage">Очистити SD</string>
     <string name="erase_external_storage_description">Видалити з SD всі дані, в тому числі музику і фотографії</string>
     <string name="master_clear_button_text">Скидання налаштувань</string>
