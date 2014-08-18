@@ -37,58 +37,68 @@
     <string-array name="large_screen_layout">
         <item>4 * 4</item>
         <item>4 * 5</item>
+        <item>4 * 6</item>
+        <item>5 * 5</item>
+        <item>5 * 6</item>
     </string-array>
     <string-array name="large_screen_layout_value">
         <item>4|4</item>
         <item>4|5</item>
+        <item>4|6</item>
+        <item>5|5</item>
+        <item>5|6</item>
     </string-array>
     <string-array name="ex_large_screen_layout">
         <item>4 * 4</item>
         <item>4 * 5</item>
+        <item>4 * 6</item>
         <item>5 * 5</item>
+        <item>5 * 6</item>
     </string-array>
     <string-array name="ex_large_screen_layout_value">
         <item>4|4</item>
         <item>4|5</item>
+        <item>4|6</item>
         <item>5|5</item>
+        <item>5|6</item>
     </string-array>
     <string-array name="icon_size">
+        <item>@string/extra_tiny_icon_size</item>
+        <item>@string/tiny_icon_size</item>
         <item>@string/small_icon_size</item>
         <item>@string/normal_icon_size</item>
+        <item>@string/big_icon_size</item>
     </string-array>
     <string-array name="icon_size_value">
-        <item>0.85f</item>
+        <item>0.6f</item>
+        <item>0.7f</item>
+        <item>0.8f</item>
+        <item>0.9f</item>
         <item>1.0f</item>
     </string-array>
-    <string-array name="smart_sort_dialog_items">
-        <item>@string/confirm_smart_sort</item>
-        <item>@string/restore_smart_sort</item>
-    </string-array>
     <string-array name="app_category">
-        <item>Практические советы</item>
-        <item>Чат</item>
-        <item>Соцсети</item>
-        <item>Система и безопасность</item>
-        <item>影音阅读</item>
-        <item>主题壁纸</item>
-        <item>输入浏览</item>
-        <item>学习办公</item>
-        <item>我的游戏</item>
-        <item>其他应用</item>
+        <item>Життя</item>
+        <item>Спілкування</item>
+        <item>Соцмережі</item>
+        <item>Безпека</item>
+        <item>Аудіо/читання</item>
+        <item>Темо/шпалери</item>
+        <item>Перегляд</item>
+        <item>Навчання</item>
+        <item>Свої ігри</item>
+        <item>Інше</item>
     </string-array>
     <string-array name="game_second_category">
-        <item>策略游戏</item>
-        <item>动作格斗</item>
-        <item>飞行射击</item>
-        <item>角色冒险</item>
-        <item>模拟经营</item>
-        <item>其他游戏</item>
-        <item>手机网游</item>
-        <item>体育竞速</item>
-        <item>益智休闲</item>
-        <item>桌游棋牌</item>
+        <item>Стратегії</item>
+        <item>Екшн</item>
+        <item>Політ</item>
+        <item>Пригоди</item>
+        <item>Симулятори</item>
+        <item>Інше</item>
+        <item>Моб.ігри</item>
+        <item>Спорт</item>
+        <item>Пазли</item>
+        <item>Настільні</item>
     </string-array>
-    <item type="array" name="APKTOOL_DUMMY_000b">false</item>
-    <item type="array" name="APKTOOL_DUMMY_000c">false</item>
     <array name="wallpapers" />
 </resources>
