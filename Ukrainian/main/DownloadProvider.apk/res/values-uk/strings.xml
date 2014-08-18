@@ -6,22 +6,22 @@
 	<string name="permlab_downloadManagerAdvanced">Розширені функції менеджера завантажень</string>
 	<string name="permdesc_downloadManagerAdvanced">Додаток отримає доступ до розширених функцій менеджера завантажень. Шкідливі програми зможуть таким чином переривати завантаження і переглядати особисту інформацію</string>
 	<string name="permlab_downloadCompletedIntent">Відправлення сповіщення про завантаження</string>
-	<string name="permdesc_downloadCompletedIntent">Додаток зможе надсилати сповіщення про завершення завантаження. Шкідливі програми зможуть таким чином заважати роботі додатків, завантажують файли</string>
+	<string name="permdesc_downloadCompletedIntent">Додаток зможе надсилати сповіщення про завершення завантаження. Шкідливі програми зможуть таким чином заважати роботі додатків, що завантажують файли</string>
 	<string name="permlab_seeAllExternal">Перегляд всіх завантажень на SD-карті</string>
 	<string name="permdesc_seeAllExternal">Додаток отримає доступ до завантажень на SD-карті незалежно від того, через яку програму вони були завантажені</string>
 	<string name="permlab_downloadCacheNonPurgeable">Резервування місця в кеші</string>
-	<string name="permdesc_downloadCacheNonPurgeable">Додаток зможе завантажувати файли в кеш завантаження (який не може бути автоматично очищений), якщо менеджера завантажень потрібно більше місця</string>
-	<string name="permlab_downloadWithoutNotification">Завантаження файлів без оповіщення</string>
+	<string name="permdesc_downloadCacheNonPurgeable">Додаток зможе завантажувати файли в кеш завантаження (який не може бути автоматично очищений), якщо менеджеру завантажень потрібно більше місця</string>
+	<string name="permlab_downloadWithoutNotification">Завантаження файлів без сповіщення</string>
 	<string name="permdesc_downloadWithoutNotification">Додаток зможе завантажувати файли через диспетчер завантажень без повідомлення користувача</string>
-	<string name="permlab_accessAllDownloads">Доступ до всіх завантаженнями</string>
+	<string name="permlab_accessAllDownloads">Доступ до всіх завантажень</string>
 	<string name="permdesc_accessAllDownloads">Додаток зможе відкривати і змінювати завантаження незалежно від того, через яку програму вони були завантажені</string>
-	<string name="download_unknown_title">&lt;Без названия&gt;</string>
+	<string name="download_unknown_title">&lt;Без назви&gt;</string>
 	<string name="notification_filename_separator">&quot;, &quot;</string>
 	<string name="notification_filename_extras">&quot; і ще %d&quot;</string>
 	<string name="notification_download_complete">Завантаження завершено</string>
 	<string name="notification_download_failed">Не вдалося завантажити файл</string>
 	<string name="notification_need_wifi_for_size">Завантаження тільки по Wi-Fi</string>
-	<string name="notification_paused_in_background">Завантаження припинена</string>
+	<string name="notification_paused_in_background">Завантаження припинено</string>
 	<string name="wifi_required_title">Занадто великий файл для завантаження через 2G/3G</string>
 	<string name="wifi_required_body" formatted="false">&quot;Для завершення завантаження файлу розміром %s необхідно підключення до мережі Wi-Fi. 
 
@@ -43,7 +43,7 @@
 	<string name="notification_info_peding">очікування</string>
 	<string name="notification_info_fail">помилка</string>
 	<string name="download_title">Завантаження</string>
-	<string name="cancel">Скасування</string>
+	<string name="cancel">Скасувати</string>
 	<string name="ok">OK</string>
 	<string name="download_file_already_exist">Файл вже існує, перезаписати?</string>
 	<string name="notification_download_complete_op01">Файл збережений в:</string>
