@@ -13,7 +13,7 @@
 	<string name="read_write_all_voicemail_description">Дозволити додатку зберігати і відновлювати всі голосові повідомлення, доступні на пристрої</string>
 	<string name="voicemail_from_column">&quot;Голосове повідомлення від &quot;</string>
 	<string name="debug_dump_title">Копіювання бази контактів</string>
-	<string name="debug_dump_database_message">Ви збираєтеся створити копію бази даних, яка містить всі дані про контакти і відправити її. Не забудьте видалити копію, як тільки Ви успішно скопіювали її з пристрою або эл.письма</string>
+	<string name="debug_dump_database_message">Ви збираєтеся створити копію бази даних, яка містить всі дані про контакти і відправити її. Не забудьте видалити копію, як тільки Ви успішно скопіювали її з пристрою або ел.листа</string>
 	<string name="debug_dump_delete_button">Видалити зараз</string>
 	<string name="debug_dump_start_button">Почати</string>
 	<string name="debug_dump_email_sender_picker">Виберіть програму для відправки файлу</string>
