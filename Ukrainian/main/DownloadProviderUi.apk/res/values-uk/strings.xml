@@ -32,7 +32,7 @@
 	<string name="retry_download">Повторити</string>
 	<string name="deselect_all">Зняти виділення</string>
 	<string name="select_all">Вибрати все</string>
-	<string name="selected_count">Обраний %1$d</string>
+	<string name="selected_count">Вибрано %1$d</string>
 	<string name="download_share_dialog">Спосіб надсилання</string>
 	<string name="download_percent">%d%%</string>
 	<string name="dialog_title">Завантаження</string>
@@ -56,7 +56,7 @@
 	<string name="oma_download_size">Розмір:</string>
 	<string name="oma_download_description">Опис:</string>
 	<string name="oma_download_content_not_supported">Пристрій не підтримує цей вміст. Не вдається знайти додаток для відкриття цього файлу. Все одно завантажити його?</string>
-	<string name="confirm_oma_download_next_url">Завантаження виконана. Перейти до наступного URL-адресою?</string>
+	<string name="confirm_oma_download_next_url">Завантаження виконано. Перейти до наступного URL-адресою?</string>
 	<string name="pause">Призупинити</string>
 	<string name="resume">Відновити</string>
 	<string name="delete_failed_with_SDcard">Помилка видалення файлу. SD-карта недоступна</string>
@@ -74,7 +74,7 @@
 	<string name="only_wifi_summary">Зберегти</string>
 	<string name="download_remind_title">Рекомендації по 2G/3G</string>
 	<string name="close_mobile_dialog_title">Рекомендації</string>
-	<string name="close_mobile_dialog_content">"Якщо закрити, то нагадування не буде відображатися під час скачування з 2G/3G, що може призвести до додаткових витрат. 
+	<string name="close_mobile_dialog_content">"Якщо закрити, то нагадування не буде відображатися під час завантаження з 2G/3G, що може призвести до додаткових витрат. 
 
 Ви впевнені, що хочете вимкнути нагадування при завантаженні по 2G/3G?"</string>
 	<string name="close_mobile_dialog_positive">OK</string>
@@ -85,7 +85,7 @@
 	<string name="mobile_dialog_content_suffix">" 
 це може призвести до додаткових витрат"</string>
 	<string name="mobile_dialog_positive">Завантажити</string>
-	<string name="mobile_dialog_negative">Підключитися по Wi-Fi і скачати</string>
+	<string name="mobile_dialog_negative">Підключитися по Wi-Fi і завантажити</string>
 	<string name="wifi_dialog_content">"У вас включена завантаження лише через Wi-Fi, якщо Ви хочете почати завантаження, то Вам потрібно відключити завантаження тільки через Wi-Fi. 
 
 Ви впевнені, що хочете вимкнути завантаження лише через Wi-Fi?"</string>
