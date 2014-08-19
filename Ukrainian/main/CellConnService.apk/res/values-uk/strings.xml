@@ -4,8 +4,8 @@
 	<string name="button_ok">ОК</string>
 	<string name="button_cancel">Скасувати</string>
 	<string name="confirm_radio_title">SIM-карта вимкнена</string>
-	<string name="confirm_radio_msg">%1$s зараз вимкнено. Включити цю SIM-карту?</string>
-	<string name="confirm_radio_msg_single">Зараз увімкнений режим польоту, відключити його?</string>
+	<string name="confirm_radio_msg">%1$s зараз вимкнено. Увімкнути цю SIM-карту?</string>
+	<string name="confirm_radio_msg_single">Зараз увімкнений режим польоту, вимкнути його?</string>
 	<string name="confirm_pin_title">SIM-карта заблокована</string>
 	<string name="confirm_pin_msg">SIM-карта, яку Ви збираєтеся використовувати, заблокована. Розблокувати картку?</string>
 	<string name="confirm_simmelock_msg">Слот SIM-карти, яку Ви збираєтеся використовувати, заблокований. Розблокувати слот?</string>
@@ -22,13 +22,13 @@
 	<string name="confirm_unlock_lbutton">Розблокувати</string>
 	<string name="confirm_unlock_fail">Операція скасована</string>
 	<string name="confirm_turnon_radio_fail">Операція скасована</string>
-	<string name="confirm_permit_roaming_fail">Ви відключили це дія для SIM-карти в роумінгу</string>
+	<string name="confirm_permit_roaming_fail">Ви відключили цю дію для SIM-карти в роумінгу</string>
 	<string name="confirm_sim_locked_message">SIM-карта безповоротно заблокована</string>
 	<string name="confirm_slot_locked_message">Слот заблокований назавжди</string>
 	<string name="confirm_radio_title_uim">UIM-карту вимкнено</string>
 	<string name="confirm_radio_title_card">Карта вимкнена</string>
-	<string name="confirm_radio_msg_uim">%1$s зараз вимкнено. Включити цю UIM-карту?</string>
-	<string name="confirm_radio_msg_card">%1$s зараз вимкнено. Включити цю карту?</string>
+	<string name="confirm_radio_msg_uim">%1$s зараз вимкнено. Увімкнути цю UIM-карту?</string>
+	<string name="confirm_radio_msg_card">%1$s зараз вимкнено. Увімкнути цю карту?</string>
 	<string name="confirm_radio_flight_mode_on_and_msg">Режим польоту увімкнений і</string>
 	<string name="confirm_radio_flight_mode_on_sim_off_msg">%1$s зараз вимк. Вимкнути режим польоту і увімкнути цю SIM-карту?</string>
 	<string name="confirm_radio_flight_mode_on_sim_off_msg_uim">%1$s зараз вимк. Вимкнути режим польоту і увімкнути цю UIM-карту?</string>
