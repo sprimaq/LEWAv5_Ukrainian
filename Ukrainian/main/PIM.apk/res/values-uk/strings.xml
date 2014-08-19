@@ -757,7 +757,7 @@
 Завершено: %d 
 Не виконано: %d"</string>
     <string name="user_profile_cannot_sd_card">Не можна поділитися вмістом за допомогою цього методу.</string>
-    <string name="app_label">Повідомлення</string>
+    <string name="app_label">SMS/MMS</string>
     <string name="new_message">Нове повідомлення</string>
     <string name="menu_call_back">Виклик %s</string>
     <string name="menu_send_email">Написати ел. лист %s</string>
@@ -778,7 +778,7 @@
     <string name="delete_message">Видалити</string>
     <string name="expire_on">Термін закінчується: %s</string>
     <string name="kilobyte">КБ</string>
-    <string name="undelivered_msg_dialog_title">Недопоставлене повідомлення</string>
+    <string name="undelivered_msg_dialog_title">Недоставлене повідомлення</string>
     <string name="undelivered_msg_dialog_body">"Неможливо надіслати повідомлення. 
 Спроб: %s."</string>
     <string name="undelivered_sms_dialog_body">Не вдається відправити це повідомлення.</string>
