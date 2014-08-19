@@ -1304,7 +1304,7 @@
     <string name="sd_format_summary">Видалення всіх даних з носія інформації (музика, відео, фото тощо)</string>
     <string name="memory_clear_cache_title">Видалити кеш?</string>
     <string name="memory_clear_cache_message">Це призведе до видалення кешу усіх додатків</string>
-    <string name="mtp_ptp_mode_summary">MTP або PTP мережа активна</string>
+    <string name="mtp_ptp_mode_summary">MTP або PTP режим активний</string>
     <string name="dlg_confirm_unmount_title">Вимкнути SD-карту?</string>
     <string name="dlg_confirm_unmount_text">Якщо вимкнути SD-карту, деякі програми перестануть працювати і можуть залишатися недоступними до її підключення.</string>
     <string name="dlg_error_unmount_title" />
@@ -2458,7 +2458,6 @@
     <string name="halo_title">Halo</string>
     <string name="halo_summary_on">Відкрити Гало</string>
     <string name="halo_summary_off">Закрити Гало</string>
-    <string name="mtp_ptp_mode_summary">MTP або PTP мережа активна</string>
     <string name="sensor_settings">Розумні сенсори</string>
     <string name="sensor_call_setting">Під час дзвінка</string>
     <string name="sensor_other_setting">Інші</string>
@@ -2496,14 +2495,5 @@
     <string name="activity_rounded_corner_title">Округлені кути вікон</string>
     <string name="em_settings_title">Інженерне меню</string>
     <string name="em_settings_adb_title">Тонкі налаштування параметрів телефону</string>
-    <string name="gemini_3g_service_settings">Служба 3G</string>
-    <string name="radioInfo_service_in">Працює</string>
-    <string name="radioInfo_service_out">Не працює</string>
-    <string name="radioInfo_service_emergency">Лише екстрені дзвінки</string>
-    <string name="radioInfo_service_off">Радіо вимк.</string>
-    <string name="radio_info_gprs_service_label">Послуга GPRS:</string>
-    <string name="radio_info_gsm_service_label">Послуга GSM:</string>
     <string name="status_service_state">Статус мережі</string>
-    <string name="runningservices_settings_title">Запущені служби</string>
-    <string name="runningservices_settings_summary">Перегляд і керування службами, запущеними в даний момент</string>
 </resources>
