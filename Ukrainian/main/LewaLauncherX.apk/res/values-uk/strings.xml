@@ -43,7 +43,7 @@
     <string name="folder_name_format">Тека: %1$s</string>
     <string name="cannot_add_more_screen">Не можна додати більше екранів</string>
     <string name="cannot_delete_more_screen">Немає робочих столів для видалення</string>
-    <string name="menu_preview">Прев'ю</string>
+    <string name="menu_preview">Прев\'ю</string>
     <string name="menu_edit">Віджети</string>
     <string name="menu_theme">Теми</string>
     <string name="menu_wallpaper">Шпалери</string>
@@ -65,7 +65,7 @@
     <string name="pref_summary_shake">Швидке групування додатків струшуванням на поточному робочому столі</string>
     <string name="shake_degree_title">Чутливість струшування</string>
     <string name="shake_degree_summary">Налаштування сили струшування, необхідної для групування додатків</string>
-    <string name="shake_degree_gentle">М'яко</string>
+    <string name="shake_degree_gentle">М\'яко</string>
     <string name="shake_degree_common">Середньо</string>
     <string name="shake_degree_force">Сильно</string>
     <string name="apps_recommend_title">Рекомендовані додатки</string>
@@ -80,8 +80,8 @@
     <string name="pref_summary_update">Перевірити на наявність оновлень Лаунчера Lewa</string>
     <string name="message_resetlauncher">Відновити іконки, теки, віджети, розташування екранів?</string>
     <string name="pref_label_settings">Налаштування робочого столу</string>
-    <string name="pref_keep_resident">Тримати в пам'яті</string>
-    <string name="pref_summary_keep_resident">Не вивантажувати лаунчер з пам'яті</string>
+    <string name="pref_keep_resident">Тримати в пам\'яті</string>
+    <string name="pref_summary_keep_resident">Не вивантажувати лаунчер з пам\'яті</string>
     <string name="pref_screen_cycle">Циклічна прокрутка</string>
     <string name="pref_title_anim_scale">Шкала анімації</string>
     <string name="pref_title_anim_duration">Тривалість анімації</string>
