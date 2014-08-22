@@ -114,13 +114,13 @@
         <item>Роз’єднано</item>
         <item>Невдало</item>
         <item>Блоковано</item>
-        <item>Тимчасово, уникати поганого зв’язку</item>
+        <item>Тимчасово уникати поганого зв’язку</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
         <item>Пошук…</item>
         <item>З’єднання %1$s…</item>
-        <item>Аутентифік. %1$s…</item>
+        <item>Автентифікація %1$s…</item>
         <item>Отримання IP-адреси від %1$s…</item>
         <item>Підключено до %1$s</item>
         <item>Підключено</item>
@@ -128,7 +128,7 @@
         <item>Роз’єднано</item>
         <item>Невдало</item>
         <item>Блоковано</item>
-        <item>Тимчасово, уникати поганого зв’язку</item>
+        <item>Тимчасово уникати поганого зв’язку</item>
     </string-array>
     <string-array name="wifi_security">
         <item>@string/wifi_security_none</item>
@@ -163,7 +163,7 @@
         <item>Запрошено</item>
         <item>Невдало</item>
         <item>Доступно</item>
-        <item>Out-of-range</item>
+        <item>Поза зоною</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
         <item>2 хв.</item>
@@ -179,7 +179,7 @@
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
         <item>Завжди</item>
-        <item>Тільки коли включено</item>
+        <item>Лише при заряджанні</item>
         <item>Ніколи</item>
     </string-array>
     <string-array name="wifi_sleep_policy_values">
@@ -189,8 +189,8 @@
     </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Авто</item>
-        <item>Тільки 5 GHz</item>
-        <item>Тільки 2.4 GHz</item>
+        <item>Лише 5 ГГц</item>
+        <item>Лише 2.4 ГГц</item>
     </string-array>
     <string-array name="wifi_frequency_band_values">
         <item>0</item>
@@ -223,7 +223,7 @@
         <item>Вручну</item>
     </string-array>
     <string-array name="emergency_tone_entries">
-        <item>Вимкн.</item>
+        <item>Вимкнено</item>
         <item>Сповіщення</item>
         <item>Вібро</item>
     </string-array>
@@ -273,8 +273,8 @@
         <item>0</item>
     </string-array>
     <string-array name="app_install_location_entries">
-        <item>Внутрішня пам\'ять</item>
-        <item>SD card</item>
+        <item>Внутрішня пам`ять</item>
+        <item>SD-карта</item>
         <item>На вибір системи</item>
     </string-array>
     <string-array name="app_install_location_values">
@@ -362,7 +362,7 @@
         <item>10</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>Нет</item>
+        <item>Немає</item>
         <item>720x480 (MDPI)</item>
         <item>1280x720 (TVDPI)</item>
         <item>1920x1080 (XHDPI)</item>
@@ -420,11 +420,11 @@
         <item>IPSec VPN з сертифікатами та гібридною автентифікацією</item>
     </string-array>
     <string-array name="vpn_states">
-        <item>Роз\'єднано</item>
-        <item>Ініціалізація…</item>
-        <item>З\'єднання…</item>
-        <item>З\'єднано</item>
-        <item>Час очикування вичерпано</item>
+        <item>Роз`єднано</item>
+        <item>Ініціалізація...</item>
+        <item>З`єднання...</item>
+        <item>З`єднано</item>
+        <item>Час очікування вичерпано</item>
         <item>Невдало</item>
     </string-array>
     <string-array name="user_content_ratings_entries">
@@ -465,9 +465,9 @@
         <item>SIM 2</item>
     </string-array>
     <string-array name="nightmode_entries">
-        <item>звичайний</item>
-        <item>червоний</item>
-        <item>жовтий</item>
+        <item>Звичайний</item>
+        <item>Червоний</item>
+        <item>Жовтий</item>
     </string-array>
     <string-array name="nightmode_value">
         <item>0</item>
@@ -538,8 +538,8 @@
     </string-array>
     <string-array name="gsm_umts_network_preferences_choices">
         <item>GSM/WCDMA (авто)</item>
-        <item>Тільки WCDMA</item>
-        <item>Тільки GSM</item>
+        <item>Лише WCDMA</item>
+        <item>Лише GSM</item>
     </string-array>
     <string-array name="gsm_umts_network_preferences_values">
         <item>0</item>
@@ -580,7 +580,7 @@
     <string-array name="auto_time_entries">
         <item>Використовувати час мережі</item>
         <item>Використовувати час GPS</item>
-        <item>Вимкн.</item>
+        <item>Вимкнено</item>
     </string-array>
     <string-array name="network_use_entry">
         <item>Лише домашня</item>
@@ -610,8 +610,8 @@
     </string-array>
     <string-array name="wifi_hotspot_disable_policy_entries">
         <item>Завжди</item>
-        <item>Вимкнути через 5 хв. бездії</item>
-        <item>Вимкнути через 10 хв. бездії</item>
+        <item>Вимкнути впродовж 5 хв. бездії</item>
+        <item>Вимкнути впродовж 10 хв. бездії</item>
     </string-array>
     <string-array name="wifi_hotspot_disable_policy_values">
         <item>0</item>
@@ -744,8 +744,8 @@
         <item>@string/passpoint_certificate</item>
     </array>
     <string-array name="wifi_hotspot_select_band_array">
-        <item>Тільки 2.4 ГГц</item>
-        <item>/Тільки 5 ГГц</item>
+        <item>Лише 2.4 ГГц</item>
+        <item>/Лише 5 ГГц</item>
         <item>2.4 ГГц або 5 ГГц</item>
     </string-array>
     <string-array name="wifi_hotspot_select_band_entry">
