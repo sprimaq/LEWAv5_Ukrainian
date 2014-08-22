@@ -1,6 +1,11 @@
 LEWAv5_Ukrainian
 ================
 
-This repository is a clone of https://github.com/yigor2/Lewa_5_Ukrainian_translation (thanks to him).
+Маде ін Рівне, маде ін Харків ®
 
-Editing by iSmile (me) and \_mayday_
+Український переклад для LeWa OS 5.1.
+То є клон репозиторію https://github.com/yigor2/Lewa_5_Ukrainian_translation (дякі йому).
+
+Переклад причесується:
+iSmile (то я)
+\_mayday_
