@@ -17,16 +17,16 @@
         <item quantity="one">1 контакт</item>
     </plurals>
     <plurals name="merge_info">
-        <item quantity="other">об\'єднано з %0$d джерел</item>
-        <item quantity="one">не об\'єднано</item>
+        <item quantity="other">об`єднано з %0$d джерел</item>
+        <item quantity="one">не об`єднано</item>
     </plurals>
     <plurals name="num_groups_in_account">
         <item quantity="other">Груп: %0$d</item>
         <item quantity="one">Груп: 1</item>
     </plurals>
     <plurals name="num_contacts_in_group">
-        <item quantity="other">Контактів: %1$d из %2$s</item>
-        <item quantity="one">Контактів: %1$d из %2$s</item>
+        <item quantity="other">Контактів: %1$d з %2$s</item>
+        <item quantity="one">Контактів: %1$d з %2$s</item>
     </plurals>
     <plurals name="group_list_num_contacts_in_group">
         <item quantity="other">Контактів: %1$d</item>
@@ -35,10 +35,6 @@
     <plurals name="notification_voicemail_title">
         <item quantity="other">Голосових повідомлень: %1$d</item>
         <item quantity="one">Голосове повідомлення</item>
-    </plurals>
-    <plurals name="searchFoundCalllogs">
-        <item quantity="other">Журналів: %d</item>
-        <item quantity="one">Журналів: 1</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
         <item quantity="other">Буде видалено %1$s ланцюжків</item>
@@ -53,8 +49,16 @@
         <item quantity="other">Результатів по запиту \"%2$s\": %1$s</item>
         <item quantity="one">Результатів по запиту \"%2$s\": %1$s</item>
     </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+%1$s інших повідомлень</item>
+        <item quantity="one">+%1$s інше повідомлення</item>
+    </plurals>
     <plurals name="recipient_count">
         <item quantity="other">Контактів: %1$s</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">Журналів: %d</item>
+        <item quantity="one">Журналів: 1</item>
     </plurals>
     <plurals name="read_report_toast_msg">
         <item quantity="other">відправка %d звітів про прочитання</item>
