@@ -13,8 +13,8 @@
 	<string name="digit8">8</string>
 	<string name="digit9">9</string>
 	<string name="clear">C</string>
-	<string name="div">год</string>
-	<string name="mul">год</string>
+	<string name="div">/</string>
+	<string name="mul">*</string>
 	<string name="plus">+</string>
 	<string name="minus">-</string>
 	<string name="dot">.</string>
