@@ -107,7 +107,7 @@
 	<string name="notification_multiple_new_vip_messages_fmt">%1$d нових повідомлень від VIP</string>
 	<string name="message_body_too_large">"Неможливо завантаження весь вміст з-за великого розміру повідомлення"</string>
 	<string name="cannot_move_multiple_mailbox_toast">Деякі ел.повідомлення зараз в процесі відправлення, повторіть спробу пізніше</string>
-	<string name="certificate_request_ssl">Сертифікат клієнта повинен використовувати безпечне з'єднання</string>
+	<string name="certificate_request_ssl">Сертифікат клієнта повинен використовувати безпечне з\'єднання</string>
 	<string name="auto_clear_cache_title">Автоматичне очищення кешу</string>
 	<string name="auto_clear_cache_description">Регулярно очищати локальний кеш</string>
 	<string name="edit_quoted_dialog_title">Максимум символів</string>
