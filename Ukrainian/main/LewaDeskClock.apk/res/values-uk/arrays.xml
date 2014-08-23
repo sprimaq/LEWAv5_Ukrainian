@@ -2,7 +2,7 @@
 <resources>
     <string-array name="snooze_time">
         <item>5 хвилин</item>
-        <item>10 хвилин(за замовчуванням)</item>
+        <item>10 хвилин (за замовчуванням)</item>
         <item>15 хвилин</item>
         <item>20 хвилин</item>
         <item>30 хвилин</item>
@@ -15,14 +15,14 @@
         <item>30</item>
     </string-array>
     <string-array name="alarm_set">
-        <item>Будильник задзвонить менш ніж через хвилину.</item>
-        <item>Будильник задзвонить через %1$s</item>
-        <item>Будильник задзвонить через %2$s</item>
-        <item>Будильник задзвонить через %1$s %2$s</item>
-        <item>Будильник задзвонить через %3$s</item>
-        <item>Будильник задзвонить через %1$s %3$s</item>
-        <item>Будильник задзвонить через %2$s %3$s</item>
-        <item>Будильник задзвонить через %1$s %2$s і %3$s</item>
+        <item>Будильник спрацює менш ніж за хвилину.</item>
+        <item>Будильник спрацює за %1$s</item>
+        <item>Будильник спрацює за %2$s</item>
+        <item>Будильник спрацює за %1$s %2$s</item>
+        <item>Будильник спрацює за %3$s</item>
+        <item>Будильник спрацює за %1$s %3$s</item>
+        <item>Будильник спрацює за %2$s %3$s</item>
+        <item>Будильник спрацює за %1$s %2$s і %3$s</item>
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>5 хвилин</item>
