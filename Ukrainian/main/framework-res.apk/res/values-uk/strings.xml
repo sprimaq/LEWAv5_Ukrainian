@@ -1099,11 +1099,10 @@
     <string name="date_picker_dialog_title">Налаштування дати</string>
     <string name="date_time_set">Встановити</string>
     <string name="date_time_done">Готово</string>
-    <string name="no_permissions">Не потрібно дозволів</string>
     <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff900000">НОВЕ: </font></string>
+    <string name="perms_description_app">Джерело: %1$s.</string>
     <string name="no_permissions">Не потребує дозволів</string>
     <string name="perm_costs_money">За це може зніматися оплата!</string>
-    <string name="perms_description_app">Джерело: %1$s.</string>
     <string name="usb_storage_activity_title">Запам’ятовуючий пристрій USB</string>
     <string name="usb_storage_title">USB-підключення встановлено</string>
     <string name="usb_storage_message">Пристрій підключено до комп’ютера через USB-порт. Натисніть кнопку, щоб скопіювати файли з комп’ютера на SD-карту Android-пристрої</string>
@@ -1190,11 +1189,11 @@
     <string name="vpn_title">Мережа VPN активна</string>
     <string name="vpn_title_long">Мережа VPN активована додатком %s</string>
     <string name="vpn_text">Натисніть, щоб відкрити настройки</string>
+    <string name="vpn_text_long">Мережа VPN підключена: %s. Натисніть, щоб відкрити настройки</string>
     <string name="vpn_lockdown_connecting">З’єднання...</string>
     <string name="vpn_lockdown_connected">З’єднано</string>
     <string name="vpn_lockdown_error">Помилка</string>
     <string name="vpn_lockdown_reset">Натисніть, щоби скинути з’єднання</string>
-    <string name="vpn_text_long">Мережа VPN підключена: %s. Натисніть, щоб відкрити настройки</string>
     <string name="upload_file">Вибрати файл</string>
     <string name="no_file_chosen">Не вибрано файл</string>
     <string name="reset">Скинути</string>
@@ -1325,8 +1324,8 @@
     <string name="activity_resolver_use_once">Тільки зараз</string>
     <string name="default_audio_route_name">Телефон</string>
     <string name="default_audio_route_name_headphones">Навушники</string>
-    <string name="default_media_route_name_hdmi">HDMI</string>
     <string name="default_audio_route_name_dock_speakers">Динаміки док-станції</string>
+    <string name="default_media_route_name_hdmi">HDMI</string>
     <string name="default_audio_route_category_name">Система</string>
     <string name="bluetooth_a2dp_audio_route_name">Відтворення звуку через Bluetooth</string>
     <string name="media_route_chooser_grouping_done">Готово</string>
