@@ -52,7 +52,7 @@
         <item>12 тижнів</item>
     </string-array>
     <string-array name="download_method">
-        <item>Тільки Wi-Fi</item>
+        <item>Лише Wi-Fi</item>
         <item>Дозволити все</item>
     </string-array>
     <string-array name="download_method_value">
