@@ -5,7 +5,7 @@
         <item quantity="one">1 день</item>
     </plurals>
     <plurals name="firewall_list_title">
-        <item quantity="other">%d додатки використовують трафік</item>
+        <item quantity="other">%d додатків використовують трафік</item>
         <item quantity="one">1 додаток використовує трафік</item>
     </plurals>
 </resources>
