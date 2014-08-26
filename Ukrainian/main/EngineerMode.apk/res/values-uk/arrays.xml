@@ -171,7 +171,7 @@
     <string-array name="working_mode_use_wnsrp">
         <item>Без змін</item>
         <item>Вимк.</item>
-        <item>Увімк.</item>
+        <item>Увім.</item>
     </string-array>
     <string-array name="working_mode_use_wnsrp_values">
         <item>0</item>
@@ -231,16 +231,40 @@
         <item>Вимкнути DPA</item>
         <item>Intra CMR</item>
     </string-array>
-    <string-array name="modem_test_operator_options">
+    <string-array name="modem_test_fta_options">
+        <item>ANITE</item>
+        <item>CRTUG</item>
+        <item>CRTUW</item>
+        <item>ANRITSU</item>
+        <item>CMW500</item>
+    </string-array>
+    <string-array name="modem_test_iot_options_6589">
+        <item>NSN</item>
+        <item>DCM CB</item>
+        </string-array>
+        <string-array name="modem_test_operator_options">
         <item>MS_USIM_COMPATIPLE</item>
+    </string-array>
+    <string-array name="modem_test_operator_options_6589">
+        <item>ATNT</item>
+        <item>TMOBILE</item>
+        <item>ORANGE</item>
+        <item>VODAFONE</item>
+        <item>O2</item>
+        <item>TELEFONICA</item>
+        <item>DOCOMO</item>
+        <item>SOFTBANK</item>
+        <item>VIVO</item>
+        <item>CLARO</item>
+        <item>TIM</item>
     </string-array>
     <string-array name="modem_test_iot_options">
         <item>Швидкий спокій</item>
     </string-array>
     <string-array name="gsm_umts_network_preferences_choices">
         <item>GSM/TD (авторежим)</item>
-        <item>Тільки TD</item>
-        <item>Тільки GSM</item>
+        <item>Лише TD</item>
+        <item>Лише GSM</item>
     </string-array>
     <string-array name="gsm_umts_network_preferences_values">
         <item>0</item>
