@@ -31,6 +31,13 @@
         <item>576000</item>
         <item>921600</item>
     </string-array>
+
+
+
+
+
+
+
     <string-array name="bt_ble_test_pattern">
         <item>PRBS9</item>
         <item>11110000</item>
@@ -170,8 +177,8 @@
     </string-array>
     <string-array name="working_mode_use_wnsrp">
         <item>Без змін</item>
-        <item>Вимк.</item>
-        <item>Увім.</item>
+        <item>ВИМК</item>
+        <item>УВІМ</item>
     </string-array>
     <string-array name="working_mode_use_wnsrp_values">
         <item>0</item>
@@ -329,6 +336,38 @@
         <item>Media</item>
         <item>Matv</item>
     </string-array>
+    <string-array name="mode_type0_enh">
+        <item>@string/audio_val_type_sip</item>
+        <item>@string/audio_val_type_mic</item>
+        <item>@string/audio_val_type_sph</item>
+        <item>@string/audio_val_type_sph2</item>
+        <item>@string/audio_val_type_sid</item>
+        <item>@string/audio_val_type_media</item>
+    </string-array>
+    <string-array name="mode_type1_enh">
+        <item>@string/audio_val_type_sip</item>
+        <item>@string/audio_val_type_mic</item>
+        <item>@string/audio_val_type_fmr</item>
+        <item>@string/audio_val_type_sph</item>
+        <item>@string/audio_val_type_sph2</item>
+        <item>@string/audio_val_type_sid</item>
+        <item>@string/audio_val_type_media</item>
+        <item>@string/audio_val_type_matv</item>
+    </string-array>
+    <string-array name="mode_type2_enh">
+        <item>@string/audio_val_type_ring</item>
+        <item>@string/audio_val_type_sip</item>
+        <item>@string/audio_val_type_mic</item>
+        <item>@string/audio_val_type_fmr</item>
+        <item>@string/audio_val_type_sph</item>
+        <item>@string/audio_val_type_sph2</item>
+        <item>@string/audio_val_type_sid</item>
+        <item>@string/audio_val_type_media</item>
+        <item>@string/audio_val_type_matv</item>
+    </string-array>
+    <string-array name="mode_type3_enh">
+        <item>@string/audio_val_type_ring</item>
+    </string-array>
     <string-array name="mode_level">
         <item>Level 0</item>
         <item>Level 1</item>
@@ -412,6 +451,17 @@
         <item>GSM only</item>
         <item>Not Specified</item>
     </string-array>
+
+
+
+
+
+    <string-array name="mWcdmaNetworkLabels">
+        <item>GSM/WCDMA (WCDMA preferred)</item>
+        <item>GSM only</item>
+        <item>WCDMA only</item>
+        <item>GSM/WCDMA (auto)</item>
+    </string-array>
     <string-array name="host_type">
         <item>Host Number 0</item>
         <item>Host Number 1</item>
@@ -452,68 +502,6 @@
         <item>Driving SET</item>
         <item>Hopping SET</item>
         <item>SD3.0 TEST</item>
-    </string-array>
-    <string-array name="modem_test_fta_options">
-        <item>ANITE</item>
-        <item>CRTUG</item>
-        <item>CRTUW</item>
-        <item>ANRITSU</item>
-        <item>CMW500</item>
-    </string-array>
-    <string-array name="modem_test_iot_options_6589">
-        <item>NSN</item>
-        <item>DCM CB</item>
-    </string-array>
-    <string-array name="modem_test_operator_options_6589">
-        <item>ATNT</item>
-        <item>TMOBILE</item>
-        <item>ORANGE</item>
-        <item>VODAFONE</item>
-        <item>O2</item>
-        <item>TELEFONICA</item>
-        <item>DOCOMO</item>
-        <item>SOFTBANK</item>
-        <item>VIVO</item>
-        <item>CLARO</item>
-        <item>TIM</item>
-    </string-array>
-    <string-array name="mode_type0_enh">
-        <item>@string/audio_val_type_sip</item>
-        <item>@string/audio_val_type_mic</item>
-        <item>@string/audio_val_type_sph</item>
-        <item>@string/audio_val_type_sph2</item>
-        <item>@string/audio_val_type_sid</item>
-        <item>@string/audio_val_type_media</item>
-    </string-array>
-    <string-array name="mode_type1_enh">
-        <item>@string/audio_val_type_sip</item>
-        <item>@string/audio_val_type_mic</item>
-        <item>@string/audio_val_type_fmr</item>
-        <item>@string/audio_val_type_sph</item>
-        <item>@string/audio_val_type_sph2</item>
-        <item>@string/audio_val_type_sid</item>
-        <item>@string/audio_val_type_media</item>
-        <item>@string/audio_val_type_matv</item>
-    </string-array>
-    <string-array name="mode_type2_enh">
-        <item>@string/audio_val_type_ring</item>
-        <item>@string/audio_val_type_sip</item>
-        <item>@string/audio_val_type_mic</item>
-        <item>@string/audio_val_type_fmr</item>
-        <item>@string/audio_val_type_sph</item>
-        <item>@string/audio_val_type_sph2</item>
-        <item>@string/audio_val_type_sid</item>
-        <item>@string/audio_val_type_media</item>
-        <item>@string/audio_val_type_matv</item>
-    </string-array>
-    <string-array name="mode_type3_enh">
-        <item>@string/audio_val_type_ring</item>
-    </string-array>
-    <string-array name="mWcdmaNetworkLabels">
-        <item>GSM/WCDMA (WCDMA preferred)</item>
-        <item>GSM only</item>
-        <item>WCDMA only</item>
-        <item>GSM/WCDMA (auto)</item>
     </string-array>
     <string-array name="msdc_sd3_mode">
         <item>SDHC HIGHSPEED</item>
