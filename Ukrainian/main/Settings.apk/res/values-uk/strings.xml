@@ -2792,6 +2792,13 @@
     <string name="testing_wlan_info">Wi-Fi</string>
     <string name="enable_fast_poweron_title">Швидке увімкнення</string>
     <string name="enable_fast_poweron_summary">Увімкнення/вимкнення швидкого включення</string>
+    <string name="accessibility_toggle_large_text_title">Великий текст</string>
+    <string name="accessibility_power_button_ends_call_title">Клавіша живлення завершує виклик</string>
+    <string name="accessibility_speak_password_title">Озвучувати паролі</string>
+    <string name="accessibility_long_press_timeout_title">Затримка при натисканні та утриманні</string>
+    <string name="accessibility_script_injection_title">Спеціальні веб-скрипти</string>
+    <string name="accessibility_service_state_on">Увім.</string>
+    <string name="accessibility_service_state_off">Вимк.</string>
     <string name="sound_category_calls_and_notification_title">Мелодії виклику та повідомлень</string>
     <string name="data_usage_tab_slot1">Слот 1</string>
     <string name="data_usage_tab_slot2">Слот 2</string>
