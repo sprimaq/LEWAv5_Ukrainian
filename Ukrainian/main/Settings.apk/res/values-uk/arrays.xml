@@ -2,7 +2,7 @@
 <resources>
     <string-array name="timezone_filters">
         <item>Америка</item>
-        <item>Європа</item>
+        <item>Еуропа</item>
         <item>Африка</item>
         <item>Азія</item>
         <item>Австралія</item>
@@ -12,11 +12,11 @@
     <string-array name="date_format_values">
         <item></item>
         <item>MM-dd-yyyy</item>
-        <item>dd-MM-yyyy</item>
-        <item>yyyy-MM-dd</item>
-        <item>EE-MMM-d-yyyy</item>
+        <item>dd.MM.yyyy</item>
         <item>EE-d-MMM-yyyy</item>
-        <item>yyyy-MMM-d-EE</item>
+        <item>d-MMM-yyyy-EE</item>
+        <item>EEEE-d-MMMM-yyyy</item>
+        <item>d-MMMM-yyyy-EEEE</item>
     </string-array>
     <string-array name="screen_timeout_entries">
         <item>15 сек.</item>
@@ -105,12 +105,12 @@
     <string-array name="wifi_status">
         <item></item>
         <item>Пошук...</item>
-        <item>З’єднання…</item>
-        <item>Підтвердження…</item>
-        <item>Отримання IP адреси…</item>
+        <item>З’єднання...</item>
+        <item>Підтвердження...</item>
+        <item>Отримання IP адреси...</item>
         <item>Підключено</item>
         <item>Під’єднано</item>
-        <item>Роз’єднання…</item>
+        <item>Роз’єднання...</item>
         <item>Роз’єднано</item>
         <item>Невдало</item>
         <item>Блоковано</item>
@@ -118,13 +118,13 @@
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Пошук…</item>
-        <item>З’єднання %1$s…</item>
-        <item>Автентифікація %1$s…</item>
-        <item>Отримання IP-адреси від %1$s…</item>
+        <item>Пошук...</item>
+        <item>З’єднання %1$s...</item>
+        <item>Автентифікація %1$s...</item>
+        <item>Отримання IP-адреси від %1$s...</item>
         <item>Підключено до %1$s</item>
         <item>Підключено</item>
-        <item>Від’єднання %1$s…</item>
+        <item>Від’єднання %1$s...</item>
         <item>Роз’єднано</item>
         <item>Невдало</item>
         <item>Блоковано</item>
@@ -179,7 +179,12 @@
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
         <item>Завжди</item>
-        <item>Лише при заряджанні</item>
+        <item>Лише під час заряджання</item>
+        <item>Ніколи</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>Завжди</item>
+        <item>Лише під час заряджання</item>
         <item>Ніколи</item>
     </string-array>
     <string-array name="wifi_sleep_policy_values">
@@ -304,7 +309,7 @@
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Не використовувати перевірку HDCP</item>
-        <item>Перевірка HDCP тільки для DRM-контенту</item>
+        <item>Перевірка HDCP лише для DRM-контенту</item>
         <item>Завжди перевіряти HDCP</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
@@ -413,8 +418,8 @@
     </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
-        <item>L2TP/IPSec VPN with pre-shared keys</item>
-        <item>L2TP/IPSec VPN with certificates</item>
+        <item>L2TP/IPSec VPN з pre-shared keys</item>
+        <item>L2TP/IPSec VPN з сертифікатами</item>
         <item>IPSec VPN з pre-shared keys та Xauth-автентифікацією</item>
         <item>IPSec VPN з сертифікатами та Xauth-автентифікацією</item>
         <item>IPSec VPN з сертифікатами та гібридною автентифікацією</item>
@@ -455,10 +460,10 @@
         <item>1</item>
     </string-array>
     <string-array name="core_nums_strs">
-        <item>(одне ядро)</item>
-        <item>(два ядра)</item>
-        <item>(чотири ядра)</item>
-        <item>(вісім ядер)</item>
+        <item>(1 ядро)</item>
+        <item>(2 ядра)</item>
+        <item>(4 ядра)</item>
+        <item>(8 ядер)</item>
     </string-array>
     <string-array name="dualsim_summaries">
         <item>SIM 1</item>
@@ -679,13 +684,29 @@
     <string-array name="wifi_WEP_security_type">
         <item>Авто</item>
         <item>WEP ASCII</item>
-        <item>WEP шістнадцітковий</item>
+        <item>WEP шістнадцятковий</item>
     </string-array>
     <string-array name="tethered_ipv6_entries">
         <item>IPv4</item>
         <item>IPv4/IPv6</item>
     </string-array>
     <string-array name="tethered_ipv6_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="usb_tether_type_entries">
+        <item>Windows(RNDIS)</item>
+        <item>Linux/Mac OS(EEM)</item>
+    </string-array>
+    <string-array name="usb_tether_type_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="wifi_ap_wps_mode_entries">
+        <item>Push button</item>
+        <item>PIN from client</item>
+    </string-array>
+    <string-array name="wifi_ap_wps_mode_values">
         <item>0</item>
         <item>1</item>
     </string-array>
