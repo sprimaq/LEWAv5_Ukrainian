@@ -170,11 +170,6 @@
     <string name="otg_to_filemanager">Натисніть для запуску файлового менеджера</string>
     <string name="otg_connect">USB-накопичувач підключений</string>
     <string name="otg_unmount">Безпечне вилучення</string>
-    <string name="poputip_title1">Це повідомлення від</string>
-    <string name="poputip_title2">Бан</string>
-    <string name="poputip_title3">Всі повідомлення для цієї програми</string>
-    <string name="poputip_title4">Перегляд відомостей з цієї програми</string>
-    <string name="poputip_toast">Забанені повідомлення %s</string>
     <string name="usb_mode_notification">Режим USB-накопичувача</string>
     <string name="switchwidgetsettings_notice_title">Не більше 10 іконок</string>
     <string name="tab_notifications">Повідомлення</string>
@@ -221,6 +216,11 @@
     <string name="recent_usedmem">Використано:</string>
     <string name="phonestatusbarsettings_title">Перемикачі</string>
     <string name="trans_statusbar_setting">Прозора панель</string>
+    <string name="poputip_title1">Це повідомлення від</string>
+    <string name="poputip_title2">Бан</string>
+    <string name="poputip_title3">Всі повідомлення для цієї програми</string>
+    <string name="poputip_title4">Перегляд відомостей з цієї програми</string>
+    <string name="poputip_toast">Забанені повідомлення %s</string>
     <string name="poputip_title1">Це сповіщення від</string>
     <string name="poputip_title2">Бан</string>
     <string name="poputip_title3">Всі сповіщення для цього додатку</string>
