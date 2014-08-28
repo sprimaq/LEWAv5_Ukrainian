@@ -167,6 +167,9 @@
     <string name="accessibility_rotation_lock_off">Екран буде повертатися автоматично</string>
     <string name="lewa_status_bar_settings_battery_meter_format">%d</string>
     <string name="status_bar_settings_battery_meter_min_format">%d</string>
+    <string name="otg_to_filemanager">Натисніть для запуску файлового менеджера</string>
+    <string name="otg_connect">USB-накопичувач підключений</string>
+    <string name="otg_unmount">Безпечне вилучення</string>
     <string name="poputip_title1">Це повідомлення від</string>
     <string name="poputip_title2">Бан</string>
     <string name="poputip_title3">Всі повідомлення для цієї програми</string>
@@ -264,9 +267,6 @@
     <string name="halo_signal_bars_none">НЕМАЄ СМУЖОК</string>
     <string name="notifilter_cloudtip">"Перехоплення надоїдливих повідомлень 
 Версія:"</string>
-    <string name="otg_to_filemanager">Натисніть для запуску файлового менеджера</string>
-    <string name="otg_connect">USB-накопичувач підключений</string>
-    <string name="otg_unmount">Безпечне вилучення</string>
     <string name="menu_actionbar_selected_items">%s вибрано</string>
     <string name="reboot_now_confirm">Так</string>
     <string name="reboot_later_confirm">Ні</string>
