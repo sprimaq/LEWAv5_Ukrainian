@@ -218,8 +218,11 @@
     <string name="recent_usedmem">Використано:</string>
     <string name="phonestatusbarsettings_title">Перемикачі</string>
     <string name="trans_statusbar_setting">Прозора панель</string>
-    <string name="notifilter_header">Перехоплені повідомлення</string>
-    <string name="notifilter_tail">Неперехоплені повідомлення</string>
+    <string name="poputip_title1">Це сповіщення від</string>
+    <string name="poputip_title2">Бан</string>
+    <string name="poputip_title3">Всі сповіщення для цього додатку</string>
+    <string name="poputip_title4">Перегляд відомостей про цей додаток</string>
+    <string name="poputip_toast">Забанені сповіщення %s</string>
     <string name="notifilter_setting">Фільтр повідомлень</string>
     <string name="notifilter_activity_title">Налаштування фільтру повідомлень</string>
     <string name="power_battery_fulltitle">Заряд батареї</string>
@@ -227,19 +230,18 @@
     <string name="lockscreen_expanded">Доступ з екрану блокування</string>
     <string name="lockscreen_expanded_comman">Панель повідомлень може бути відкрита з екрану блокування</string>
     <string name="title_toggle_gemini_data">Інет SIM 1/2</string>
-    <string name="recent_meminfo">%1$dM/%2$dM</string>
     <string name="recent_noapp">Немає запущених додатків</string>
     <string name="notifilter_cloud">Перехоплення повідомлень</string>
     <string name="notifilter_addtoblack">Додати до чорного списку</string>
-    <string name="notifilter_del">Видалити з чорного списку</string>
+    <string name="notifilter_del">Прибрати з чорного списку</string>
     <string name="notifilter_allow">Дозволити</string>
     <string name="notifilter_denie">Відмовити</string>
-    <string name="notifilter_headernotice">Заборонені повідомлення</string>
     <string name="notifilter_item_activity">Менеджер повідомлень</string>
+    <string name="notifilter_cloudtip">"Перехоплення надоїдливих повідомлень
+Версія:"</string>
     <string name="notifilter_cloudloading">Триває завантаження онлайн-бази…</string>
     <string name="notifilter_cloudlasttime">Останнє оновлення:</string>
-    <string name="trans_statusbar_key">trans_statusbar_key</string>
-    <string name="title_halo">Halo</string>
+    <string name="recent_meminfo">%1$dM/%2$dM</string>
     <string name="accessibility_halo">Створити повідомлення Halo</string>
     <string name="halo_dismiss">Скасувати повідомлення</string>
     <string name="halo_hide">Сховати</string>
