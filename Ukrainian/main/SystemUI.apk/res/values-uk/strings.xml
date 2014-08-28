@@ -278,4 +278,19 @@
 %1$s"</string>
     <string name="twenty_four_hour_time_format">H:mm</string>
     <string name="twelve_hour_time_format">h:mm a</string>
+    <string name="notifilter_header">Відвернені повідомлення</string>
+    <string name="notifilter_tail">Невідвернені повідомлення</string>
+    <string name="notifilter_headernotice">Заборонені повідомлення</string>
+    <string name="navigation_bar">Панель навігації</string>
+    <string name="navigation_bar_settings">Налаштування панелі навігації</string>
+    <string name="navigation_bar_notice_title">Всі кнопки з`являться на панелі навігації</string>
+    <string name="navigation_bar_single_mode">Панель навігації для куревання однією рукою</string>
+    <string name="navigation_bar_single_mode_comman">Увімкнення опції куревання панелью навігації однією рукою</string>
+    <string name="navigation_location_setting">Схема розташування кнопок</string>
+    <string name="navigation_move_error">Кнопки Домівка, Меню і Назад не можна прибрати</string>
+    <string name="navigation_hide_dialog_text">Панель навігації прихована, проведіть знизу догори щоби відкрити віртуальну панель навігації</string>
+    <string name="title_menu">Меню</string>
+    <string name="title_back">Назад</string>
+    <string name="title_home">Домівка</string>
+    <string name="title_recent_app">Багатозадачність</string>    
 </resources>
