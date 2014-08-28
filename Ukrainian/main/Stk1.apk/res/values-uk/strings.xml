@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="app_name">Меню SIM</string>
+	<string name="appI_name">Меню SIM1</string>
+	<string name="appII_name">Меню SIM2</string>
+	<string name="appIII_name">Меню SIM3</string>
+	<string name="appIV_name">Меню SIM4</string>
+	<string name="lable_not_available">Додаток не встановлено</string>
 	<string name="menu_end_session">Закінчити сеанс</string>
 	<string name="help">Довідка</string>
 	<string name="menu_back">Назад</string>
@@ -13,12 +18,12 @@
 	<string name="alphabet">Алфавіт</string>
 	<string name="digits">Цифри (0-9, *, #, +)</string>
 	<string name="default_call_setup_msg">Виклик...</string>
-	<string name="stk_app_state">Стан додатки</string>
+	<string name="stk_app_state">Стан додатку</string>
 	<string name="enable_app">Увімкнено</string>
 	<string name="disable_app">Вимкнено</string>
 	<string name="lable_display_text">Відобразити текст</string>
 	<string name="lable_get_inkey">Отримати клавішу</string>
-	<string name="lable_get_input">Отримати enter</string>
+	<string name="lable_get_input">Отримати ввід</string>
 	<string name="lable_launch_browser">Запустити браузер</string>
 	<string name="lable_play_tone">Відтворити звук</string>
 	<string name="lable_refresh">Оновити</string>
@@ -49,7 +54,7 @@
 	<string name="lable_get_channel_status">Стан каналу</string>
 	<string name="lable_service_search">Служба пошуку</string>
 	<string name="lable_get_service_information">Інформація служби</string>
-	<string name="lable_declare_service">Оголосити службу</string>
+	<string name="lable_declare_service">Визначити службу</string>
 	<string name="lable_set_frame">Встановити кадр</string>
 	<string name="lable_get_frame_status">Стан кадру</string>
 	<string name="lable_retrieve_multimedia_message">Витягти MMS</string>
@@ -61,12 +66,7 @@
 	<string name="lable_busy_on_bip">Додаток зайнято BIP-командами, повторіть спробу пізніше</string>
 	<string name="main_menu_not_initialized">Головне меню не ініціалізується</string>
 	<string name="lable_busy_on_call">Пристрій зайнятий викликом, будь ласка, спочатку завершіть виклик</string>
-	<string name="lable_on_flight_mode">Додаток можна використовувати в режимі польоту</string>
-	<string name="appI_name">Меню SIM1</string>
-	<string name="appII_name">Меню SIM2</string>
-	<string name="appIII_name">Меню SIM3</string>
-	<string name="appIV_name">Меню SIM4</string>
-	<string name="lable_not_available">Додаток не встановлено</string>
+	<string name="lable_on_flight_mode">Додаток можна використовувати в режимі \"У літаку\"</string>
 	<string name="lable_sim_not_ready">Меню SIM не готово або не підтримується</string>
 	<string name="no_sim_card_inserted">Вставте SIM-карту для запуску Меню SIM</string>
 </resources>
