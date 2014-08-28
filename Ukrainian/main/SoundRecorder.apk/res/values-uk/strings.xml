@@ -27,8 +27,8 @@
     <string name="recording_mode_meeting">Нарада</string>
     <string name="recording_mode_lecture">Лекція</string>
     <string name="sd_unmounted">SD карта відключена.</string>
-    <string name="storage_low">Пам\'ять, що використовується за замовчанням заповнена, звільніть або змініть місце зберігання</string>
-    <string name="storage_full">Пам\'ять заповнена</string>
+    <string name="storage_low">Пам`ять, що використовується за замовчанням заповнена, звільніть або змініть місце зберігання</string>
+    <string name="storage_full">Пам`ять заповнена</string>
     <string name="sd_no">Вставте SD-карту.</string>
     <string name="recording_fail">Помилка в записі</string>
     <string name="recorder_occupied">Мікрофон зайнятий іншою програмою</string>
@@ -46,7 +46,7 @@
     <string name="app_name">Звукозапис</string>
     <string name="recording">Запис</string>
     <string name="recording_stopped">Запис зупинено</string>
-    <string name="storage_is_full">Пам\'ять заповнена</string>
+    <string name="storage_is_full">Пам`ять заповнена</string>
     <string name="max_length_reached">Досягнута максимальна довжина</string>
     <string name="min_available">%d хв. доступно</string>
     <string name="sec_available">%ds сек. доступно</string>
