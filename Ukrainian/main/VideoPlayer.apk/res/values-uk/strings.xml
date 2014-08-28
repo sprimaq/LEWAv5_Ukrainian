@@ -1,18 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="video_app_name">Відеоплеєр</string>
-	<string name="scanning">Сканування SD-карти...</string>
-	<string name="sdcard_missing_message">У Вашому пристрої не встановлено SD-карту</string>
-	<string name="video_list_empty">Немає відео</string>
-	<string name="detail_title">Назва : %1$s</string>
-	<string name="detail_date_taken">Вибране : %1$s</string>
-	<string name="detail_path">Каталог : %1$s</string>
-	<string name="detail_filesize">Розмір файлу : %1$s</string>
-	<string name="detail_duration">Тривалість : %1$s</string>
-	<string name="media_detail">Відомості</string>
-	<string name="delete">Видалити</string>
-	<string name="delete_tip">Видалити %1$s чи ні?</string>
-	<string name="delete_progress">Видалення %1$s ...</string>
 	<string name="letv_app_name">Letv</string>
 	<string name="letv_play_net_no">Немає інтернет-з’єднання</string>
 	<string name="letv_homelist_currcount">Остання серія %s</string>
@@ -26,7 +13,7 @@
 	<string name="letv_channellist_style">Стиль：%s</string>
 	<string name="letv_channellist_school">Освіта：%s</string>
 	<string name="letv_channellist_className">Суб’єкт：%s</string>
-	<string name="letv_channellist_countUpdate">%sСерія</string>
+	<string name="letv_channellist_countUpdate">%s Серія</string>
 	<string name="letv_channellist_albumdetailTime">Час：%s</string>
 	<string name="letv_channellist_timeUpdate">Оновлено до：%s</string>
 	<string name="letv_channellist_programtype">Стать：%s</string>
@@ -44,10 +31,10 @@
 	<string name="letv_albumdetail_subcate">Рейтинг：</string>
 	<string name="letv_albumdetail_albumtype">Альбом:</string>
 	<string name="letv_albumdetail_periods">Серія:</string>
-	<string name="letv_albumdetail_periods_current">%sСерия</string>
+	<string name="letv_albumdetail_periods_current">%s Серія</string>
 	<string name="letv_albumdetail_episodes">Серії:</string>
 	<string name="letv_albumdetail_episodes_total">%s Серії</string>
-	<string name="letv_albumdetail_episodes_current">%sСерия</string>
+	<string name="letv_albumdetail_episodes_current">%s Серія</string>
 	<string name="letv_albumdetail_singer">Співак：</string>
 	<string name="letv_albumdetail_style">Стиль：</string>
 	<string name="letv_albumdetail_school">Освіта：</string>
@@ -63,10 +50,10 @@
 	<string name="letv_dialog_default_title">Дозвіл</string>
 	<string name="letv_dialog_default_ok">ОК</string>
 	<string name="letv_dialog_default_no">Скасувати</string>
-	<string name="letv_dialog_messge_web">Перемикання на браузер</string>
-	<string name="letv_toast_net_exception">Завантаження не вдалася!</string>
-	<string name="letv_toast_no_episode">Приносимо вибачення, але фільм не знайдено!</string>
-	<string name="letv_never_remind">Без нагадувань</string>
+	<string name="letv_dialog_messge_web">Переключення на браузер</string>
+	<string name="letv_toast_net_exception">Завантаження не вдалося!</string>
+	<string name="letv_toast_no_episode">Пробачте, фільм не знайдено!</string>
+	<string name="letv_never_remind">Не нагадувати</string>
 	<string name="letv_channel_list_null">Схожі дані не знайдені!</string>
 	<string name="letv_net_no">Мережа недоступна, перевірте налаштування з’єднання або натисніть на екран для оновлення</string>
 	<string name="letv_net_err">Немає з’єднання. Натисніть на екран для оновлення</string>
@@ -83,11 +70,24 @@
 	<string name="letv_album_detail_info_vip_tag">VIP</string>
 	<string name="letv_album_detail_info_dota_tag">.</string>
 	<string name="letv_home_main_3gtip_title">Попередження</string>
-	<string name="letv_home_main_3gtip_msg">Ви використовуєте 2G/3G, подальша завантаження може призвести до додаткового трафіку. Пропонуємо використовувати Wi-Fi</string>
+	<string name="letv_home_main_3gtip_msg">Ви використовуєте 2G/3G, подальше завантаження може призвести до додаткового трафіку. Пропонуємо використовувати Wi-Fi</string>
 	<string name="letv_album_detail_install_msg">Підтримується перегляд тільки першої серії. Завантажити та встановити Letv для додаткового відео?</string>
 	<string name="letv_public_day">День</string>
 	<string name="letv_play_episode"> %s серія</string>
 	<string name="letv_home_main_big_img_tag">Гарем - Хуан Чуан</string>
+	<string name="video_app_name">Відеоплеєр</string>
+	<string name="scanning">Сканування SD-карти...</string>
+	<string name="sdcard_missing_message">У Вашому телефоні немає SD-карти</string>
+	<string name="video_list_empty">Немає відео</string>
+	<string name="detail_title">Назва : %1$s</string>
+	<string name="detail_date_taken">Вибране : %1$s</string>
+	<string name="detail_path">Каталог : %1$s</string>
+	<string name="detail_filesize">Розмір файлу : %1$s</string>
+	<string name="detail_duration">Тривалість : %1$s</string>
+	<string name="media_detail">Відомості</string>
+	<string name="delete">Видалити</string>
+	<string name="delete_tip">Видалити %1$s чи ні?</string>
+	<string name="delete_progress">Видалення %1$s ...</string>
 	<string name="tab_local_video">Локальне відео</string>
 	<string name="tab_letv">Letv</string>
 </resources>
