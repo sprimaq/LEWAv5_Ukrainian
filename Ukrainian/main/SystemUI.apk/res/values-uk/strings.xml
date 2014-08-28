@@ -207,14 +207,13 @@
     <string name="switchwidgetsettings_notice_title">Не більше 10 іконок</string>
     <string name="double_statusbar_setting">Двосторінкова панель стану</string>
     <string name="twelve_hour_time_format_nopm">h:mm</string>
-    <string name="statusbarsettings">Налаштування панелі сповіщень</string>
     <string name="settings_double_status">key_double_status</string>
     <string name="widget_setting">Перемикачі</string>
     <string name="usagedata_setting">Показувати витрату трафіку</string>
     <string name="netspeed_setting">Показувати швидкість мережі</string>
+    <string name="settings_disusagedata">key_usagedata_settings</string>
     <string name="today_usage">Сьогодні:</string>
     <string name="month_left_usage">Залишилося:</string>
-    <string name="settings_disusagedata">key_usagedata_settings</string>
     <string name="recent_totalmem">Всього пам’яті:</string>
     <string name="recent_usedmem">Використано:</string>
     <string name="phonestatusbarsettings_title">Перемикачі</string>
