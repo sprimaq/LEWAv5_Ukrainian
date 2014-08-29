@@ -262,8 +262,6 @@
     <string name="halo_signal_bars_2">2 СМУЖКИ</string>
     <string name="halo_signal_bars_1">1 СМУЖКА</string>
     <string name="halo_signal_bars_none">НЕМАЄ СМУЖОК</string>
-    <string name="notifilter_cloudtip">"Перехоплення надоїдливих повідомлень 
-Версія:"</string>
     <string name="menu_actionbar_selected_items">%s вибрано</string>
     <string name="reboot_now_confirm">Так</string>
     <string name="reboot_later_confirm">Ні</string>
