@@ -309,6 +309,7 @@
 	<string name="built_in_sdcard">Внутрішнє сховище</string>
 	<string name="external_sdcard">SD-карта</string>
 	<string name="hint_findFiles">Пошук файлів</string>
+	<string name="file_search">Пошук файлів</string>
 	<string name="category_all_apk">Всі додатки</string>
 	<string name="category_all_document">Всі документи</string>
 	<string name="category_all_music">Вся музика</string>
