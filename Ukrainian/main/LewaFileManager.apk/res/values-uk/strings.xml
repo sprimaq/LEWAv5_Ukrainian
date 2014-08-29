@@ -287,8 +287,8 @@
 	<string name="no_default_browser">Немає браузера за замовчуванням</string>
 	<string name="rom_size">Загалом: %1$s</string>
 	<string name="rom_available">Доступно: %1$s</string>
-	<string name="sd_card_size">SD-карта <br>(заг.):%1$s</string>
-	<string name="sd_card_available">SD-карта <br> (дост.):%1$s</string>
+	<string name="sd_card_size">SD-карта (заг.):%1$s</string>
+	<string name="sd_card_available">SD-карта (дост.):%1$s</string>
 	<string name="external_sd_card_size">SD-карта: %1$s</string>
 	<string name="external_sd_card_available">Доступно: %1$s</string>
 	<string name="internal_sd_card_size">Внутрішнє сховище: %1$s</string>
