@@ -171,6 +171,8 @@
     <string name="otg_connect">USB-накопичувач підключений</string>
     <string name="otg_unmount">Безпечне вилучення</string>
     <string name="usb_mode_notification">Режим USB-накопичувача</string>
+    <string name="title_toggle_sound">Без звуку</string>
+    <string name="title_toggle_lockscreen">Блок. екрану</string>
     <string name="switchwidgetsettings_notice_title">Не більше 10 іконок</string>
     <string name="tab_notifications">Повідомлення</string>
     <string name="tab_switches">Перемикачі</string>
@@ -221,11 +223,6 @@
     <string name="poputip_title3">Всі повідомлення для цієї програми</string>
     <string name="poputip_title4">Перегляд відомостей з цієї програми</string>
     <string name="poputip_toast">Забанені повідомлення %s</string>
-    <string name="poputip_title1">Це сповіщення від</string>
-    <string name="poputip_title2">Бан</string>
-    <string name="poputip_title3">Всі сповіщення для цього додатку</string>
-    <string name="poputip_title4">Перегляд відомостей про цей додаток</string>
-    <string name="poputip_toast">Забанені сповіщення %s</string>
     <string name="notifilter_setting">Фільтр повідомлень</string>
     <string name="notifilter_activity_title">Налаштування фільтру повідомлень</string>
     <string name="power_battery_fulltitle">Заряд батареї</string>
