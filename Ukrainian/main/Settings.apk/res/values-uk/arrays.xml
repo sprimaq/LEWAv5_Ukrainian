@@ -205,7 +205,7 @@
     <string-array name="usage_stats_display_order_types">
         <item>Час використання</item>
         <item>Підрахувати</item>
-        <item>Ім’я додатку</item>
+        <item>Назва додатку</item>
     </string-array>
     <string-array name="wifi_eap_entries">
         <item>PEAP</item>
@@ -381,7 +381,7 @@
         <item>1280x720/213;1920x1080/320</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>Ні</item>
+        <item>Трасування вимкнено</item>
         <item>Logcat</item>
         <item>Systrace (Graphics)</item>
         <item>Виклик стеку в glGetError</item>
