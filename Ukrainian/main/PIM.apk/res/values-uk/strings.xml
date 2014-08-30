@@ -184,7 +184,6 @@
     <string name="callDetailsDurationFormat" formatted="false">%s хв %s сек</string>
     <string name="favoritesFrequentContacted">Часті контакти</string>
     <string name="favoritesFrequentCalled">Часто набираються</string>
-    <string name="add_contact_dlg_title">Додати контакт</string>
     <string name="add_contact_dlg_message_fmt">Додати \"%s\" в контакти?</string>
     <string name="description_image_button_one">один</string>
     <string name="description_image_button_two">два</string>
@@ -207,13 +206,8 @@
     <string name="description_minus_button">мінус</string>
     <string name="description_plus_button">плюс</string>
     <string name="description_view_contact_detail">Відкрити контакт</string>
-    <string name="no_sdcard_title">Немає SD-карти</string>
     <string name="no_sdcard_message">SD-карту не виявлено</string>
-    <string name="searching_vcard_title">Пошук vCard</string>
     <string name="import_from_sim">Імпортувати з SIM-карти</string>
-    <string name="import_from_allsim">Імпортувати з усіх SIM карт</string>
-    <string name="import_from_sim1">Імпортувати з SIM1</string>
-    <string name="import_from_sim2">Імпортувати з SIM2</string>
     <string name="import_from_sdcard">Імпортувати з SD-карти</string>
     <string name="export_to_sdcard">Експортувати на SD-карту</string>
     <string name="share_visible_contacts">Передати видимі контакти</string>
@@ -221,7 +215,6 @@
     <string name="import_multiple_vcard_string">Імпорт декількох файлів vCard</string>
     <string name="import_all_vcard_string">Імпорт всіх файлів VCard</string>
     <string name="searching_vcard_message">Пошук даних vCard на SD-карті</string>
-    <string name="scanning_sdcard_failed_title">Не вдалося просканувати SD-карту.</string>
     <string name="scanning_sdcard_failed_message">Не вдалося просканувати SD-карту (Причина: \"%s\")</string>
     <string name="fail_reason_io_error">Помилка вводу-виводу</string>
     <string name="fail_reason_low_memory_during_import">Недостатньо пам’яті. Можливо, файл занадто великий.</string>
@@ -246,7 +239,6 @@
     <string name="vcard_export_will_start_message">Експорт %s почнеться найближчим часом.</string>
     <string name="vcard_export_request_rejected_message">Запит на експорт даних vCard відхилений. Повторіть спробу пізніше.</string>
     <string name="vcard_unknown_filename">контакт</string>
-    <string name="percentage">%s%%</string>
     <string name="confirm_export_title">Експорт контактів</string>
     <string name="confirm_export_message">Список контактів буде експортовано у файл \"%s\".</string>
     <string name="exporting_contact_failed_title">Збій експорту</string>
@@ -266,9 +258,7 @@
     <string name="composer_not_initialized">Збій при запуску редактора vCard.</string>
     <string name="fail_reason_could_not_open_file" formatted="false">Не вдалося відкрити файл \"%s\". Причина: %s</string>
     <string name="exporting_contact_list_progress" formatted="false">Контакт %s з %s</string>
-    <string name="cancel_import_confirmation_title">Скасувати імпорту vCard</string>
     <string name="cancel_import_confirmation_message">Скасувати імпорт файлу \"%s\"?</string>
-    <string name="cancel_export_confirmation_title">Скасувати експорту vCard</string>
     <string name="cancel_export_confirmation_message">Скасувати експорт файлу \"%s\"?</string>
     <string name="cancel_vcard_import_or_export_failed">Не вдалося скасувати імпорт/експорт vCard</string>
     <string name="search_settings_description">Імена контактів</string>
@@ -1560,5 +1550,15 @@
     <string name="dialer_ui_title">Налаштування телефону</string>
     <string name="dialer_ui_orientation_title">Включити датчик положення</string>
     <string name="dialer_ui_orientation_summary">Міняти положення екрана в залежності від стану датчика</string>
+    <string name="add_contact_dlg_title">Додати контакт</string>
+    <string name="no_sdcard_title">Немає SD-карти</string>
+    <string name="searching_vcard_title">Пошук vCard</string>
+    <string name="import_from_allsim">Імпортувати з усіх SIM карт</string>
+    <string name="import_from_sim1">Імпортувати з SIM1</string>
+    <string name="import_from_sim2">Імпортувати з SIM2</string>
+    <string name="scanning_sdcard_failed_title">Не вдалося просканувати SD-карту.</string>
+    <string name="percentage">%s%%</string>
+    <string name="cancel_import_confirmation_title">Скасувати імпорту vCard</string>
+    <string name="cancel_export_confirmation_title">Скасувати експорту vCard</string>
 
 </resources>
