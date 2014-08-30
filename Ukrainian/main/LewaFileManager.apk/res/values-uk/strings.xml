@@ -350,7 +350,6 @@
 	<string name="FileListDateFormat">dd.MM.yyyy</string>
 	<string name="file_move_failed">переміщення не вдалося</string>
 	<string name="file_not_found">файл не знайдено</string>
-	<string name="file_search">Пошук файлів</string>
 	<string name="space_limit_create_new_folder_failed">Бракує місця</string>
 <string name="max_input_create_folder">Введення досягло максимуму</string>
 <string name="encrypt_success">Шифрування завершено</string>
