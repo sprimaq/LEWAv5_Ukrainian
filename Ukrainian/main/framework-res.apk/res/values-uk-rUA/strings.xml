@@ -465,7 +465,7 @@
     <string name="permlab_writeGservices">Зміна карт Google</string>
     <string name="permdesc_writeGservices">Програма зможе змінювати карту служб Google. Цей дозвіл не використовується звичайними додатками</string>
     <string name="permlab_receiveBootCompleted">Запуск при увімкненні</string>
-    <string name="permdesc_receiveBootCompleted">Програма зможе запускатися після початкового завантаження системи. Це може призвести до збільшення часу увімкнення пристрою і зменшити його швидкодію у зв’язку з постійною роботою додатка</string>
+    <string name="permdesc_receiveBootCompleted">Програма зможе запускатися після запуску системи. Це може призвести до збільшення часу увімкнення пристрою і зменшити його швидкодію у зв’язку з постійною роботою додатка</string>
     <string name="permlab_broadcastSticky">Відправлення повідомлень зі збереженням</string>
     <string name="permdesc_broadcastSticky">Програма зможе робити нетермінові розсилки, які не видаляються після їх відправлення. Зловживання цими розсилками може сповільнити роботу пристрою або зробити її нестабільної з-за надмірного використання пам’яті</string>
     <string name="permlab_readContacts">Перегляд контактів</string>
@@ -514,8 +514,8 @@
     <string name="permdesc_camera">Програма зможе робити фотографії і знімати відеоролики з допомогою камери в будь-який час без Вашого дозволу</string>
     <string name="permlab_brick">Відключення пристрою</string>
     <string name="permdesc_brick">Програма зможе відключити всі функції пристрою. Це дуже небезпечно</string>
-    <string name="permlab_reboot">Перезавантаження пристрою</string>
-    <string name="permdesc_reboot">Програма зможе примусово перезавантажити пристрій</string>
+    <string name="permlab_reboot">Перезапуск телефону</string>
+    <string name="permdesc_reboot">Програма зможе примусово перезапустити телефон</string>
     <string name="permlab_mount_unmount_filesystems">Файлова система SD-карти</string>
     <string name="permdesc_mount_unmount_filesystems">Програма зможе підключати і видаляти файлові системи для знімних накопичувачів</string>
     <string name="permlab_mount_format_filesystems">Видалення даних з SD-карти</string>
@@ -842,7 +842,7 @@
     <string name="factorytest_failed">Не вдалося провести стандартний тест</string>
     <string name="factorytest_not_system">Дія FACTORY_TEST підтримується тільки для пакетів, встановлених в /system/app</string>
     <string name="factorytest_no_action">Пакет, що забезпечує дію FACTORY_TEST не знайдено</string>
-    <string name="factorytest_reboot">Перезавантаження</string>
+    <string name="factorytest_reboot">Перезапуск</string>
     <string name="web_user_agent" formatted="false">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 %sSafari/534.30</string>
     <string name="web_user_agent_target_content">"Мобільний "</string>
     <string name="js_dialog_title">Підтвердіть дію на %s</string>
