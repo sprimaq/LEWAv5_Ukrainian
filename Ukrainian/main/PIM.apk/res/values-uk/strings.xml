@@ -552,68 +552,6 @@
     <string name="notifier_finish_copy_content">Скопійовано %d контактів</string>
     <string name="notifier_multichoice_process_report" formatted="false">"Виконано: %d 
 Не виконано: %d"</string>
-    <string name="notifier_failure_by_sim_full" formatted="false">"Збій через заповнення пам’яті SIM-карти 
-Виконано: %d 
-Не виконано: %d"</string>
-    <string name="notification_failure_by_sim_full" formatted="false">"Хранлище SIM заповнено %d 
-Не виконано: %d"</string>
-    <string name="notifier_failure_sim_notready" formatted="false">"Збій через неготовність SIM-карти 
-Виконано: %d 
-Не виконано: %d"</string>
-    <string name="notifier_cancel_delete_title">Видалення контактів скасовано</string>
-    <string name="notifier_fail_delete_title">Видалення контактів не вдалося</string>
-    <string name="notifier_cancel_copy_title">Копировапние контактів скасовано</string>
-    <string name="notifier_fail_copy_title">Копіювання контактів не вдалося</string>
-    <string name="notifier_progress__delete_will_start_message">Контакти будуть видалені.</string>
-    <string name="notifier_progress_delete_message" formatted="false">Видалення %s/ %s: %s</string>
-    <string name="notifier_progress_delete_description">Видалення %s</string>
-    <string name="notifier_progress__copy_will_start_message">Контакти будуть скопійовані.</string>
-    <string name="notifier_progress_copy_message" formatted="false">Копіювання %s/ %s: %s</string>
-    <string name="notifier_progress_copy_description">Копіювання %s</string>
-    <string name="multichoice_confirmation_title_delete">Видалення контактів</string>
-    <string name="multichoice_confirmation_message_delete_with_account">Скасувати видалення контактів з облікового запису %s?</string>
-    <string name="multichoice_confirmation_message_delete">Скасувати видалення контактів?</string>
-    <string name="multichoice_confirmation_title_copy">Відміна копіювання контактів</string>
-    <string name="multichoice_confirmation_message_copy_with_account">Скасувати копіювання контактів з облікового запису %s?</string>
-    <string name="multichoice_confirmation_message_copy">Скасувати копіювання контактів?</string>
-    <string name="multichoice_no_select_alert">Елемент не вибрано.</string>
-    <string name="multichoice_delete_confirm_message">Дійсно видалити вибраний(е) контакт(и)?</string>
-    <string name="multichoice_delete_confirm_message_with_sim">Дійсно видалити вибраний(е) контакт(и)(включаючи контакти на SIM/USIM)?</string>
-    <string name="multichoice_delete_confirm_title">Видалити контакт(и)?</string>
-    <string name="multichoice_contacts_limit">Обраних контактів не може бути більше, ніж 5000</string>
-    <string name="phone_storage_full_create">Пам’ять телефону заповнена, створення нового контакту неможливо.</string>
-    <string name="phone_storage_full_edit">Пам’ять телефону заповнена, редагування контакту неможливо.</string>
-    <string name="add_SIP_to_sim">Неможливо додати номер SIP для контакту SIM/USIM.</string>
-    <string name="already_has_SIP">Неможливо додати два номери SIP контакту, якщо вам потрібно продовжити. Спочатку видаліть колишній номер SIP.</string>
-    <string name="search_results_for">Результати пошуку для: %s</string>
-    <string name="listFoundAllCalllogZero">Виклик в журналі не знайдено</string>
-    <string name="calllogList">Журнал викликів</string>
-    <string name="calllogHint">Пошук дзвінків в журналі</string>
-    <string name="calllog_description">Вхідні, вихідні та пропущені виклики</string>
-    <string name="noMatchingCalllogs">Відповідний виклик не знайдено в журналі.</string>
-    <string name="menu_videocallNumber">Відеодзвінок: %s</string>
-    <string name="menu_ipcallNumber">IP-виклик %s</string>
-    <string name="deleting_call_log">Видалення журналу викликів...</string>
-    <string name="no_vm_number">Не вказано номер голосової пошти</string>
-    <string name="no_vm_number_msg">На SIM-карті немає жодного номера голосової пошти.</string>
-    <string name="add_vm_number_str">Додати номер</string>
-    <string name="reminder">Нагадування</string>
-    <string name="enable_sip_dialog_message">Інтернет-дзвінки відключені, включити їх?</string>
-    <string name="share_contacts_limit">Кількість контактів для спільного доступу не повинно перевищувати 1000</string>
-    <string name="contact_delete_all_tips">У фоновому режимі вже виконується видалення контакту. Якщо ви хочете запустити видалення контакту знову, спочатку зніміть цю операцію.</string>
-    <string name="move">Перемістити</string>
-    <string name="sum_search_networks">Пошук доступних мереж</string>
-    <string name="deleteCallLogConfirmation_title">Видалити виклик(и)?</string>
-    <string name="call_detail_delete_calllog">Видалити вибрані виклики</string>
-    <string name="deleteCallLogConfirmation_message">Видалити вибрані виклики?</string>
-    <string name="call_detail_deleteConfirmation_message">Ви впевнені, що хочете вилучити вибрані виклики??</string>
-    <string name="file_already_on_sd_card">Файл вже знаходиться на карті пам’яті.</string>
-    <string name="send_file_sms_error">Добававить файл в SMS неможливо,використовуйте MMS.</string>
-    <string name="error_save_usim_contact_email_lost">Не вдалося зберегти адресу електронної пошти, так як USIM сховище для електронної пошти заповнено.</string>
-    <string name="error_import_usim_contact_email_lost" formatted="false">"Відмова викликана переповненням USIM сховища електронної пошти. 
-Завершено: %d 
-Не виконано: %d"</string>
-    <string name="user_profile_cannot_sd_card">Не можна поділитися вмістом за допомогою цього методу.</string>
     <string name="app_label">SMS/MMS</string>
     <string name="new_message">Нове повідомлення</string>
     <string name="menu_call_back">Виклик %s</string>
@@ -1560,5 +1498,67 @@
     <string name="send_groupsms_no_email_more">%1$s %2$s більше контактів не мають допустимого адреси пошти</string>
     <string name="send_groupsms_no_email_1">%1$s не має допустимого адреси пошти</string>
     <string name="send_groupsms_no_email_2">%1$s %2$s не мають допустимого адреси пошти</string>
+    <string name="notifier_failure_by_sim_full" formatted="false">"Збій через заповнення пам’яті SIM-карти 
+Виконано: %d 
+Не виконано: %d"</string>
+    <string name="notification_failure_by_sim_full" formatted="false">"Хранлище SIM заповнено %d 
+Не виконано: %d"</string>
+    <string name="notifier_failure_sim_notready" formatted="false">"Збій через неготовність SIM-карти 
+Виконано: %d 
+Не виконано: %d"</string>
+    <string name="notifier_cancel_delete_title">Видалення контактів скасовано</string>
+    <string name="notifier_fail_delete_title">Видалення контактів не вдалося</string>
+    <string name="notifier_cancel_copy_title">Копировапние контактів скасовано</string>
+    <string name="notifier_fail_copy_title">Копіювання контактів не вдалося</string>
+    <string name="notifier_progress__delete_will_start_message">Контакти будуть видалені.</string>
+    <string name="notifier_progress_delete_message" formatted="false">Видалення %s/ %s: %s</string>
+    <string name="notifier_progress_delete_description">Видалення %s</string>
+    <string name="notifier_progress__copy_will_start_message">Контакти будуть скопійовані.</string>
+    <string name="notifier_progress_copy_message" formatted="false">Копіювання %s/ %s: %s</string>
+    <string name="notifier_progress_copy_description">Копіювання %s</string>
+    <string name="multichoice_confirmation_title_delete">Видалення контактів</string>
+    <string name="multichoice_confirmation_message_delete_with_account">Скасувати видалення контактів з облікового запису %s?</string>
+    <string name="multichoice_confirmation_message_delete">Скасувати видалення контактів?</string>
+    <string name="multichoice_confirmation_title_copy">Відміна копіювання контактів</string>
+    <string name="multichoice_confirmation_message_copy_with_account">Скасувати копіювання контактів з облікового запису %s?</string>
+    <string name="multichoice_confirmation_message_copy">Скасувати копіювання контактів?</string>
+    <string name="multichoice_no_select_alert">Елемент не вибрано.</string>
+    <string name="multichoice_delete_confirm_message">Дійсно видалити вибраний(е) контакт(и)?</string>
+    <string name="multichoice_delete_confirm_message_with_sim">Дійсно видалити вибраний(е) контакт(и)(включаючи контакти на SIM/USIM)?</string>
+    <string name="multichoice_delete_confirm_title">Видалити контакт(и)?</string>
+    <string name="multichoice_contacts_limit">Обраних контактів не може бути більше, ніж 5000</string>
+    <string name="phone_storage_full_create">Пам’ять телефону заповнена, створення нового контакту неможливо.</string>
+    <string name="phone_storage_full_edit">Пам’ять телефону заповнена, редагування контакту неможливо.</string>
+    <string name="add_SIP_to_sim">Неможливо додати номер SIP для контакту SIM/USIM.</string>
+    <string name="already_has_SIP">Неможливо додати два номери SIP контакту, якщо вам потрібно продовжити. Спочатку видаліть колишній номер SIP.</string>
+    <string name="search_results_for">Результати пошуку для: %s</string>
+    <string name="listFoundAllCalllogZero">Виклик в журналі не знайдено</string>
+    <string name="calllogList">Журнал викликів</string>
+    <string name="calllogHint">Пошук дзвінків в журналі</string>
+    <string name="calllog_description">Вхідні, вихідні та пропущені виклики</string>
+    <string name="noMatchingCalllogs">Відповідний виклик не знайдено в журналі.</string>
+    <string name="menu_videocallNumber">Відеодзвінок: %s</string>
+    <string name="menu_ipcallNumber">IP-виклик %s</string>
+    <string name="deleting_call_log">Видалення журналу викликів...</string>
+    <string name="no_vm_number">Не вказано номер голосової пошти</string>
+    <string name="no_vm_number_msg">На SIM-карті немає жодного номера голосової пошти.</string>
+    <string name="add_vm_number_str">Додати номер</string>
+    <string name="reminder">Нагадування</string>
+    <string name="enable_sip_dialog_message">Інтернет-дзвінки відключені, включити їх?</string>
+    <string name="share_contacts_limit">Кількість контактів для спільного доступу не повинно перевищувати 1000</string>
+    <string name="contact_delete_all_tips">У фоновому режимі вже виконується видалення контакту. Якщо ви хочете запустити видалення контакту знову, спочатку зніміть цю операцію.</string>
+    <string name="move">Перемістити</string>
+    <string name="sum_search_networks">Пошук доступних мереж</string>
+    <string name="deleteCallLogConfirmation_title">Видалити виклик(и)?</string>
+    <string name="call_detail_delete_calllog">Видалити вибрані виклики</string>
+    <string name="deleteCallLogConfirmation_message">Видалити вибрані виклики?</string>
+    <string name="call_detail_deleteConfirmation_message">Ви впевнені, що хочете вилучити вибрані виклики??</string>
+    <string name="file_already_on_sd_card">Файл вже знаходиться на карті пам’яті.</string>
+    <string name="send_file_sms_error">Добававить файл в SMS неможливо,використовуйте MMS.</string>
+    <string name="error_save_usim_contact_email_lost">Не вдалося зберегти адресу електронної пошти, так як USIM сховище для електронної пошти заповнено.</string>
+    <string name="error_import_usim_contact_email_lost" formatted="false">"Відмова викликана переповненням USIM сховища електронної пошти. 
+Завершено: %d 
+Не виконано: %d"</string>
+    <string name="user_profile_cannot_sd_card">Не можна поділитися вмістом за допомогою цього методу.</string>
 
 </resources>
