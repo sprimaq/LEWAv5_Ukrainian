@@ -31,7 +31,7 @@
 	<string name="category_high_level">Права високого рівня</string>
 	<string name="category_low_level">Права низького рівня</string>
 	<string name="clear_logs">Очищення журналу</string>
-	<string name="permission_header">"%1$d додаток(ків) мають змогу "</string>
+	<string name="permission_header">"%1$d додатків мають змогу "</string>
 	<string name="permission_send_sms">Відправлення повідомленнь</string>
 	<string name="permission_send_sms_sub">надсилати повідомлення</string>
 	<string name="permission_call_phone">Виклики</string>
@@ -58,7 +58,7 @@
 	<string name="package_list_title">%1$d додатків запитують серйозні дозволи</string>
 	<string name="package_permission_number">%1$d дозволів</string>
 	<string name="permission_detail_title">%1$d додатків вимагають дозволу: %2$s</string>
-	<string name="package_permmison_logs">Дозволено %1$d разів, заборонено %2$d разів</string>
+	<string name="package_permmison_logs">Дозволено %1$d разів, відмова %2$d разів</string>
 	<string name="permission_asking_dialog_title">"%1$s запитує 
 %2$s"</string>
 	<string name="permission_asking_dialog_hint">Увага! Якщо причина запиту Вам не зрозуміла, його краще відхилити</string>
