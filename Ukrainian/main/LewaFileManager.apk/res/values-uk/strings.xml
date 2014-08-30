@@ -351,12 +351,12 @@
 	<string name="file_move_failed">переміщення не вдалося</string>
 	<string name="file_not_found">файл не знайдено</string>
 	<string name="space_limit_create_new_folder_failed">Бракує місця</string>
-<string name="max_input_create_folder">Введення досягло максимуму</string>
-<string name="encrypt_success">Шифрування завершено</string>
-<string name="encrypt_failed">Шифрування не вдалося</string>
-<string name="decrypt_success">Дешифрування завершено</string>
-<string name="decrypt_failed">Дешифрування не вдалося</string>
-<string name="encrypt_input_password">Введіть пароль</string>
-<string name="decrypt_error_folder">Неможна зашифрувати теку</string>
+	<string name="max_input_create_folder">Введення досягло максимуму</string>
+	<string name="encrypt_success">Шифрування завершено</string>
+	<string name="encrypt_failed">Шифрування не вдалося</string>
+	<string name="decrypt_success">Дешифрування завершено</string>
+	<string name="decrypt_failed">Дешифрування не вдалося</string>
+	<string name="encrypt_input_password">Введіть пароль</string>
+	<string name="decrypt_error_folder">Неможна зашифрувати теку</string>
 
 </resources>
