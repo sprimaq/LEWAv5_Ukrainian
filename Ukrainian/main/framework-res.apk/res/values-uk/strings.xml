@@ -515,7 +515,7 @@
     <string name="permlab_brick">Відключення пристрою</string>
     <string name="permdesc_brick">Програма зможе відключити всі функції пристрою. Це дуже небезпечно</string>
     <string name="permlab_reboot">Перезапуск телефону</string>
-    <string name="permdesc_reboot">Програма зможе примусово перезапускати телефон</string>
+    <string name="permdesc_reboot">Програма зможе примусово перезапустити телефон</string>
     <string name="permlab_mount_unmount_filesystems">Файлова система SD-карти</string>
     <string name="permdesc_mount_unmount_filesystems">Програма зможе підключати і видаляти файлові системи для знімних накопичувачів</string>
     <string name="permlab_mount_format_filesystems">Видалення даних з SD-карти</string>
