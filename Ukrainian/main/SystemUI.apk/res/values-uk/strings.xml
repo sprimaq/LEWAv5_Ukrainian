@@ -170,6 +170,7 @@
     <string name="otg_to_filemanager">Натисніть для запуску файлового менеджера</string>
     <string name="otg_connect">USB-накопичувач підключений</string>
     <string name="otg_unmount">Безпечне вилучення</string>
+    <string name="halo_tutorial1">Це HALO</string>
     <string name="title_toggle_sound">Без звуку</string>
     <string name="title_toggle_lockscreen">Блок. екрану</string>
     <string name="switchwidgetsettings_notice_title">Не більше 10 іконок</string>
@@ -246,7 +247,6 @@
     <string name="halo_hide">Сховати</string>
     <string name="halo_clear_all">Скасувати всі повідомлення</string>
     <string name="halo_silence">Сховати</string>
-    <string name="halo_tutorial1">Це HALO</string>
     <string name="halo_tutorial2">Перемістити мене: подвіний тап + тягнути</string>
     <string name="halo_tutorial3">Огляд завдань: перетягування по горизонталі</string>
     <string name="halo_battery_plugged">ЗАРЯДКА</string>
