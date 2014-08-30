@@ -17,14 +17,14 @@
 
 
     <string name="data_usage_warning_body">Обережно, за тарифним планом залишилося лише %s</string>
-    <string name="global_actions_toggle_airplane_mode">Режим польоту</string>
-    <string name="global_action_power_off">Вимикання</string>
-    <string name="global_action_reboot">Перезавантаження</string>
+    <string name="global_actions_toggle_airplane_mode">Режим \"У літаку\"</string>
+    <string name="global_action_power_off">Вимикнути</string>
+    <string name="global_action_reboot">Перезапуск</string>
     <string name="global_action_screenshot">Скріншот</string>
-    <string name="global_action_toggle_silent_mode">Без звуку</string>
-    <string name="reboot_progress">Перезавантаження...</string>
-    <string name="reboot_reboot">Перезавантаження</string>
-    <string name="reboot_system">Перезавантаження пристрою</string>
+    <string name="global_action_toggle_silent_mode">Режим \"Без звуку\</string>
+    <string name="reboot_progress">Перезапуск...</string>
+    <string name="reboot_reboot">Перезапуск</string>
+    <string name="reboot_system">Перезапуск системи</string>
     <string name="power_off">Вимикання</string>
     <string name="shutdown_progress">Вимикається...</string>
     <string name="shutdown_confirm">Пристрій буде вимкнено</string>
@@ -132,11 +132,11 @@
     <string name="lunar_year">роки</string>
     <string name="lunar_yue">місяць</string>
     <string name="reboot_recovery">Рекавері</string>
-    <string name="reboot_bootloader">Завантажувач</string>
-    <string name="reboot_bootmenu">Завантажувач</string>
-    <string name="reboot_fastboot">Швидке завантаження</string>
+    <string name="reboot_bootloader">Загружчик</string>
+    <string name="reboot_bootmenu">Загружчик</string>
+    <string name="reboot_fastboot">Швидкий запуск</string>
     <string name="reboot_download">Завантаження</string>
-    <string name="reboot_confirm">Ваш пристрій перезавантажиться</string>
+    <string name="reboot_confirm">Ваш телефон буде перезапущено</string>
     <string name="lockscreen_discharging">Батарея (%d%%)</string>
     <string name="progress_scanning">Сканування</string>
     <string name="phone_goggles_problem_count">Проблема #%1$d:</string>
