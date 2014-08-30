@@ -187,13 +187,13 @@
     <string name="title_toggle_mobiledata">Інтернет</string>
     <string name="title_toggle_networkmode">2G/3G</string>
     <string name="title_toggle_autorotate">Обертання</string>
-    <string name="title_toggle_airplane">\"У літаку\"</string>
+    <string name="title_toggle_airplane">У літаку</string>
     <string name="title_toggle_flashlight">Ліхтарик</string>
     <string name="title_toggle_sleep">Сон</string>
     <string name="title_toggle_locknow">Блокування</string>
     <string name="title_toggle_shutdown">Вимикання</string>
     <string name="title_toggle_reboot">Перезавантаження</string>
-    <string name="title_toggle_powermanager">Батарея</string>
+    <string name="title_toggle_powermanager">Батарея+</string>
     <string name="title_toggle_switchwidgetstyle">Ще</string>
     <string name="title_toggle_screencapture">Скріншот</string>
     <string name="title_qr_code">QR-сканер</string>
