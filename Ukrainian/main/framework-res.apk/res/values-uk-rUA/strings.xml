@@ -1321,7 +1321,7 @@
     <string name="launchBrowserDefault">Запустити браузер?</string>
     <string name="SetupCallDefault">Відповісти?</string>
     <string name="activity_resolver_use_always">Завжди</string>
-    <string name="activity_resolver_use_once">Лише зараз</string>
+    <string name="activity_resolver_use_once">Лише цього разу</string>
     <string name="default_audio_route_name">Телефон</string>
     <string name="default_audio_route_name_headphones">Навушники</string>
     <string name="default_audio_route_name_dock_speakers">Динаміки док-станції</string>
