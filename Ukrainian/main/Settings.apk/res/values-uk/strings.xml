@@ -2557,11 +2557,11 @@
     <string name="clean_data_cleaning_summary">Стираємо...</string>
     <string name="clean_btn_cleanup_part_summary">Стирання</string>
     <string name="clean_clipboard_data_summary">Дані з буферу：</string>
-    <string name="clean_picture_thumbnail_summary">Прев`ю зображень:</string>
+    <string name="clean_picture_thumbnail_summary">Прев’ю зображень:</string>
     <string name="clean_log_summary">Журнал:</string>
     <string name="clean_system_cache_file">Системний кеш:</string>
     <string name="clean_calculate_complete_result">%1$s вільного місця, після очистки очікується %2$s</string>
-    <string name="storage_install_app_sdcard_summary">" (деякі додатки не підтримуються)"</string>
+    <string name="storage_install_app_sdcard_summary">" (деякі додатки це не підтримують)"</string>
     <string name="gsm_umts_network_preferences_default_values">0</string>
     <string name="sim_setting_guide_continue">Уперед</string>
     <string name="sim_setting_guide_cancel">Скасувати</string>
