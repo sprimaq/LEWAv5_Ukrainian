@@ -484,7 +484,7 @@
     <string name="toast_text_copied">Текст скопійовано</string>
     <string name="cancel_confirmation_dialog_title">Скасувати змін</string>
     <string name="cancel_confirmation_dialog_message">Скасувати Ваші зміни?</string>
-    <string name="call_type_and_date">%1$s %2$s</string>
+    <string name="call_type_and_date">%2$s %1$s</string>
     <string name="profile_display_name">Налаштувати профіль</string>
     <string name="enter_contact_name">Ім’я контакту</string>
     <string name="view_updates_from_group">Оновлення</string>
