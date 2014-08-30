@@ -372,7 +372,6 @@
     <string name="display_options_view_names_as">Показувати в контактах</string>
     <string name="display_options_view_given_name_first">Спочатку ім’я</string>
     <string name="display_options_view_family_name_first">Спочатку прізвище</string>
-    <string name="search_bar_hint">Пошук контактів</string>
     <string name="take_photo">Сфотографувати</string>
     <string name="take_new_photo">Сфотографувати (заново)</string>
     <string name="pick_photo">Вибір фото з Галереї</string>
@@ -402,9 +401,7 @@
     <string name="description_star">обране</string>
     <string name="edit_contact">Змінити контакт</string>
     <string name="local_invisible_directory">Інше</string>
-    <string name="aggregation_suggestion_join_dialog_title">Об’єднати контакти</string>
     <string name="aggregation_suggestion_join_dialog_message">Об’єднати поточний контакт з вибраним контактом?</string>
-    <string name="aggregation_suggestion_edit_dialog_title">Редагувати вибрані контакти</string>
     <string name="aggregation_suggestion_edit_dialog_message">Перейти на редагування вибраного контакту? Введена інформація буде скопійована.</string>
     <string name="menu_copyContact">Копіювати в \"Мої контакти\"</string>
     <string name="add_to_my_contacts">Додати в \"Мої контакти\"</string>
@@ -424,13 +421,11 @@
     <string name="activity_title_contacts_filter">Фільтр контактів</string>
     <string name="menu_settings">Налаштування</string>
     <string name="preference_displayOptions">Варіанти відображення</string>
-    <string name="organization_company_and_title">%2$s, %1$s</string>
     <string name="hint_findContacts">Знайти контакти</string>
     <string name="non_phone_caption">Номер телефону</string>
     <string name="non_phone_add_to_contacts">Додати до контактів</string>
     <string name="activity_title_confirm_add_detail">Додавання даних</string>
     <string name="non_phone_close">Закрити</string>
-    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="date_year_toggle">Вказати рік</string>
     <string name="social_widget_label">Контакт</string>
     <string name="social_widget_loading">Завантаження...</string>
@@ -439,14 +434,12 @@
     <string name="contacts_unavailable_import_contacts">Імпорт контактів з файлу</string>
     <string name="create_group_dialog_title">Створення нової групи</string>
     <string name="create_group_item_label">Створити нову групу</string>
-    <string name="delete_group_dialog_title">Видалення групи</string>
     <string name="delete_group_dialog_message">Видалити групу \"%1$s\"? (контакти не будуть видалені)</string>
     <string name="toast_join_with_empty_contact">Введіть ім’я контакту, який потрібно об’єднати.</string>
     <string name="copy_text">Копіювати в буфер обміну</string>
     <string name="set_default">Встановити за замовчуванням</string>
     <string name="clear_default">Видалити налаштування за замовчуванням</string>
     <string name="toast_text_copied">Текст скопійовано</string>
-    <string name="cancel_confirmation_dialog_title">Скасувати змін</string>
     <string name="cancel_confirmation_dialog_message">Скасувати Ваші зміни?</string>
     <string name="call_type_and_date">%1$s %2$s</string>
     <string name="profile_display_name">Налаштувати профіль</string>
@@ -1560,5 +1553,12 @@
     <string name="percentage">%s%%</string>
     <string name="cancel_import_confirmation_title">Скасувати імпорту vCard</string>
     <string name="cancel_export_confirmation_title">Скасувати експорту vCard</string>
+    <string name="search_bar_hint">Пошук контактів</string>
+    <string name="aggregation_suggestion_join_dialog_title">Об’єднати контакти</string>
+    <string name="aggregation_suggestion_edit_dialog_title">Редагувати вибрані контакти</string>
+    <string name="organization_company_and_title">%2$s, %1$s</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
+    <string name="delete_group_dialog_title">Видалення групи</string>
+    <string name="cancel_confirmation_dialog_title">Скасувати змін</string>
 
 </resources>
