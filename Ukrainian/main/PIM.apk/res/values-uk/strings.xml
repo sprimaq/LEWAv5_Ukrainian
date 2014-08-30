@@ -2,7 +2,6 @@
 <resources>
     <string name="config_import_vcard_type">За замовчуванням</string>
     <string name="config_export_vcard_type">За замовчуванням</string>
-    <string name="config_export_dir">/mnt/sdcard</string>
     <string name="config_export_file_prefix" />
     <string name="config_export_file_suffix" />
     <string name="config_export_file_extension">vcf</string>
@@ -10,24 +9,6 @@
     <string name="config_prohibited_phone_number_regexp" />
     <string name="launcherDialer">Телефон</string>
     <string name="people">Контакти</string>
-    <string name="t9_default_sort">1</string>
-    <string name="t9_sort_title">T9-сортування</string>
-    <string name="t9_sort_summary">Виберіть режим результатів T9-сортування</string>
-    <string name="t9_sort_name">Спочатку збіг імен</string>
-    <string name="t9_sort_number">Спочатку збіг номерів</string>
-    <string name="t9_state_title">Включити T9</string>
-    <string name="t9_state_summary">Включити T9 в панелі набору номера</string>
-    <string name="t9_dial_click_title">Зателефонувати до обраного контакту</string>
-    <string name="t9_dial_click_summary">Зателефонувати контакту, обраному за допомогою Т9</string>
-    <string name="t9_add_to_contacts">Додати до контактів</string>
-    <string name="t9_map_row_2">2abcàáâäåɑæçǽćčáабвг</string>
-    <string name="t9_map_row_3">3deféèêëдеєжз</string>
-    <string name="t9_map_row_4">4ghiíìïîǵіийкл</string>
-    <string name="t9_map_row_5">5jklḱḱĺмноп</string>
-    <string name="t9_map_row_6">6mnoòóöôøñŋǿḿńőрсту</string>
-    <string name="t9_map_row_7">7pqrsßɾṕŕśřšфхцч</string>
-    <string name="t9_map_row_8">8tuvúùüûűшщъы</string>
-    <string name="t9_map_row_9">9wxyzýẃźьэюя</string>
     <string name="contactsList">Контакти</string>
     <string name="shortcutContact">Контакт</string>
     <string name="shortcutDialContact">Швидкий виклик</string>
@@ -72,10 +53,6 @@
     <string name="separatorJoinAggregateSuggestions">Пропоновані контакти</string>
     <string name="separatorJoinAggregateAll">Всі контакти</string>
     <string name="contactsJoinedMessage">Контакти об’єднані</string>
-    <string name="deleteConfirmation_title">Видалити контакт</string>
-    <string name="menu_print">Друк</string>
-    <string name="printContact">Роздрукувати контакт через</string>
-    <string name="no_way_to_print">Немає додатків для друку.</string>
     <string name="menu_set_ring_tone">Встановити мелодію</string>
     <string name="menu_redirect_calls_to_vm">Всі дзвінки на голосову пошту</string>
     <string name="readOnlyContactWarning">Неможливо видалити контакти з аккаунта, доступного тільки для читання, однак, можна приховати їх у списках контактів.</string>
@@ -128,9 +105,6 @@
     <string name="contactsGroupsLabel">Групи</string>
     <string name="contactsFavoritesLabel">Обране</string>
     <string name="dialerIconLabel">Телефон</string>
-    <string name="dialer_ui_title">Налаштування телефону</string>
-    <string name="dialer_ui_orientation_title">Включити датчик положення</string>
-    <string name="dialer_ui_orientation_summary">Міняти положення екрана в залежності від стану датчика</string>
     <string name="recentCallsIconLabel">Журнал викликів</string>
     <string name="menu_sendTextMessage">Відправити SMS/MMS</string>
     <string name="recentCalls_callNumber">Виклик: %s</string>
@@ -1560,4 +1534,31 @@
     <string name="group_member">Члени групи</string>
     <string name="send_contact_info">Відправити інформацію про контакт</string>
     <string name="no_visible_groups">У Вас немає видимих груп</string>
+    <string name="config_export_dir">/mnt/sdcard</string>
+    <string name="t9_default_sort">1</string>
+    <string name="t9_sort_title">T9-сортування</string>
+    <string name="t9_sort_summary">Виберіть режим результатів T9-сортування</string>
+    <string name="t9_sort_name">Спочатку збіг імен</string>
+    <string name="t9_sort_number">Спочатку збіг номерів</string>
+    <string name="t9_state_title">Включити T9</string>
+    <string name="t9_state_summary">Включити T9 в панелі набору номера</string>
+    <string name="t9_dial_click_title">Зателефонувати до обраного контакту</string>
+    <string name="t9_dial_click_summary">Зателефонувати контакту, обраному за допомогою Т9</string>
+    <string name="t9_add_to_contacts">Додати до контактів</string>
+    <string name="t9_map_row_2">2abcàáâäåɑæçǽćčáабвг</string>
+    <string name="t9_map_row_3">3deféèêëдеєжз</string>
+    <string name="t9_map_row_4">4ghiíìïîǵіийкл</string>
+    <string name="t9_map_row_5">5jklḱḱĺмноп</string>
+    <string name="t9_map_row_6">6mnoòóöôøñŋǿḿńőрсту</string>
+    <string name="t9_map_row_7">7pqrsßɾṕŕśřšфхцч</string>
+    <string name="t9_map_row_8">8tuvúùüûűшщъы</string>
+    <string name="t9_map_row_9">9wxyzýẃźьэюя</string>
+    <string name="deleteConfirmation_title">Видалити контакт</string>
+    <string name="menu_print">Друк</string>
+    <string name="printContact">Роздрукувати контакт через</string>
+    <string name="no_way_to_print">Немає додатків для друку.</string>
+    <string name="dialer_ui_title">Налаштування телефону</string>
+    <string name="dialer_ui_orientation_title">Включити датчик положення</string>
+    <string name="dialer_ui_orientation_summary">Міняти положення екрана в залежності від стану датчика</string>
+
 </resources>
