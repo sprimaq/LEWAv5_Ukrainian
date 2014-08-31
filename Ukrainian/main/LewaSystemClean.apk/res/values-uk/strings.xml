@@ -33,9 +33,9 @@
 	<string name="autostarts_empty_msg">Немає додатків у автозапуску</string>
 	<string name="autostarts_optimize_empty_msg">Немає додатків для оптимізації</string>
 	<string name="autostarts_optimize_btn_title">Оптимізація автозапуску</string>
-	<string name="autostarts_startup_boot_des">Під час запуску.</string>
-	<string name="autostarts_startup_background_des">Після запуску.</string>
-	<string name="notify_dialog_message">Для застосування змін необхідно перезапустити телефон. Зробити це зараз?</string>
+	<string name="autostarts_startup_boot_des">Під час завантаження.</string>
+	<string name="autostarts_startup_background_des">Після завантаження.</string>
+	<string name="notify_dialog_message">Для застосування змін необхідно перезавантажити телефон. Зробити це зараз?</string>
 	<string name="sdcard_storage_title">SD-карта</string>
 	<string name="usb_storage_title">Внутрішнє сховище</string>
 	<string name="internal_storage_title">Внутрішня пам’ять</string>
