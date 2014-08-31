@@ -239,7 +239,7 @@
     <string name="global_action_toggle_silent_mode">Режим без звуку</string>
     <string name="global_action_silent_mode_on_status">Вимкнути</string>
     <string name="global_action_silent_mode_off_status">Увімкнути</string>
-    <string name="global_actions_toggle_airplane_mode">Режим польоту</string>
+    <string name="global_actions_toggle_airplane_mode">Режим \"У літаку\"</string>
     <string name="global_actions_airplane_mode_on_status">Вимкнути</string>
     <string name="global_actions_airplane_mode_off_status">Увімкнути</string>
     <string name="safeMode">Безпечний режим</string>
