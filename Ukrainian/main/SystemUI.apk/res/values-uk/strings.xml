@@ -192,7 +192,7 @@
     <string name="title_toggle_sleep">Сон</string>
     <string name="title_toggle_locknow">Блокування</string>
     <string name="title_toggle_shutdown">Вимикання</string>
-    <string name="title_toggle_reboot">Перезапуск</string>
+    <string name="title_toggle_reboot">Перезавантаження</string>
     <string name="title_toggle_powermanager">Батарея+</string>
     <string name="title_toggle_switchwidgetstyle">Ще</string>
     <string name="title_toggle_screencapture">Скріншот</string>
@@ -265,8 +265,8 @@
     <string name="menu_actionbar_selected_items">%s вибрано</string>
     <string name="reboot_now_confirm">Так</string>
     <string name="reboot_later_confirm">Ні</string>
-    <string name="reboot">Перезапуск</string>
-    <string name="reboot_message">Потрібно перезапустити</string>
+    <string name="reboot">Перезавантаження</string>
+    <string name="reboot_message">Потрібно перезавантажити</string>
     <string name="shake_clean_title">Очищення струшуванням</string>
     <string name="shake_clean_summary">Швидке очищення повідомлень струшуванням</string>
     <string name="lewa_status_bar_date_formatter">"%2$s 
