@@ -14,7 +14,7 @@
 	<string name="select">зазначено</string>
 	<string name="first_use1">Пристрій не перевірено</string>
 	<string name="first_use2">Будь ласка, запустіть сканування прямо зараз</string>
-	<string name="state_normal">Регулярне сканування забезпечить необхідну безпеку Ваших особистих даних</string>
+	<string name="state_normal">Регулярне сканування убезпечить Ваші дані</string>
 	<string name="need_to_kill1">Пристрій не перевірявся %s днів</string>
 	<string name="need_to_kill2">Будь ласка, запустіть сканування прямо зараз</string>
 	<string name="is_cancel1">Пропонуємо пересканувати</string>
