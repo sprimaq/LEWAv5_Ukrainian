@@ -17,11 +17,11 @@
 
 
     <string name="data_usage_warning_body">Увага, за тарифним планом залишилося лише %s</string>
-    <string name="global_actions_toggle_airplane_mode">Режим \"У літаку\"</string>
+    <string name="global_actions_toggle_airplane_mode">Режим У літаку</string>
     <string name="global_action_power_off">Вимкнути</string>
     <string name="global_action_reboot">Перезавантаження</string>
     <string name="global_action_screenshot">Скріншот</string>
-    <string name="global_action_toggle_silent_mode">Режим \"Без звуку\"</string>
+    <string name="global_action_toggle_silent_mode">Режим Без звуку</string>
     <string name="reboot_progress">Перезавантаження...</string>
     <string name="reboot_reboot">Перезавантаження</string>
     <string name="reboot_system">Перезавантаження системи</string>
