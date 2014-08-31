@@ -1157,7 +1157,7 @@
     <string name="all_volume_title">Гучність</string>
     <string name="musicfx_title">Еквалайзер</string>
     <string name="ring_volume_title">Гучність дзвінка</string>
-    <string name="vibrate_in_silent_title">У режимі \"Без звуку\"</string>
+    <string name="vibrate_in_silent_title">У режимі Без звуку</string>
     <string name="notification_sound_title">Повідомлення</string>
     <string name="notification_pulse_title">Індикація</string>
     <string name="incoming_call_volume_title">Мелодія</string>
