@@ -9,7 +9,7 @@
 	<string name="app_blocksms_name">Повідомлення</string>
 	<string name="app_blockcall_name">Виклики</string>
 	<string name="app_blockrule_name">Налаштування блокування</string>
-	<string name="app_addblock_name">Додати до чорго списку</string>
+	<string name="app_addblock_name">Додати до чорного списку</string>
 	<string name="app_addwhite_name">Додати до білого списку</string>
 	<string name="app_editblock_name">Редагувати</string>
 	<string name="app_msg_content_name">Вміст повідомлення</string>
@@ -54,7 +54,7 @@
 	<string name="intercept_optionMenu">Очистити %s</string>
 	<string name="intercept_blockcalllist_emp">Немає заблокованих викликів</string>
 	<string name="intercept_blockmsglist_emp">Немає заблокованих повідомлень</string>
-	<string name="intercept_blocknamelist_emp">Додати номер до чорго списку</string>
+	<string name="intercept_blocknamelist_emp">Додати номер до чорного списку</string>
 	<string name="intercept_white_namelist_emp">Додати номер до білого списку</string>
 	<string name="block_num_out_of_all">Перехоплювати наступні контакти</string>
 	<string name="block_num_out_of_all_0">Перехоплювати наступні контакти і білий список</string>
@@ -74,7 +74,7 @@
 	<string name="modify_note">Змінити запис</string>
 	<string name="modify">Змінити</string>
 	<string name="msg_recovery_add">Додати до білого списку</string>
-	<string name="msg_recovery_add_black">Додати до чорго списку</string>
+	<string name="msg_recovery_add_black">Додати до чорного списку</string>
 	<string name="msg_recovery_delete">Видалити</string>
 	<string name="msg_recovery_add_toast">Додавання до білого списку зупинить фільтрації викликів і текстових повідомлень. Бажаєте додати номер %s у білий список?</string>
 	<string name="msg_recovery_delete_toast">Номер %s вже в чорному списку. Бажаєте видалити його з чорного списку?</string>
@@ -85,7 +85,7 @@
 	<string name="app_sms_name">Повідомлення</string>
 	<string name="app_call_name">Журнал викликів</string>
 	<string name="app_contact_name">Контакт</string>
-	<string name="app_import_black_name">Додати до чорго списку</string>
+	<string name="app_import_black_name">Додати до чорного списку</string>
 	<string name="app_import_white_name">Додати до білого списку</string>
 	<string name="app_intercept_msg_delete_context">Видалити весь ланцюжок повідомлень</string>
 	<string name="app_intercept_msg_single_delete_context">Видалити повідомлення</string>
@@ -112,8 +112,8 @@
 	<string name="mode_prompt">режим блокування</string>
 	<string name="mode_check">потрібен хоча б один режим</string>
 	<string name="unknowPhoneNum">Невідомий номер</string>
-	<string name="addBlockSuccessed">Успішне додавання до чорго списку</string>
-	<string name="addBlockFailed">Додати до чорго списку не вдалося</string>
+	<string name="addBlockSuccessed">Успішне додавання до чорного списку</string>
+	<string name="addBlockFailed">Додати до чорного списку не вдалося</string>
 	<string name="noBlackName">будь ласка, введіть номер для чорного списку</string>
 	<string name="noWhiteName">будь ласка, введіть номер для білого списку</string>
 	<string name="delBlockSuccessed">Видалити з чорного списку вдалося</string>
@@ -141,7 +141,7 @@
 	<string name="dialog_item_del_from_whitelist">Видалити з білого списку</string>
 	<string name="dialog_item_del_from_blacklist">Видалити з чорного списку</string>
 	<string name="send_to_whitelist">Перемістити до білого списку</string>
-	<string name="send_to_blacklist">Перемістити до чорго списку</string>
+	<string name="send_to_blacklist">Перемістити до чорного списку</string>
 	<string name="dialog_item_add2whitelist">Додати до білого списку</string>
 	<string name="dialog_item_delete_msg">Видалити</string>
 	<string name="recover2conversation">Тому до ланцюжка повідомлень</string>
@@ -179,7 +179,7 @@
 	<string name="intercept_not_open">Перехоплення вимкнене</string>
 	<string name="msg_send_recovery">Підтвердіть відновлення ланцюжків повідомлень</string>
 	<string name="call_send_recovery">Підтвердіть відновлення журналу викликів</string>
-	<string name="add_to_black_name">Додати до чорго списку</string>
+	<string name="add_to_black_name">Додати до чорного списку</string>
 	<string name="add_to_white_name">Додати до білого списку</string>
 	<string name="add_to_contacts">Додати в контакти</string>
 	<string name="recover_to_conversation">Відновити ланцюжок повідомлень</string>
@@ -194,7 +194,7 @@
 	<string name="setting">Налаштування</string>
 	<string name="delete">Видалити</string>
 	<string name="recover">Відновити</string>
-	<string name="addblack_name">Додати до чорго списку</string>
+	<string name="addblack_name">Додати до чорного списку</string>
 	<string name="addWhite_name">Додати до білого списку</string>
 	<string name="update_title">Бібліотека інтелектуального блокування</string>
 	<string name="update_message">В даний час бібліотека інтелектуальної блокування застаріла. Натисніть ОК, щоб оновити</string>
@@ -223,7 +223,7 @@
 	<string name="operation_cancel_selectall">Відмінити всі</string>
 	<string name="number_fragment_title">Номери</string>
 	<string name="interceptinfo_fragment_title">Інформація</string>
-	<string name="setting_fragment_title">Налаштування</string>
+	<string name="setting_fragment_title">Параметри</string>
 	<string name="update_tone">Увага!</string>
 	<string name="update_note_version">Поточна база бібліотеки %s застаріла!</string>
 	<string name="update_notice">Будь ласка, оновіть систему до останньої версії:</string>
