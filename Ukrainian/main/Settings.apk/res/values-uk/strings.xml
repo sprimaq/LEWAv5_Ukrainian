@@ -2519,7 +2519,7 @@
     <string name="autostarts_optimize_empty_msg">Немає оптимізованих елементів автозавантаження</string>
     <string name="autostarts_optimize_btn_title">Оптимізація елементів автозавантаження</string>
     <string name="autostarts_startup_boot_des">Під час завантаження</string>
-    <string name="autostarts_startup_background_des">Післе завантаження</string>
+    <string name="autostarts_startup_background_des">Після завантаження</string>
     <string name="usb_storage_title">USB-сховище</string>
     <string name="sdcardclean_title">Стерти SD-карту</string>
     <string name="usbclean_title">Стерти USB-сховище</string>
