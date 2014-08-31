@@ -287,7 +287,7 @@
 	<string name="no_default_browser">Немає браузера за замовчуванням</string>
 	<string name="rom_size">Загалом: %1$s</string>
 	<string name="rom_available">Доступно: %1$s</string>
-	<string name="sd_card_size">SD-карта: обсяг %1$s, </string>
+	<string name="sd_card_size">SD-карта: обсяг %1$s</string>
 	<string name="sd_card_available">вільно %1$s</string>
 	<string name="external_sd_card_size">SD-карта: %1$s</string>
 	<string name="external_sd_card_available">Доступно: %1$s</string>
