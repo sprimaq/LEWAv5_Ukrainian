@@ -358,9 +358,9 @@
     <string name="wifi_tether_setting_title">Основні налаштування</string>
     <string name="wifi_tether_wps_connect_title">Підключення WPS</string>
     <string name="wifi_tether_wps_connect_summary">Продовжити обраний захищений режим налаштування Wi-Fi</string>
-    <string name="wifi_tether_wps_pin_error">Недопустимий PIN-код</string>
-    <string name="wifi_tethering_title">Wi-Fi-модем</string>
-    <string name="wifi_ap_wps_dialog_title">Пыдключення WPS</string>
+    <string name="wifi_tether_wps_pin_error">Невірний PIN-код</string>
+    <string name="wifi_tethering_title">Точка доступу Wi-Fi</string>
+    <string name="wifi_ap_wps_dialog_title">Підключення WPS</string>
     <string name="wifi_ap_wps_mode_title">Режим WPS</string>
     <string name="wifi_ap_wps_pin_title">Уведіть PIN-код клієнта</string>
     <string name="wifi_ap_reset_OOB_title">Відновити налаштування мережі за замовчуванням: SSID, захист та пароль (заводські параметри WPS)</string>
@@ -1018,7 +1018,7 @@
     <string name="wifi_wps_complete">WPS: успішне. З’єднання з мережею...</string>
     <string name="wifi_wps_connected">З’єднано з мережею Wi-Fi %s</string>
     <string name="wifi_wps_in_progress">WPS вже використовується, для завершення потрібно близько хвилини</string>
-    <string name="wifi_wps_failed_generic">ПОмилка WPS. Повторіть спробу через декілька хвилин</string>
+    <string name="wifi_wps_failed_generic">Помилка WPS. Повторіть спробу за декілька хвилин</string>
     <string name="wifi_wps_failed_wep">Налаштування безпеки роутера (WEP) не підтримуються</string>
     <string name="wifi_wps_failed_tkip">Налаштування безпеки роутера (TKIP) не підтримуються</string>
     <string name="wifi_wps_failed_auth">Помилка авторизації. Спробуйте пізніше</string>
@@ -1046,8 +1046,8 @@
     <string name="wifi_disabled_network_failure">Увімкнено</string>
     <string name="wifi_disabled_password_failure">Помилка автентифікації</string>
     <string name="wifi_not_in_range">Недоступна</string>
-    <string name="wifi_wps_available_first_item">Доступна захищена мережа</string>
-    <string name="wifi_wps_available_second_item">" (доступна захищена мережа)"</string>
+    <string name="wifi_wps_available_first_item">Доступне WPS</string>
+    <string name="wifi_wps_available_second_item">" (доступне WPS)"</string>
     <string name="wifi_secured_first_item">Захист %1$s</string>
     <string name="wifi_secured_second_item">захист %1$s</string>
     <string name="wifi_security_short_wep">WEP</string>
