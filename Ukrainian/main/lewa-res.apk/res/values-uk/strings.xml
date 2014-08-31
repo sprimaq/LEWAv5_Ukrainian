@@ -16,18 +16,18 @@
 
 
 
-    <string name="data_usage_warning_body">Обережно, за тарифним планом залишилося лише %s</string>
+    <string name="data_usage_warning_body">Увага, за тарифним планом залишилося лише %s</string>
     <string name="global_actions_toggle_airplane_mode">Режим \"У літаку\"</string>
-    <string name="global_action_power_off">Вимикнути</string>
-    <string name="global_action_reboot">Перезапуск</string>
+    <string name="global_action_power_off">Вимкнути</string>
+    <string name="global_action_reboot">Перезавантаження</string>
     <string name="global_action_screenshot">Скріншот</string>
-    <string name="global_action_toggle_silent_mode">Режим \"Без звуку\</string>
-    <string name="reboot_progress">Перезапуск...</string>
-    <string name="reboot_reboot">Перезапуск</string>
-    <string name="reboot_system">Перезапуск системи</string>
+    <string name="global_action_toggle_silent_mode">Режим \"Без звуку"\</string>
+    <string name="reboot_progress">Перезавантаження...</string>
+    <string name="reboot_reboot">Перезавантаження</string>
+    <string name="reboot_system">Перезавантаження системи</string>
     <string name="power_off">Вимикання</string>
     <string name="shutdown_progress">Вимикається...</string>
-    <string name="shutdown_confirm">Пристрій буде вимкнено</string>
+    <string name="shutdown_confirm">Телефон буде вимкнено</string>
 
 
 
@@ -46,7 +46,7 @@
     <string name="hour">год.</string>
     <string name="minute">хв.</string>
     <string name="global_action_screenshot_status">Натисніть одночасно Живлення + Гучність вниз для зняття скріншота</string>
-    <string name="thumb_search_tip">Ви використовуєте пошук за допомогою жестів. n Для відключення перейдіть в Налаштування - Спеціальні можливості і вимкніть пошук за допомогою жестів</string>
+    <string name="thumb_search_tip">Ви використовуєте пошук за допомогою жестів. \n Для відключення перейдіть в Налаштування - Спеціальні можливості і вимкніть пошук за допомогою жестів</string>
     <string name="go_to_setting">Задати</string>
     <string name="go_on_read">Назад до читання</string>
     <string name="prompt_message">Підтвердження</string>
@@ -132,17 +132,17 @@
     <string name="lunar_year">роки</string>
     <string name="lunar_yue">місяць</string>
     <string name="reboot_recovery">Рекавері</string>
-    <string name="reboot_bootloader">Загружчик</string>
-    <string name="reboot_bootmenu">Загружчик</string>
-    <string name="reboot_fastboot">Швидкий запуск</string>
+    <string name="reboot_bootloader">Завантажувач</string>
+    <string name="reboot_bootmenu">Завантажувач</string>
+    <string name="reboot_fastboot">Швидке завантаження</string>
     <string name="reboot_download">Завантаження</string>
-    <string name="reboot_confirm">Ваш телефон буде перезапущено</string>
+    <string name="reboot_confirm">Ваш телефон буде перезавантажено</string>
     <string name="lockscreen_discharging">Батарея (%d%%)</string>
     <string name="progress_scanning">Сканування</string>
     <string name="phone_goggles_problem_count">Проблема #%1$d:</string>
     <string name="phone_goggles_description">Рішення %1$d даної проблеми триватиме менше %2$d секунд</string>
     <string name="permlab_revokePermissions">Скасовані дозволи</string>
-    <string name="permdesc_revokePermissions">Дозволяє читати і писати скасовані дозволи. Не для використання звичайними додатками</string>
+    <string name="permdesc_revokePermissions">Дозволяє читати і писати скасовані дозволи. Не для використання пересічними додатками</string>
     <string name="app_killed_message">Додаток закрито</string>
     <string name="lock_screen_miss_call">%1$d пропущений виклик</string>
     <string name="lock_screen_new_msg">%1$d нове повідомлення</string>
