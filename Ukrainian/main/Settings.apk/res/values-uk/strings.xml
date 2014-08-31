@@ -238,8 +238,8 @@
     <string name="gemini_sim_mode_progress_activating_message">Активація...</string>
     <string name="gemini_sim_mode_progress_deactivating_message">Деактивація...</string>
     <string name="gemini_sim_mode_change_failed_message">Помилка мережі.</string>
-    <string name="gemini_sim_mode_enter_airplanemode_confirm_title">Режим польоту</string>
-    <string name="gemini_sim_mode_enter_airplanemode_confirm_message">Телефон перейде в режим польоту. Всі бездротові з’єднання будуть вимкнені. Продовжити?</string>
+    <string name="gemini_sim_mode_enter_airplanemode_confirm_title">Режим \"У літаку\"</string>
+    <string name="gemini_sim_mode_enter_airplanemode_confirm_message">Телефон перейде в режим \"У літаку\". Всі бездротові з’єднання будуть вимкнені. Продовжити?</string>
     <string name="gemini_3g_indic">3G</string>
     <string name="gemini_sim_info_editor_name">Змінити назву SIM-карти</string>
     <string name="gemini_sim_info_editor_name_dup_title">Помилка збереження</string>
@@ -299,7 +299,7 @@
     <string name="sim_slot">Слот SIM-карти</string>
     <string name="eap_sim_slot_0">Слот SIM1</string>
     <string name="eap_sim_slot_1">Слот SIM2</string>
-    <string name="eap_sim_aka_airplanemode">Для використання EAP-SIM/AKA вимкніть режим польоту</string>
+    <string name="eap_sim_aka_airplanemode">Для використання EAP-SIM/AKA вимкніть режим \"У літаку\"</string>
     <string name="eap_sim_aka_no_sim_error">Для використання EAP-SIM/AKA слід встановити SIM-карту</string>
     <string name="eap_sim_aka_no_sim_slot_selected">Для використання EAP-SIM/AKA слід вибрати слот SIM-карти</string>
     <string name="wifi_security_wapi_psk">WAPI PSK</string>
@@ -741,10 +741,10 @@
     <string name="settings_label">Налаштування</string>
     <string name="settings_label_launcher">Налаштування</string>
     <string name="settings_shortcut">Ярлик параметрів</string>
-    <string name="airplane_mode">Режим польоту</string>
+    <string name="airplane_mode">Режим \"У літаку\"</string>
     <string name="radio_controls_title">Ще...</string>
     <string name="wireless_networks_settings_title">Бездротові мережі</string>
-    <string name="radio_controls_summary">Wi-Fi, Bluetooth, режим польоту, мобільні мережі VPN</string>
+    <string name="radio_controls_summary">Wi-Fi, Bluetooth, режим \"У літаку\", мобільні мережі VPN</string>
     <string name="roaming">Інтернет-роумінг</string>
     <string name="roaming_enable">Підключатися до служб передачі даних під час роумінгу</string>
     <string name="roaming_disable">Підключатися до служб передачі даних під час роумінгу</string>
@@ -983,7 +983,7 @@
     <string name="wifi_starting">Увімкнення Wi-Fi...</string>
     <string name="wifi_stopping">Вимкнення Wi-Fi...</string>
     <string name="wifi_error">Помилка</string>
-    <string name="wifi_in_airplane_mode">Режим польоту</string>
+    <string name="wifi_in_airplane_mode">Режим \"У літаку\"</string>
     <string name="wifi_fail_to_scan">Не вдалося розпочати пошук мереж</string>
     <string name="wifi_notify_open_networks">Повідомляти про мережі</string>
     <string name="wifi_notify_open_networks_summary">Повідомляти при виявленні відкритої мережі</string>
@@ -1286,7 +1286,7 @@
     <string name="sd_memory">SD-карта</string>
     <string name="memory_available">Доступно</string>
     <string name="memory_available_read_only">Доступно (тільки читання)</string>
-    <string name="memory_size">Місця загалом</string>
+    <string name="memory_size">Загальний обсяг</string>
     <string name="memory_calculating_size">Йде підрахунок...</string>
     <string name="memory_apps_usage">Програми</string>
     <string name="memory_media_usage">Мультимедіа</string>
@@ -1859,7 +1859,7 @@
     <string name="battery_desc_voice">Споживання батареї для голосових викликів</string>
     <string name="battery_desc_standby">Витрати заряду батареї в режимі очікування</string>
     <string name="battery_desc_radio">Витрати енергії на підтримання зв`язку з мережею в режимі очікування</string>
-    <string name="battery_sugg_radio">Якщо немає доступу до мережі, увімкнути режим польоту для економії заряду</string>
+    <string name="battery_sugg_radio">Якщо немає доступу до мережі, увімкнути режим \"У літаку\" для економії заряду</string>
     <string name="battery_desc_display">Споживання батареї для підсвічування екрану</string>
     <string name="battery_sugg_display">Зменшити яскравість екрану і/або час до вимкнення екрану</string>
     <string name="battery_desc_wifi">Споживання батареї модулем Wi-Fi</string>
@@ -2422,7 +2422,7 @@
  WCDMA
 "</string>
     <string name="sim_pin_locked">PIN заблоковано</string>
-    <string name="phone_inUse">Телефон використовується, Ви не можете переключитись у режим польоту</string>
+    <string name="phone_inUse">Телефон використовується, Ви не можете переключитись у режим \"У літаку\"</string>
     <string name="sim_displayname_too_long">Максимум 8 символів</string>
     <string name="fast_mode">Швидкий режим</string>
     <string name="fast_mode_title">Швидкий виклик/SMS</string>
@@ -2659,7 +2659,7 @@
     <string name="proximity_calib_ok">Так</string>
     <string name="proximity_calib_failed">Ні</string>
     <string name="dialog_apn_disabled">APN відключенео!</string>
-    <string name="dialog_apn_disabled_msg">Вимкніть режим польоту, щоби увімкнути параметри APN.</string>
+    <string name="dialog_apn_disabled_msg">Вимкніть режим \"У літаку\", щоби увімкнути параметри APN.</string>
     <string name="hdmi_notification_title">HDMI-кабель підключений</string>
     <string name="hdmi_notification_content">Клікніть для налаштування HDMI</string>
     <string name="gemini_data_connection_and_video_call">З`єднання для передачі даних</string>
@@ -2817,7 +2817,7 @@
     <string name="voice_summary">Вибір підписки для голосових викликів</string>
     <string name="data_title">Передача даних</string>
     <string name="data_summary">Вибір підписки для передачі даих</string>
-    <string name="new_band_mode_failed">В режимі польоту</string>
+    <string name="new_band_mode_failed">В режимі \"У літаку\"</string>
     <string name="tethered_ipv6_yulong_title">Налаштування роздачі</string>
     <string name="navigation_bar">Навігаційна панель</string>
     <string name="navigation_bar_settings">Налаштування навігаційної панелі</string>
@@ -2861,7 +2861,7 @@
     <string name="sim_missing">відсутня або не працює</string>
     <string name="sim_enabler_need_enable_sim">Увімкнути?</string>
     <string name="sim_enabler_need_disable_sim">Вимкнути?</string>
-    <string name="sim_enabler_airplane_on">ПОМИЛКА, увімкнено режим польоту!</string>
+    <string name="sim_enabler_airplane_on">ПОМИЛКА, увімкнено режим \"У літаку\"!</string>
     <string name="sim_enabler_in_call">ПОМИЛКА, режим виклику!</string>
     <string name="sim_enabler_both_inactive">Помилка, неможна вимкнути одночасно</string>
     <string name="sim_enabler_enabling">Увімкнення</string>
