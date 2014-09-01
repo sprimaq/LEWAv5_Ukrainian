@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+
     <string name="config_import_vcard_type">За замовчуванням</string>
     <string name="config_export_vcard_type">За замовчуванням</string>
     <string name="config_export_file_prefix" />
@@ -7,6 +9,20 @@
     <string name="config_export_file_extension">vcf</string>
     <string name="config_export_extensions_to_consider" />
     <string name="config_prohibited_phone_number_regexp" />
+    <string name="help_url_people_main" />
+    <string name="help_url_people_add" />
+    <string name="help_url_people_edit" />
+    <string name="dev_info_title">Назва телефону</string>
+    <string name="dev_info_model">Модель</string>
+    <string name="dev_info_version">Версія</string>
+    <string name="dev_info_inner_version">Внутрішня версія</string>
+    <string name="dev_info_android_version">Версія Android</string>
+    <string name="dev_info_kernel_version">Версія ядра</string>
+    <string name="dev_info_platform">Платформа</string>
+    <string name="hw_info_lcd">Екран</string>
+    <string name="hw_info_main_camera">Основна камера</string>
+    <string name="hw_info_sub_camera">Фронтальна камера</string>
+    <string name="hw_info_flash">Спалах</string>
     <string name="launcherDialer">Телефон</string>
     <string name="people">Контакти</string>
     <string name="contactsList">Контакти</string>
@@ -22,9 +38,9 @@
     <string name="strequentList">Обране</string>
     <string name="viewContactTitle">Відомості про контакт</string>
     <string name="viewContactDesription">Переглянути контакт</string>
-    <string name="editContactDescription">Змінити контакт</string>
+    <string name="editContactDescription">Редагувати контакт</string>
     <string name="insertContactDescription">Створити контакт</string>
-    <string name="editGroupDescription">Змінити групу</string>
+    <string name="editGroupDescription">Редагувати групу</string>
     <string name="insertGroupDescription">Створити групу</string>
     <string name="contactDetailAbout">Деталі</string>
     <string name="contactDetailUpdates">Оновлення</string>
@@ -37,6 +53,8 @@
     <string name="menu_removeStar">Видалити з Обраного</string>
     <string name="menu_editContact">Змінити контакт</string>
     <string name="menu_deleteContact">Видалити контакт</string>
+    <string name="menu_copy">Копіювати</string>
+    <string name="menu_create_contact_shortcut">На домашній екран</string>
     <string name="menu_call">Зателефонувати</string>
     <string name="menu_sendSMS">Відправити SMS/MMS</string>
     <string name="menu_splitAggregate">Розділити</string>
@@ -45,28 +63,29 @@
     <string name="menu_new_contact_action_bar">Новий</string>
     <string name="menu_new_group_action_bar">Нова</string>
     <string name="splitConfirmation_title">Розділити контакти</string>
-    <string name="splitConfirmation">Ви дійсно хочете розділити цей контакт на кілька контактів: по одному для кожного набору контактної інформації, що міститься в цьому контакті?</string>
+    <string name="splitConfirmation">Ви дійсно бажаєте розділити цей контакт на кілька контактів: по одному для кожного набору контактної інформації, що міститься в цьому контакті?</string>
     <string name="menu_joinAggregate">Приєднати</string>
-    <string name="titleJoinContactDataWith">Об’єднати контакти</string>
-    <string name="blurbJoinContactDataWith">Виберіть контакт, який потрібно об’єднати з цим адресатом: %s.</string>
+    <string name="titleJoinContactDataWith">Об`єднати контакти</string>
+    <string name="blurbJoinContactDataWith">Виберіть контакт, який потрібно об`єднати з цим адресатом: %s.</string>
     <string name="showAllContactsJoinItem">Показати всі контакти</string>
     <string name="separatorJoinAggregateSuggestions">Пропоновані контакти</string>
     <string name="separatorJoinAggregateAll">Всі контакти</string>
-    <string name="contactsJoinedMessage">Контакти об’єднані</string>
+    <string name="contactsJoinedMessage">Контакти об`єднані</string>
     <string name="menu_set_ring_tone">Встановити мелодію</string>
-    <string name="menu_redirect_calls_to_vm">Всі дзвінки на голосову пошту</string>
-    <string name="readOnlyContactWarning">Неможливо видалити контакти з аккаунта, доступного тільки для читання, однак, можна приховати їх у списках контактів.</string>
-    <string name="readOnlyContactDeleteConfirmation">Цей контакт містить інформацію з різних акаунтів. Інформація з акаунтів, доступних тільки для читання, буде прихована у ваших списках контактів, але не видалено.</string>
-    <string name="multipleContactDeleteConfirmation">Видалення цього контакту призведе до втрати даних з декількох акаунтів.</string>
+    <string name="menu_redirect_calls_to_vm">Переадресовувати виклики на голосову пошту</string>
+    <string name="readOnlyContactWarning">Неможливо видалити контакти з облікового запису, доступного тільки для читання, однак, їх можна приховати у списку контактів.</string>
+    <string name="readOnlyContactDeleteConfirmation">Цей контакт містить інформацію з різних облікових записів. Інформація з облікових записів, доступних тільки для читання, буде прихована у списку контактів, але не видалена.</string>
+    <string name="multipleContactDeleteConfirmation">Видалення цього контакту призведе до втрати даних з декількох облікових записів.</string>
     <string name="deleteConfirmation">Цей контакт буде видалено.</string>
     <string name="menu_done">Готово</string>
-    <string name="menu_doNotSave">Скасувати</string>
-    <string name="menu_discard">Відкотити</string>
+    <string name="menu_doNotSave">Не зберігати</string>
+    <string name="menu_discard">Скасувати</string>
     <string name="label_notes">Нотатки</string>
     <string name="label_sip_address">Інтернет-виклик</string>
     <string name="ghostData_company">Компанія</string>
-    <string name="ghostData_title">Посаду</string>
+    <string name="ghostData_title">Посада</string>
     <string name="invalidContactMessage">Контакт не існує.</string>
+    <string name="createContactShortcutSuccessful">Віджет контакту розміщено на домашньому екрані</string>
     <string name="pickerNewContactHeader">Створити новий контакт</string>
     <string name="pickerNewContactText">Створити новий контакт</string>
     <string name="phoneLabelsGroup">Телефон</string>
@@ -76,7 +95,7 @@
     <string name="photoPickerNotFoundText">У телефоні немає зображень.</string>
     <string name="attach_photo_dialog_title">Фото контакту</string>
     <string name="customLabelPickerTitle">Назва ярлика</string>
-    <string name="send_to_voicemail_checkbox">Направляти дзвінки на голосову пошту</string>
+    <string name="send_to_voicemail_checkbox">Направляти виклики на голосову пошту</string>
     <string name="removePhoto">Видалити фото</string>
     <string name="noContacts">Немає контактів</string>
     <string name="noGroups">Немає груп</string>
@@ -84,13 +103,13 @@
     <string name="noMatchingContacts">Контактів не знайдено</string>
     <string name="noContactsWithPhoneNumbers">Немає контактів з телефонними номерами</string>
     <string name="emptyGroup">У групі немає контактів</string>
-    <string name="addPeopleToGroup">Для додавання контактів змінити групу</string>
-    <string name="savingContact">Збереження контакту...</string>
-    <string name="savingDisplayGroups">Збереження варіантів відображення...</string>
+    <string name="addPeopleToGroup">Для додавання відредагуйте групу</string>
+    <string name="savingContact">Збереження контакту…</string>
+    <string name="savingDisplayGroups">Збереження варіантів відображення…</string>
     <string name="contactSavedToast">Контакт збережено</string>
-    <string name="contactSavedErrorToast">Помилка. Не вдалося зберегти зміни контакту</string>
-    <string name="groupSavedToast">Група збережена</string>
-    <string name="groupSavedErrorToast">Помилка. Не вдалося зберегти зміни групи</string>
+    <string name="contactSavedErrorToast">Не вдалося зберегти зміни контакту</string>
+    <string name="groupSavedToast">Групу збережено</string>
+    <string name="groupSavedErrorToast">Не вдалося зберегти зміни групи</string>
     <string name="listTotalPhoneContactsZero">Немає контактів з телефонними номерами</string>
     <string name="listTotalAllContactsZero">Немає контактів</string>
     <string name="listTotalAllContactsZeroCustom">Немає видимих контактів</string>
@@ -98,86 +117,103 @@
     <string name="listTotalAllContactsZeroGroup">Немає контактів у %s</string>
     <string name="listAllContactsInAccount">Контакти в %s</string>
     <string name="listSingleContact">Одиночний контакт</string>
-    <string name="listCustomView">Користувальницький режим</string>
-    <string name="foundTooManyContacts">Знайдено більше %d</string>
+    <string name="listCustomView">Користувацький режим</string>
+    <string name="foundTooManyContacts">Знайдено понад %d</string>
     <string name="listFoundAllContactsZero">Не знайдено</string>
     <string name="contactsAllLabel">Всі</string>
     <string name="contactsGroupsLabel">Групи</string>
     <string name="contactsFavoritesLabel">Обране</string>
+    <string name="dialerAllContactsLabel">Обране та всі контакти</string>
     <string name="dialerIconLabel">Телефон</string>
     <string name="recentCallsIconLabel">Журнал викликів</string>
     <string name="menu_sendTextMessage">Відправити SMS/MMS</string>
     <string name="recentCalls_callNumber">Виклик: %s</string>
-    <string name="recentCalls_editNumberBeforeCall">Змінити номер і викликати</string>
-    <string name="recentCalls_addToContact">Додати до контакту</string>
-    <string name="recentCalls_removeFromRecentList">Видалити зі списку дзвінків</string>
-    <string name="recentCalls_deleteAll">Очистити список дзвінків</string>
+    <string name="recentCalls_editNumberBeforeCall">Редагувати номер перед викликом</string>
+    <string name="recentCalls_addToContact">Додати до контактів</string>
+    <string name="recentCalls_removeFromRecentList">Видалити зі списку викликів</string>
+    <string name="recentCalls_deleteAll">Очистити список викликів</string>
     <string name="recentCalls_trashVoicemail">Видалити голосове повідомлення</string>
-    <string name="recentCalls_shareVoicemail">Поділитися голосовим повідомленням</string>
+    <string name="recentCalls_shareVoicemail">Поширити голосове повідомлення</string>
     <string name="recentCalls_empty">Список викликів порожній.</string>
-    <string name="clearCallLogConfirmation_title">Очистити список дзвінків</string>
-    <string name="clearCallLogConfirmation">Всі записи з журналу викликів будуть видалені.</string>
-    <string name="clearCallLogProgress_title">Очищення журналу викликів...</string>
+    <string name="clearCallLogConfirmation_title">Очистити список викликів</string>
+    <string name="clearCallLogConfirmation">Всі записи з журналу викликів буде видалено.</string>
+    <string name="clearCallLogProgress_title">Очищення журналу викликів…</string>
+    <string name="clearFrequentsConfirmation_title">Очистити часті контакти?</string>
+    <string name="clearFrequentsConfirmation">Ви очистите часті контакти</string>
+    <string name="clearFrequentsProgress_title">Очищення частих контактів…</string>
     <string name="imei">IMEI</string>
     <string name="meid">MEID</string>
     <string name="voicemail">Голосова пошта</string>
-    <string name="unknown">Невідомо</string>
+    <string name="unknown">Невідомий номер</string>
     <string name="private_num">Прихований номер</string>
-    <string name="payphone">Телефон-автомат</string>
+    <string name="payphone">Телефоний автомат</string>
     <string name="dialerKeyboardHintText">Наберіть номер з клавіатури</string>
     <string name="dialerDialpadHintText">Наберіть номер, щоб додати виклик</string>
-    <string name="simContacts_emptyLoading">Завантаження з SIM-карти...</string>
+    <string name="simContacts_emptyLoading">Завантаження з SIM-карти…</string>
     <string name="simContacts_title">Контакти на SIM-карті</string>
     <string name="noContactsHelpTextWithSyncForCreateShortcut">Відсутні контакти для відображення. (Якщо аккаунт був тільки що доданий, потрібно декілька хвилин для синхронізації контактів.)</string>
     <string name="noContactsHelpTextForCreateShortcut">Відсутні контакти для відображення.</string>
     <string name="noContactsHelpText">"Немає контактів для відображення. 
 
 Додати контакти можна 
-\u00090009наступним чином: 
+\u0009\u0009у такий спосіб: 
+
+\""<li> <font fgcolor="#ff000000"> <b>Додати новий контакт</b> </font>\" для створення контакту з нуля. \"</li>\" \"<li>Також можна натиснути клавішу Меню, а потім вибрати пункт <font fgcolor="#ff000000"> <b>Імпорт/Експорт</b> </font>\" для імпорту з SIM або SD-карти. \"</li>"\"
 
 
-\""</string>
+
+"</string>
     <string name="noContactsHelpTextWithSync">"Немає контактів для відображення. 
 
 Додати контакти можна 
-\u00090009наступним чином: 
+\u0009\u0009у такий спосіб: 
+
+\""<li> <font fgcolor="#ff000000"> <b>Додати новий контакт</b> </font>\" для створення контакту з нуля. \"</li>\" \"<li>Також можна натиснути клавішу Меню, а потім вибрати пункт <font fgcolor="#ff000000"> <b>Імпорт/Експорт</b> </font>\" для імпорту з SIM або SD-карти. \"</li>"\"
 
 
-\""</string>
+
+"</string>
     <string name="noContactsNoSimHelpText">"Немає контактів для відображення. 
 
 Додати контакти можна 
-\u00090009наступним чином: 
+\u0009\u0009у такий спосіб: 
+
+\""<li> <font fgcolor="#ff000000"> <b>Додати новий контакт</b> </font>\" для створення контакту з нуля. \"</li>\" \"<li>Також можна натиснути клавішу Меню, а потім вибрати пункт <font fgcolor="#ff000000"> <b>Імпорт/Експорт</b> </font>\" для імпорту з SIM або SD-карти. \"</li>"\"
 
 
 
-\""</string>
+"</string>
     <string name="noContactsNoSimHelpTextWithSync">"Немає контактів для відображення. 
 
 Додати контакти можна 
-\u00090009наступним чином: 
+\u0009\u0009у такий спосіб: 
+
+\""<li> <font fgcolor="#ff000000"> <b>Додати новий контакт</b> </font>\" для створення контакту з нуля. \"</li>\" \"<li>Також можна натиснути клавішу Меню, а потім вибрати пункт <font fgcolor="#ff000000"> <b>Імпорт/Експорт</b> </font>\" для імпорту з SIM або SD-карти. \"</li>"\"
 
 
 
-\""</string>
-    <string name="noFavoritesHelpText">"У вас немає обраних контактів. 
+"</string>
+ <string name="noFavoritesHelpText">"У вас немає обраних контактів.
+ 
+Щоб зробити контакт
+\u0009\u0009обраним:
 
-Щоб зробити контакт 
-\u00090009обраним: 
 
 
+\""<li>Перейдіть до вкладки <b>Контакти</b>\"; \"</li>\" \"<li>\"торкніться контакту, який необхідно зробити обраним; \"</li>\" \"<li>\"торкніться зірочки біля імені контакту. \"</li>"\"
 
-\""</string>
-    <string name="dialer_useDtmfDialpad">Використовувати тональний набір</string>
+
+"</string>
+<string name="dialer_useDtmfDialpad">Використовувати тональний набір</string>
     <string name="dialer_returnToInCallScreen">Повернутися до очікуючого виклику</string>
     <string name="dialer_addAnotherCall">виклик</string>
     <string name="callDetailTitle">Відомості про виклик</string>
     <string name="toast_call_detail_error">Не вдається отримати відомості про виклик.</string>
-    <string name="type_incoming">Вхідний дзвінок</string>
-    <string name="type_outgoing">Вихідний дзвінок</string>
+    <string name="type_incoming">Вхідний виклик</string>
+    <string name="type_outgoing">Вихідний виклик</string>
     <string name="type_missed">Пропущений виклик</string>
     <string name="type_voicemail">Голосова пошта</string>
-    <string name="actionIncomingCall">Вхідні дзвінки</string>
+    <string name="actionIncomingCall">Вхідні виклики</string>
     <string name="callBack">Передзвонити</string>
     <string name="callAgain">Зателефонувати знову</string>
     <string name="returnCall">Передзвонити</string>
@@ -189,11 +225,11 @@
     <string name="description_image_button_two">два</string>
     <string name="description_image_button_three">три</string>
     <string name="description_image_button_four">чотири</string>
-    <string name="description_image_button_five">п’ять</string>
+    <string name="description_image_button_five">п`ять</string>
     <string name="description_image_button_six">шість</string>
     <string name="description_image_button_seven">сім</string>
     <string name="description_image_button_eight">вісім</string>
-    <string name="description_image_button_nine">дев’ять</string>
+    <string name="description_image_button_nine">дев`ять</string>
     <string name="description_image_button_star">позначити</string>
     <string name="description_image_button_zero">нуль</string>
     <string name="description_image_button_pound">решітка</string>
@@ -217,7 +253,7 @@
     <string name="searching_vcard_message">Пошук даних vCard на SD-карті</string>
     <string name="scanning_sdcard_failed_message">Не вдалося просканувати SD-карту (Причина: \"%s\")</string>
     <string name="fail_reason_io_error">Помилка вводу-виводу</string>
-    <string name="fail_reason_low_memory_during_import">Недостатньо пам’яті. Можливо, файл занадто великий.</string>
+    <string name="fail_reason_low_memory_during_import">Недостатньо пам`яті. Можливо, файл занадто великий.</string>
     <string name="fail_reason_vcard_parse_error">Не вдалося проаналізувати файл vCard.</string>
     <string name="fail_reason_not_supported">Формат не підтримується.</string>
     <string name="vcard_import_failed">Не вдалося імпортувати дані vCard.</string>
@@ -267,9 +303,9 @@
     <string name="call_disambig_title">Виклик</string>
     <string name="call_settings">Налаштування</string>
     <string name="sms_disambig_title">Відправити SMS за допомогою</string>
-    <string name="make_primary">Запам’ятати вибране</string>
+    <string name="make_primary">Запам`ятати вибране</string>
     <string name="quickcontact_missing_app">Дія не підтримується ні в одному додатку.</string>
-    <string name="missing_name">Ім’я не вказано</string>
+    <string name="missing_name">Ім`я не вказано</string>
     <string name="menu_accounts">Акаунти</string>
     <string name="menu_contacts_filter">Фільтр контактів</string>
     <string name="menu_import_export">Імпорт/експорт</string>
@@ -278,7 +314,7 @@
     <string name="menu_all_contacts">Всі контакти</string>
     <string name="share_via">Спосіб надсилання</string>
     <string name="share_error">Не вдалося передати дані.</string>
-    <string name="nameLabelsGroup">Ім’я</string>
+    <string name="nameLabelsGroup">Ім`я</string>
     <string name="nicknameLabelsGroup">Псевдонім</string>
     <string name="organizationLabelsGroup">Організація</string>
     <string name="websiteLabelsGroup">Веб-сайт</string>
@@ -289,7 +325,7 @@
     <string name="dialog_new_group_account">Створення групи в записі</string>
     <string name="menu_sync_remove">Видалити групу синхронізації</string>
     <string name="dialog_sync_add">Додати групу синхронізації</string>
-    <string name="display_more_groups">Інші групи...</string>
+    <string name="display_more_groups">Інші групи…</string>
     <string name="display_ungrouped">Всі інші контакти</string>
     <string name="display_all_contacts">Всі контакти</string>
     <string name="display_warn_remove_ungrouped">Разом з групою \"%s\" перестануть синхронізувати контакти, не додані до групи.</string>
@@ -303,7 +339,7 @@
     <string name="sms_fax_home">SMS: будинок. факс</string>
     <string name="sms_pager">SMS: пейджер</string>
     <string name="sms_other">Відправити SMS</string>
-    <string name="sms_callback">SMS: номер зворотного дзвінка</string>
+    <string name="sms_callback">SMS: номер зворотного виклика</string>
     <string name="sms_car">SMS: тел. в машині</string>
     <string name="sms_company_main">SMS: тел. офісу</string>
     <string name="sms_isdn">SMS: номер ISDN</string>
@@ -346,18 +382,18 @@
     <string name="postal_region">Регіон</string>
     <string name="postal_postcode">Поштовий індекс</string>
     <string name="postal_country">Країна</string>
-    <string name="full_name">Ім’я</string>
-    <string name="name_given">Ім’я</string>
+    <string name="full_name">Ім`я</string>
+    <string name="name_given">Ім`я</string>
     <string name="name_family">Прізвище</string>
     <string name="name_prefix">Префікс імені</string>
     <string name="name_middle">По батькові</string>
     <string name="name_suffix">Суфікс імені</string>
-    <string name="name_phonetic_given">Ім’я (транскрипція)</string>
+    <string name="name_phonetic_given">Ім`я (транскрипція)</string>
     <string name="name_phonetic_middle">По батькові (транскрипція)</string>
     <string name="name_phonetic_family">Прізвище (транскрипція)</string>
-    <string name="name_phonetic">Ім’я (транскрипція)</string>
-    <string name="connections">Зв’язок</string>
-    <string name="add_connection_button">Додати зв’язок</string>
+    <string name="name_phonetic">Ім`я (транскрипція)</string>
+    <string name="connections">Зв`язок</string>
+    <string name="add_connection_button">Додати зв`язок</string>
     <string name="recent">Останні</string>
     <string name="recent_updates">Останні оновлення</string>
     <string name="account_type_format">Контакт %1$s</string>
@@ -370,7 +406,7 @@
     <string name="display_options_sort_by_given_name">По імені</string>
     <string name="display_options_sort_by_family_name">За прізвищем</string>
     <string name="display_options_view_names_as">Показувати в контактах</string>
-    <string name="display_options_view_given_name_first">Спочатку ім’я</string>
+    <string name="display_options_view_given_name_first">Спочатку ім`я</string>
     <string name="display_options_view_family_name_first">Спочатку прізвище</string>
     <string name="take_photo">Сфотографувати</string>
     <string name="take_new_photo">Сфотографувати (заново)</string>
@@ -380,7 +416,7 @@
     <string name="upgrade_in_progress">Контакт-лист оновлюється.</string>
     <string name="upgrade_out_of_memory">"Контакти оновлюються. 
 
-Для оновлення потрібно близько %s МБ внутрішньої пам’яті телефону. 
+Для оновлення потрібно близько %s МБ внутрішньої пам`яті телефону. 
 
 Виберіть один з наступних варіантів:"</string>
     <string name="upgrade_out_of_memory_uninstall">Видалити деякі програми</string>
@@ -401,14 +437,14 @@
     <string name="description_star">обране</string>
     <string name="edit_contact">Змінити контакт</string>
     <string name="local_invisible_directory">Інше</string>
-    <string name="aggregation_suggestion_join_dialog_message">Об’єднати поточний контакт з вибраним контактом?</string>
+    <string name="aggregation_suggestion_join_dialog_message">Об`єднати поточний контакт з вибраним контактом?</string>
     <string name="aggregation_suggestion_edit_dialog_message">Перейти на редагування вибраного контакту? Введена інформація буде скопійована.</string>
     <string name="menu_copyContact">Копіювати в \"Мої контакти\"</string>
     <string name="add_to_my_contacts">Додати в \"Мої контакти\"</string>
     <string name="contact_directory_description">Каталог %1$s</string>
     <string name="directory_search_label">Каталог</string>
     <string name="local_search_label">Всі контакти</string>
-    <string name="toast_making_personal_copy">Копіювання...</string>
+    <string name="toast_making_personal_copy">Копіювання…</string>
     <string name="list_filter_all_accounts">Всі контакти</string>
     <string name="list_filter_all_starred">Позначені</string>
     <string name="list_filter_custom">Користувальницькі</string>
@@ -416,7 +452,7 @@
     <string name="list_filter_phones">Всі контакти з номерами телефонів</string>
     <string name="list_filter_single">Контакт</string>
     <string name="custom_list_filter">Налаштування відображення</string>
-    <string name="contact_list_loading">Завантаження...</string>
+    <string name="contact_list_loading">Завантаження…</string>
     <string name="activity_title_settings">Налаштування</string>
     <string name="activity_title_contacts_filter">Фільтр контактів</string>
     <string name="menu_settings">Налаштування</string>
@@ -428,14 +464,14 @@
     <string name="non_phone_close">Закрити</string>
     <string name="date_year_toggle">Вказати рік</string>
     <string name="social_widget_label">Контакт</string>
-    <string name="social_widget_loading">Завантаження...</string>
+    <string name="social_widget_loading">Завантаження…</string>
     <string name="contacts_unavailable_create_contact">Створити новий контакт</string>
     <string name="contacts_unavailable_add_account">Увійдіть у свій обліковий запис</string>
     <string name="contacts_unavailable_import_contacts">Імпорт контактів з файлу</string>
     <string name="create_group_dialog_title">Створення нової групи</string>
     <string name="create_group_item_label">Створити нову групу</string>
     <string name="delete_group_dialog_message">Видалити групу \"%1$s\"? (контакти не будуть видалені)</string>
-    <string name="toast_join_with_empty_contact">Введіть ім’я контакту, який потрібно об’єднати.</string>
+    <string name="toast_join_with_empty_contact">Введіть ім`я контакту, який потрібно об`єднати.</string>
     <string name="copy_text">Копіювати в буфер обміну</string>
     <string name="set_default">Встановити за замовчуванням</string>
     <string name="clear_default">Видалити налаштування за замовчуванням</string>
@@ -443,13 +479,13 @@
     <string name="cancel_confirmation_dialog_message">Скасувати Ваші зміни?</string>
     <string name="call_type_and_date">%1$s %2$s</string>
     <string name="profile_display_name">Налаштувати профіль</string>
-    <string name="enter_contact_name">Ім’я контакту</string>
+    <string name="enter_contact_name">Ім`я контакту</string>
     <string name="view_updates_from_group">Оновлення</string>
     <string name="notification_voicemail_callers_list">%1$s %2$s</string>
     <string name="notification_new_voicemail_ticker">Нове гол. повідомлення: %1$s</string>
     <string name="voicemail_playback_error">Не вдалося відтворити повідомлення.</string>
-    <string name="voicemail_buffering">Буферизація...</string>
-    <string name="voicemail_fetching_content">Отримання голосової пошти...</string>
+    <string name="voicemail_buffering">Буферизація…</string>
+    <string name="voicemail_fetching_content">Отримання голосової пошти…</string>
     <string name="voicemail_fetching_timout">Не вдалося отримати голосову пошту.</string>
     <string name="call_log_new_header">Нові</string>
     <string name="call_log_old_header">Раніше</string>
@@ -472,8 +508,8 @@
     <string name="status_away">Відсутній</string>
     <string name="status_busy">Не турбувати</string>
     <string name="description_call_log_play_button">Прослухати голосову пошту</string>
-    <string name="description_call_log_incoming_call">Вхідний дзвінок</string>
-    <string name="description_call_log_outgoing_call">Вихідний дзвінок</string>
+    <string name="description_call_log_incoming_call">Вхідний виклик</string>
+    <string name="description_call_log_outgoing_call">Вихідний виклик</string>
     <string name="description_call_log_missed_call">Пропущений виклик</string>
     <string name="description_call_log_voicemail">Голосова пошта</string>
     <string name="description_add_contact">Додати контакт</string>
@@ -492,7 +528,7 @@
 
 ?\ufffdВсегда мати під рукою оновлені дані ?\ufffdна будь-якому пристрої. 
 ?\ufffdСинхронизировать всі контакти ?\ufffdВы ніколи не втратите їх."</string>
-    <string name="generic_no_account_prompt">Можна втратити телефон, але не контакти... якщо зберігати їх в Інтернеті!</string>
+    <string name="generic_no_account_prompt">Можна втратити телефон, але не контакти… якщо зберігати їх в Інтернеті!</string>
     <string name="generic_no_account_prompt_title">Додати обліковий запис</string>
     <string name="contact_editor_prompt_zero_accounts">Резервна копія нового контакту не буде збережена. Додати обліковий запис для збереження контактів в Інтернеті?</string>
     <string name="contact_editor_prompt_one_account">Контакт буде додано до облікового запису %1$s.</string>
@@ -513,12 +549,12 @@
     <string name="local_account_label">Локальна обліковий запис</string>
     <string name="account_type_sim_label">SIM-карта</string>
     <string name="account_type_usim_label">USIM-карта</string>
-    <string name="removing_group_member">Видалення членів групи...</string>
+    <string name="removing_group_member">Видалення членів групи…</string>
     <string name="move_contacts_to">Перемістити контакти</string>
     <string name="menu_move_group">Перемістити членів групи</string>
     <string name="menu_message_group">Надіслати групове повідомлення</string>
     <string name="menu_email_group">Відправити групове ел. лист</string>
-    <string name="moving_group_members">Переміщення членів групи...</string>
+    <string name="moving_group_members">Переміщення членів групи…</string>
     <string name="removing_group_members_sucess">Члени групи видалені</string>
     <string name="removing_group_members_fail">Збій видалення членів групи</string>
     <string name="moving_group_members_sucess">Члени групи переміщені</string>
@@ -526,14 +562,14 @@
     <string name="no_valid_number_in_group">У цій групі немає контакту з допустимим номером телефону</string>
     <string name="no_valid_email_in_group">У цій групі немає контакту з допустимим адресою ел. пошти</string>
     <string name="email_error">Необхідно встановити програму електронної пошти або налаштувати обліковий запис!</string>
-    <string name="usim_group_name_exceed_limit">Занадто довге ім’я групи для USIM-карти</string>
+    <string name="usim_group_name_exceed_limit">Занадто довге ім`я групи для USIM-карти</string>
     <string name="usim_group_count_exceed_limit">Неможливо додати нові групи в дану USIM-картку</string>
     <string name="usim_group_name_exceed_limit_export">Контакти із занадто довгими іменами груп не можна імпортувати в USIM-картку</string>
     <string name="usim_group_count_exceed_limit_export">Контакти з додатковими новими групами, що перевищують верхнє обмеження, не можна імпортувати в дану USIM-карти</string>
-    <string name="usim_group_exceed_limit_export">Контакти із занадто довгим ім’ям групи або з додатковими новими групами, що перевищують верхнє обмеження, не можна імпортувати в дану USIM-карти</string>
-    <string name="name_needed">Необхідно вказати ім’я</string>
+    <string name="usim_group_exceed_limit_export">Контакти із занадто довгим ім`ям групи або з додатковими новими групами, що перевищують верхнє обмеження, не можна імпортувати в дану USIM-карти</string>
+    <string name="name_needed">Необхідно вказати ім`я</string>
     <string name="save_group_fail">Збій збереження групи</string>
-    <string name="group_name_exists">Таке ім’я вже існує</string>
+    <string name="group_name_exists">Таке ім`я вже існує</string>
     <string name="group_discard_member">Скасувати</string>
     <string name="group_discard_member_reason">зміни будуть проігноровані, так як у нього немає допустимої групи.</string>
     <string name="import_export_title">Імпорт/Експорт</string>
@@ -563,7 +599,7 @@
     <string name="menu_delete">Видалити ланцюжок</string>
     <string name="menu_view">Перегляд ланцюжка</string>
     <string name="menu_debug_dump">НАЛАГОДЖЕННЯ ДАМПА</string>
-    <string name="refreshing">Оновлення...</string>
+    <string name="refreshing">Оновлення…</string>
     <string name="has_draft">Чернетка</string>
     <string name="no_subject_view">(Без теми)</string>
     <string name="messagelist_sender_self">Я</string>
@@ -580,7 +616,7 @@
     <string name="delete_thread">Видалити ланцюжок</string>
     <string name="menu_forward">Переслати</string>
     <string name="download">Завантажити</string>
-    <string name="downloading">Завантаження...</string>
+    <string name="downloading">Завантаження…</string>
     <string name="inline_subject">&lt;Тема: %s></string>
     <string name="drm_protected_text">* Текст захищено засобами DRM *</string>
     <string name="insufficient_drm_rights">Виявлених прав DRM недостатньо.</string>
@@ -614,7 +650,7 @@
     <string name="all_threads">Всі ланцюжки</string>
     <string name="type_to_compose_text_enter_to_send">Введіть повідомлення</string>
     <string name="open_keyboard_to_compose_message">Відкрийте клавіатуру, щоб ввести повідомлення</string>
-    <string name="compressing">Зображення занадто велике. Виконується стиснення...</string>
+    <string name="compressing">Зображення занадто велике. Виконується стиснення…</string>
     <string name="unsupported_media_format">Непідтримуваний формат %1$s</string>
     <string name="select_different_media">Змініть вибір: %1$s.</string>
     <string name="exceed_message_size_limitation">Досягнуто максимального розміру повідомлення.</string>
@@ -633,9 +669,9 @@
     <string name="invalid_recipient_message">Вкажіть одержувача(ів) правильно. Без цього повідомлення не буде доставлено.</string>
     <string name="cannot_send_message">Повідомлення про помилку</string>
     <string name="cannot_send_message_reason">Не вказано жодного реального одержувача.</string>
-    <string name="cannot_forward_drm_obj">Пересилання DRM-об’єкта з цього повідомлення неможлива.</string>
-    <string name="converting_to_picture_message">Перетворення повідомлення MMS...</string>
-    <string name="converting_to_text_message">Перетворення в SMS повідомлення...</string>
+    <string name="cannot_forward_drm_obj">Пересилання DRM-об`єкта з цього повідомлення неможлива.</string>
+    <string name="converting_to_picture_message">Перетворення повідомлення MMS…</string>
+    <string name="converting_to_text_message">Перетворення в SMS повідомлення…</string>
     <string name="cannot_add_slide_anymore">Більше не можна додати слайдів.</string>
     <string name="cannot_add_picture_and_video">Можна додати на слайд і зображення, і відео.</string>
     <string name="cannot_save_message">Не вдається зберегти повідомлення.</string>
@@ -735,7 +771,7 @@
     <string name="menu_delete_messages">Видалити повідомлення</string>
     <string name="menu_lock">У вибране</string>
     <string name="menu_unlock">З обраного</string>
-    <string name="sim_copy_to_phone_memory">Копіювати в пам’ять телефону</string>
+    <string name="sim_copy_to_phone_memory">Копіювати в пам`ять телефону</string>
     <string name="sim_delete">Видалити</string>
     <string name="sim_manage_messages_title">Текстові повідомлення на SIM-картці</string>
     <string name="sim_view">Перегляд</string>
@@ -766,8 +802,8 @@
     <string name="notification_failed_multiple_title">Повідомлення відправлено</string>
     <string name="sim_full_title">SIM-картка заповнена</string>
     <string name="sim_full_body">Видаліть кілька повідомлень, щоб звільнити місце.</string>
-    <string name="sms_full_title">Пам’ять для текстових повідомлень переповнена.</string>
-    <string name="sms_full_body">Вхідне повідомлення відхилено через переповнення пам’яті. Видаліть старі повідомлення.</string>
+    <string name="sms_full_title">Пам`ять для текстових повідомлень переповнена.</string>
+    <string name="sms_full_body">Вхідне повідомлення відхилено через переповнення пам`яті. Видаліть старі повідомлення.</string>
     <string name="sms_rejected_title">SMS відхилено.</string>
     <string name="sms_rejected_body">Вхідне повідомлення відхилено з невідомої причини.</string>
     <string name="type_audio">Аудіо</string>
@@ -775,7 +811,7 @@
     <string name="type_video">Відео</string>
     <string name="confirm">Підтвердити</string>
     <string name="message_send_read_report">Буде відправлено звіт про прочитання.</string>
-    <string name="message_queued">У даний момент відправити повідомлення неможливо. Повідомлення буде відправлено, коли з’явиться доступ до служби.</string>
+    <string name="message_queued">У даний момент відправити повідомлення неможливо. Повідомлення буде відправлено, коли з`явиться доступ до служби.</string>
     <string name="fdn_check_failure">Ви можете відправляти повідомлення на номери зі свого списку номерів фіксованого набору.</string>
     <string name="no_subject">(Без теми)</string>
     <string name="unknown_sender">Невідомий відправник</string>
@@ -819,9 +855,9 @@
     <string name="storage_limits_setting">Встановити обмеження</string>
     <string name="storage_limits_setting_dismiss">Немає обмежень</string>
     <string name="too_many_unsent_mms">Не вдається відправити повідомлення. Занадто багато невідправлених ПОВІДОМЛЕНЬ.</string>
-    <string name="sending_message">Відправка...</string>
+    <string name="sending_message">Відправка…</string>
     <string name="pick_too_many_recipients">Занадто багато одержувачів</string>
-    <string name="adding_recipients">Додавання одержувачів...</string>
+    <string name="adding_recipients">Додавання одержувачів…</string>
     <string name="draft_separator">", "</string>
     <string name="message_count_format">%1$s</string>
     <string name="error_state">Помилкове стан</string>
@@ -893,7 +929,7 @@
     <string name="save_message_to_sim_successful">Збереження виконано</string>
     <string name="save_message_to_sim_unsuccessful">Збереження не виконано</string>
     <string name="transmission_transiently_failed">Помилка передачі даних. Спроба буде повторена пізніше.</string>
-    <string name="download_failed_due_to_full_memory">Збій завантаження повідомлення через переповнення пам’яті.</string>
+    <string name="download_failed_due_to_full_memory">Збій завантаження повідомлення через переповнення пам`яті.</string>
     <string name="mms_too_big_to_download">Повідомлення занадто велике для завантаження з мережі</string>
     <string name="menu_reply">Відповідь</string>
     <string name="menu_sim_sms">SMS на SIM</string>
@@ -911,8 +947,8 @@
     <string name="mms_priority_label">Пріоритет</string>
     <string name="menu_retry_sending">Спробувати відправити повторно</string>
     <string name="menu_retry_sending_all">Спробувати відправити повторно всі повідомлення</string>
-    <string name="retrying_dialog_body">"Надіслати повідомлення %s не вдалося з-за проблем зі з’єднанням. 
-Повторна відправка..."</string>
+    <string name="retrying_dialog_body">"Надіслати повідомлення %s не вдалося з-за проблем зі з`єднанням. 
+Повторна відправка…"</string>
     <string name="status_expired">Закінчився термін дії</string>
     <string name="status_deferred">Відкладено</string>
     <string name="status_unrecognized">Не розпізнано</string>
@@ -927,7 +963,7 @@
     <string name="edit_text_activity">Змінити текст</string>
     <string name="pick_numbers_activity">Вибрати номери</string>
     <string name="send_using_mms_activity">Відправити як MMS</string>
-    <string name="select_contact_method_activity">Вибрати спосіб зв’язку</string>
+    <string name="select_contact_method_activity">Вибрати спосіб зв`язку</string>
     <string name="fdn_enabled">FDN увімкнено</string>
     <string name="cannot_send_message_reason_no_content">Немає матеріалу для відсилання</string>
     <string name="cb_read_message">Читати деталі. повідомлення</string>
@@ -956,7 +992,7 @@
     <string name="strOk">Повідомлення відправлено</string>
     <string name="strFail">Збій відправлення повідомлення</string>
     <string name="menu_insert_text_vcard">Додати контакт</string>
-    <string name="contact_name">Ім’я</string>
+    <string name="contact_name">Ім`я</string>
     <string name="contact_tel">Телефон</string>
     <string name="contact_email">Електронна пошта</string>
     <string name="contact_organization">Організація</string>
@@ -995,8 +1031,8 @@
     <string name="pref_summary_export_msg">Експорт SMS на SD-карту</string>
     <string name="pref_title_export_msg">Експорт SMS</string>
     <string name="no_sd_card">SD-карта не готова</string>
-    <string name="export_message_ongoing">Експорт SMS на SD-карту, чекайте...</string>
-    <string name="import_message_ongoing">Імпорт SMS з SD-карти, чекайте...</string>
+    <string name="export_message_ongoing">Експорт SMS на SD-карту, чекайте…</string>
+    <string name="import_message_ongoing">Імпорт SMS з SD-карти, чекайте…</string>
     <string name="export_message_success">Експорт SMS на SD-карту виконано</string>
     <string name="import_message_success">Імпорт SMS з SD-карти виконано</string>
     <string name="import_message_fail">Імпорт SMS з SD-карти не вдався</string>
@@ -1016,7 +1052,7 @@
     <string name="file_attachment_import_vcard">Імпорт vCard</string>
     <string name="attach_vcard">Контакт</string>
     <string name="type_common_file">файл</string>
-    <string name="please_wait">Чекайте...</string>
+    <string name="please_wait">Чекайте…</string>
     <string name="failed_to_parse_vcard">Не вдалося обробити файл vCard!</string>
     <string name="empty_vcard">Немає контактів vCard</string>
     <string name="parse_vcard">Обробка vCard</string>
@@ -1084,7 +1120,7 @@
     <string name="deleteSelectedConfirmation">Вибрані контакти будуть видалені</string>
     <string name="label_my_card">Моя візитка</string>
     <string name="showFilterPhones">Контакти з телефонами</string>
-    <string name="menu_merge_duplicated">Об’єднані повторювані контакти</string>
+    <string name="menu_merge_duplicated">Об`єднані повторювані контакти</string>
     <string name="menu_del_contacts">Видалення контактів</string>
     <string name="prefs_contact_management_title">Керування контактами</string>
     <string name="contacts_account_settings_label">Налаштування облікового запису</string>
@@ -1105,7 +1141,7 @@
     <string name="toast_no_profile">Будь ласка, додайте інформацію!</string>
     <string name="add_to_blacklist">Додати в чорний список</string>
     <string name="clear_from_blacklist">Видалити з чорного списку</string>
-    <string name="addblack_dec">Зауваження (необов’язково)</string>
+    <string name="addblack_dec">Зауваження (необов`язково)</string>
     <string name="importsms_black">Імпорт SMS на номер</string>
     <string name="menu_manually_refresh">Оновити</string>
     <string name="prompt_nerwork_offline">Помилка оновлення, перевірте мережа</string>
@@ -1156,7 +1192,7 @@
     <string name="sms_backup_location">Місце для резервних копій SMS</string>
     <string name="sms_send_count_limit">Надіслати повідомлення можна тільки вибрати один з 100 контактів</string>
     <string name="mms_lewa_easter_eggs">З Новим роком!</string>
-    <string name="hint">Рядок для відповіді...</string>
+    <string name="hint">Рядок для відповіді…</string>
     <string name="reply">Відповідь</string>
     <string name="choosesms">Вибрати загальне повідомлення</string>
     <string name="alter_title">Корисні поради</string>
@@ -1165,8 +1201,8 @@
     <string name="alter_successed_toast">Успішно видалено</string>
     <string name="alter_negtive">Скасувати</string>
     <string name="replycontent">Вміст не може бути порожнім</string>
-    <string name="message_ims_sending_string">Відправити Wassage.......</string>
-    <string name="message_sending_string">Відправка повідомлення...</string>
+    <string name="message_ims_sending_string">Відправити Wassage…….</string>
+    <string name="message_sending_string">Відправка повідомлення…</string>
     <string name="pref_key_sms_realtime_dialog">Спливаючі SMS</string>
     <string name="pref_key_sms_realtime_summary_dialog">Автоматично виводити отримані повідомлення у спливаючому вікні</string>
     <string name="menu_unread_all">Всі непрочитано</string>
@@ -1185,7 +1221,7 @@
     <string name="add_quick_text">Додати</string>
     <string name="menu_delete_quick_text">Видалити</string>
     <string name="menu_select_quick_text">Швидкий текст вибрано</string>
-    <string name="mms_load_contacts_name">...</string>
+    <string name="mms_load_contacts_name">…</string>
     <string name="mms_notification_no_subject">Немає теми</string>
     <string name="mms_fei_xing_title">[Fei Xing]</string>
     <string name="mms_timer_dialog_title">Встановити час відправки SMS</string>
@@ -1214,7 +1250,7 @@
 
 По-друге, витрати: 
 
-Ви повинні заплатити власним інтернет або третіх осіб (включаючи, але не обмежуючись, телекомунікацій або оператора мобільного зв’язку) Плата зв’язку заряд, збір інформації та інші супутні витрати. Як пов’язаної з доданою вартістю послуг зв’язку, ми рекомендуємо вам і податок на додану постачальника послуг для підтвердження відповідних витрат. Будь-яке оновлення програмного забезпечення, оновлення та інші зміни будуть предметом цієї угоди. 
+Ви повинні заплатити власним інтернет або третіх осіб (включаючи, але не обмежуючись, телекомунікацій або оператора мобільного зв`язку) Плата зв`язку заряд, збір інформації та інші супутні витрати. Як пов`язаної з доданою вартістю послуг зв`язку, ми рекомендуємо вам і податок на додану постачальника послуг для підтвердження відповідних витрат. Будь-яке оновлення програмного забезпечення, оновлення та інші зміни будуть предметом цієї угоди. 
 
 Три, захист конфіденційності 
 
@@ -1247,7 +1283,7 @@
     <string name="mms_video_message_text">Відео</string>
     <string name="mms_ims_menu_mode_in_call">Режим виклику</string>
     <string name="mms_ims_menu_mode_in_normal">Нормальний режим</string>
-    <string name="mms_ims_open_wait">Відкриваю вільну інформацію, будь ласка, почекайте ......</string>
+    <string name="mms_ims_open_wait">Відкриваю вільну інформацію, будь ласка, почекайте ……</string>
     <string name="prefs_ims_service_title">Сервіс безкоштовних повідомлень</string>
     <string name="mms_ims_attachment_type_error">Мультимедійне додаток не підтримує відправку листів LEWA.</string>
     <string name="mms_attachment_type_error">Мультимедійне додаток не підтримує MMS.</string>
@@ -1274,7 +1310,7 @@
     <string name="ip_prefix_sim1_description">IP-префікс</string>
     <string name="ip_prefix_sim2_description">IP-префікс для SIM2</string>
     <string name="auto_ip_call_headline">IP-виклик</string>
-    <string name="auto_ip_call_description">Автоматично додавати IP-номер під час звичайного дзвінка</string>
+    <string name="auto_ip_call_description">Автоматично додавати IP-номер під час звичайного виклика</string>
     <string name="my_number_location_description">Мій порядковий номер</string>
     <string name="other_ip_prefix">Інші IP-префікси</string>
     <string name="sim_card_1">sim1</string>
@@ -1290,8 +1326,8 @@
     <string name="add_number">Додати номер</string>
     <string name="ip_menu_modify">Змінити</string>
     <string name="ip_menu_delete">Видалити</string>
-    <string name="contact_name_hint">Ім’я контакту</string>
-    <string name="modify_description">Змінити ім’я контакту</string>
+    <string name="contact_name_hint">Ім`я контакту</string>
+    <string name="modify_description">Змінити ім`я контакту</string>
     <string name="delete_description">Дійсно хочете видалити?</string>
     <string name="contact_item_delete_error">Помилка видалення</string>
     <string name="menu_call_via_another_slot">Подзвонити з іншого SIM</string>
@@ -1302,7 +1338,7 @@
     <string name="login_lewa">Необхідно зайти в Lewa-запис</string>
     <string name="dialpad_empty_text">Список викликів порожній</string>
     <string name="message_empty_text">Повідомлення відсутні</string>
-    <string name="contact_delteing">Контакти видаляються...</string>
+    <string name="contact_delteing">Контакти видаляються…</string>
     <string name="gemini_sim_management_title">Керування SIM-картами</string>
     <string name="single_hand_dialpad_open">Включити набір однією рукою</string>
     <string name="single_hand_dialpad_close">Вимкнути набір однією рукою</string>
@@ -1318,7 +1354,7 @@
     <string name="store_in_simCard">Зберегти на SIM</string>
     <string name="store_in_usimCard">Зберегти на USIM</string>
     <string name="store_in_google_account">Зберігати в обліковому записі Google</string>
-    <string name="position_change_warning">Зберігати тільки ім’я і телефон при зміні місця зберігання на SIM</string>
+    <string name="position_change_warning">Зберігати тільки ім`я і телефон при зміні місця зберігання на SIM</string>
     <string name="no_content_saved">Інформація не збережено!</string>
     <string name="add_more_info_title">Додати дані</string>
     <string name="no_more_info_add">Немає більше інформації для додавання</string>
@@ -1350,7 +1386,7 @@
     <string name="import_from_sim_choose_account">Імпорт контактів з SIM-карти під обліковим записом</string>
     <string name="export_to_sim_choose_account">Експорт контактів з SIM-карти під обліковим записом</string>
     <string name="sim_has_no_data">На обраній SIM-карті немає контактів</string>
-    <string name="storage_phone">Пам’ять телефону</string>
+    <string name="storage_phone">Пам`ять телефону</string>
     <string name="storage_full_toast">Недостатньо місця</string>
     <string name="group_member">Члени групи</string>
     <string name="send_contact_info">Відправити інформацію про контакт</string>
@@ -1392,7 +1428,7 @@
     <string name="cancel_import_confirmation_title">Скасувати імпорту vCard</string>
     <string name="cancel_export_confirmation_title">Скасувати експорту vCard</string>
     <string name="search_bar_hint">Пошук контактів</string>
-    <string name="aggregation_suggestion_join_dialog_title">Об’єднати контакти</string>
+    <string name="aggregation_suggestion_join_dialog_title">Об`єднати контакти</string>
     <string name="aggregation_suggestion_edit_dialog_title">Редагувати вибрані контакти</string>
     <string name="organization_company_and_title">%2$s, %1$s</string>
     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
@@ -1413,7 +1449,7 @@
     <string name="call_via_sim2">Зателефонувати через SIM2</string>
     <string name="choose_sim_header">Вибрати SIM-карту</string>
     <string name="choose_resources_header">Вибір ресурсів</string>
-    <string name="choose_call_type_header">Вибрати тип дзвінка</string>
+    <string name="choose_call_type_header">Вибрати тип виклика</string>
     <string name="all_tab_label">Всі</string>
     <string name="all_tab_label1">Всі</string>
     <string name="call_log_item_count">(%1$d)</string>
@@ -1425,7 +1461,7 @@
     <string name="call_people">Люди</string>
     <string name="call_ip_dial">IP-виклик</string>
     <string name="call_speed_dial">Швидкий набір</string>
-    <string name="call_video_call">Відеодзвінок</string>
+    <string name="call_video_call">Відеовиклик</string>
     <string name="emergency_number">Номер екстреної служби</string>
     <string name="menu_speed_dial">Швидкий набір</string>
     <string name="speed_dial_manage">Швидкий набір</string>
@@ -1444,7 +1480,7 @@
     <string name="associate_sim_missing_other">Зателефонувати</string>
     <string name="sim_manage_call_via">Виклик через</string>
     <string name="callFailed_simError">Немає SIM-карти або помилка SIM-карти</string>
-    <string name="ip_dial_error_toast_for_no_ip_prefix_number">Спочатку введіть IP-префікс у налаштуваннях голосових дзвінків</string>
+    <string name="ip_dial_error_toast_for_no_ip_prefix_number">Спочатку введіть IP-префікс у налаштуваннях голосових викликів</string>
     <string name="ip_dial_error_toast_for_sip_call_selected">Функція IP-виклику не застосовна до викликів через Інтернет</string>
     <string name="speed_dial_view">Додати швидкого набору</string>
     <string name="assign_to_speed_dial">Призначення для швидкого набору</string>
@@ -1458,17 +1494,17 @@
     <string name="calllog_today">Сьогодні</string>
     <string name="calllog_yesterday">Вчора</string>
     <string name="calllog_beforeyesterday">Раніше</string>
-    <string name="menu_association">Прив’язка SIM-карти</string>
-    <string name="menu_remove_association">Зняти прив’язку SIM-карти</string>
-    <string name="remove_association_message">Зняти прив’язку SIM-карти до цього номера?</string>
+    <string name="menu_association">Прив`язка SIM-карти</string>
+    <string name="menu_remove_association">Зняти прив`язку SIM-карти</string>
+    <string name="remove_association_message">Зняти прив`язку SIM-карти до цього номера?</string>
     <string name="remove_number_title">Видалити</string>
-    <string name="warning_detail">Прив’язка SIM-карти призведе до імпорту контакт телефону. Виконати прив’язку SIM-карти?</string>
-    <string name="associatiated_SIM">Прив’язана SIM-карта</string>
-    <string name="unassociated">Без прив’язки</string>
-    <string name="associate_SIM">Прив’язана SIM-карта</string>
-    <string name="block_incoming_call">Безпосередня блокування вхідних дзвінків</string>
-    <string name="block_voice_incoming_call">Безпосередня блокування вхідних голосових дзвінків</string>
-    <string name="block_video_incoming_call">Безпосередня блокування вхідних відеодзвінків</string>
+    <string name="warning_detail">Прив`язка SIM-карти призведе до імпорту контакт телефону. Виконати прив`язку SIM-карти?</string>
+    <string name="associatiated_SIM">Прив`язана SIM-карта</string>
+    <string name="unassociated">Без прив`язки</string>
+    <string name="associate_SIM">Прив`язана SIM-карта</string>
+    <string name="block_incoming_call">Безпосередня блокування вхідних викликів</string>
+    <string name="block_voice_incoming_call">Безпосередня блокування вхідних голосових викликів</string>
+    <string name="block_video_incoming_call">Безпосередня блокування вхідних відеовикликів</string>
     <string name="menu_multichoice_title">Імпорт/Експорт</string>
     <string name="menu_actionbar_selected_items">%s Вибрано</string>
     <string name="menu_multichoice_select_all">Вибрати все</string>
@@ -1489,7 +1525,7 @@
     <string name="msg_loading_sim_contacts_toast">Завантаження SIM-контактів у фоновому режимі, трохи почекайте.</string>
     <string name="fix_number_too_long">Занадто довгий номер фіксованого набору.</string>
     <string name="name_too_long">Надто довга назва.</string>
-    <string name="storage_full">Пам’ять заповнена.</string>
+    <string name="storage_full">Пам`ять заповнена.</string>
     <string name="number_too_long">Занадто довгий номер.</string>
     <string name="generic_failure">Загальний збій.</string>
     <string name="send_groupsms_no_number_more">Для кількох контактів %1$s %2$s відсутня допустимий номер телефону.</string>
@@ -1498,7 +1534,7 @@
     <string name="send_groupsms_no_email_more">%1$s %2$s більше контактів не мають допустимого адреси пошти</string>
     <string name="send_groupsms_no_email_1">%1$s не має допустимого адреси пошти</string>
     <string name="send_groupsms_no_email_2">%1$s %2$s не мають допустимого адреси пошти</string>
-    <string name="notifier_failure_by_sim_full" formatted="false">"Збій через заповнення пам’яті SIM-карти 
+    <string name="notifier_failure_by_sim_full" formatted="false">"Збій через заповнення пам`яті SIM-карти 
 Виконано: %d 
 Не виконано: %d"</string>
     <string name="notification_failure_by_sim_full" formatted="false">"Хранлище SIM заповнено %d 
@@ -1527,24 +1563,24 @@
     <string name="multichoice_delete_confirm_message_with_sim">Дійсно видалити вибраний(е) контакт(и)(включаючи контакти на SIM/USIM)?</string>
     <string name="multichoice_delete_confirm_title">Видалити контакт(и)?</string>
     <string name="multichoice_contacts_limit">Обраних контактів не може бути більше, ніж 5000</string>
-    <string name="phone_storage_full_create">Пам’ять телефону заповнена, створення нового контакту неможливо.</string>
-    <string name="phone_storage_full_edit">Пам’ять телефону заповнена, редагування контакту неможливо.</string>
+    <string name="phone_storage_full_create">Пам`ять телефону заповнена, створення нового контакту неможливо.</string>
+    <string name="phone_storage_full_edit">Пам`ять телефону заповнена, редагування контакту неможливо.</string>
     <string name="add_SIP_to_sim">Неможливо додати номер SIP для контакту SIM/USIM.</string>
     <string name="already_has_SIP">Неможливо додати два номери SIP контакту, якщо вам потрібно продовжити. Спочатку видаліть колишній номер SIP.</string>
     <string name="search_results_for">Результати пошуку для: %s</string>
     <string name="listFoundAllCalllogZero">Виклик в журналі не знайдено</string>
     <string name="calllogList">Журнал викликів</string>
-    <string name="calllogHint">Пошук дзвінків в журналі</string>
+    <string name="calllogHint">Пошук викликів в журналі</string>
     <string name="calllog_description">Вхідні, вихідні та пропущені виклики</string>
     <string name="noMatchingCalllogs">Відповідний виклик не знайдено в журналі.</string>
-    <string name="menu_videocallNumber">Відеодзвінок: %s</string>
+    <string name="menu_videocallNumber">Відеовиклик: %s</string>
     <string name="menu_ipcallNumber">IP-виклик %s</string>
-    <string name="deleting_call_log">Видалення журналу викликів...</string>
+    <string name="deleting_call_log">Видалення журналу викликів…</string>
     <string name="no_vm_number">Не вказано номер голосової пошти</string>
     <string name="no_vm_number_msg">На SIM-карті немає жодного номера голосової пошти.</string>
     <string name="add_vm_number_str">Додати номер</string>
     <string name="reminder">Нагадування</string>
-    <string name="enable_sip_dialog_message">Інтернет-дзвінки відключені, включити їх?</string>
+    <string name="enable_sip_dialog_message">Інтернет-виклики відключені, включити їх?</string>
     <string name="share_contacts_limit">Кількість контактів для спільного доступу не повинно перевищувати 1000</string>
     <string name="contact_delete_all_tips">У фоновому режимі вже виконується видалення контакту. Якщо ви хочете запустити видалення контакту знову, спочатку зніміть цю операцію.</string>
     <string name="move">Перемістити</string>
@@ -1553,7 +1589,7 @@
     <string name="call_detail_delete_calllog">Видалити вибрані виклики</string>
     <string name="deleteCallLogConfirmation_message">Видалити вибрані виклики?</string>
     <string name="call_detail_deleteConfirmation_message">Ви впевнені, що хочете вилучити вибрані виклики??</string>
-    <string name="file_already_on_sd_card">Файл вже знаходиться на карті пам’яті.</string>
+    <string name="file_already_on_sd_card">Файл вже знаходиться на карті пам`яті.</string>
     <string name="send_file_sms_error">Добававить файл в SMS неможливо,використовуйте MMS.</string>
     <string name="error_save_usim_contact_email_lost">Не вдалося зберегти адресу електронної пошти, так як USIM сховище для електронної пошти заповнено.</string>
     <string name="error_import_usim_contact_email_lost" formatted="false">"Відмова викликана переповненням USIM сховища електронної пошти. 
