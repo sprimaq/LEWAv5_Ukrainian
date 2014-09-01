@@ -506,25 +506,30 @@
     <string name="create_group_item_label">Створити нову групу</string>
     <string name="delete_group_dialog_message">Видалити групу \"%1$s\"? (контакти не будуть видалені)</string>
     <string name="toast_join_with_empty_contact">Введіть ім`я контакту, який потрібно об`єднати.</string>
-    <string name="copy_text">Копіювати в буфер обміну</string>
+    <string name="copy_text">Скопіювати до буферу обміну</string>
     <string name="set_default">Встановити за замовчуванням</string>
     <string name="clear_default">Видалити налаштування за замовчуванням</string>
     <string name="toast_text_copied">Текст скопійовано</string>
-    <string name="cancel_confirmation_dialog_message">Скасувати Ваші зміни?</string>
+    <string name="cancel_confirmation_dialog_message">Скасувати зміни?</string>
     <string name="call_type_and_date">%1$s %2$s</string>
     <string name="profile_display_name">Налаштувати профіль</string>
     <string name="enter_contact_name">Ім`я контакту</string>
     <string name="view_updates_from_group">Оновлення</string>
     <string name="notification_voicemail_callers_list">%1$s %2$s</string>
-    <string name="notification_new_voicemail_ticker">Нове гол. повідомлення: %1$s</string>
+    
+    <string name="notification_new_voicemail_ticker">Нове голосове повідомлення: %1$s</string>
     <string name="voicemail_playback_error">Не вдалося відтворити повідомлення.</string>
     <string name="voicemail_buffering">Буферизація…</string>
     <string name="voicemail_fetching_content">Отримання голосової пошти…</string>
     <string name="voicemail_fetching_timout">Не вдалося отримати голосову пошту.</string>
     <string name="call_log_new_header">Нові</string>
     <string name="call_log_old_header">Раніше</string>
-    <string name="voicemail_status_voicemail_not_available">Не вдалося підключитися до сервера голосової пошти</string>
-    <string name="voicemail_status_messages_waiting">Не вдалося підключитися до сервера голосової пошти. Є нові повідомлення</string>
+    <string name="call_log_voicemail_header">Виклики з голосовою поштою</string>
+    <string name="call_log_incoming_header">Вхідні виклики</string>
+    <string name="call_log_outgoing_header">Вихідні виклики</string>
+    <string name="call_log_missed_header">Пропущенні виклики</string>
+    <string name="voicemail_status_voicemail_not_available">Не вдалося підключитися до серверу голосової пошти</string>
+    <string name="voicemail_status_messages_waiting">Не вдалося підключитися до серверу голосової пошти. Нові повідомлення очікують.</string>
     <string name="voicemail_status_configure_voicemail">Налаштуйте голосову пошту.</string>
     <string name="voicemail_status_audio_not_available">Аудіо недоступно.</string>
     <string name="voicemail_status_action_configure">Налаштування</string>
@@ -534,10 +539,14 @@
     <string name="voicemail_speed_normal">Середня швидкість</string>
     <string name="voicemail_speed_faster">Висока швидкість</string>
     <string name="voicemail_speed_fastest">Максимальна швидкість</string>
+
     <string name="group_name_hint">Назва групи</string>
     <string name="nfc_vcard_file_name">Отримано з NFC</string>
-    <string name="menu_show_voicemails_only">Показати голосові повідомлення</string>
-    <string name="menu_show_all_calls">Показати всі виклики</string>
+    <string name="menu_show_outgoing_only">Відображати лише вихідні виклики</string>
+    <string name="menu_show_incoming_only">Відображати лише вхідні виклики</string>
+    <string name="menu_show_missed_only">Відображати лише пропущені виклики</string>
+    <string name="menu_show_voicemails_only">Відображати лише голосові повідомлення</string>
+    <string name="menu_show_all_calls">Відображати всі виклики</string>
     <string name="status_available">На місці</string>
     <string name="status_away">Відсутній</string>
     <string name="status_busy">Не турбувати</string>
@@ -548,39 +557,40 @@
     <string name="description_call_log_voicemail">Голосова пошта</string>
     <string name="description_add_contact">Додати контакт</string>
     <string name="description_view_contact">Переглянути дані: %1$s</string>
-    <string name="description_call">Зателефонувати: %1$s</string>
+    <string name="description_call">Виклик: %1$s</string>
     <string name="description_send_text_message">Відправити SMS/MMS: %1$s</string>
-    <string name="description_call_log_unheard_voicemail">Непрослушанные повідомлення голосової пошти</string>
+    <string name="description_call_log_unheard_voicemail">Непрослухані повідомлення голосової пошти</string>
     <string name="description_send_message">Відправити SMS/MMS: %1$s</string>
-    <string name="description_dial_phone_number">Зателефонувати, контакт: %1$s</string>
-    <string name="description_quick_contact_for">Швидкий виклик, контакт: %1$s</string>
+    <string name="description_dial_phone_number">Зателефонувати: %1$s</string>
+    <string name="description_quick_contact_for">Швидкий виклик: %1$s</string>
+    
     <string name="user_profile_contacts_list_header">Я</string>
     <string name="local_profile_title">Мій профіль</string>
     <string name="external_profile_title">Мій профіль %1$s</string>
     <string name="toast_displaying_all_contacts">Відображаються всі контакти</string>
-    <string name="no_account_prompt">"Підключіть контакти запис Google: 
+    <string name="no_account_prompt">"Підключіть контакти до облікового запису Google: 
 
-?\ufffdВсегда мати під рукою оновлені дані ?\ufffdна будь-якому пристрої. 
-?\ufffdСинхронизировать всі контакти ?\ufffdВы ніколи не втратите їх."</string>
-    <string name="generic_no_account_prompt">Можна втратити телефон, але не контакти… якщо зберігати їх в Інтернеті!</string>
+?\ufffdОновлені дані завжди під рукою на будь-якому пристрої. 
+?\ufffdСинхронізація контактів дозволить ніколи їх не втратити."</string>
+    <string name="generic_no_account_prompt">Можна згубити телефон, але контакти лишаться… якщо зберігати їх в Інтернеті!</string>
     <string name="generic_no_account_prompt_title">Додати обліковий запис</string>
     <string name="contact_editor_prompt_zero_accounts">Резервна копія нового контакту не буде збережена. Додати обліковий запис для збереження контактів в Інтернеті?</string>
-    <string name="contact_editor_prompt_one_account">Контакт буде додано до облікового запису %1$s.</string>
-    <string name="contact_editor_prompt_multiple_accounts">Виберіть обліковий запис, який слід додати новий контакт.</string>
+    <string name="contact_editor_prompt_one_account">Контакт буде синхронізовано з обліковим записом %1$s.</string>
+    <string name="contact_editor_prompt_multiple_accounts">Виберіть обліковий запис, з яким слід синхронізувати новий контакт.</string>
     <string name="keep_local">Зберегти локально</string>
     <string name="add_account">Додати обліковий запис</string>
     <string name="add_new_account">Додати обліковий запис</string>
-    <string name="dialog_phone_call_prohibited_title">Виклик не здійснюється</string>
-    <string name="dialog_voicemail_not_ready_title">Номер недоступний</string>
-    <string name="dialog_voicemail_not_ready_message">Щоб налаштувати голосову пошту, також виберіть \"Меню</string>
+    <string name="dialog_phone_call_prohibited_title">Виклик не надіслано</string>
+    <string name="dialog_voicemail_not_ready_title">Номер голосової пошту недоступний</string>
+    <string name="dialog_voicemail_not_ready_message">Налаштування голосової пошти здійснюється у \"Меню > Налаштування\"</string>
     <string name="selected_item_count">Вибрано %d</string>
     <string name="recentCalls_delete">Видалити</string>
     <string name="menu_selectAll">Вибрати все</string>
     <string name="account_type_sim">Обліковий запис SIM-карти</string>
     <string name="account_type_usim">Обліковий запис USIM-карти</string>
-    <string name="account_type_local_phone">Локальна обліковий запис телефону</string>
-    <string name="local_account_type">Локальна обліковий запис</string>
-    <string name="local_account_label">Локальна обліковий запис</string>
+    <string name="account_type_local_phone">Локальний обліковий запис телефону</string>
+    <string name="local_account_type">Локальний обліковий запис</string>
+    <string name="local_account_label">Локальний обліковий запис</string>
     <string name="account_type_sim_label">SIM-карта</string>
     <string name="account_type_usim_label">USIM-карта</string>
     <string name="removing_group_member">Видалення членів групи…</string>
