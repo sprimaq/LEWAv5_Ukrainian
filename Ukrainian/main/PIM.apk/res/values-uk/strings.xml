@@ -594,6 +594,7 @@
     <string name="account_type_sim_label">SIM-карта</string>
     <string name="account_type_usim_label">USIM-карта</string>
     <string name="removing_group_member">Видалення членів групи…</string>
+    
     <string name="move_contacts_to">Перемістити контакти</string>
     <string name="menu_move_group">Перемістити членів групи</string>
     <string name="menu_message_group">Надіслати групове повідомлення</string>
