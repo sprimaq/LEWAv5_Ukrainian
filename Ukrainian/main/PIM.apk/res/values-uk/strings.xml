@@ -613,6 +613,7 @@
     <string name="import_export_title">Імпорт/Експорт</string>
     <string name="title_contacts_settings">Налаштування</string>
     <string name="menu_add_to_contacts">Додати до контактів</string>
+    
     <string name="t9_sort_title">Сортування T9</string>
     <string name="t9_sort_summary">Виберіть фільтрування результатів T9</string>
     <string name="t9_sort_name">Спочатку збіг імен</string>
@@ -640,6 +641,9 @@
     <string name="label_loaderframents">Контакт</string>
     <string name="title_stick_photo">Змінити фото контакту</string>
     <string name="message_sd_card_min_size">Бракує місця на SD-карті</string>
+    
+    
+    
     <string name="menu_del_contacts">Видалення контактів</string>
     <string name="move">Перемістити</string>
     <string name="OK">ОК</string>
@@ -650,12 +654,12 @@
     <string name="import_from_sim_contacts">Імпорт контактів з SIM-карти</string>
     <string name="export_to_sdcard_vcf">Експорт контактів у сховище у форматі Vcard</string>
     <string name="export_to_sim_contacts">Експорт контактів на SIM-карту</string>
-    <string name="no_share_contacts">У Вас немає видимих контактів</string>
     <string name="sim_contact_count">Зберігається %s контактів</string>
     <string name="sim_contact_residue_count">%s контактів можна імпортувати</string>
     <string name="import_from_sim_choose_account">Імпорт контактів з SIM-карти під обліковим записом</string>
     <string name="export_to_sim_choose_account">Експорт контактів з SIM-карти під обліковим записом</string>
     <string name="sim_has_no_data">На обраній SIM-карті немає контактів</string>
+    <string name="no_share_contacts">У Вас немає видимих контактів</string>
     <string name="share_contacts_limit">Кількість контактів для спільного доступу не повинно перевищувати 1000</string>
     <string name="label_multiple_delete">Видалити кілька</string>
     <string name="please_wait">Чекайте…</string>
