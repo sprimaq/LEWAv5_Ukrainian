@@ -754,14 +754,57 @@
     <string name="multichoice_delete_group_info_confirm_message">Ви дійсно бажаєте видалити вибрану групу(и) контактів?</string>
     <string name="multichoice_delete_group_info_confirm_title">Видалити з групи контактів?</string>
     <string name="local_device_account_name">Телефон</string>
-
-
-
     <string name="name_needed">Необхідно вказати ім`я</string>
     <string name="save_group_fail">Збій збереження групи</string>
-    <string name="group_name_exists">Таке ім`я вже існує</string>
+    <string name="group_name_exists">Вказане ім`я вже існує</string>
     <string name="group_discard_member">Скасувати</string>
-    <string name="group_discard_member_reason">зміни будуть проігноровані, так як у нього немає допустимої групи.</string>
+    <string name="group_discard_member_reason">Зміни не будуть збережені, оскільки ім’я групи не є допустимим.</string>
+    <string name="msg_loading_sim_contacts_toast">У фоновому режимі триває завантаження контактів з SIM-карти, зачекайте.</string>
+    <string name="cancel_confirmation_dialog_title">Скасувати зміни</string>
+    <string name="menu_delete_group">Вилучити групу</string>
+    <string name="menu_add_group_item">Додати групу</string>
+    <string name="menu_move_group">Перемістити членів групи</string>
+    <string name="menu_message_group">Надіслати групове повідомлення</string>
+    <string name="menu_email_group">Відправити груповий ел.лист</string>
+    <string name="moving_group_members">Переміщення членів групи…</string>
+    <string name="removing_group_member">Видалення членів групи…</string>
+    <string name="usim_group_name_exceed_limit">Занадто довге ім`я групи для USIM-карти</string>
+    <string name="usim_group_count_exceed_limit">Неможливо додати нові групи до даної USIM-карти</string>
+    <string name="delete_group_dialog_title">Видалення групи</string>
+    <string name="multichoice_delete_group_confirm_message">Ви впевнені, що хочете видалити вибрану групу(и)?</string>
+    <string name="has_double_phone_number">Неможливо зберегти двічі номер одного типу, перевірте.</string>
+    <string name="phone_book_busy">Телефонна книга недоступна, спробуйте ще раз пізніше.</string>
+    <string name="sim_invalid">Неможливо зберегти контакт на некоректній SIM-карті.</string>
+    <string name="cannot_insert_null_number">Неможливо зберегти контакт, якщо не введено номер.</string>
+    <string name="AirPlane_mode_on">Неможливо зберегти контакт, коли увімкнено режим У літаку</string>
+    <string name="FDNEnabled">Неможливо зберегти контакт при увімкненому FDN.</string>
+    <string name="sim_invalid_number">Неможливо зберегти некоректний номер.</string>
+    <string name="email_invalid">Неможливо зберегти некоректну адреса ел.пошти</string>
+    <string name="email_2g_invalid">Неможливо зберегти повідомлення ел.пошти на 2G SIM-карту, виберіть для збереження 3G SIM-карту.</string>
+    <string name="sim_invalid_fix_number">Неможливо зберегти некоректний номер фіксованого набору.</string>
+    <string name="AirPlane_mode_on_edit">Неможливо редагувати контакт, коли увімкнено режим У літаку</string>
+    <string name="fix_number_too_long">Занадто довгий номер фіксованого набору.</string>
+    <string name="name_too_long">Надто довга назва.</string>
+    <string name="number_too_long">Занадто довгий номер.</string>
+    <string name="cancel_modify_title">Скасувати збереження?</string>
+    <string name="cancel_modify_message">Зміни не буде збережено</string>
+    <string name="position_change_warning">Зберігати тільки ім`я і телефон при зміні місця зберігання на SIM</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <string name="next">Далі</string>
     <string name="sim_card_state_illegal">SIM-карта забороняє копіювання</string>
     <string name="imexport_bridge_sd_card">SD-карта</string>
@@ -1284,9 +1327,6 @@
     <string name="yiliao_progress_match_yiliao_number_fail">Оновлення статусу контакту невдало</string>
     <string name="menu_delete_contact_detail">Видалити контакт</string>
     <string name="deselect_all">Зняти виділення</string>
-    <string name="menu_delete_group">Вилучити групу</string>
-    <string name="menu_add_group_item">Додати групу</string>
-    <string name="multichoice_delete_group_confirm_message">Ви впевнені, що хочете видалити вибрану(і) групу(и)?</string>
     <string name="activity_title_accout_select">Вибір облікового запису</string>
     <string name="importing_vcard_finished_title">Імпорт vCard завершено</string>
     <string name="dialpad_call">Виклик</string>
@@ -1459,8 +1499,6 @@
     <string name="single_hand_dialpad_close">Вимкнути набір однією рукою</string>
     <string name="base_info_title">Базова інформація</string>
     <string name="add_more_info">Дані</string>
-    <string name="cancel_modify_title">Скасувати збереження?</string>
-    <string name="cancel_modify_message">Зміни не збережуться</string>
     <string name="calllog_select_title">Вибрати</string>
     <string name="crop_photo_title">Обрізати фото</string>
     <string name="crop_complete">Завершено</string>
@@ -1469,7 +1507,6 @@
     <string name="store_in_simCard">Зберегти на SIM</string>
     <string name="store_in_usimCard">Зберегти на USIM</string>
     <string name="store_in_google_account">Зберігати в обліковому записі Google</string>
-    <string name="position_change_warning">Зберігати тільки ім`я і телефон при зміні місця зберігання на SIM</string>
     <string name="no_content_saved">Інформація не збережено!</string>
     <string name="add_more_info_title">Додати дані</string>
     <string name="no_more_info_add">Немає більше інформації для додавання</string>
@@ -1496,8 +1533,6 @@
     <string name="aggregation_suggestion_edit_dialog_title">Редагувати вибрані контакти</string>
     <string name="organization_company_and_title">%2$s, %1$s</string>
     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
-    <string name="delete_group_dialog_title">Видалення групи</string>
-    <string name="cancel_confirmation_dialog_title">Скасувати змін</string>
     <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
     <string name="call_log_empty_gecode">-</string>
     <string name="menu_clearAll">Скасувати вибір всього</string>
@@ -1572,21 +1607,6 @@
     <string name="menu_multichoice_clear_select">Скасувати вибір</string>
     <string name="batchContactDeleteProgress">Видалення контакту(ів)</string>
     <string name="batch_delete_error">Деякі або всі контакти з SIM не можу бути видалені. Перевірте налаштування</string>
-    <string name="has_double_phone_number">Неможливо зберегти двічі номер одного типу, перевірте.</string>
-    <string name="phone_book_busy">Телефонна книга недоступна, спробуйте ще раз пізніше.</string>
-    <string name="sim_invalid">Неможливо зберегти контакт при неприпустимою SIM-карті.</string>
-    <string name="cannot_insert_null_number">Неможливо зберегти контакт, якщо не введено номер.</string>
-    <string name="AirPlane_mode_on">Неможливо зберегти контакт, коли увімкнено режим польоту</string>
-    <string name="FDNEnabled">Неможливо зберегти контакт при увімкненому FDN.</string>
-    <string name="sim_invalid_number">Неможливо зберегти некоректний номер.</string>
-    <string name="email_invalid">Неможливо зберегти некоректна адреса ел. пошти</string>
-    <string name="email_2g_invalid">Неможливо зберегти повідомлення електронної пошти на 2G SIM-карту, виберіть для збереження 3G SIM-карту.</string>
-    <string name="sim_invalid_fix_number">Неможливо зберегти некоректний номер фіксованого набору.</string>
-    <string name="AirPlane_mode_on_edit">Не вдається змінити контакт, коли увімкнено режим польоту</string>
-    <string name="msg_loading_sim_contacts_toast">Завантаження SIM-контактів у фоновому режимі, трохи почекайте.</string>
-    <string name="fix_number_too_long">Занадто довгий номер фіксованого набору.</string>
-    <string name="name_too_long">Надто довга назва.</string>
-    <string name="number_too_long">Занадто довгий номер.</string>
     <string name="multichoice_confirmation_message_delete">Скасувати видалення контактів?</string>
     <string name="multichoice_confirmation_message_copy">Скасувати копіювання контактів?</string>
     <string name="multichoice_no_select_alert">Елемент не вибрано.</string>
@@ -1619,18 +1639,11 @@
 Завершено: %d 
 Не виконано: %d"</string>
     <string name="user_profile_cannot_sd_card">Не можна поділитися вмістом за допомогою цього методу.</string>
-    <string name="removing_group_member">Видалення членів групи…</string>
     <string name="move_contacts_to">Перемістити контакти</string>
-    <string name="menu_move_group">Перемістити членів групи</string>
-    <string name="menu_message_group">Надіслати групове повідомлення</string>
-    <string name="menu_email_group">Відправити групове ел. лист</string>
-    <string name="moving_group_members">Переміщення членів групи…</string>
     <string name="removing_group_members_sucess">Члени групи видалені</string>
     <string name="removing_group_members_fail">Збій видалення членів групи</string>
     <string name="moving_group_members_sucess">Члени групи переміщені</string>
     <string name="moving_group_members_fail">Збій видалення членів групи</string>
-    <string name="usim_group_name_exceed_limit">Занадто довге ім`я групи для USIM-карти</string>
-    <string name="usim_group_count_exceed_limit">Неможливо додати нові групи до даної USIM-карти</string>
     <string name="usim_group_name_exceed_limit_export">Контакти із занадто довгими іменами груп не можна імпортувати в USIM-карту</string>
     <string name="usim_group_count_exceed_limit_export">Контакти з додатковими новими групами, що перевищують граничне обмеження, не можна імпортувати в дану USIM-карту</string>
     <string name="usim_group_exceed_limit_export">Контакти із занадто довгим ім`ям групи або з додатковими новими групами, що перевищують верхнє обмеження, не можна імпортувати в дану USIM-карти</string>
