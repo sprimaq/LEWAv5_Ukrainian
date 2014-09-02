@@ -580,12 +580,12 @@
     <string name="keep_local">Зберегти локально</string>
     <string name="add_account">Додати обліковий запис</string>
     <string name="add_new_account">Додати обліковий запис</string>
-    <string name="dialog_phone_call_prohibited_title">Виклик не надіслано</string>
-    <string name="dialog_voicemail_not_ready_title">Номер голосової пошту недоступний</string>
+    <string name="dialog_phone_call_prohibited_message">Виклик не надіслано</string>
     <string name="dialog_voicemail_not_ready_message">Налаштування голосової пошти здійснюється у \"Меню > Налаштування\"</string>
-    <string name="selected_item_count">Вибрано %d</string>
-    <string name="recentCalls_delete">Видалити</string>
-    <string name="menu_selectAll">Вибрати все</string>
+    <string name="dialog_voicemail_airplane_mode_message">Щоби відкрити голосову пошту, вимкніть режим У літаку</string>
+    <string name="menu_export_database">Експорт файлів бази даних</string>
+    <string name="action_menu_overflow_description">Ще</string>
+    <string name="expand_collapse_name_fields_description">Додати або прибрати поля імені</string>
     <string name="account_type_sim">Обліковий запис SIM-карти</string>
     <string name="account_type_usim">Обліковий запис USIM-карти</string>
     <string name="account_type_local_phone">Локальний обліковий запис телефону</string>
@@ -717,7 +717,7 @@
     <string name="addblack_dec">Зауваження (необов`язково)</string>
     <string name="importsms_black">Для імпорту журналу викликів та SMS-повідомлень</string>
     <string name="deleteCallLogConfirmation_title">Видалити виклик(и)?</string>
-    <string name="call_detail_delete_calllog">Видалити вибрані виклики</string>
+    <string name="call_detail_deleteConfirmation_message">Ви дійсно бажаєте видалити вибрані виклики?</string>
     <string name="send_contact_info">Відправити інформацію контакту</string>
     <string name="contact_name">Ім`я</string>
     <string name="contact_tel">Телефон</string>
@@ -789,6 +789,34 @@
     <string name="cancel_modify_title">Скасувати збереження?</string>
     <string name="cancel_modify_message">Зміни не буде збережено</string>
     <string name="position_change_warning">Зберігати тільки ім`я і телефон при зміні місця зберігання на SIM</string>
+    <string name="contact_store_pos">Зберегти позицію</string>
+    <string name="store_in_phone">Зберегти в телефоні</string>
+    <string name="store_in_simCard">Зберегти на SIM-карті</string>
+    <string name="store_in_usimCard">Зберегти на USIM-карті</string>
+    <string name="store_in_google_account">Зберегти в обліковому записі Google</string>
+    <string name="add_more_info">+ Додати дані</string>
+    <string name="add_more_info_title">Додати дані</string>
+    <string name="no_more_info_add">Немає інформації для додавання</string>
+    <string name="add_SIP_to_sim">Неможливо додати SIP-номер для контакту SIM/USIM.</string>
+    <string name="already_has_SIP">Неможливо додати два SIP-номери до контакту. Щоби продовжити, спочатку видаліть попередній SIP-номер.</string>
+    <string name="no_content_saved">Інформацію не збережено!</string>
+    <string name="phone_storage_full_create">Пам`ять телефону заповнена, створення нового контакту неможливе.</string>
+    <string name="phone_storage_full_edit">Пам`ять телефону заповнена, редагування контакту неможливе.</string>
+    <string name="aggregation_suggestion_join_dialog_title">Об`єднати контакти</string>
+    <string name="aggregation_suggestion_edit_dialog_title">Редагувати вибрані контакти</string>
+    <string name="calllog_today">Сьогодні</string>
+    <string name="calllog_yesterday">Вчора</string>
+    <string name="calllog_beforeyesterday">Раніше</string>
+    <string name="call_sipcall">Інтернет-виклик</string>
+    <string name="menu_videocallNumber">Відеовиклик: %s</string>
+    <string name="menu_ipcallNumber">IP-виклик %s</string>
+    <string name="menu_call_via_another_slot">Телефонувати з іншої SIM-карти</string>
+    <string name="call_detail_delete_calllog">Видалити вибрані виклики</string>
+    <string name="dialer_invalid_number_taost">Некоректний номер для виклику</string>
+    <string name="call_dialpad_setting">Налаштування панелі набору номеру</string>
+    <string name="single_hand_dialpad_open">Увімкнути набір однією рукою</string>
+    <string name="single_hand_dialpad_close">Вимкнути набір однією рукою</string>
+    <string name="dialog_voicemail_not_ready_title">Номер голосової пошти недоступний</string>
 
 
 
@@ -805,8 +833,12 @@
 
 
 
-    <string name="next">Далі</string>
-    <string name="sim_card_state_illegal">SIM-карта забороняє копіювання</string>
+
+
+
+
+
+
     <string name="imexport_bridge_sd_card">SD-карта</string>
     <string name="tips_source">Виберіть джерело, звідки слід копіювати контакти</string>
     <string name="tips_target">Виберіть цільове сховище, куди слід копіювати контакти</string>
@@ -1333,11 +1365,9 @@
     <string name="twelve_hour_time_format">h:mma</string>
     <string name="send_message">Надіслати повідомлення</string>
     <string name="dialpad_showdialpad">Показати номеронабирач</string>
-    <string name="call_dialpad_setting">Налаштування виклику</string>
     <string name="dialer_search_item_misscall_time">гудков: %s</string>
     <string name="call_log_clear_all">Очистити журнал виклику</string>
     <string name="dialpad_key_fast_not_set">Номер телефону не вказано</string>
-    <string name="dialer_invalid_number_taost">Не можна набирати неправильний номер</string>
     <string name="mms_select_contacts_group_count">Контакти</string>
     <string name="mms_select_contacts_recent_contacts">Останні контакти</string>
     <string name="message_compose_menu_resend_label">Перенадіслати</string>
@@ -1487,7 +1517,6 @@
     <string name="modify_description">Змінити ім`я контакту</string>
     <string name="delete_description">Дійсно хочете видалити?</string>
     <string name="contact_item_delete_error">Помилка видалення</string>
-    <string name="menu_call_via_another_slot">Подзвонити з іншого SIM</string>
     <string name="speed_dial_error_message">Це не номер телефону! Будь ласка, додайте цей номер швидкого набору</string>
     <string name="dial_key_tip">Затисніть повзунок і змістіть його вліво для зміни SIM-карти!</string>
     <string name="import_contacts_title">Імпорт контактів</string>
@@ -1495,21 +1524,10 @@
     <string name="login_lewa">Необхідно зайти в Lewa-запис</string>
     <string name="message_empty_text">Повідомлення відсутні</string>
     <string name="gemini_sim_management_title">Керування SIM-картами</string>
-    <string name="single_hand_dialpad_open">Включити набір однією рукою</string>
-    <string name="single_hand_dialpad_close">Вимкнути набір однією рукою</string>
     <string name="base_info_title">Базова інформація</string>
-    <string name="add_more_info">Дані</string>
     <string name="calllog_select_title">Вибрати</string>
     <string name="crop_photo_title">Обрізати фото</string>
     <string name="crop_complete">Завершено</string>
-    <string name="contact_store_pos">Зберегти позицію</string>
-    <string name="store_in_phone">Зберегти в телефоні</string>
-    <string name="store_in_simCard">Зберегти на SIM</string>
-    <string name="store_in_usimCard">Зберегти на USIM</string>
-    <string name="store_in_google_account">Зберігати в обліковому записі Google</string>
-    <string name="no_content_saved">Інформація не збережено!</string>
-    <string name="add_more_info_title">Додати дані</string>
-    <string name="no_more_info_add">Немає більше інформації для додавання</string>
     <string name="sim_china_mobile">Чарлі маккріві</string>
     <string name="sim_china_telecom">КТХК</string>
     <string name="sim_china_unicom">CUCC</string>
@@ -1529,8 +1547,6 @@
     <string name="add_contact_dlg_title">Додати контакт</string>
     <string name="percentage">%s%%</string>
     <string name="search_bar_hint">Пошук контактів</string>
-    <string name="aggregation_suggestion_join_dialog_title">Об`єднати контакти</string>
-    <string name="aggregation_suggestion_edit_dialog_title">Редагувати вибрані контакти</string>
     <string name="organization_company_and_title">%2$s, %1$s</string>
     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
@@ -1554,7 +1570,6 @@
     <string name="call_log_item_count">(%1$d)</string>
     <string name="call_indicator_3g">3G</string>
     <string name="call_suggested">Рекомендується</string>
-    <string name="call_sipcall">Інтернет-виклик</string>
     <string name="call_pin_dialog_title">Вибрати SIM-карту</string>
     <string name="call_ghost_data_phone">Транскрипція імені</string>
     <string name="call_people">Люди</string>
@@ -1590,9 +1605,6 @@
     <string name="available">Вільна</string>
     <string name="reselect_number">Цей номер клавіші вже було призначено до швидкого набору, виберіть інший номер.</string>
     <string name="reselect_key">Цій клавіші швидкого набору вже був призначений номер, виберіть іншу клавішу.</string>
-    <string name="calllog_today">Сьогодні</string>
-    <string name="calllog_yesterday">Вчора</string>
-    <string name="calllog_beforeyesterday">Раніше</string>
     <string name="menu_association">Прив`язка SIM-карти</string>
     <string name="menu_remove_association">Зняти прив`язку SIM-карти</string>
     <string name="remove_association_message">Зняти прив`язку SIM-карти до цього номера?</string>
@@ -1612,16 +1624,12 @@
     <string name="multichoice_no_select_alert">Елемент не вибрано.</string>
     <string name="phone_storage_full_create">Пам`ять телефону заповнена, створення нового контакту неможливо.</string>
     <string name="phone_storage_full_edit">Пам`ять телефону заповнена, редагування контакту неможливо.</string>
-    <string name="add_SIP_to_sim">Неможливо додати номер SIP для контакту SIM/USIM.</string>
-    <string name="already_has_SIP">Неможливо додати два номери SIP контакту, якщо вам потрібно продовжити. Спочатку видаліть колишній номер SIP.</string>
     <string name="search_results_for">Результати пошуку для: %s</string>
     <string name="listFoundAllCalllogZero">Виклик в журналі не знайдено</string>
     <string name="calllogList">Журнал викликів</string>
     <string name="calllogHint">Пошук викликів в журналі</string>
     <string name="calllog_description">Вхідні, вихідні та пропущені виклики</string>
     <string name="noMatchingCalllogs">Відповідний виклик не знайдено в журналі.</string>
-    <string name="menu_videocallNumber">Відеовиклик: %s</string>
-    <string name="menu_ipcallNumber">IP-виклик %s</string>
     <string name="deleting_call_log">Видалення журналу викликів…</string>
     <string name="no_vm_number">Не вказано номер голосової пошти</string>
     <string name="no_vm_number_msg">На SIM-карті немає жодного номера голосової пошти.</string>
@@ -1631,7 +1639,6 @@
     <string name="contact_delete_all_tips">У фоновому режимі вже виконується видалення контакту. Якщо ви хочете запустити видалення контакту знову, спочатку зніміть цю операцію.</string>
     <string name="sum_search_networks">Пошук доступних мереж</string>
     <string name="deleteCallLogConfirmation_message">Видалити вибрані виклики?</string>
-    <string name="call_detail_deleteConfirmation_message">Ви впевнені, що хочете вилучити вибрані виклики??</string>
     <string name="file_already_on_sd_card">Файл вже знаходиться на карті пам`яті.</string>
     <string name="send_file_sms_error">Добававить файл в SMS неможливо,використовуйте MMS.</string>
     <string name="error_save_usim_contact_email_lost">Не вдалося зберегти адресу електронної пошти, так як USIM сховище для електронної пошти заповнено.</string>
@@ -1647,5 +1654,11 @@
     <string name="usim_group_name_exceed_limit_export">Контакти із занадто довгими іменами груп не можна імпортувати в USIM-карту</string>
     <string name="usim_group_count_exceed_limit_export">Контакти з додатковими новими групами, що перевищують граничне обмеження, не можна імпортувати в дану USIM-карту</string>
     <string name="usim_group_exceed_limit_export">Контакти із занадто довгим ім`ям групи або з додатковими новими групами, що перевищують верхнє обмеження, не можна імпортувати в дану USIM-карти</string>
+    <string name="next">Далі</string>
+    <string name="sim_card_state_illegal">SIM-карта забороняє копіювання</string>
+    <string name="dialog_phone_call_prohibited_title">Виклик не надіслано</string>
+    <string name="selected_item_count">Вибрано %d</string>
+    <string name="recentCalls_delete">Видалити</string>
+    <string name="menu_selectAll">Вибрати все</string>
 
 </resources>
