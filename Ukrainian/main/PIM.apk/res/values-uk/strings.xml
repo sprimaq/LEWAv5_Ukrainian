@@ -593,9 +593,71 @@
     <string name="local_account_label">Локальний обліковий запис</string>
     <string name="account_type_sim_label">SIM-карта</string>
     <string name="account_type_usim_label">USIM-карта</string>
-    <string name="removing_group_member">Видалення членів групи…</string>
-    
-    <string name="move_contacts_to">Перемістити контакти</string>
+    <string name="label_contactsframent">Контакти</string>
+    <string name="label_mmsframent">SMS/MMS</string>
+    <string name="label_calllogframent">Виклики</string>
+    <string name="label_calllogframent1">Запис викликів</string>
+    <string name="prompt_quick_position">Прізвище</string>
+    <string name="contacts_show_option_label">Параметри відображення</string>
+    <string name="label_show_only_phones">Лише контакти з телефонами</string>
+    <string name="label_show_smart_avatar">Розумний аватар</string>
+    <string name="label_list_in_simple_mode">Спрощений режим</string>
+    <string name="description_list_not_show_more_info">Показувати оригінальний аватар</string>
+    <string name="description_show_smart_avatar">Автоматично додавати розумний аватар, якщо відсутній звичайний</string>
+    <string name="prefs_contact_management_title">Керування контактами</string>
+    <string name="contacts_account_settings_label">Налаштування облікового запису</string>
+    <string name="label_contact_sync">Синхронізація контактів</string>
+    <string name="import_from_allsim">Імпортувати з усіх SIM-карт</string>
+    <string name="import_from_sim1">Імпортувати з SIM1</string>
+    <string name="import_from_sim2">Імпортувати з SIM2</string>
+    <string name="import_export_title">Імпорт/Експорт</string>
+    <string name="title_contacts_settings">Налаштування</string>
+    <string name="menu_add_to_contacts">Додати до контактів</string>
+    <string name="t9_sort_title">Сортування T9</string>
+    <string name="t9_sort_summary">Виберіть фільтрування результатів T9</string>
+    <string name="t9_sort_name">Спочатку збіг імен</string>
+    <string name="t9_sort_number">Спочатку збіг номерів</string>
+    <string name="t9_state_title">Включити T9</string>
+    <string name="t9_state_summary">Включити T9 в панелі набору номера</string>
+    <string name="t9_dial_click_title">Зателефонувати до обраного контакту</string>
+    <string name="t9_dial_click_summary">Зателефонувати контакту, обраному за допомогою Т9</string>
+    <string name="t9_add_to_contacts">Додати до контактів</string>
+    <string name="t9_map_row_2">2abcабвг</string>
+    <string name="t9_map_row_3">3defдеєжз</string>
+    <string name="t9_map_row_4">4ghiіийкл</string>
+    <string name="t9_map_row_5">5jklмноп</string>
+    <string name="t9_map_row_6">6mnoрсту</string>
+    <string name="t9_map_row_7">7pqrsфхцч</string>
+    <string name="t9_map_row_8">8tuvшщь</string>
+    <string name="t9_map_row_9">9wxyzюя</string>
+    <string name="prompt_contact_myself">Я</string>
+    <string name="menu_new">Новий</string>
+    <string name="prompt_no_contacts_pepole">Ви не маєте контактів</string>
+    <string name="prompt_no_contacts_people_propose">Ви можете імпортувати контакти з SIM-карти 
+або карти пам`яті</string>
+    <string name="hint_findAllContacts">Пошук серед %s контактів</string>
+    <string name="group_entry_item">Групи контактів</string>
+    <string name="label_loaderframents">Контакт</string>
+    <string name="title_stick_photo">Змінити фото контакту</string>
+    <string name="message_sd_card_min_size">Бракує місця на SD-карті</string>
+    <string name="menu_del_contacts">Видалення контактів</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <string name="menu_move_group">Перемістити членів групи</string>
     <string name="menu_message_group">Надіслати групове повідомлення</string>
     <string name="menu_email_group">Відправити групове ел. лист</string>
@@ -617,7 +679,6 @@
     <string name="group_name_exists">Таке ім`я вже існує</string>
     <string name="group_discard_member">Скасувати</string>
     <string name="group_discard_member_reason">зміни будуть проігноровані, так як у нього немає допустимої групи.</string>
-    <string name="import_export_title">Імпорт/Експорт</string>
     <string name="next">Далі</string>
     <string name="sim_card_state_illegal">SIM-карта забороняє копіювання</string>
     <string name="imexport_bridge_sd_card">SD-карта</string>
@@ -739,7 +800,6 @@
     <string name="duration_zero">Тривалість повинна бути більше нуля секунд.</string>
     <string name="secs">с.</string>
     <string name="menu_view_contact">Переглянути контакт</string>
-    <string name="menu_add_to_contacts">Додати до контактів</string>
     <string name="hidden_sender_address">Адреса відправника прихований</string>
     <string name="yes">ОК</string>
     <string name="no">Скасувати</string>
@@ -1133,33 +1193,18 @@
     <string name="error_add_attachment">Невідома помилка, неможливо додати %1$s повідомлення</string>
     <string name="no_application_response">Немає додатків для обробки запиту</string>
     <string name="label_loaderframent">Контакти</string>
-    <string name="label_mmsframent">SMS/MMS</string>
-    <string name="label_calllogframent">Виклики</string>
     <string name="label_updatefragment">Подробиці оновлення</string>
-    <string name="label_loaderframents">Контакт</string>
     <string name="label_calllog">Виклики</string>
     <string name="label_allcontacts">Всі контакти</string>
     <string name="label_mms">MMS</string>
-    <string name="prompt_quick_position">Прізвище</string>
     <string name="prompt_select_all">Вибрати все</string>
     <string name="deleteSelectedConfirmation">Вибрані контакти будуть видалені</string>
     <string name="label_my_card">Моя візитка</string>
     <string name="showFilterPhones">Контакти з телефонами</string>
     <string name="menu_merge_duplicated">Об`єднані повторювані контакти</string>
-    <string name="menu_del_contacts">Видалення контактів</string>
-    <string name="prefs_contact_management_title">Керування контактами</string>
-    <string name="contacts_account_settings_label">Налаштування облікового запису</string>
-    <string name="contacts_show_option_label">Параметри відображення</string>
-    <string name="title_contacts_settings">Налаштування</string>
-    <string name="title_stick_photo">Змінити фото контакту</string>
-    <string name="prompt_no_contacts_pepole">У вас немає контакту</string>
-    <string name="prompt_no_contacts_people_propose">"Ви можете імпортувати контакти з SIM-карти 
-або з іншого місця зберігання"</string>
     <string name="login_lewa_account">Зайти в LeWa-запис</string>
-    <string name="prompt_contact_myself">Я</string>
     <string name="prompt_no_profile_data">Ви не додали повну інформацію візитну картку</string>
     <string name="edit_my_card">Змінити мою візитну картку</string>
-    <string name="menu_new">Новий</string>
     <string name="title_unknown_number">Невідомий номер</string>
     <string name="label_profile">Я</string>
     <string name="label_multiple_delete">Видалити кілька</string>
@@ -1188,10 +1233,6 @@
     <string name="add_contact_detail">Додати деталі контакту</string>
     <string name="exporting_vcard_finished_description">Зберегти %s。</string>
     <string name="activity_title_accout_select">Вибір облікового запису</string>
-    <string name="label_list_in_simple_mode">Простий режим</string>
-    <string name="label_show_smart_avatar">Розумний аватар</string>
-    <string name="description_list_not_show_more_info">Не показувати приналежність аватар</string>
-    <string name="description_show_smart_avatar">Автоматично додавати розумний аватар, якщо відсутній звичайний</string>
     <string name="importing_vcard_finished_title">Імпорт vCard завершено</string>
     <string name="importing_vcard_finished_description">Збережено у %s。</string>
     <string name="dialpad_call">Виклик</string>
@@ -1292,7 +1333,6 @@
     <string name="message_yesterday">Вчора</string>
     <string name="compose_voice_button">Утримуйте для відповіді</string>
     <string name="compose_recorder_no_press">Нові вкладення!</string>
-    <string name="message_sd_card_min_size">Недостатньо місця на SD-карті</string>
     <string name="compose_recorder_to_short">Ваша запис дуже коротка і не може бути відправлена</string>
     <string name="mms_input_voice_no_sdcard">SD-карта не виявлена, відсутня можливість відправити голосове повідомлення</string>
     <string name="compose_recorder_invalid_network">Доступні бездротові мережі, відкрийте Wi-Fi або 3G мережі</string>
@@ -1395,9 +1435,7 @@
     <string name="dlg_title_ippref_notset">Не відкривати IP-виклик</string>
     <string name="dlg_msg_ippref_tosetting">Відкрити в IP-виклик!</string>
     <string name="ipsetting_no_sim_card">Немає SIM-карти, щоб налаштувати IP-виклик</string>
-    <string name="hint_findAllContacts">Пошук серед %s контактів</string>
     <string name="company_info">Компанія</string>
-    <string name="group_entry_item">Групи контактів</string>
     <string name="preferce_import">Імпорт</string>
     <string name="preferce_export">Експорт</string>
     <string name="import_from_sdcard_vcf">Імпорт Vcard з сховища</string>
@@ -1418,23 +1456,6 @@
     <string name="no_visible_groups">У Вас немає видимих груп</string>
     <string name="config_export_dir">/mnt/sdcard</string>
     <string name="t9_default_sort">1</string>
-    <string name="t9_sort_title">T9-сортування</string>
-    <string name="t9_sort_summary">Виберіть режим результатів T9-сортування</string>
-    <string name="t9_sort_name">Спочатку збіг імен</string>
-    <string name="t9_sort_number">Спочатку збіг номерів</string>
-    <string name="t9_state_title">Включити T9</string>
-    <string name="t9_state_summary">Включити T9 в панелі набору номера</string>
-    <string name="t9_dial_click_title">Зателефонувати до обраного контакту</string>
-    <string name="t9_dial_click_summary">Зателефонувати контакту, обраному за допомогою Т9</string>
-    <string name="t9_add_to_contacts">Додати до контактів</string>
-    <string name="t9_map_row_2">2abcàáâäåɑæçǽćčáабвг</string>
-    <string name="t9_map_row_3">3deféèêëдеєжз</string>
-    <string name="t9_map_row_4">4ghiíìïîǵіийкл</string>
-    <string name="t9_map_row_5">5jklḱḱĺмноп</string>
-    <string name="t9_map_row_6">6mnoòóöôøñŋǿḿńőрсту</string>
-    <string name="t9_map_row_7">7pqrsßɾṕŕśřšфхцч</string>
-    <string name="t9_map_row_8">8tuvúùüûűшщъы</string>
-    <string name="t9_map_row_9">9wxyzýẃźьэюя</string>
     <string name="deleteConfirmation_title">Видалити контакт</string>
     <string name="menu_print">Друк</string>
     <string name="printContact">Роздрукувати контакт через</string>
@@ -1445,10 +1466,6 @@
     <string name="add_contact_dlg_title">Додати контакт</string>
     <string name="no_sdcard_title">Немає SD-карти</string>
     <string name="searching_vcard_title">Пошук vCard</string>
-    <string name="import_from_allsim">Імпортувати з усіх SIM карт</string>
-    <string name="import_from_sim1">Імпортувати з SIM1</string>
-    <string name="import_from_sim2">Імпортувати з SIM2</string>
-    <string name="scanning_sdcard_failed_title">Не вдалося просканувати SD-карту.</string>
     <string name="percentage">%s%%</string>
     <string name="cancel_import_confirmation_title">Скасувати імпорту vCard</string>
     <string name="cancel_export_confirmation_title">Скасувати експорту vCard</string>
@@ -1621,5 +1638,8 @@
 Завершено: %d 
 Не виконано: %d"</string>
     <string name="user_profile_cannot_sd_card">Не можна поділитися вмістом за допомогою цього методу.</string>
+    <string name="removing_group_member">Видалення членів групи…</string>
+    <string name="move_contacts_to">Перемістити контакти</string>
+    <string name="scanning_sdcard_failed_title">Не вдалося просканувати SD-карту.</string>
 
 </resources>
