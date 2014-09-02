@@ -745,9 +745,9 @@
     <string name="no_valid_email_in_group">У цій групі немає контакту з допустимим адресою ел. пошти</string>
     <string name="email_error">Необхідно встановити програму електронної пошти або налаштувати обліковий запис!</string>
     <string name="usim_group_name_exceed_limit">Занадто довге ім`я групи для USIM-карти</string>
-    <string name="usim_group_count_exceed_limit">Неможливо додати нові групи в дану USIM-картку</string>
-    <string name="usim_group_name_exceed_limit_export">Контакти із занадто довгими іменами груп не можна імпортувати в USIM-картку</string>
-    <string name="usim_group_count_exceed_limit_export">Контакти з додатковими новими групами, що перевищують верхнє обмеження, не можна імпортувати в дану USIM-карти</string>
+    <string name="usim_group_count_exceed_limit">Неможливо додати нові групи до даної USIM-карти</string>
+    <string name="usim_group_name_exceed_limit_export">Контакти із занадто довгими іменами груп не можна імпортувати в USIM-карту</string>
+    <string name="usim_group_count_exceed_limit_export">Контакти з додатковими новими групами, що перевищують граничне обмеження, не можна імпортувати в дану USIM-карту</string>
     <string name="usim_group_exceed_limit_export">Контакти із занадто довгим ім`ям групи або з додатковими новими групами, що перевищують верхнє обмеження, не можна імпортувати в дану USIM-карти</string>
     <string name="name_needed">Необхідно вказати ім`я</string>
     <string name="save_group_fail">Збій збереження групи</string>
