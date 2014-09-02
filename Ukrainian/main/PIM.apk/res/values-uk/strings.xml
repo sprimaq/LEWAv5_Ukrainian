@@ -641,6 +641,35 @@
     <string name="title_stick_photo">Змінити фото контакту</string>
     <string name="message_sd_card_min_size">Бракує місця на SD-карті</string>
     <string name="menu_del_contacts">Видалення контактів</string>
+    <string name="move">Перемістити</string>
+    <string name="OK">ОК</string>
+    <string name="preferce_import">Імпорт</string>
+    <string name="preferce_export">Експорт</string>
+    <string name="export_to_sim">Експорт на SIM-карту</string>
+    <string name="import_from_sdcard_vcf">Імпорт Vcard зі сховища</string>
+    <string name="import_from_sim_contacts">Імпорт контактів з SIM-карти</string>
+    <string name="export_to_sdcard_vcf">Експорт контактів у сховище у форматі Vcard</string>
+    <string name="export_to_sim_contacts">Експорт контактів на SIM-карту</string>
+    <string name="no_share_contacts">У Вас немає видимих контактів</string>
+    <string name="sim_contact_count">Зберігається %s контактів</string>
+    <string name="sim_contact_residue_count">%s контактів можна імпортувати</string>
+    <string name="import_from_sim_choose_account">Імпорт контактів з SIM-карти під обліковим записом</string>
+    <string name="export_to_sim_choose_account">Експорт контактів з SIM-карти під обліковим записом</string>
+    <string name="sim_has_no_data">На обраній SIM-карті немає контактів</string>
+    <string name="share_contacts_limit">Кількість контактів для спільного доступу не повинно перевищувати 1000</string>
+    <string name="label_multiple_delete">Видалити кілька</string>
+    <string name="please_wait">Чекайте…</string>
+    <string name="multichoice_delete_confirm_message">Дійсно видалити вибраний контакт(и)?</string>
+    <string name="multichoice_delete_confirm_message_with_sim">Дійсно видалити вибраний контакт(и) (в т.ч. на SIM/USIM)?</string>
+    <string name="multichoice_delete_confirm_title">Видалити контакт(и)?</string>
+    <string name="multichoice_contacts_limit">Обраних контактів не може бути більше, ніж 5000</string>
+    <string name="contact_delteing">Контакти видаляються…</string>
+    <string name="multichoice_confirmation_title_delete">Видалення контактів</string>
+    <string name="multichoice_confirmation_message_delete_with_account">Скасувати видалення контактів з облікового запису %s?</string>
+    <string name="notifier_multichoice_process_report" formatted="false">"Виконано: %d 
+Не виконано: %d"</string>
+    <string name="multichoice_confirmation_title_copy">Скасування копіювання контактів</string>
+    <string name="multichoice_confirmation_message_copy_with_account">Скасувати копіювання контактів з облікового запису %s?</string>
 
 
 
@@ -692,8 +721,6 @@
     <string name="notifier_finish_delete_content">Вилучено %d контактів</string>
     <string name="notifier_finish_copy_title">Копіювання контактів виконано</string>
     <string name="notifier_finish_copy_content">Скопійовано %d контактів</string>
-    <string name="notifier_multichoice_process_report" formatted="false">"Виконано: %d 
-Не виконано: %d"</string>
     <string name="app_label">SMS/MMS</string>
     <string name="new_message">Нове повідомлення</string>
     <string name="menu_call_back">Виклик %s</string>
@@ -988,7 +1015,6 @@
     <string name="pref_summary_mms_enable_to_send_delivery_reports">Надіслати звіт про доставку по кожному одержаному повідомленням</string>
     <string name="set_service_center_OK">Установка Центру служби SMS успішно</string>
     <string name="set_service_center_fail">Установка Центру служби SMS не вдалася</string>
-    <string name="OK">ОК</string>
     <string name="Cancel">Скасувати</string>
     <string name="sms_save_location">Місце зберігання SMS</string>
     <string name="gemini_3g_indic">3G</string>
@@ -1157,7 +1183,6 @@
     <string name="file_attachment_import_vcard">Імпорт vCard</string>
     <string name="attach_vcard">Контакт</string>
     <string name="type_common_file">файл</string>
-    <string name="please_wait">Чекайте…</string>
     <string name="failed_to_parse_vcard">Не вдалося обробити файл vCard!</string>
     <string name="empty_vcard">Немає контактів vCard</string>
     <string name="parse_vcard">Обробка vCard</string>
@@ -1207,7 +1232,6 @@
     <string name="edit_my_card">Змінити мою візитну картку</string>
     <string name="title_unknown_number">Невідомий номер</string>
     <string name="label_profile">Я</string>
-    <string name="label_multiple_delete">Видалити кілька</string>
     <string name="toast_no_profile">Будь ласка, додайте інформацію!</string>
     <string name="add_to_blacklist">Додати в чорний список</string>
     <string name="clear_from_blacklist">Видалити з чорного списку</string>
@@ -1403,7 +1427,6 @@
     <string name="login_lewa">Необхідно зайти в Lewa-запис</string>
     <string name="dialpad_empty_text">Список викликів порожній</string>
     <string name="message_empty_text">Повідомлення відсутні</string>
-    <string name="contact_delteing">Контакти видаляються…</string>
     <string name="gemini_sim_management_title">Керування SIM-картами</string>
     <string name="single_hand_dialpad_open">Включити набір однією рукою</string>
     <string name="single_hand_dialpad_close">Вимкнути набір однією рукою</string>
@@ -1436,19 +1459,6 @@
     <string name="dlg_msg_ippref_tosetting">Відкрити в IP-виклик!</string>
     <string name="ipsetting_no_sim_card">Немає SIM-карти, щоб налаштувати IP-виклик</string>
     <string name="company_info">Компанія</string>
-    <string name="preferce_import">Імпорт</string>
-    <string name="preferce_export">Експорт</string>
-    <string name="import_from_sdcard_vcf">Імпорт Vcard з сховища</string>
-    <string name="import_from_sim_contacts">Імпорт контактів з SIM-карти</string>
-    <string name="export_to_sdcard_vcf">Експорт контактів в сховище у форматі Vcard</string>
-    <string name="export_to_sim">Експорт на SIM-карту</string>
-    <string name="export_to_sim_contacts">Експорт контактів на SIM-карту</string>
-    <string name="no_share_contacts">У Вас немає видимих контактів</string>
-    <string name="sim_contact_count">Зберігається %s контактів</string>
-    <string name="sim_contact_residue_count">%s контактів можна імпортувати</string>
-    <string name="import_from_sim_choose_account">Імпорт контактів з SIM-карти під обліковим записом</string>
-    <string name="export_to_sim_choose_account">Експорт контактів з SIM-карти під обліковим записом</string>
-    <string name="sim_has_no_data">На обраній SIM-карті немає контактів</string>
     <string name="storage_phone">Пам`ять телефону</string>
     <string name="storage_full_toast">Недостатньо місця</string>
     <string name="group_member">Члени групи</string>
@@ -1594,17 +1604,9 @@
     <string name="notifier_progress__copy_will_start_message">Контакти будуть скопійовані.</string>
     <string name="notifier_progress_copy_message" formatted="false">Копіювання %s/ %s: %s</string>
     <string name="notifier_progress_copy_description">Копіювання %s</string>
-    <string name="multichoice_confirmation_title_delete">Видалення контактів</string>
-    <string name="multichoice_confirmation_message_delete_with_account">Скасувати видалення контактів з облікового запису %s?</string>
     <string name="multichoice_confirmation_message_delete">Скасувати видалення контактів?</string>
-    <string name="multichoice_confirmation_title_copy">Відміна копіювання контактів</string>
-    <string name="multichoice_confirmation_message_copy_with_account">Скасувати копіювання контактів з облікового запису %s?</string>
     <string name="multichoice_confirmation_message_copy">Скасувати копіювання контактів?</string>
     <string name="multichoice_no_select_alert">Елемент не вибрано.</string>
-    <string name="multichoice_delete_confirm_message">Дійсно видалити вибраний(е) контакт(и)?</string>
-    <string name="multichoice_delete_confirm_message_with_sim">Дійсно видалити вибраний(е) контакт(и)(включаючи контакти на SIM/USIM)?</string>
-    <string name="multichoice_delete_confirm_title">Видалити контакт(и)?</string>
-    <string name="multichoice_contacts_limit">Обраних контактів не може бути більше, ніж 5000</string>
     <string name="phone_storage_full_create">Пам`ять телефону заповнена, створення нового контакту неможливо.</string>
     <string name="phone_storage_full_edit">Пам`ять телефону заповнена, редагування контакту неможливо.</string>
     <string name="add_SIP_to_sim">Неможливо додати номер SIP для контакту SIM/USIM.</string>
@@ -1623,9 +1625,7 @@
     <string name="add_vm_number_str">Додати номер</string>
     <string name="reminder">Нагадування</string>
     <string name="enable_sip_dialog_message">Інтернет-виклики відключені, включити їх?</string>
-    <string name="share_contacts_limit">Кількість контактів для спільного доступу не повинно перевищувати 1000</string>
     <string name="contact_delete_all_tips">У фоновому режимі вже виконується видалення контакту. Якщо ви хочете запустити видалення контакту знову, спочатку зніміть цю операцію.</string>
-    <string name="move">Перемістити</string>
     <string name="sum_search_networks">Пошук доступних мереж</string>
     <string name="deleteCallLogConfirmation_title">Видалити виклик(и)?</string>
     <string name="call_detail_delete_calllog">Видалити вибрані виклики</string>
