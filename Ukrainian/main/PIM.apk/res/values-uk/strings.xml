@@ -341,7 +341,7 @@
     <string name="display_all_contacts">Всі контакти</string>
     <string name="display_warn_remove_ungrouped">Разом з групою \"%s\" перестануть синхронізуватися контакти, не додані до групи.</string>
     <string name="account_phone">Лише телефон, без синхронізації</string>
-    <string name="local_device_account_name">Телефон</string>
+    <string name="call_custom">%d</string>
     <string name="call_home">Домашній</string>
     <string name="call_mobile">Мобільний</string>
     <string name="call_work">Робочий</string>
@@ -753,6 +753,7 @@
     <string name="multichoice_delete_group_confirm_title">Видалити групу(и)?</string>
     <string name="multichoice_delete_group_info_confirm_message">Ви дійсно бажаєте видалити вибрану групу(и) контактів?</string>
     <string name="multichoice_delete_group_info_confirm_title">Видалити з групи контактів?</string>
+    <string name="local_device_account_name">Телефон</string>
 
 
 
