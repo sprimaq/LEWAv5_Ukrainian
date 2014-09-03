@@ -1198,11 +1198,6 @@
     <string name="message_count_notification">Нових повідомлень: %1$s</string>
     <string name="error_state">Помилковий стан</string>
     <string name="error_state_text">Несумісний стан ланцюжків і одержувачів. Надішліть лог з помилкою на адресу http://go/droidanizer</string>
-    <string name="label_mms_push">MMS відправка</string>
-    <string name="desc_mms_push">Відправка MMS з вихідного скриньки в мережу</string>
-    <string name="cell_broadcast">Інформаційні повідомлення</string>
-    <string name="cell_broadcast_title">Налаштування інформаційних повідомлень</string>
-    <string name="cell_broadcast_settings">Налаштування розсилки інформаційних повідомлень SIM-карти</string>
     <string name="menu_insert_quick_text">Вставити готовий текст</string>
     <string name="select_quick_text">Виберіть готовий текст</string>
     <string name="add">Додати</string>
@@ -1670,5 +1665,10 @@
     <string name="prefDialogTitle_vibrateWhen">Вібросигнал</string>
     <string name="pref_summary_notification_vibrateWhen">Вібросигнал при отриманні повідомлення</string>
     <string name="draft_separator">", "</string>
+    <string name="label_mms_push">MMS відправка</string>
+    <string name="desc_mms_push">Відправка MMS з вихідного скриньки в мережу</string>
+    <string name="cell_broadcast">Інформаційні повідомлення</string>
+    <string name="cell_broadcast_title">Налаштування інформаційних повідомлень</string>
+    <string name="cell_broadcast_settings">Налаштування розсилки інформаційних повідомлень SIM-карти</string>
 
 </resources>
