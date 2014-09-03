@@ -916,6 +916,7 @@
     <string name="yellowpages_detail_error_label">Помилка</string>
     <string name="yellowpages_detail_error_description">Допомога надається за номером телефону</string>
     <string name="label_yellowpages_mark">%s людей відмічено</string>
+    
     <string name="copy_email">Копіювати адресу ел.пошти</string>
     <string name="copy_number">Копіювати номер телефону</string>
     <string name="done">Виконано</string>
