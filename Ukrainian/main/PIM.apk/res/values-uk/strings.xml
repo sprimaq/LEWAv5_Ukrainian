@@ -880,42 +880,58 @@
     <string name="menu_call_log_filter">Фільтр журналу викликів</string>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <string name="all_resources">Всі ресурси</string>
+    <string name="all_calls">Всі виклики</string>
+    <string name="received_calls">Вхідні</string>
+    <string name="outgoing_calls">Вихідні</string>
+    <string name="missed_calls">Пропущено</string>
+    <string name="imei_invalid">Невірний</string>
+    <string name="speed_dial_error_message">Це не номер телефону! Будь ласка, додайте цей номер до швидкого набору</string>
+    <string name="remove_speed_dial">Видалити</string>
+    <string name="remove_sd_confirm_1">Видалити %1$s (%2$s) з швидкого набору %3$s?</string>
+    <string name="remove_sd_confirm_2">Дійсно бажаєте видалити %1$s з швидкого набору %2$s?</string>
+    <string name="add_speed_dial">Торкніться щоб додати до швидкого набору</string>
+    <string name="speed_dial_added">%1$s (%2$s) додано до швидкого набору %3$s</string>
+    <string name="speed_dial_added2">%1$s додано до швидкого набору %2$s</string>
+    <string name="sd_add">Додати</string>
+    <string name="reselect_number">Цей номер вже призначено для швидкого набору, оберіть інший номер.</string>
+    <string name="reselect_key">Цю клавішу вже призначено для швидкого набору, оберіть іншу клавішу.</string>
+    <string name="move_contacts_to">Перемістити контакти до</string>
+    <string name="removing_group_members_fail">Збій видалення членів групи</string>
+    <string name="moving_group_members_sucess">Членів групи переміщено</string>
+    <string name="activity_title_accout_select">Вибір облікового запису</string>
+    <string name="send_message">Надіслати повідомлення</string>
+    <string name="user_profile_cannot_sd_card">Не можна поділитися вмістом у такий спосіб.</string>
+    <string name="file_already_on_sd_card">Файл вже знаходиться на карті пам`яті.</string>
     <string name="imexport_bridge_sd_card">SD-карта</string>
-    <string name="tips_source">Виберіть джерело, звідки слід копіювати контакти</string>
-    <string name="tips_target">Виберіть цільове сховище, куди слід копіювати контакти</string>
-    <string name="back">Тому</string>
-    <string name="imexport_title">Імпорт (експорт) контактів</string>
-    <string name="store_contact_to">Зберігати контакт в</string>
-    <string name="menu_delete_contact">Видалити контакт</string>
+    <string name="inner_version_info">Інформація про версію：</string>
+    <string name="external_version">Зовнішня версія:</string>
+    <string name="version">Версія:</string>
+    <string name="external_version_fmt">"%s
+"</string>
+    <string name="custom_version_fmt" formatted="false">"ВЕРСІЯ: %s
+ЧАС: %s
+"</string>
+    <string name="yellowpages_entry_item">Жовті сторінки</string>
+    <string name="yellowpages_detail_error_label">Помилка</string>
+    <string name="yellowpages_detail_error_description">Допомога надається за номером телефону</string>
+    <string name="label_yellowpages_mark">%s людей відмічено</string>
+    <string name="copy_email">Копіювати адресу ел.пошти</string>
+    <string name="copy_number">Копіювати номер телефону</string>
+    <string name="done">Виконано</string>
     <string name="app_label">SMS/MMS</string>
     <string name="new_message">Нове повідомлення</string>
     <string name="menu_call_back">Виклик %s</string>
-    <string name="menu_send_email">Написати ел. лист %s</string>
+    <string name="menu_send_email">Написати ел.листа %s</string>
     <string name="menu_compose_new">Нове повідомлення</string>
     <string name="menu_preferences">Налаштування</string>
     <string name="menu_add_address_to_contacts">Додати до контактів: %s</string>
     <string name="menu_delete_all">Видалити всі ланцюжки</string>
     <string name="menu_delete">Видалити ланцюжок</string>
     <string name="menu_view">Перегляд ланцюжка</string>
-    <string name="menu_debug_dump">НАЛАГОДЖЕННЯ ДАМПА</string>
+    <string name="menu_debug_dump">ВІДЛАГОДЖЕННЯ ДАМПА</string>
     <string name="refreshing">Оновлення…</string>
+    <string name="menu_cell_broadcasts">Інформаційні повідомлення</string>    
     <string name="has_draft">Чернетка</string>
     <string name="no_subject_view">(Без теми)</string>
     <string name="messagelist_sender_self">Я</string>
@@ -938,14 +954,14 @@
     <string name="insufficient_drm_rights">Виявлених прав DRM недостатньо.</string>
     <string name="copy_message_text">Скопіювати текст</string>
     <string name="message_options">Параметри повідомлення</string>
-    <string name="done">Готово</string>
+    <string name="done">Виконано</string>
     <string name="move_up">Перемістити вгору</string>
     <string name="move_down">Перемістити вниз</string>
     <string name="remove_slide">Видалити слайд</string>
     <string name="add_slide">Додати слайд</string>
     <string name="add_slide_hint">Натисніть, щоб створити новий слайд.</string>
     <string name="discard_slideshow">Скасувати слайд-шоу</string>
-    <string name="slide_show_part">Частина %1$s %2$s</string>
+    <string name="slide_show_part">Частина %1$s з %2$s</string>
     <string name="remove_text">Видалити текст</string>
     <string name="add_picture">Додати зображення</string>
     <string name="remove_picture">Видалити зображення</string>
@@ -956,26 +972,43 @@
     <string name="to_hint">Кому:</string>
     <string name="subject_hint">Тема</string>
     <string name="add_attachment">Прикріпити файл</string>
-    <string name="add_subject">Додати тему</string>
+    <string name="add_subject">Вказати тему</string>
     <string name="discard">Скасувати</string>
     <string name="view">Перегляд</string>
     <string name="replace">Замінити</string>
     <string name="remove">Видалити</string>
     <string name="send">Відправити</string>
+
     <string name="mms">MMS</string>
     <string name="all_threads">Всі ланцюжки</string>
     <string name="type_to_compose_text_enter_to_send">Введіть повідомлення</string>
     <string name="open_keyboard_to_compose_message">Відкрийте клавіатуру, щоб ввести повідомлення</string>
     <string name="compressing">Зображення занадто велике. Виконується стиснення…</string>
     <string name="unsupported_media_format">Непідтримуваний формат %1$s</string>
-    <string name="select_different_media">Змініть вибір: %1$s.</string>
+    <string name="select_different_media">Вкажіть інший %1$s.</string>
     <string name="exceed_message_size_limitation">Досягнуто максимального розміру повідомлення.</string>
     <string name="message_too_big_for_video">Повідомлення завелике, щоб додати відео.</string>
     <string name="failed_to_add_media">Неможливо додати %1$s до повідомлення.</string>
     <string name="failed_to_resize_image">Не вдалося змінити розмір зображення.</string>
-    <string name="resize_image_error_information">Зображення завелике навіть після зменшення. Його не можна відправити.</string>
-    <string name="forward_prefix">Fwd:</string>
-    <string name="discard_message">Скасувати</string>
+    <string name="resize_image_error_information">Пробачте, навіть після зменшення зображення завелике для відправки.</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <string name="discard_message_reason">Повідомлення буде видалено, так як не вказано жодного реального одержувача.</string>
     <string name="has_invalid_recipient">Неприпустимі одержувачі:</string>
     <string name="invalid_destination">Неправильна адреса одержувача.</string>
@@ -987,7 +1020,6 @@
     <string name="cannot_send_message_reason">Не вказано жодного реального одержувача.</string>
     <string name="cannot_forward_drm_obj">Пересилання DRM-об`єкта з цього повідомлення неможлива.</string>
     <string name="converting_to_picture_message">Перетворення повідомлення MMS…</string>
-    <string name="converting_to_text_message">Перетворення в SMS повідомлення…</string>
     <string name="cannot_add_slide_anymore">Більше не можна додати слайдів.</string>
     <string name="cannot_add_picture_and_video">Можна додати на слайд і зображення, і відео.</string>
     <string name="cannot_save_message">Не вдається зберегти повідомлення.</string>
@@ -1417,11 +1449,9 @@
     <string name="yiliao_progress_match_yiliao_number_fail">Оновлення статусу контакту невдало</string>
     <string name="menu_delete_contact_detail">Видалити контакт</string>
     <string name="deselect_all">Зняти виділення</string>
-    <string name="activity_title_accout_select">Вибір облікового запису</string>
     <string name="importing_vcard_finished_title">Імпорт vCard завершено</string>
     <string name="dialpad_call">Виклик</string>
     <string name="twelve_hour_time_format">h:mma</string>
-    <string name="send_message">Надіслати повідомлення</string>
     <string name="call_log_clear_all">Очистити журнал виклику</string>
     <string name="mms_select_contacts_group_count">Контакти</string>
     <string name="mms_select_contacts_recent_contacts">Останні контакти</string>
@@ -1547,7 +1577,6 @@
     <string name="notify_type_message">Сповіщення SMS/MMS</string>
     <string name="toast_donot_start_activity">Не активувати</string>
 
-    <string name="speed_dial_error_message">Це не номер телефону! Будь ласка, додайте цей номер швидкого набору</string>
     <string name="dial_key_tip">Затисніть повзунок і змістіть його вліво для зміни SIM-карти!</string>
     <string name="import_contacts_title">Імпорт контактів</string>
     <string name="contact_sync">Синхронізація контактів</string>
@@ -1577,12 +1606,7 @@
     <string name="menu_clearAll">Скасувати вибір всього</string>
     <string name="sim1">SIM1</string>
     <string name="sim2">SIM2</string>
-    <string name="all_resources">Всі ресурси</string>
     <string name="both_sims">Обидві SIM-карти</string>
-    <string name="all_calls">Всі виклики</string>
-    <string name="received_calls">Вхідні</string>
-    <string name="outgoing_calls">Вихідні</string>
-    <string name="missed_calls">Пропущено</string>
     <string name="call_via_sim1">Зателефонувати через SIM1</string>
     <string name="call_via_sim2">Зателефонувати через SIM2</string>
     <string name="choose_sim_header">Вибрати SIM-карту</string>
@@ -1598,23 +1622,13 @@
     <string name="emergency_number">Номер екстреної служби</string>
     <string name="menu_speed_dial">Швидкий набір</string>
     <string name="speed_dial_manage">Швидкий набір</string>
-    <string name="add_speed_dial">Додати в швидкий набір</string>
-    <string name="speed_dial_added">%1$s (%2$s) додано в швидкий набір %3$s</string>
-    <string name="speed_dial_added2">%1$s додано на кнопку швидкого набору %2$s</string>
-    <string name="remove_speed_dial">Видалити</string>
-    <string name="remove_sd_confirm_1">Видалити %1$s (%2$s) з швидкого набору %3$s?</string>
-    <string name="remove_sd_confirm_2">Дійсно бажаєте видалити %1$s з швидкого набору %2$s?</string>
-    <string name="imei_invalid">Невірний</string>
     <string name="call_log_filter_all_resources">Всі ресурси</string>
     <string name="speed_dial_view">Додати швидкого набору</string>
     <string name="assign_to_speed_dial">Призначення для швидкого набору</string>
-    <string name="sd_add">Додати</string>
     <string name="sd_cancel">Скасувати</string>
     <string name="assigned_key">Призначена клавіша</string>
     <string name="unassigned">Не призначений</string>
     <string name="available">Вільна</string>
-    <string name="reselect_number">Цей номер клавіші вже було призначено до швидкого набору, виберіть інший номер.</string>
-    <string name="reselect_key">Цій клавіші швидкого набору вже був призначений номер, виберіть іншу клавішу.</string>
     <string name="menu_association">Прив`язка SIM-карти</string>
     <string name="menu_remove_association">Зняти прив`язку SIM-карти</string>
     <string name="remove_association_message">Зняти прив`язку SIM-карти до цього номера?</string>
@@ -1641,17 +1655,12 @@
     <string name="calllog_description">Вхідні, вихідні та пропущені виклики</string>
     <string name="noMatchingCalllogs">Відповідний виклик не знайдено в журналі.</string>
     <string name="contact_delete_all_tips">У фоновому режимі вже виконується видалення контакту. Якщо ви хочете запустити видалення контакту знову, спочатку зніміть цю операцію.</string>
-    <string name="file_already_on_sd_card">Файл вже знаходиться на карті пам`яті.</string>
     <string name="send_file_sms_error">Добававить файл в SMS неможливо,використовуйте MMS.</string>
     <string name="error_save_usim_contact_email_lost">Не вдалося зберегти адресу електронної пошти, так як USIM сховище для електронної пошти заповнено.</string>
     <string name="error_import_usim_contact_email_lost" formatted="false">"Відмова викликана переповненням USIM сховища електронної пошти. 
 Завершено: %d 
 Не виконано: %d"</string>
-    <string name="user_profile_cannot_sd_card">Не можна поділитися вмістом за допомогою цього методу.</string>
-    <string name="move_contacts_to">Перемістити контакти</string>
     <string name="removing_group_members_sucess">Члени групи видалені</string>
-    <string name="removing_group_members_fail">Збій видалення членів групи</string>
-    <string name="moving_group_members_sucess">Члени групи переміщені</string>
     <string name="moving_group_members_fail">Збій видалення членів групи</string>
     <string name="usim_group_name_exceed_limit_export">Контакти із занадто довгими іменами груп не можна імпортувати в USIM-карту</string>
     <string name="usim_group_count_exceed_limit_export">Контакти з додатковими новими групами, що перевищують граничне обмеження, не можна імпортувати в дану USIM-карту</string>
@@ -1660,5 +1669,14 @@
     <string name="sim_card_state_illegal">SIM-карта забороняє копіювання</string>
     <string name="selected_item_count">Вибрано %d</string>
     <string name="menu_selectAll">Вибрати все</string>
+    <string name="tips_source">Виберіть джерело, звідки слід копіювати контакти</string>
+    <string name="tips_target">Виберіть цільове сховище, куди слід копіювати контакти</string>
+    <string name="back">Тому</string>
+    <string name="imexport_title">Імпорт (експорт) контактів</string>
+    <string name="store_contact_to">Зберігати контакт в</string>
+    <string name="menu_delete_contact">Видалити контакт</string>
+    <string name="forward_prefix">Fwd:</string>
+    <string name="discard_message">Скасувати</string>
+    <string name="converting_to_text_message">Перетворення в SMS повідомлення…</string>
 
 </resources>
