@@ -1057,19 +1057,18 @@
     <string name="pref_title_mms_delete">Ліміт кількості MMS</string>
     <string name="pref_title_notification_enabled">Сповіщення</string>
     <string name="pref_title_notification_vibrateWhen">Вібросигнал</string>
-    <string name="pref_summary_notification_vibrateWhen">Вібросигнал при отриманні повідомлення</string>
-    <string name="pref_title_notification_ringtone">Звук повідомлення</string>
-    <string name="pref_messages_to_save">Встановити макс. к-ть повідомлень в ланцюжку для зберігання</string>
-    <string name="prefDefault_vibrateWhen">Ніколи</string>
-    <string name="prefDefault_vibrate_true">Завжди</string>
-    <string name="prefDefault_vibrate_false">Ніколи</string>
+    <string name="pref_title_notification_ringtone">Оберіть рингтон</string>
+    <string name="pref_messages_to_save">Встановити ліміт повідомлень для зберігання</string>
+    <string name="prefDefault_vibrateWhen">ніколи</string>
+    <string name="prefDefault_vibrate_true">завжди</string>
+    <string name="prefDefault_vibrate_false">ніколи</string>
     <string name="pref_title_mms_auto_retrieval">Автозавантаження</string>
-    <string name="pref_summary_mms_auto_retrieval">Дозволити/заборонити автоматично завантажувати MMS-повідомлення</string>
+    <string name="pref_summary_mms_auto_retrieval">Автоматичне завантаження MMS-повідомлень</string>
     <string name="pref_title_mms_retrieval_during_roaming">Автозавантаження в роумінгу</string>
-    <string name="pref_summary_mms_retrieval_during_roaming">Дозволити/заборонити автоматично завантажувати MMS-повідомлення в роумінгу</string>
+    <string name="pref_summary_mms_retrieval_during_roaming">Автоматичне завантаження MMS-повідомлень в роумінгу</string>
     <string name="confirm_dialog_title">Видалити</string>
     <string name="confirm_dialog_locked_title">Видалити обране повідомлення?</string>
-    <string name="confirm_delete_conversation">Вся ланцюжок буде видалено.</string>
+    <string name="confirm_delete_conversation">Весь ланцюжок буде видалено.</string>
     <string name="confirm_delete_all_conversations">Всі ланцюжки будуть видалені.</string>
     <string name="confirm_delete_message">Повідомлення буде видалено.</string>
     <string name="confirm_delete_locked_message">Дійсно видалити обране повідомлення?</string>
@@ -1079,6 +1078,22 @@
     <string name="delete">Видалити</string>
     <string name="select_conversations">Виберіть ланцюжки</string>
     <string name="no_conversations">Немає ланцюжків</string>
+    <string name="loading_conversations">Завантаження розмов</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <string name="cannot_get_details">Не вдається отримати відомості</string>
     <string name="message_details_title">Відомості про повідомленні</string>
     <string name="message_type_label">"Тип: "</string>
@@ -1555,7 +1570,6 @@
     <string name="mms_lewa_smiley">Lewa-смайли</string>
     <string name="menu_select_operation_contents">Будь ласка, виберіть операцію вмісту</string>
     <string name="menu_select_favorite_item_access">Доступ</string>
-    <string name="loading_conversations">Завантаження розмов</string>
     <string name="view_more_conversations">Подивитися більше розмов</string>
     <string name="mms_timer_text_formart" formatted="false">%sYear%sMonth%hday</string>
     <string name="menu_mms_timer_send">таймер відправки :</string>
@@ -1665,5 +1679,6 @@
     <string name="converting_to_text_message">Перетворення в SMS повідомлення…</string>
     <string name="pref_summary_notification_enabled">Відображати сповіщення про повідомлення в рядку стану</string>
     <string name="prefDialogTitle_vibrateWhen">Вібросигнал</string>
+    <string name="pref_summary_notification_vibrateWhen">Вібросигнал при отриманні повідомлення</string>
 
 </resources>
