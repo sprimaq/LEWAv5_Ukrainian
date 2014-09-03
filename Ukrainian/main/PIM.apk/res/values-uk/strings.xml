@@ -992,6 +992,7 @@
     <string name="failed_to_add_media">Неможливо додати %1$s до повідомлення.</string>
     <string name="failed_to_resize_image">Не вдалося змінити розмір зображення.</string>
     <string name="resize_image_error_information">Пробачте, навіть після зменшення зображення завелике для відправки.</string>
+
     <string name="discard_message_reason">Повідомлення буде видалено, оскільки не вказано жодного коректного адресату.</string>
     <string name="has_invalid_recipient">Некоректний одержувач: &lt;%1$s</string>
     <string name="invalid_destination">Некоректна адреса одержувача.</string>
