@@ -992,43 +992,26 @@
     <string name="failed_to_add_media">Неможливо додати %1$s до повідомлення.</string>
     <string name="failed_to_resize_image">Не вдалося змінити розмір зображення.</string>
     <string name="resize_image_error_information">Пробачте, навіть після зменшення зображення завелике для відправки.</string>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <string name="discard_message_reason">Повідомлення буде видалено, так як не вказано жодного реального одержувача.</string>
-    <string name="has_invalid_recipient">Неприпустимі одержувачі:</string>
-    <string name="invalid_destination">Неправильна адреса одержувача.</string>
+    <string name="discard_message_reason">Повідомлення буде видалено, оскільки не вказано жодного коректного адресату.</string>
+    <string name="has_invalid_recipient">Некоректний одержувач: &lt;%1$s</string>
+    <string name="invalid_destination">Некоректна адреса одержувача.</string>
     <string name="service_not_activated">Послуга не активована в мережі.</string>
-    <string name="service_message_not_found">Строк дії повідомлення закінчився, або воно не доступне.</string>
+    <string name="service_message_not_found">Термін повідомлення виїшов, або воно не доступне.</string>
     <string name="service_network_problem">Помилка мережі.</string>
-    <string name="invalid_recipient_message">Вкажіть одержувача(ів) правильно. Без цього повідомлення не буде доставлено.</string>
-    <string name="cannot_send_message">Повідомлення про помилку</string>
-    <string name="cannot_send_message_reason">Не вказано жодного реального одержувача.</string>
-    <string name="cannot_forward_drm_obj">Пересилання DRM-об`єкта з цього повідомлення неможлива.</string>
-    <string name="converting_to_picture_message">Перетворення повідомлення MMS…</string>
-    <string name="cannot_add_slide_anymore">Більше не можна додати слайдів.</string>
-    <string name="cannot_add_picture_and_video">Можна додати на слайд і зображення, і відео.</string>
-    <string name="cannot_save_message">Не вдається зберегти повідомлення.</string>
+    <string name="invalid_recipient_message">Вкажіть коректного одержувача(ів). Інакше повідомлення не буде доставлено.</string>
+    <string name="cannot_send_message">Повідомлення не може бути відправлено</string>
+    <string name="cannot_send_message_reason">Не вказано жодного коректного одержувача.</string>
+    <string name="cannot_forward_drm_obj">Пересилання DRM-об`єкта з цього повідомлення неможливе.</string>
+    <string name="converting_to_picture_message">Перетворення повідомлення у MMS…</string>
+    <string name="cannot_add_slide_anymore">Неможливо додати більше слайдів.</string>
+    <string name="cannot_add_picture_and_video">Неможливо додати на один слайд і зображення, і відео.</string>
+    <string name="cannot_save_message">Невдалося зберегти повідомлення.</string>
     <string name="message_saved_as_draft">Чернетку повідомлення збережено</string>
-    <string name="too_many_recipients">У цього повідомлення занадто багато одержувачів (%1$s). Максимальна кількість одержувачів: %2$s.</string>
+    <string name="too_many_recipients">Повідомлення має занадто багато одержувачів (%1$s). Максимальна кількість одержувачів: %2$s.</string>
     <string name="too_many_attachments">Для вкладень встановлено обмеження: %1$s. Буде додано вкладень: %2$s.</string>
     <string name="adding_attachments_title">Додавання вкладень</string>
-    <string name="adding_attachments">Зачекайте, поки елементи будуть додані в слайд-шоу.</string>
+    <string name="adding_attachments">Зачекайте поки елементи додаються до слайд-шоу.</string>
+    <string name="building_slideshow_title">Створення слайд-шоу</string>
     <string name="cannot_play_audio">Не вдається відтворити аудіо.</string>
     <string name="preview">Переглянути</string>
     <string name="preview_slideshow">Попередній перегляд</string>
@@ -1036,41 +1019,42 @@
     <string name="duration_sec">Тривалість: (%s с.)</string>
     <string name="duration_selector_title">"Тривалість показу слайда "</string>
     <string name="layout_selector_title">"Макет слайд-шоу "</string>
-    <string name="layout_top">Розташування (внизу)</string>
-    <string name="layout_bottom">Розташування (внизу)</string>
+    <string name="layout_top">Розташування (зверху)</string>
+    <string name="layout_bottom">Розташування (знизу)</string>
     <string name="type_to_compose_text_or_leave_blank">Введіть повідомлення або залиште поле пустим</string>
-    <string name="duration_not_a_number">Тривалість повинна виражатися в цифрах.</string>
-    <string name="duration_zero">Тривалість повинна бути більше нуля секунд.</string>
-    <string name="secs">с.</string>
+    <string name="duration_not_a_number">Тривалість повинна бути числом.</string>
+    <string name="duration_zero">Тривалість повинна бути більше за нуль секунд.</string>
+    <string name="secs">сек.</string>
     <string name="menu_view_contact">Переглянути контакт</string>
-    <string name="hidden_sender_address">Адреса відправника прихований</string>
+    <string name="hidden_sender_address">Адреса відправника прихована</string>
     <string name="yes">ОК</string>
     <string name="no">Скасувати</string>
     <string name="set">Зберегти</string>
     <string name="play">Відтворити</string>
-    <string name="edit">Змінити</string>
+    <string name="edit">Редагувати</string>
     <string name="try_to_send">Спробувати відправити</string>
-    <string name="preferences_title">Налаштування</string>
-    <string name="restore_default">Відновити налаштування</string>
+    <string name="preferences_title">Налаштування повідомлень</string>
+    <string name="restore_default">Відновити налаштування за замовчуванням</string>
     <string name="pref_notification_settings_title">Налаштування сповіщень</string>
     <string name="pref_mms_settings_title">Налаштування MMS</string>
     <string name="pref_sms_settings_title">Налаштування SMS</string>
     <string name="pref_sms_storage_title">Налаштування сховища</string>
-    <string name="pref_summary_manage_sim_messages">Керування повідомленнями, що зберігаються на SIM-картці</string>
+    <string name="pref_summary_manage_sim_messages">Керування повідомленнями, що зберігаються на SIM-карті</string>
     <string name="pref_summary_mms_delivery_reports">Запитувати звіт про доставку для всіх надісланих повідомлень</string>
     <string name="pref_summary_mms_read_reports">Запитувати звіт про прочитання для всіх надісланих повідомлень</string>
     <string name="pref_summary_sms_delivery_reports">Запитувати звіт про доставку для всіх надісланих повідомлень</string>
-    <string name="pref_summary_auto_delete">Видаляти старі повідомлення по досягненні макс. кількості</string>
+    <string name="pref_summary_auto_delete">Видаляти старі повідомлення по досягненні ліміту кількості</string>
     <string name="pref_summary_delete_limit">Повідомлень у ланцюжку: %1$s</string>
-    <string name="pref_title_manage_sim_messages">Повідомлення на SIM-картці</string>
+    <string name="pref_summary_mms_group_mms">Використовуйте MMS для відправки одного повідомлення з багатьма одержувачами</string>
+    <string name="pref_title_manage_sim_messages">Впорядкувати повідомлення на SIM-карті</string>
     <string name="pref_title_mms_delivery_reports">Запит звіту про доставку</string>
+    <string name="pref_title_mms_group_mms">Групове повідомлення</string>
     <string name="pref_title_mms_read_reports">Запит звіту про прочитання</string>
     <string name="pref_title_sms_delivery_reports">Запит звіту про доставку</string>
     <string name="pref_title_auto_delete">Видаляти старі</string>
-    <string name="pref_title_sms_delete">Макс. кількість SMS</string>
-    <string name="pref_title_mms_delete">Макс. кількість MMS</string>
-    <string name="pref_title_notification_enabled">Повідомлення</string>
-    <string name="pref_summary_notification_enabled">Відображати сповіщення про повідомлення в рядку стану</string>
+    <string name="pref_title_sms_delete">Ліміт кількості SMS</string>
+    <string name="pref_title_mms_delete">Ліміт кількості MMS</string>
+    <string name="pref_title_notification_enabled">Сповіщення</string>
     <string name="pref_title_notification_vibrateWhen">Вібросигнал</string>
     <string name="pref_summary_notification_vibrateWhen">Вібросигнал при отриманні повідомлення</string>
     <string name="pref_title_notification_ringtone">Звук повідомлення</string>
@@ -1078,7 +1062,6 @@
     <string name="prefDefault_vibrateWhen">Ніколи</string>
     <string name="prefDefault_vibrate_true">Завжди</string>
     <string name="prefDefault_vibrate_false">Ніколи</string>
-    <string name="prefDialogTitle_vibrateWhen">Вібросигнал</string>
     <string name="pref_title_mms_auto_retrieval">Автозавантаження</string>
     <string name="pref_summary_mms_auto_retrieval">Дозволити/заборонити автоматично завантажувати MMS-повідомлення</string>
     <string name="pref_title_mms_retrieval_during_roaming">Автозавантаження в роумінгу</string>
@@ -1679,5 +1662,7 @@
     <string name="forward_prefix">Fwd:</string>
     <string name="discard_message">Скасувати</string>
     <string name="converting_to_text_message">Перетворення в SMS повідомлення…</string>
+    <string name="pref_summary_notification_enabled">Відображати сповіщення про повідомлення в рядку стану</string>
+    <string name="prefDialogTitle_vibrateWhen">Вібросигнал</string>
 
 </resources>
