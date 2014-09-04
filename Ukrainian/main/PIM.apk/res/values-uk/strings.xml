@@ -1267,6 +1267,22 @@
     <string name="sentbox">Надіслані</string>
     <string name="sms_recommend_copy_text">Копіювати</string>
     <string name="sms_recommend_copy_text_ready">Скопійовано</string>
+    <string name="message_favorite">обрані повідомлення</string>
+    <string name="call_people">Люди</string>
+    <string name="sms_send_count_limit">Надіслати повідомлення можна тільки вибравши один з 100 контактів</string>
+    <string name="mms_select_contacts_group_count">контакти</string>
+    <string name="no_application_response">Немає додатків для обробки запиту</string>
+    <string name="favorite_from">обране з:</string>
+    <string name="via_without_time_for_recieve">через</string>
+    <string name="via_without_time_for_send">через</string>
+    <string name="message_send_to">Надіслати:</string>
+    <string name="menu_select_operation_contents">Будь ласка, виберіть операцію вмісту</string>
+    <string name="menu_select_favorite_item_access">Доступ</string>
+    <string name="view_original_message">Переглянути оригінальне повідомлення</string>
+    <string name="forward_from">Переслати від:</string>
+    <string name="no_messages">Немає повідомлень</string>
+    <string name="set_service_center_OK">Успішне встановлення Центру служби SMS</string>
+    <string name="set_service_center_fail">Встановлення Центру служби SMS не вдалося</string>
 
 
 
@@ -1279,15 +1295,11 @@
 
 
 
-    <string name="menu_insert_quick_text">Вставити готовий текст</string>
-    <string name="select_quick_text">Виберіть готовий текст</string>
-    <string name="add">Додати</string>
-    <string name="more_recipients">одержувач(і)</string>
-    <string name="Insert_sdcard">Встановіть SD-карту</string>
-    <string name="pref_title_mms_enable_to_send_delivery_reports">Відправка звіту про доставку</string>
-    <string name="pref_summary_mms_enable_to_send_delivery_reports">Надіслати звіт про доставку по кожному одержаному повідомленням</string>
-    <string name="set_service_center_OK">Установка Центру служби SMS успішно</string>
-    <string name="set_service_center_fail">Установка Центру служби SMS не вдалася</string>
+
+
+
+
+
     <string name="gemini_3g_indic">3G</string>
     <string name="service_center_label">"Центр служби: "</string>
     <string name="cu_subject">Lemei Тему</string>
@@ -1395,8 +1407,6 @@
     <string name="contact_address">Адреса</string>
     <string name="max_recipients_title">Досягнута межа</string>
     <string name="max_recipients_message">Для MMS можна вказати макс. %s одержувачів. Деякі одержувачі будуть виключені. Продовжити?</string>
-    <string name="via_without_time_for_send">через</string>
-    <string name="via_without_time_for_recieve">через</string>
     <string name="sim_selected_dialog_title">Виберіть SIM-картку</string>
     <string name="suggested">Рекомендується</string>
     <string name="add_contact_dialog_message">Додати номер %s в існуючий або новий контакт?</string>
@@ -1435,7 +1445,6 @@
     <string name="export_disk_problem">SD-карта не заповнена чи запис неможлива</string>
     <string name="select_text">Виділити текст</string>
     <string name="unselect_all">Скасувати вибір всього</string>
-    <string name="forward_from">Переслати від:</string>
     <string name="sms_forward_setting">Настроювання пересилання SMS</string>
     <string name="sms_forward_setting_summary">Надіслати SMS з іменем та номером відправника</string>
     <string name="file_attachment_vcard_name">vCard(%s)</string>
@@ -1470,10 +1479,8 @@
     <string name="by_card">За:</string>
     <string name="page">Сторінка %d:</string>
     <string name="space_not_enough">Недостатньо вільного місця для відео</string>
-    <string name="no_messages">Немає повідомлень</string>
     <string name="storage_dialog_mms_size">"Розмір MMS: "</string>
     <string name="error_add_attachment">Невідома помилка, неможливо додати %1$s повідомлення</string>
-    <string name="no_application_response">Немає додатків для обробки запиту</string>
     <string name="label_loaderframent">Контакти</string>
     <string name="label_updatefragment">Подробиці оновлення</string>
     <string name="label_calllog">Виклики</string>
@@ -1499,17 +1506,14 @@
     <string name="dialpad_call">Виклик</string>
     <string name="twelve_hour_time_format">h:mma</string>
     <string name="call_log_clear_all">Очистити журнал виклику</string>
-    <string name="mms_select_contacts_group_count">Контакти</string>
     <string name="mms_select_contacts_recent_contacts">Останні контакти</string>
     <string name="message_compose_menu_resend_label">Перенадіслати</string>
     <string name="message_send_fail">Помилка надсилання: %s</string>
-    <string name="message_send_to">Надіслати:</string>
     <string name="pref_title_save_location">Папка збереження вкладень</string>
     <string name="pref_summary_save_location">Папка для збереження вкладень повідомлень</string>
     <string name="remove_subject">Видаліть тему</string>
     <string name="message_compose_menu_mms_resend_label">Надіслати MMS</string>
     <string name="message_item_received_label">Доставлено одержувачу</string>
-    <string name="sms_send_count_limit">Надіслати повідомлення можна тільки вибрати один з 100 контактів</string>
     <string name="mms_lewa_easter_eggs">З Новим роком!</string>
     <string name="reply">Відповідь</string>
     <string name="choosesms">Вибрати загальне повідомлення</string>
@@ -1518,9 +1522,6 @@
     <string name="mms_select_contacts_favorites">Обране</string>
     <string name="mms_menu_select_title">Вибрати</string>
     <string name="favorite_sms">Вибрані повідомлення</string>
-    <string name="message_favorite">Вибрані повідомлення</string>
-    <string name="favorite_from">Обрано:</string>
-    <string name="view_original_message">Дивитися оригінальне повідомлення</string>
     <string name="mms_load_contacts_name">…</string>
     <string name="mms_notification_no_subject">Немає теми</string>
     <string name="mms_fei_xing_title">[Fei Xing]</string>
@@ -1582,8 +1583,6 @@
     <string name="mms_switch_another_card">Переключитися на іншу SIM-картку</string>
     <string name="mms_press_left_sliding_1">Натисніть і посуньте вліво</string>
     <string name="mms_switch_another_card_1">надіслати SMS з іншою SIM-карти</string>
-    <string name="menu_select_operation_contents">Будь ласка, виберіть операцію вмісту</string>
-    <string name="menu_select_favorite_item_access">Доступ</string>
     <string name="mms_timer_text_formart" formatted="false">%sYear%sMonth%hday</string>
     <string name="toast_donot_start_activity">Не активувати</string>
 
@@ -1626,7 +1625,6 @@
     <string name="call_suggested">Рекомендується</string>
     <string name="call_pin_dialog_title">Вибрати SIM-карту</string>
     <string name="call_ghost_data_phone">Транскрипція імені</string>
-    <string name="call_people">Люди</string>
     <string name="call_video_call">Відеовиклик</string>
     <string name="emergency_number">Номер екстреної служби</string>
     <string name="menu_speed_dial">Швидкий набір</string>
@@ -1692,5 +1690,12 @@
     <string name="cell_broadcast">Інформаційні повідомлення</string>
     <string name="cell_broadcast_title">Налаштування інформаційних повідомлень</string>
     <string name="cell_broadcast_settings">Налаштування розсилки інформаційних повідомлень SIM-карти</string>
+    <string name="menu_insert_quick_text">Вставити готовий текст</string>
+    <string name="select_quick_text">Виберіть готовий текст</string>
+    <string name="add">Додати</string>
+    <string name="more_recipients">одержувач(і)</string>
+    <string name="Insert_sdcard">Встановіть SD-карту</string>
+    <string name="pref_title_mms_enable_to_send_delivery_reports">Відправка звіту про доставку</string>
+    <string name="pref_summary_mms_enable_to_send_delivery_reports">Надіслати звіт про доставку по кожному одержаному повідомленням</string>
 
 </resources>
