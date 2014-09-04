@@ -1783,17 +1783,11 @@
 2. Натисніть на екран двома пальцями та не відпускайте їх, доки не почуєте повідомлення про те, що команда виконана.
 
 Якщо пристроєм користуються декілька людей, спеціальні можливості будуті увімкнені доти, доки пристрій не буде розблоковано або не буде вибраний інший користувач."</string>
-    <string name="accessibility_toggle_large_text_title">Великий текст</string>
+    <string name="accessibility_toggle_large_text_preference_title">Крупный текст</string>
     <string name="accessibility_toggle_screen_magnification_preference_title">Маштаб</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Зберігати маштаб</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Зберігати маштаб при переключенні між додатками</string>
-    <string name="accessibility_power_button_ends_call_title">Клав. живл. завершує виклик</string>
-    <string name="accessibility_speak_password_title">Озвучувати паролі</string>
-    <string name="accessibility_long_press_timeout_title">Затримка при натисканні і утриманні</string>
-    <string name="accessibility_script_injection_title">Спеціальні веб-скрипти</string>
     <string name="accessibility_menu_item_settings">Налаштування</string>
-    <string name="accessibility_service_state_on">Увім.</string>
-    <string name="accessibility_service_state_off">Вимк.</string>
     <string name="accessibility_script_injection_allowed">Дозволено</string>
     <string name="accessibility_script_injection_disallowed">Не дозволено</string>
     <string name="accessibility_script_injection_button_allow">Дозволити</string>
@@ -2792,6 +2786,13 @@
     <string name="testing_wlan_info">Wi-Fi</string>
     <string name="enable_fast_poweron_title">Швидке увімкнення</string>
     <string name="enable_fast_poweron_summary">Увімкнення/вимкнення швидкого включення</string>
+    <string name="accessibility_toggle_large_text_title">Великий текст</string>
+    <string name="accessibility_power_button_ends_call_title">Клав. живл. завершує виклик</string>
+    <string name="accessibility_speak_password_title">Озвучувати паролі</string>
+    <string name="accessibility_long_press_timeout_title">Затримка при натисканні і утриманні</string>
+    <string name="accessibility_script_injection_title">Спеціальні веб-скрипти</string>
+    <string name="accessibility_service_state_on">Увім.</string>
+    <string name="accessibility_service_state_off">Вимк.</string>
     <string name="sound_category_calls_and_notification_title">Мелодії виклику та повідомлень</string>
     <string name="data_usage_tab_slot1">Слот 1</string>
     <string name="data_usage_tab_slot2">Слот 2</string>
