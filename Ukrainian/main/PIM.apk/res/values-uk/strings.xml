@@ -1600,13 +1600,7 @@
     <string name="mms_select_contacts_favorites">Обране</string>
     <string name="mms_menu_select_title">вибрати</string>
     <string name="favorite_sms">обране повідомлення</string>
-    
-    
-    
-    
-    <string name="mms_load_contacts_name">…</string>
     <string name="mms_notification_no_subject">Немає теми</string>
-    <string name="mms_fei_xing_title">[Fei Xing]</string>
     <string name="sms_backup_store_in">SD-карта</string>
     <string name="sms_backup_sd_card">Внутрішнє сховище</string>
     <string name="prefs_ims_settings">Налаштування обраних повідомлень</string>
@@ -1698,5 +1692,7 @@
     <string name="call_custom">%d</string>
     <string name="importing_vcard_finished_title">Імпорт vCard завершено</string>
     <string name="twelve_hour_time_format">h:mma</string>
+    <string name="mms_load_contacts_name">…</string>
+    <string name="mms_fei_xing_title">[Fei Xing]</string>
 
 </resources>
