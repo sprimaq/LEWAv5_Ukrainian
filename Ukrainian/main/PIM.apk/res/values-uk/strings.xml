@@ -65,12 +65,12 @@
     <string name="splitConfirmation_title">Розділити контакти</string>
     <string name="splitConfirmation">Ви дійсно бажаєте розділити цей контакт на кілька контактів: по одному для кожного набору контактної інформації, що міститься в цьому контакті?</string>
     <string name="menu_joinAggregate">Приєднати</string>
-    <string name="titleJoinContactDataWith">Об`єднати контакти</string>
-    <string name="blurbJoinContactDataWith">Виберіть контакт, який потрібно об`єднати з цим адресатом: %s.</string>
+    <string name="titleJoinContactDataWith">"Об'єднати контакти"</string>
+    <string name="blurbJoinContactDataWith">"Виберіть контакт, який потрібно об'єднати з цим адресатом: %s."</string>
     <string name="showAllContactsJoinItem">Показати всі контакти</string>
     <string name="separatorJoinAggregateSuggestions">Пропоновані контакти</string>
     <string name="separatorJoinAggregateAll">Всі контакти</string>
-    <string name="contactsJoinedMessage">Контакти об`єднані</string>
+    <string name="contactsJoinedMessage">"Контакти об'єднані"</string>
     <string name="menu_set_ring_tone">Встановити мелодію</string>
     <string name="menu_redirect_calls_to_vm">Переадресовувати виклики на голосову пошту</string>
     <string name="readOnlyContactWarning">Неможливо видалити контакти з облікового запису, доступного тільки для читання, однак, їх можна приховати у списку контактів.</string>
@@ -149,8 +149,8 @@
     <string name="payphone">Телефоний автомат</string>
     <string name="dialerKeyboardHintText">Наберіть номер з клавіатури</string>
     <string name="dialerDialpadHintText">Наберіть номер, щоб додати виклик</string>
-    <string name="simContacts_emptyLoading">Завантаження з SIM-карти…</string>
-    <string name="simContacts_title">Контакти на SIM-карті</string>
+    <string name="simContacts_emptyLoading">Завантаження з SIM-картки…</string>
+    <string name="simContacts_title">Контакти на SIM-картці</string>
     <string name="noContactsHelpTextWithSyncForCreateShortcut">Відсутні контакти для відображення. (Якщо аккаунт був тільки що доданий, потрібно декілька хвилин для синхронізації контактів.)</string>
     <string name="noContactsHelpTextForCreateShortcut">Відсутні контакти для відображення.</string>
     <string name="noContactsHelpText">"Немає контактів для відображення. 
@@ -159,7 +159,7 @@
 \u0009\u0009у такий спосіб: 
 
 
-\""<li> <font fgcolor="#ff000000"> <b>Додати новий контакт</b> </font>\" для створення контакту з нуля. \"</li>\" \"<li>Також можна натиснути клавішу Меню, а потім вибрати пункт <font fgcolor="#ff000000"> <b>Імпорт/Експорт</b> </font>\" для імпорту з SIM або SD-карти. \"</li>"\"
+\""<li> <font fgcolor="#ff000000"> <b>Додати новий контакт</b> </font>\" для створення контакту з нуля. \"</li>\" \"<li>Також можна натиснути клавішу Меню, а потім вибрати пункт <font fgcolor="#ff000000"> <b>Імпорт/Експорт</b> </font>\" для імпорту з SIM або SD-картки. \"</li>"\"
 
 
 
@@ -170,7 +170,7 @@
 \u0009\u0009у такий спосіб: 
 
 
-\""<li> <font fgcolor="#ff000000"> <b>Додати новий контакт</b> </font>\" для створення контакту з нуля. \"</li>\" \"<li>Також можна натиснути клавішу Меню, а потім вибрати пункт <font fgcolor="#ff000000"> <b>Імпорт/Експорт</b> </font>\" для імпорту з SIM або SD-карти. \"</li>"\"
+\""<li> <font fgcolor="#ff000000"> <b>Додати новий контакт</b> </font>\" для створення контакту з нуля. \"</li>\" \"<li>Також можна натиснути клавішу Меню, а потім вибрати пункт <font fgcolor="#ff000000"> <b>Імпорт/Експорт</b> </font>\" для імпорту з SIM або SD-картки. \"</li>"\"
 
 
 
@@ -184,7 +184,7 @@
 
 
 
-\""<li> <font fgcolor="#ff000000"> <b>Додати новий контакт</b> </font>\" для створення контакту з нуля. \"</li>\" \"<li>Також можна натиснути клавішу Меню, а потім вибрати пункт <font fgcolor="#ff000000"> <b>Імпорт/Експорт</b> </font>\" для імпорту з SIM або SD-карти. \"</li>"\"
+\""<li> <font fgcolor="#ff000000"> <b>Додати новий контакт</b> </font>\" для створення контакту з нуля. \"</li>\" \"<li>Також можна натиснути клавішу Меню, а потім вибрати пункт <font fgcolor="#ff000000"> <b>Імпорт/Експорт</b> </font>\" для імпорту з SIM або SD-картки. \"</li>"\"
 
 
 "</string>
@@ -195,7 +195,7 @@
 
 
 
-\""<li> <font fgcolor="#ff000000"> <b>Додати новий контакт</b> </font>\" для створення контакту з нуля. \"</li>\" \"<li>Також можна натиснути клавішу Меню, а потім вибрати пункт <font fgcolor="#ff000000"> <b>Імпорт/Експорт</b> </font>\" для імпорту з SIM або SD-карти. \"</li>"\"
+\""<li> <font fgcolor="#ff000000"> <b>Додати новий контакт</b> </font>\" для створення контакту з нуля. \"</li>\" \"<li>Також можна натиснути клавішу Меню, а потім вибрати пункт <font fgcolor="#ff000000"> <b>Імпорт/Експорт</b> </font>\" для імпорту з SIM або SD-картки. \"</li>"\"
 
 
 
@@ -233,11 +233,11 @@
     <string name="description_image_button_two">два</string>
     <string name="description_image_button_three">три</string>
     <string name="description_image_button_four">чотири</string>
-    <string name="description_image_button_five">п`ять</string>
+    <string name="description_image_button_five">"п'ять"</string>
     <string name="description_image_button_six">шість</string>
     <string name="description_image_button_seven">сім</string>
     <string name="description_image_button_eight">вісім</string>
-    <string name="description_image_button_nine">дев`ять</string>
+    <string name="description_image_button_nine">"дев'ять"</string>
     <string name="description_image_button_star">позначити</string>
     <string name="description_image_button_zero">нуль</string>
     <string name="description_image_button_pound">решітка</string>
@@ -250,22 +250,22 @@
     <string name="description_minus_button">мінус</string>
     <string name="description_plus_button">плюс</string>
     <string name="description_view_contact_detail">Переглянути контакт</string>
-    <string name="no_sdcard_message">SD-карта відсутня</string>
-    <string name="import_from_sim">Імпортувати з SIM-карти</string>
-    <string name="import_from_sdcard">Імпортувати з SD-карти</string>
-    <string name="export_to_sdcard">Експортувати на SD-карту</string>
+    <string name="no_sdcard_message">SD-картка відсутня</string>
+    <string name="import_from_sim">Імпортувати з SIM-картки</string>
+    <string name="import_from_sdcard">Імпортувати з SD-картки</string>
+    <string name="export_to_sdcard">Експортувати на SD-картку</string>
     <string name="share_visible_contacts">Передати видимі контакти</string>
     <string name="import_one_vcard_string">Імпорт одного файлу VCard</string>
     <string name="import_multiple_vcard_string">Імпорт декількох файлів vCard</string>
     <string name="import_all_vcard_string">Імпорт всіх файлів VCard</string>
-    <string name="searching_vcard_message">Пошук даних vCard на SD-карті</string>
-    <string name="scanning_sdcard_failed_message">Не вдалося просканувати SD-карту (Причина: \"%s\")</string>
+    <string name="searching_vcard_message">Пошук даних vCard на SD-картці</string>
+    <string name="scanning_sdcard_failed_message">Не вдалося просканувати SD-картку (Причина: \"%s\")</string>
     <string name="fail_reason_io_error">Помилка вводу-виводу</string>
-    <string name="fail_reason_low_memory_during_import">Недостатньо пам`яті. Можливо, файл занадто великий.</string>
+    <string name="fail_reason_low_memory_during_import">"Недостатньо пам'яті. Можливо, файл занадто великий."</string>
     <string name="fail_reason_vcard_parse_error">Не вдалося проаналізувати файл vCard.</string>
     <string name="fail_reason_not_supported">Формат не підтримується.</string>
     <string name="vcard_import_failed">Не вдалося імпортувати дані vCard.</string>
-    <string name="import_failure_no_vcard_file">На SD-карті немає файлів VCard.</string>
+    <string name="import_failure_no_vcard_file">На SD-картці немає файлів VCard.</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">Не вдалося зібрати метадані файлу(ів) VCard.</string>
     <string name="fail_reason_failed_to_read_files">Не вдалося імпортувати один або декілька файлів (%s).</string>
     <string name="fail_reason_unknown">Невідома помилка</string>
@@ -291,7 +291,7 @@
     <string name="exporting_contact_failed_message">"Не вдалося експортувати дані. 
 Причина: %s"</string>
     <string name="fail_reason_no_exportable_contact">Немає контактів для експорту.</string>
-    <string name="fail_reason_too_many_vcard">Занадто багато файлів VCard на SD-карті.</string>
+    <string name="fail_reason_too_many_vcard">Занадто багато файлів VCard на SD-картці.</string>
     <string name="fail_reason_too_long_filename">Надто довга назва: %s.</string>
     <string name="exporting_vcard_finished_title">Експорт файлу \"%s\" завершено.</string>
     <string name="exporting_vcard_canceled_title">Експорт файлу \"%s\" скасовано.</string>
@@ -313,9 +313,9 @@
     <string name="call_disambig_title">Виклик з використанням</string>
     <string name="call_settings">Налаштування виклику</string>
     <string name="sms_disambig_title">SMS з використанням</string>
-    <string name="make_primary">Запам`ятати вибір</string>
+    <string name="make_primary">"Запам'ятати вибір"</string>
     <string name="quickcontact_missing_app">Дія не підтримується жодним додатком.</string>
-    <string name="missing_name">Ім`я не вказано</string>
+    <string name="missing_name">"Ім'я не вказано"</string>
     <string name="menu_accounts">Облікові записи</string>
     <string name="menu_clear_frequents">Очистити часті</string>    
     <string name="menu_contacts_filter">Фільтр контактів</string>
@@ -325,7 +325,7 @@
     <string name="menu_share">Передати</string>
     <string name="share_via">Передати контакт через</string>
     <string name="share_error">Неможливо передати контакт.</string>
-    <string name="nameLabelsGroup">Ім`я</string>
+    <string name="nameLabelsGroup">"Ім'я"</string>
     <string name="nicknameLabelsGroup">Псевдонім</string>
     <string name="organizationLabelsGroup">Організація</string>
     <string name="websiteLabelsGroup">Веб-сайт</string>
@@ -413,18 +413,18 @@
     <string name="postal_region">Регіон</string>
     <string name="postal_postcode">Поштовий індекс</string>
     <string name="postal_country">Країна</string>
-    <string name="full_name">Ім`я</string>
-    <string name="name_given">Ім`я</string>
+    <string name="full_name">"Ім'я"</string>
+    <string name="name_given">"Ім'я"</string>
     <string name="name_family">Прізвище</string>
     <string name="name_prefix">Префікс імені</string>
     <string name="name_middle">По батькові</string>
     <string name="name_suffix">Суфікс імені</string>
-    <string name="name_phonetic_given">Ім`я (фонетичне)</string>
+    <string name="name_phonetic_given">"Ім'я (фонетичне)"</string>
     <string name="name_phonetic_middle">По батькові (фонетичне)</string>
     <string name="name_phonetic_family">Прізвище (фонетичне)</string>
-    <string name="name_phonetic">Ім`я (фонетичне)</string>
-    <string name="connections">Зв`язок</string>
-    <string name="add_connection_button">Додати зв`язок</string>
+    <string name="name_phonetic">"Ім'я (фонетичне)"</string>
+    <string name="connections">"Зв'язок"</string>
+    <string name="add_connection_button">"Додати зв'язок"</string>
     <string name="recent">Останні</string>
     <string name="recent_updates">Останні оновлення</string>
     <string name="account_type_format">Контакт %1$s</string>
@@ -437,7 +437,7 @@
     <string name="display_options_sort_by_given_name">За іменем</string>
     <string name="display_options_sort_by_family_name">За прізвищем</string>
     <string name="display_options_view_names_as">Показувати в контактах</string>
-    <string name="display_options_view_given_name_first">Спочатку ім`я</string>
+    <string name="display_options_view_given_name_first">"Спочатку ім'я"</string>
     <string name="display_options_view_family_name_first">Спочатку прізвище</string>
     <string name="take_photo">Сфотографувати</string>
     <string name="take_new_photo">Зробити нове фото</string>
@@ -447,7 +447,7 @@
     <string name="upgrade_in_progress">Контакт-лист оновлюється.</string>
     <string name="upgrade_out_of_memory">"Контакти оновлюються. 
 
-Для оновлення потрібно близько %s МБ внутрішньої пам`яті телефону. 
+Для оновлення потрібно близько %s МБ внутрішньої пам'яті телефону. 
 
 Виберіть один з наступних варіантів:"</string>
     <string name="upgrade_out_of_memory_uninstall">Видалити деякі додаткі</string>
@@ -468,7 +468,7 @@
     <string name="description_star">обране</string>
     <string name="edit_contact">Редагувати контакт</string>
     <string name="local_invisible_directory">Інше</string>
-    <string name="aggregation_suggestion_join_dialog_message">Об`єднати поточний контакт з вибраним контактом?</string>
+    <string name="aggregation_suggestion_join_dialog_message">"Обєднати поточний контакт з вибраним контактом?"</string>
     <string name="aggregation_suggestion_edit_dialog_message">Перейти на редагування вибраного контакту? Введена інформація буде скопійована.</string>
     <string name="menu_copyContact">Копіювати в \"Мої контакти\"</string>
     <string name="add_to_my_contacts">Додати в \"Мої контакти\"</string>
@@ -505,7 +505,7 @@
     <string name="create_group_dialog_title">Створення нової групи</string>
     <string name="create_group_item_label">Створити нову групу</string>
     <string name="delete_group_dialog_message">Видалити групу \"%1$s\"? (контакти не будуть видалені)</string>
-    <string name="toast_join_with_empty_contact">Введіть ім`я контакту, який потрібно об`єднати.</string>
+    <string name="toast_join_with_empty_contact">"Введіть ім'я контакту, який потрібно об'єднати."</string>
     <string name="copy_text">Скопіювати до буферу обміну</string>
     <string name="set_default">Встановити за замовчуванням</string>
     <string name="clear_default">Видалити налаштування за замовчуванням</string>
@@ -513,7 +513,7 @@
     <string name="cancel_confirmation_dialog_message">Скасувати зміни?</string>
     <string name="call_type_and_date">%1$s %2$s</string>
     <string name="profile_display_name">Налаштувати профіль</string>
-    <string name="enter_contact_name">Ім`я контакту</string>
+    <string name="enter_contact_name">"Ім'я контакту"</string>
     <string name="view_updates_from_group">Оновлення</string>
     <string name="notification_voicemail_callers_list">%1$s %2$s</string>
     
@@ -586,13 +586,13 @@
     <string name="menu_export_database">Експорт файлів бази даних</string>
     <string name="action_menu_overflow_description">Ще</string>
     <string name="expand_collapse_name_fields_description">Додати або прибрати поля імені</string>
-    <string name="account_type_sim">Обліковий запис SIM-карти</string>
-    <string name="account_type_usim">Обліковий запис USIM-карти</string>
+    <string name="account_type_sim">Обліковий запис SIM-картки</string>
+    <string name="account_type_usim">Обліковий запис USIM-картки</string>
     <string name="account_type_local_phone">Локальний обліковий запис телефону</string>
     <string name="local_account_type">Локальний обліковий запис</string>
     <string name="local_account_label">Локальний обліковий запис</string>
-    <string name="account_type_sim_label">SIM-карта</string>
-    <string name="account_type_usim_label">USIM-карта</string>
+    <string name="account_type_sim_label">SIM-картка</string>
+    <string name="account_type_usim_label">USIM-картка</string>
     <string name="label_contactsframent">Контакти</string>
     <string name="label_mmsframent">SMS/MMS</string>
     <string name="label_calllogframent">Виклики</string>
@@ -634,13 +634,13 @@
     <string name="prompt_contact_myself">Я</string>
     <string name="menu_new">Новий</string>
     <string name="prompt_no_contacts_pepole">Ви не маєте контактів</string>
-    <string name="prompt_no_contacts_people_propose">Ви можете імпортувати контакти з SIM-карти 
-або карти пам`яті</string>
+    <string name="prompt_no_contacts_people_propose">"Ви можете імпортувати контакти з SIM-картки 
+або картки пам'яті"</string>
     <string name="hint_findAllContacts">Пошук серед %s контактів</string>
     <string name="group_entry_item">Групи контактів</string>
     <string name="label_loaderframents">Контакт</string>
     <string name="title_stick_photo">Змінити фото контакту</string>
-    <string name="message_sd_card_min_size">Бракує місця на SD-карті</string>
+    <string name="message_sd_card_min_size">Бракує місця на SD-картці</string>
     
     
     
@@ -649,16 +649,16 @@
     <string name="OK">ОК</string>
     <string name="preferce_import">Імпорт</string>
     <string name="preferce_export">Експорт</string>
-    <string name="export_to_sim">Експорт на SIM-карту</string>
+    <string name="export_to_sim">Експорт на SIM-картку</string>
     <string name="import_from_sdcard_vcf">Імпорт Vcard зі сховища</string>
-    <string name="import_from_sim_contacts">Імпорт контактів з SIM-карти</string>
+    <string name="import_from_sim_contacts">Імпорт контактів з SIM-картки</string>
     <string name="export_to_sdcard_vcf">Експорт контактів у сховище у форматі Vcard</string>
-    <string name="export_to_sim_contacts">Експорт контактів на SIM-карту</string>
+    <string name="export_to_sim_contacts">Експорт контактів на SIM-картку</string>
     <string name="sim_contact_count">Зберігається %s контактів</string>
     <string name="sim_contact_residue_count">%s контактів можна імпортувати</string>
-    <string name="import_from_sim_choose_account">Імпорт контактів з SIM-карти під обліковим записом</string>
-    <string name="export_to_sim_choose_account">Експорт контактів з SIM-карти під обліковим записом</string>
-    <string name="sim_has_no_data">На обраній SIM-карті немає контактів</string>
+    <string name="import_from_sim_choose_account">Імпорт контактів з SIM-картки під обліковим записом</string>
+    <string name="export_to_sim_choose_account">Експорт контактів з SIM-картки під обліковим записом</string>
+    <string name="sim_has_no_data">На обраній SIM-картці немає контактів</string>
     <string name="no_share_contacts">У Вас немає видимих контактів</string>
     <string name="share_contacts_limit">Кількість контактів для спільного доступу не повинно перевищувати 1000</string>
     <string name="label_multiple_delete">Видалити кілька</string>
@@ -688,38 +688,38 @@
     <string name="notifier_fail_delete_title">Не вдалося видалити контакт(и)</string>
     <string name="notifier_cancel_copy_title">Копіювання контактів скасовано</string>
     <string name="notifier_fail_copy_title">Не вдалося скопіювати контакт(и)</string>
-    <string name="notifier_failure_by_sim_full" formatted="false">"Збій через заповнення пам`яті SIM-карти 
+    <string name="notifier_failure_by_sim_full" formatted="false">"Збій через заповнення пам'яті SIM-картки 
 Виконано: %d 
 Не виконано: %d"</string>
-    <string name="notification_failure_by_sim_full" formatted="false">"Пам`ять SIM заповнено %d 
+    <string name="notification_failure_by_sim_full" formatted="false">"Пам'ять SIM заповнено %d 
 Не виконано: %d"</string>
-    <string name="notifier_failure_sim_notready" formatted="false">"Збій через неготовність SIM-карти 
+    <string name="notifier_failure_sim_notready" formatted="false">"Збій через неготовність SIM-картки 
 Виконано: %d 
 Не виконано: %d"</string>
     <string name="cancel_export_confirmation_title">Скасувати експорту vCard</string>
     <string name="cancel_import_confirmation_title">Скасувати імпорту vCard</string>
     <string name="prompt_add_stranger">Спочатку слід зберегти в контактах</string>
-    <string name="storage_full">Пам`ять заповнена.</string>
+    <string name="storage_full">"Пам'ять заповнена."</string>
     <string name="generic_failure">Загальний збій.</string>
-    <string name="storage_phone">Пам`ять телефону</string>
-    <string name="storage_full_toast">Пам`ять заповнена</string>
+    <string name="storage_phone">"Пам'ять телефону"</string>
+    <string name="storage_full_toast">"Пам'ять заповнена"</string>
     <string name="exporting_vcard_finished_description">Зберегти %s。</string>
     <string name="importing_vcard_finished_description">Збережено у %s。</string>
-    <string name="no_sdcard_title">SD-карта відсутня</string>
+    <string name="no_sdcard_title">SD-картка відсутня</string>
     <string name="searching_vcard_title">Пошук vCard</string>
-    <string name="scanning_sdcard_failed_title">Не вдалося просканувати SD-карту.</string>
+    <string name="scanning_sdcard_failed_title">Не вдалося просканувати SD-картку.</string>
     <string name="block_incoming_call">Безпосереднє блокування вхідних викликів</string>
     <string name="block_voice_incoming_call">Безпосереднє блокування вхідних голосових викликів</string>
     <string name="block_video_incoming_call">Безпосереднє блокування вхідних відеовикликів</string>
     <string name="menu_manually_refresh">Оновити</string>
     <string name="add_to_blacklist">Додати до чорного списку</string>
     <string name="clear_from_blacklist">Видалити з чорного списку</string>
-    <string name="addblack_dec">Зауваження (необов`язково)</string>
+    <string name="addblack_dec">"Зауваження (необов'язково)"</string>
     <string name="importsms_black">Для імпорту журналу викликів та SMS-повідомлень</string>
     <string name="deleteCallLogConfirmation_title">Видалити виклик(и)?</string>
     <string name="call_detail_deleteConfirmation_message">Ви дійсно бажаєте видалити вибрані виклики?</string>
     <string name="send_contact_info">Відправити інформацію контакту</string>
-    <string name="contact_name">Ім`я</string>
+    <string name="contact_name">"Ім'я"</string>
     <string name="contact_tel">Телефон</string>
     <string name="contact_email">Електронна пошта</string>
     <string name="add_contact_detail">Додати деталі контакту</string>
@@ -727,7 +727,7 @@
     <string name="company_info">Компанія</string>
     <string name="message_send_of_late">раніше</string>
     <string name="prompt_contact_dual_control_call_1">Натисніть та перетягніть вліво</string>
-    <string name="prompt_contact_dual_control_call_2">Подзвонити з іншої SIM-карти</string>
+    <string name="prompt_contact_dual_control_call_2">Подзвонити з іншої SIM-картки</string>
     <string name="call_video_call">Відеовиклик</string>
     <string name="menu_dialpad_ipcall">IP-виклик</string>
     <string name="menu_dialpad_editprecall">Редагувати перед викликом</string>
@@ -736,7 +736,7 @@
     <string name="dial_sim_select_title">Виклик</string>
     <string name="deleteConfirmation_title">Видалити контакт?</string>
     <string name="prompt_contact_dual_control_1">Натисніть та перетягуйте вліво</string>
-    <string name="prompt_contact_dual_control_2">Переключитися на іншу SIM-карту</string>
+    <string name="prompt_contact_dual_control_2">Переключитися на іншу SIM-картку</string>
     
     <string name="dialpad_empty_text">Список викликів порожній</string>
     <string name="group_member">Члени групи</string>
@@ -754,12 +754,12 @@
     <string name="multichoice_delete_group_info_confirm_message">Ви дійсно бажаєте видалити вибрану групу(и) контактів?</string>
     <string name="multichoice_delete_group_info_confirm_title">Видалити з групи контактів?</string>
     <string name="local_device_account_name">Телефон</string>
-    <string name="name_needed">Необхідно вказати ім`я</string>
+    <string name="name_needed">"Необхідно вказати ім'я"</string>
     <string name="save_group_fail">Збій збереження групи</string>
-    <string name="group_name_exists">Вказане ім`я вже існує</string>
+    <string name="group_name_exists">"Вказане ім'я вже існує"</string>
     <string name="group_discard_member">Скасувати</string>
-    <string name="group_discard_member_reason">Зміни не будуть збережені, оскільки ім’я групи не є допустимим.</string>
-    <string name="msg_loading_sim_contacts_toast">У фоновому режимі триває завантаження контактів з SIM-карти, зачекайте.</string>
+    <string name="group_discard_member_reason">"Зміни не будуть збережені, оскільки ім'я групи не є допустимим."</string>
+    <string name="msg_loading_sim_contacts_toast">У фоновому режимі триває завантаження контактів з SIM-картки, зачекайте.</string>
     <string name="cancel_confirmation_dialog_title">Скасувати зміни</string>
     <string name="menu_delete_group">Вилучити групу</string>
     <string name="menu_add_group_item">Додати групу</string>
@@ -768,19 +768,19 @@
     <string name="menu_email_group">Відправити груповий ел.лист</string>
     <string name="moving_group_members">Переміщення членів групи…</string>
     <string name="removing_group_member">Видалення членів групи…</string>
-    <string name="usim_group_name_exceed_limit">Занадто довге ім`я групи для USIM-карти</string>
-    <string name="usim_group_count_exceed_limit">Неможливо додати нові групи до даної USIM-карти</string>
+    <string name="usim_group_name_exceed_limit">"Занадто довге ім'я групи для USIM-картки"</string>
+    <string name="usim_group_count_exceed_limit">Неможливо додати нові групи до даної USIM-картки</string>
     <string name="delete_group_dialog_title">Видалення групи</string>
     <string name="multichoice_delete_group_confirm_message">Ви впевнені, що хочете видалити вибрану групу(и)?</string>
     <string name="has_double_phone_number">Неможливо зберегти двічі номер одного типу, перевірте.</string>
     <string name="phone_book_busy">Телефонна книга недоступна, спробуйте ще раз пізніше.</string>
-    <string name="sim_invalid">Неможливо зберегти контакт на некоректній SIM-карті.</string>
+    <string name="sim_invalid">Неможливо зберегти контакт на некоректній SIM-картці.</string>
     <string name="cannot_insert_null_number">Неможливо зберегти контакт, якщо не введено номер.</string>
     <string name="AirPlane_mode_on">Неможливо зберегти контакт, коли увімкнено режим У літаку</string>
     <string name="FDNEnabled">Неможливо зберегти контакт при увімкненому FDN.</string>
     <string name="sim_invalid_number">Неможливо зберегти некоректний номер.</string>
     <string name="email_invalid">Неможливо зберегти некоректну адреса ел.пошти</string>
-    <string name="email_2g_invalid">Неможливо зберегти повідомлення ел.пошти на 2G SIM-карту, виберіть для збереження 3G SIM-карту.</string>
+    <string name="email_2g_invalid">Неможливо зберегти повідомлення ел.пошти на 2G SIM-картку, виберіть для збереження 3G SIM-картку.</string>
     <string name="sim_invalid_fix_number">Неможливо зберегти некоректний номер фіксованого набору.</string>
     <string name="AirPlane_mode_on_edit">Неможливо редагувати контакт, коли увімкнено режим У літаку</string>
     <string name="fix_number_too_long">Занадто довгий номер фіксованого набору.</string>
@@ -788,11 +788,11 @@
     <string name="number_too_long">Занадто довгий номер.</string>
     <string name="cancel_modify_title">Скасувати збереження?</string>
     <string name="cancel_modify_message">Зміни не буде збережено</string>
-    <string name="position_change_warning">Зберігати тільки ім`я і телефон при зміні місця зберігання на SIM</string>
+    <string name="position_change_warning">"Зберігати тільки ім'я і телефон при зміні місця зберігання на SIM"</string>
     <string name="contact_store_pos">Зберегти позицію</string>
     <string name="store_in_phone">Зберегти в телефоні</string>
-    <string name="store_in_simCard">Зберегти на SIM-карті</string>
-    <string name="store_in_usimCard">Зберегти на USIM-карті</string>
+    <string name="store_in_simCard">Зберегти на SIM-картці</string>
+    <string name="store_in_usimCard">Зберегти на USIM-картці</string>
     <string name="store_in_google_account">Зберегти в обліковому записі Google</string>
     <string name="add_more_info">+ Додати дані</string>
     <string name="add_more_info_title">Додати дані</string>
@@ -800,9 +800,9 @@
     <string name="add_SIP_to_sim">Неможливо додати SIP-номер для контакту SIM/USIM.</string>
     <string name="already_has_SIP">Неможливо додати два SIP-номери до контакту. Щоби продовжити, спочатку видаліть попередній SIP-номер.</string>
     <string name="no_content_saved">Інформацію не збережено!</string>
-    <string name="phone_storage_full_create">Пам`ять телефону заповнена, створення нового контакту неможливе.</string>
-    <string name="phone_storage_full_edit">Пам`ять телефону заповнена, редагування контакту неможливе.</string>
-    <string name="aggregation_suggestion_join_dialog_title">Об`єднати контакти</string>
+    <string name="phone_storage_full_create">"Пам'ять телефону заповнена, створення нового контакту неможливе."</string>
+    <string name="phone_storage_full_edit">"Пам'ять телефону заповнена, редагування контакту неможливе."</string>
+    <string name="aggregation_suggestion_join_dialog_title">"Об'єднати контакти"</string>
     <string name="aggregation_suggestion_edit_dialog_title">Редагувати вибрані контакти</string>
     <string name="calllog_today">Сьогодні</string>
     <string name="calllog_yesterday">Вчора</string>
@@ -810,7 +810,7 @@
     <string name="call_sipcall">Інтернет-виклик</string>
     <string name="menu_videocallNumber">Відеовиклик: %s</string>
     <string name="menu_ipcallNumber">IP-виклик %s</string>
-    <string name="menu_call_via_another_slot">Телефонувати з іншої SIM-карти</string>
+    <string name="menu_call_via_another_slot">Телефонувати з іншої SIM-картки</string>
     <string name="call_detail_delete_calllog">Видалити вибрані виклики</string>
     <string name="dialer_invalid_number_taost">Некоректний номер для виклику</string>
     <string name="call_dialpad_setting">Налаштування панелі набору номеру</string>
@@ -819,7 +819,7 @@
     <string name="dialog_voicemail_not_ready_title">Номер голосової пошти недоступний</string>
     <string name="deleting_call_log">Видалення журналу викликів…</string>
     <string name="dialog_phone_call_prohibited_title">Виклик не здійснено</string>
-    <string name="delete_error">Не вдалося видалити контакт на SIM-карті</string>
+    <string name="delete_error">Не вдалося видалити контакт на SIM-картці</string>
     <string name="emergencycall">Екстрений виклик</string>
     <string name="call_speed_dial">Швидкий набір</string>
     <string name="dialpad_key_fast_not_set">Клавіша для швидкого набору не налаштована</string>
@@ -833,7 +833,7 @@
     <string name="auto_ip_call_description">Автоматично додавати IP-номер під час звичайного виклика</string>
     <string name="my_number_location_description">Місцезнаходження мого номеру</string>
     <string name="other_ip_prefix">Інші IP-префікси</string>
-    <string name="sim_card">SIM-карта</string>
+    <string name="sim_card">SIM-картка</string>
     <string name="sim_card_1">SIM1</string>
     <string name="sim_card_2">SIM2</string>
     <string name="ip_call_prefix">Операторський префікс IP-виклику:</string>
@@ -844,12 +844,12 @@
     <string name="has_not_been_set">Не встановлено</string>
     <string name="input_error">Помилка вводу</string>
     <string name="phoneNumber_empty">Номер не додано</string>
-    <string name="ipsetting_no_sim_card">Немає SIM-карти, неможливо налаштувати IP-виклик</string>
+    <string name="ipsetting_no_sim_card">Немає SIM-картки, неможливо налаштувати IP-виклик</string>
     <string name="add_number">Додати номер</string>
     <string name="ip_menu_modify">Змінити</string>
     <string name="ip_menu_delete">Видалити</string>
-    <string name="contact_name_hint">Ім`я контакту</string>
-    <string name="modify_description">Змінити ім`я контакту</string>
+    <string name="contact_name_hint">"Ім'я контакту"</string>
+    <string name="modify_description">"Змінити ім'я контакту"</string>
     <string name="contact_item_delete_error">Помилка видалення</string>
     <string name="delete_description">Дійсно бажаєте видалити?</string>
     <string name="menu_dialpad_addblacklist">Додати до чорного списку</string>
@@ -859,15 +859,15 @@
     <string name="add_contact_dlg_title">Додати контакт</string>
     <string name="ip_dial_error_toast_for_sip_call_selected">Функція IP-виклику не застосовна до Інтернет-викликів</string>
     <string name="ip_dial_error_toast_for_no_ip_prefix_number">Спочатку вкажіть IP-префікс у налаштуваннях голосових викликів</string>
-    <string name="callFailed_simError">Немає SIM-карти або помилка SIM-карти</string>
+    <string name="callFailed_simError">Немає SIM-картки або помилка SIM-картки</string>
     <string name="sim_manage_call_via">Виклик через</string>
-    <string name="associate_sim_missing_message">SIM-карта %1$s недоступна. Здійснити виклик через %2$s?</string>
+    <string name="associate_sim_missing_message">SIM-картка %1$s недоступна. Здійснити виклик через %2$s?</string>
     <string name="associate_sim_missing_other">Інше</string>
     <string name="reminder">Нагадування</string>
     <string name="enable_sip_dialog_message">Інтернет-виклики відключені, включити їх?</string>
     <string name="turn_on_3g_service_message">3G відключено, включити?</string>
     <string name="no_vm_number">Не вказано номер голосової пошти</string>
-    <string name="no_vm_number_msg">На SIM-карті немає жодного номера голосової пошти.</string>
+    <string name="no_vm_number_msg">На SIM-картці немає жодного номера голосової пошти.</string>
     <string name="add_vm_number_str">Додати номер</string>
     <string name="sum_search_networks">Пошук доступних мереж</string>
     <string name="choose_resources_header">Вибір ресурсів</string>
@@ -876,7 +876,7 @@
     <string name="all_tab_label1">ВСІ</string>
     <string name="dialpad_showdialpad">Показати панель набору номеру</string>
     <string name="call_ip_dial">IP-виклик</string>
-    <string name="gemini_sim_management_title">Керування SIM-картами</string>
+    <string name="gemini_sim_management_title">Керування SIM-картками</string>
     <string name="menu_call_log_filter">Фільтр журналу викликів</string>
 
 
@@ -902,8 +902,8 @@
     <string name="activity_title_accout_select">Вибір облікового запису</string>
     <string name="send_message">Надіслати повідомлення</string>
     <string name="user_profile_cannot_sd_card">Не можна поділитися вмістом у такий спосіб.</string>
-    <string name="file_already_on_sd_card">Файл вже знаходиться на карті пам`яті.</string>
-    <string name="imexport_bridge_sd_card">SD-карта</string>
+    <string name="file_already_on_sd_card">"Файл вже знаходиться на картці пам'яті."</string>
+    <string name="imexport_bridge_sd_card">SD-картка</string>
     <string name="inner_version_info">Інформація про версію：</string>
     <string name="external_version">Зовнішня версія:</string>
     <string name="version">Версія:</string>
@@ -1002,7 +1002,7 @@
     <string name="invalid_recipient_message">Вкажіть коректного одержувача(ів). Інакше повідомлення не буде доставлено.</string>
     <string name="cannot_send_message">Повідомлення не може бути відправлено</string>
     <string name="cannot_send_message_reason">Не вказано жодного коректного одержувача.</string>
-    <string name="cannot_forward_drm_obj">Пересилання DRM-об`єкта з цього повідомлення неможливе.</string>
+    <string name="cannot_forward_drm_obj">"Пересилання DRM-об'єкта з цього повідомлення неможливе."</string>
     <string name="converting_to_picture_message">Перетворення повідомлення у MMS…</string>
     <string name="cannot_add_slide_anymore">Неможливо додати більше слайдів.</string>
     <string name="cannot_add_picture_and_video">Неможливо додати на один слайд і зображення, і відео.</string>
@@ -1040,14 +1040,14 @@
     <string name="pref_mms_settings_title">Налаштування MMS</string>
     <string name="pref_sms_settings_title">Налаштування SMS</string>
     <string name="pref_sms_storage_title">Налаштування сховища</string>
-    <string name="pref_summary_manage_sim_messages">Керування повідомленнями, що зберігаються на SIM-карті</string>
+    <string name="pref_summary_manage_sim_messages">Керування повідомленнями, що зберігаються на SIM-картці</string>
     <string name="pref_summary_mms_delivery_reports">Запитувати звіт про доставку для всіх надісланих повідомлень</string>
     <string name="pref_summary_mms_read_reports">Запитувати звіт про прочитання для всіх надісланих повідомлень</string>
     <string name="pref_summary_sms_delivery_reports">Запитувати звіт про доставку для всіх надісланих повідомлень</string>
     <string name="pref_summary_auto_delete">Видаляти старі повідомлення по досягненні ліміту кількості</string>
     <string name="pref_summary_delete_limit">Повідомлень у ланцюжку: %1$s</string>
     <string name="pref_summary_mms_group_mms">Використовуйте MMS для відправки одного повідомлення з багатьма одержувачами</string>
-    <string name="pref_title_manage_sim_messages">Впорядкувати повідомлення на SIM-карті</string>
+    <string name="pref_title_manage_sim_messages">Впорядкувати повідомлення на SIM-картці</string>
     <string name="pref_title_mms_delivery_reports">Запит звіту про доставку</string>
     <string name="pref_title_mms_group_mms">Групове повідомлення</string>
     <string name="pref_title_mms_read_reports">Запит звіту про прочитання</string>
@@ -1072,8 +1072,8 @@
     <string name="confirm_delete_all_conversations">Всі ланцюжки будуть видалені.</string>
     <string name="confirm_delete_message">Повідомлення буде видалено.</string>
     <string name="confirm_delete_locked_message">Дійсно видалити обране повідомлення?</string>
-    <string name="confirm_delete_all_SIM_messages">Усі повідомлення на SIM-карті будуть видалені.</string>
-    <string name="confirm_delete_SIM_message">Це повідомлення буде видалене з SIM-карти.</string>
+    <string name="confirm_delete_all_SIM_messages">Усі повідомлення на SIM-картці будуть видалені.</string>
+    <string name="confirm_delete_SIM_message">Це повідомлення буде видалене з SIM-картки.</string>
     <string name="delete_unlocked">Видалити вибрані повідомлення</string>
     <string name="delete">Видалити</string>
     <string name="select_conversations">Виберіть ланцюжки</string>
@@ -1103,11 +1103,11 @@
     <string name="menu_delete_messages">Видалити повідомлення</string>
     <string name="menu_lock">В обране</string>
     <string name="menu_unlock">З обраного</string>
-    <string name="sim_copy_to_phone_memory">Копіювати в пам`ять телефону</string>
+    <string name="sim_copy_to_phone_memory">"Копіювати у пам'ять телефону"</string>
     <string name="sim_delete">Видалити</string>
-    <string name="sim_manage_messages_title">Текстові повідомлення на SIM-карті</string>
+    <string name="sim_manage_messages_title">Текстові повідомлення на SIM-картці</string>
     <string name="sim_view">Перегляд</string>
-    <string name="sim_empty">На SIM-карті немає повідомлень</string>
+    <string name="sim_empty">На SIM-картці немає повідомлень</string>
     <string name="delivery_header_title">Звіт</string>
     <string name="status_none">(Немає)</string>
     <string name="status_pending">Чекає</string>
@@ -1133,10 +1133,10 @@
     <string name="notification_multiple_title">Нові повідомлення</string>
     <string name="notification_failed_multiple">Не вдається відіслати %s повідомлень</string>
     <string name="notification_failed_multiple_title">Повідомлення відправлено</string>
-    <string name="sim_full_title">SIM-карта заповнена</string>
+    <string name="sim_full_title">SIM-картка заповнена</string>
     <string name="sim_full_body">Видаліть кілька повідомлень, щоб звільнити місце.</string>
-    <string name="sms_full_title">Пам`ять для текстових повідомлень переповнена.</string>
-    <string name="sms_full_body">Вхідне повідомлення відхилене через переповнення пам`яті. Видаліть старі повідомлення.</string>
+    <string name="sms_full_title">"Пам'ять для текстових повідомлень переповнена."</string>
+    <string name="sms_full_body">"Вхідне повідомлення відхилене через переповнення пам'яті. Видаліть старі повідомлення."</string>
     <string name="sms_rejected_title">SMS відхилено.</string>
     <string name="sms_rejected_body">Вхідне повідомлення відхилено з невідомої причини.</string>
     <string name="type_audio">аудіо</string>
@@ -1226,9 +1226,9 @@
     <string name="sms_save_location">Місце зберігання SMS</string>
     <string name="pref_title_io_settings">Імпорт/експорт SMS</string>
     <string name="sms_backup_location">Місце для резервних копій SMS</string>
-    <string name="pref_summary_import_msg">Імпорт SMS з SD-карти</string>
+    <string name="pref_summary_import_msg">Імпорт SMS з SD-картки</string>
     <string name="pref_title_import_msg">Імпорт SMS</string>
-    <string name="pref_summary_export_msg">Експорт SMS на SD-карту</string>
+    <string name="pref_summary_export_msg">Експорт SMS на SD-картку</string>
     <string name="pref_title_export_msg">Експорт SMS</string>
     <string name="hint">Поле для відповіді…</string>
 
@@ -1287,13 +1287,13 @@
     <string name="sms_export_sdcard">Експорт %s SMS</string>
     <string name="sms_whether_export_item">Бажаєте експортувати %s?</string>
     <string name="export_message_ongoing">Експорт SMS, будь ласка, зачекайте…</string>
-    <string name="no_sd_card">SD-карта не готова</string>
+    <string name="no_sd_card">SD-картка не готова</string>
     <string name="export_message_empty">Немає SMS для експорту!</string>
     <string name="export_message_success">Експорт SMS виконано</string>
     <string name="export_message_fail">Експорт SMS не виконано</string>
     <string name="import_message_success">Імпорт SMS виконано</string>
     <string name="import_message_fail">Імпорт SMS не виконано</string>
-    <string name="export_disk_problem">SD-карта не заповнена або запис неможливий</string>
+    <string name="export_disk_problem">SD-картка не заповнена або запис неможливий</string>
     <string name="import_message_list">Список SMS DB</string>
     <string name="import_message_list_empty">Немає файлів SMS DB</string>
     <string name="whether_import_item">Імпортувати</string>
@@ -1308,7 +1308,7 @@
     <string name="contact_address">Адреса</string>
     
     <string name="message_compose_menu_resend_label">Перенадіслати</string>
-    <string name="save_message_to_sim">Зберегти повідомлення на SIM-карту</string>
+    <string name="save_message_to_sim">Зберегти повідомлення на SIM-картку</string>
     <string name="max_recipients_title">Досягнуто ліміту</string>
     <string name="max_recipients_message">Для MMS можна вказати макс. %s одержувачів. Деяких одержувачів буде вилучено. Продовжити?</string>
     <string name="converting_to_text_message">Перетворення в SMS повідомлення…</string>
@@ -1320,9 +1320,9 @@
     <string name="confirm_restricted_video">Відеоматеріал обмеженого доступу, прикріпити?</string>
     <string name="unsupport_media_type">Непідтримуваний тип носія даних</string>
     <string name="suggested">Пропоноване</string>
-    <string name="sim_selected_dialog_title">Виберіть SIM-карту</string>
+    <string name="sim_selected_dialog_title">Виберіть SIM-картку</string>
     <string name="transmission_transiently_failed">Помилка передачі даних. Спробу буде повторено пізніше.</string>
-    <string name="download_failed_due_to_full_memory">Збій завантаження повідомлення через переповнення пам`яті.</string>
+    <string name="download_failed_due_to_full_memory">"Збій завантаження повідомлення через переповнення пам'яті."</string>
     <string name="mms_too_big_to_download">Повідомлення занадто велике для завантаження з мережі</string>
     <string name="error_unsupported_scheme">Наразі, ця дія не підтримується.</string>
     <string name="discard_message">Скасувати</string>
@@ -1349,16 +1349,16 @@
     <string name="selected_item_count">Вибрано %d</string>
     <string name="menu_selectAll">Вибрати всі</string>
     <string name="menu_clearAll">Скасувати вибір всіх</string>
-    <string name="both_sims">Обидві SIM-карти</string>
+    <string name="both_sims">Обидві SIM-картки</string>
     <string name="call_via_sim1">Зателефонувати з SIM1</string>
     <string name="call_via_sim2">Зателефонувати з SIM2</string>
-    <string name="choose_sim_header">Вибрати SIM-карту</string>
+    <string name="choose_sim_header">Вибрати SIM-картку</string>
     <string name="choose_call_type_header">Вибрати тип виклику</string>
     <string name="all_tab_label">Всі</string>
     <string name="call_log_item_count">(%1$d)</string>
     <string name="call_indicator_3g">3G</string>
     <string name="call_suggested">Пропоноване</string>
-    <string name="call_pin_dialog_title">Вибрати SIM-карту</string>
+    <string name="call_pin_dialog_title">Вибрати SIM-картку</string>
     <string name="call_ghost_data_phone">Транскрипція імені</string>
     <string name="emergency_number">Номер екстреної служби</string>
     <string name="menu_speed_dial">Швидкий набір</string>
@@ -1370,25 +1370,25 @@
     <string name="assigned_key">Призначена клавіша</string>
     <string name="unassigned">Не призначена</string>
     <string name="available">Вільна</string>
-    <string name="menu_association">Прив`язати SIM-карту</string>
-    <string name="menu_remove_association">Зняти прив`язку SIM-карти</string>
-    <string name="remove_association_message">Зняти прив`язку SIM-карти до цього номера?</string>
+    <string name="menu_association">"Прив'язати SIM-картку"</string>
+    <string name="menu_remove_association">"Зняти прив'язку SIM-картки"</string>
+    <string name="remove_association_message">"Зняти прив'язку SIM-картки до цього номера?"</string>
     <string name="remove_number_title">Видалити</string>
-    <string name="warning_detail">Прив`язка SIM-карти призведе до імпорту контакту в телефон. Виконати прив`язку SIM-карти?</string>
-    <string name="associatiated_SIM">Прив`язана SIM-карта</string>
-    <string name="unassociated">Без прив`язки</string>
-    <string name="associate_SIM">Прив`язати SIM-карту</string>
+    <string name="warning_detail">"Прив'язка SIM-картки призведе до імпорту контакту в телефон. Виконати прив'язку SIM-картки?"</string>
+    <string name="associatiated_SIM">"Прив'язана SIM-картка"</string>
+    <string name="unassociated">"Без прив'язки"</string>
+    <string name="associate_SIM">"Прив'язати SIM-картку"</string>
     <string name="menu_multichoice_title">Імпорт/Експорт</string>
     <string name="menu_multichoice_clear_select">Скасувати вибір</string>
     <string name="batchContactDeleteProgress">Видалення контакту(ів)</string>
-    <string name="batch_delete_error">Деякі або всі контакти з SIM-карти не можуть бути видалені. Будь ласка, перевірте налаштування</string>
+    <string name="batch_delete_error">Деякі або всі контакти з SIM-картки не можуть бути видалені. Будь ласка, перевірте налаштування</string>
     <string name="removing_group_members_sucess">Члени групи видалені</string>
     <string name="moving_group_members_fail">Збій видалення членів групи</string>
-    <string name="usim_group_name_exceed_limit_export">Контакти із занадто довгими іменами груп не можна імпортувати до USIM-карти</string>
-    <string name="usim_group_count_exceed_limit_export">Контакти з додатковими новими групами, що перевищують граничне обмеження, не можна імпортувати до даної USIM-карти</string>
-    <string name="usim_group_exceed_limit_export">Контакти із занадто довгим ім`ям групи або з додатковими новими групами, що перевищують граничне обмеження, не можна імпортувати до даної USIM-карти</string>
+    <string name="usim_group_name_exceed_limit_export">Контакти із занадто довгими іменами груп не можна імпортувати до USIM-картки</string>
+    <string name="usim_group_count_exceed_limit_export">Контакти з додатковими новими групами, що перевищують граничне обмеження, не можна імпортувати до даної USIM-картки</string>
+    <string name="usim_group_exceed_limit_export">"Контакти із занадто довгим ім'ям групи або з додатковими новими групами, що перевищують граничне обмеження, не можна імпортувати до даної USIM-картки"</string>
     <string name="next">Далі</string>
-    <string name="sim_card_state_illegal">SIM-карта забороняє копіювання</string>
+    <string name="sim_card_state_illegal">SIM-картка забороняє копіювання</string>
     <string name="tips_source">Копіювати контакти з</string>
     <string name="tips_target">Копіювати контакти до</string>
     <string name="back">Назад</string>
@@ -1416,12 +1416,12 @@
     <string name="desc_mms_push">Відправлення MMS з вихідної скриньки в мережу</string>
     <string name="cell_broadcast">Інформаційні повідомлення</string>
     <string name="cell_broadcast_title">Налаштування інформаційних повідомлень</string>
-    <string name="cell_broadcast_settings">Налаштування розсилки інформаційних повідомлень SIM-карти</string>
+    <string name="cell_broadcast_settings">Налаштування розсилки інформаційних повідомлень SIM-картки</string>
     <string name="menu_insert_quick_text">Вставити швидкий текст</string>
     <string name="select_quick_text">Виберіть швидкий текст</string>
     <string name="add">Додати</string>
     <string name="more_recipients">одержувач(і)</string>
-    <string name="Insert_sdcard">Встановіть SD-карту</string>
+    <string name="Insert_sdcard">Встановіть SD-картку</string>
     <string name="pref_title_mms_enable_to_send_delivery_reports">Відправка звіту про доставку</string>
     <string name="pref_summary_mms_enable_to_send_delivery_reports">Надсилати звіт про доставку про кожне одержане повідомлення</string>
     <string name="service_center_label">"Центр служби: "</string>
@@ -1470,7 +1470,7 @@
     <string name="mms_priority_label">Пріоритет</string>
     <string name="menu_retry_sending">Спробувати відправити повторно</string>
     <string name="menu_retry_sending_all">Спробувати відправити повторно всі повідомлення</string>
-    <string name="retrying_dialog_body">"Повідомлення %s не вдалося надіслати внаслідок проблем зі з`єднанням. 
+    <string name="retrying_dialog_body">"Повідомлення %s не вдалося надіслати внаслідок проблем зі з'єднанням. 
 Повторна відправка…"</string>
     <string name="status_expired">Термін дії минув</string>
     <string name="status_deferred">Відкладено</string>
@@ -1486,7 +1486,7 @@
     <string name="edit_text_activity">Редагувати текст</string>
     <string name="pick_numbers_activity">Вказати номери</string>
     <string name="send_using_mms_activity">Відправити як MMS…</string>
-    <string name="select_contact_method_activity">Вибрати спосіб зв`язку</string>
+    <string name="select_contact_method_activity">"Вибрати спосіб зв'язку"</string>
     <string name="fdn_enabled">FDN увімкнено</string>
     <string name="cannot_send_message_reason_no_content">Немає що відправити</string>
     <string name="cb_read_message">Читати інформаційне повідомлення</string>
@@ -1500,7 +1500,7 @@
     <string name="send_by_sim1">Відправити з SIM1</string>
     <string name="menu_item_send_by">Надіслати з допомогою</string>
     <string name="data_connected_confirm_title">Підтвердити відправку</string>
-    <string name="data_connected_confirm_message">Надсилання MMS-повідомлення з цієї SIM-карти може призупинити завантаження даних. Продовжити?</string>
+    <string name="data_connected_confirm_message">Надсилання MMS-повідомлення з цієї SIM-картки може призупинити завантаження даних. Продовжити?</string>
     <string name="menu_item_sim1">SIM1</string>
     <string name="menu_item_sim2">SIM2</string>
     <string name="no_sim_1">SIM1 не встановлено.</string>
@@ -1527,7 +1527,7 @@
     <string name="show_icc_sms_capacity_title">Обсяг</string>
     <string name="icc_sms_used">Використано: </string>
     <string name="icc_sms_total">Загалом: </string>
-    <string name="get_icc_sms_capacity_failed">Збій визначення обсягу SIM-карти</string>
+    <string name="get_icc_sms_capacity_failed">Збій визначення обсягу SIM-картки</string>
     <string name="pref_title_mms_auto_reply_read_reports">Відправка звіту про прочитання</string>
     <string name="pref_summary_mms_auto_reply_read_reports">Надсилати звіт про прочитання за запитом відправника MMS</string>
     <string name="exceed_subject_length_limitation">Досягнута максимальна довжина</string>
@@ -1572,14 +1572,14 @@
     <string name="deleteSelectedConfirmation">Вибрані контакти буде видалено</string>
     <string name="label_my_card">Моя візитка</string>
     <string name="showFilterPhones">Лише контакти з телефонами</string>
-    <string name="menu_merge_duplicated">Об`єднати однакові контакти</string>
+    <string name="menu_merge_duplicated">"Об'єднати однакові контакти"</string>
     <string name="login_lewa_account">Увійти до облікового запису LeWa</string>
     <string name="prompt_no_profile_data">Ви не вказали вичерпну інформацію бізнес картки</string>
     <string name="edit_my_card">Змінити мою візитну картку</string>
     <string name="title_unknown_number">Невідомий номер</string>
     <string name="label_profile">Я</string>
     <string name="toast_no_profile">Будь ласка, додайте інформацію!</string>
-    <string name="prompt_nerwork_offline">Помилка оновлення, перевірте з`єднання</string>
+    <string name="prompt_nerwork_offline">"Помилка оновлення, перевірте з'єднання"</string>
     <string name="yiliao_progress_match_yiliao_number_done">Оновлення статусу контакту завершено</string>
     <string name="yiliao_progress_match_yiliao_number_fail">Невдале оновлення статусу контакту</string>
     <string name="menu_delete_contact_detail">Видалити контакт</string>
@@ -1602,7 +1602,7 @@
     <string name="favorite_sms">обране повідомлення</string>
     <string name="mms_notification_no_subject">Немає теми</string>
     <string name="sms_backup_store_in">Зберігати у</string>
-    <string name="sms_backup_sd_card">SD-карта</string>
+    <string name="sms_backup_sd_card">SD-картка</string>
     <string name="prefs_ims_settings">Налаштування FMS</string>
     <string name="prefs_ims_close_title">FMS - безкоштовний сервіс SMS</string>
     <string name="prefs_ims_close_title_summary">Увімкніть для безкоштовних текстових, фото, голосових і відео повідомлень</string>
@@ -1618,7 +1618,7 @@
 
 2. Кошти: 
 
-Ви повинні оплатити власний інтернет або послуги третіх осіб (включаючи, але не обмежуючись, телекомунікацим провайдером або оператором мобільного зв`язку) плата зв`язку заряд, збір інформації та інші супутні витрати. Як пов`язаної з доданою вартістю послуг зв`язку, ми рекомендуємо вам і податок на додану постачальника послуг для підтвердження відповідних витрат. Будь-яке оновлення програмного забезпечення, оновлення та інші зміни будуть предметом цієї угоди. 
+Ви повинні оплатити власний інтернет або послуги третіх осіб (включаючи, але не обмежуючись, телекомунікацим провайдером або оператором мобільного зв'язку) плата зв'язку заряд, збір інформації та інші супутні витрати. Як пов'язаної з доданою вартістю послуг зв'язку, ми рекомендуємо вам і податок на додану постачальника послуг для підтвердження відповідних витрат. Будь-яке оновлення програмного забезпечення, оновлення та інші зміни будуть предметом цієї угоди. 
 
 3. Захист конфіденційних даних 
 
@@ -1636,7 +1636,7 @@
 
 В раскрыто одно приватности пользователя под помещение, имеет право на базу данных пользователей анализируются и пользовательской базы данных для коммерческого использования.
 
-4. Открытие бесплатных информационных услуг необходимо отправить сообщение на сервер, чтобы завершить регистрационный сбор, с обычными сообщениями SMS, носителями заряда, Le лягушки не взимает сборы."</string>
+4. Открытие бесплатных информационных услуг необходимо отправить сообщение на сервер, чтобы завершить регистрационный сбор, с обычными сообщениями SMS, носителями заряда, LeWa не взимает сборы."</string>
     <string name="message_ims_user_service_message_info">Безкоштовна інформаційна служба є потужнішою за звичайний обмін інформацією. Використовуйте внітрішній мережевий чат для спілкування та повідомлень, економте гроші при відправці фотографій та іншої мультимедійної інформації.</string>
     <string name="message_ims_user_service_open">Приєднатися</string>
     <string name="message_ims_user_service_to_later">Пізніше</string>
@@ -1645,12 +1645,12 @@
     <string name="compose_voice_button">Утримуйте для відповіді</string>
     <string name="compose_recorder_no_press">Вкладення невідправлені!</string>
     <string name="compose_recorder_to_short">Ваш запис дуже короткий і не може бути відправлений</string>
-    <string name="mms_input_voice_no_sdcard">SD-карта не виявлена, неможливо відправити голосове повідомлення</string>
+    <string name="mms_input_voice_no_sdcard">SD-картка не виявлена, неможливо відправити голосове повідомлення</string>
     <string name="compose_recorder_invalid_network">Доступні бездротові мережі, відкрийте Wi-Fi або 3G мережі</string>
     <string name="mms_ims_message">Безкоштовні повідомлення</string>
     <string name="compose_stop_audio_text">стоп</string>
     <string name="message_ims_sending_file_maxsize">Відправка файлів більших за 3МБ неможлива.</string>
-    <string name="mms_input_play_no_sdcard">SD-карта не виявлена, неможливо відтворити голосове повідомлення</string>
+    <string name="mms_input_play_no_sdcard">SD-картка не виявлена, неможливо відтворити голосове повідомлення</string>
     <string name="ims_resend_message">Перевідправити як FMS</string>
     <string name="ims_resend_message_to_sms">Перевідправити як SMS</string>
     <string name="mms_audio_message_text">Аудіо</string>
@@ -1662,14 +1662,14 @@
     <string name="prefs_ims_service_title">Сервіс безкоштовних повідомлень</string>
     <string name="mms_ims_attachment_type_error">Мультимедійний додаток не підтримує відправку листів LEWA.</string>
     <string name="mms_attachment_type_error">Мультимедійний додаток не підтримує MMS.</string>
-    <string name="mms_key_tip">Перетягніть кнопку для зміни SIM-карти!</string>
+    <string name="mms_key_tip">Перетягніть кнопку для зміни SIM-картки!</string>
     <string name="mms_send_error">не відправлено</string>
     <string name="mms_press_left_sliding">Натисніть і посуньте вліво</string>
     <string name="mms_switch_another_card">Переключитися на іншу SIM-картку</string>
     <string name="mms_press_left_sliding_1">Натисніть і посуньте вліво</string>
-    <string name="mms_switch_another_card_1">надіслати SMS з іншої SIM-карти</string>
+    <string name="mms_switch_another_card_1">надіслати SMS з іншої SIM-картки</string>
     <string name="toast_donot_start_activity">Не активувати</string>
-    <string name="dial_key_tip">Перетягніть кнопку для зміни SIM-карти!</string>
+    <string name="dial_key_tip">Перетягніть кнопку для зміни SIM-картки!</string>
     <string name="import_contacts_title">Імпорт контактів</string>
     <string name="contact_sync">Синхронізація контактів</string>
     <string name="login_lewa">Необхідно зайти в обліковий запис Lewa</string>
