@@ -1656,7 +1656,6 @@
     <string name="mms_switch_another_card">Переключитися на іншу SIM-картку</string>
     <string name="mms_press_left_sliding_1">Натисніть і посуньте вліво</string>
     <string name="mms_switch_another_card_1">надіслати SMS з іншою SIM-карти</string>
-    <string name="mms_timer_text_formart" formatted="false">%sYear%sMonth%hday</string>
     <string name="toast_donot_start_activity">Не активувати</string>
 
     <string name="dial_key_tip">Затисніть повзунок і змістіть його вліво для зміни SIM-карти!</string>
@@ -1667,32 +1666,4 @@
     <string name="calllog_select_title">Вибрати</string>
     <string name="crop_photo_title">Обрізати фото</string>
     <string name="crop_complete">Завершено</string>
-    <string name="sim_china_mobile">Чарлі маккріві</string>
-    <string name="sim_china_telecom">КТХК</string>
-    <string name="sim_china_unicom">CUCC</string>
-    <string name="t9_default_sort">1</string>
-    <string name="percentage">%s%%</string>
-    <string name="organization_company_and_title">%2$s, %1$s</string>
-    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
-    <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
-    <string name="call_log_empty_gecode">-</string>
-    <string name="sim1">SIM1</string>
-    <string name="sim2">SIM2</string>
-    <string name="phone_storage_full_create">Пам`ять телефону заповнена, створення нового контакту неможливо.</string>
-    <string name="phone_storage_full_edit">Пам`ять телефону заповнена, редагування контакту неможливо.</string>
-    <string name="forward_prefix">Fwd:</string>
-    <string name="draft_separator">", "</string>
-    <string name="gemini_3g_indic">3G</string>
-    <string name="call_video_call">Відеовиклик</string>
-    <string name="menu_insert_text_vcard">Додати контакт</string>
-    <string name="contact_organization">Організація</string>
-    <string name="contact_address">Адреса</string>
-    <string name="select_text">Виділити текст</string>
-    <string name="file_attachment_vcard_name">vCard(%s)</string>
-    <string name="call_custom">%d</string>
-    <string name="importing_vcard_finished_title">Імпорт vCard завершено</string>
-    <string name="twelve_hour_time_format">h:mma</string>
-    <string name="mms_load_contacts_name">…</string>
-    <string name="mms_fei_xing_title">[Fei Xing]</string>
-
 </resources>
