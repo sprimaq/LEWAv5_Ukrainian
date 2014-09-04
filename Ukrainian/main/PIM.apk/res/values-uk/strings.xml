@@ -1601,68 +1601,79 @@
     <string name="mms_menu_select_title">вибрати</string>
     <string name="favorite_sms">обране повідомлення</string>
     <string name="mms_notification_no_subject">Немає теми</string>
-    <string name="sms_backup_store_in">SD-карта</string>
-    <string name="sms_backup_sd_card">Внутрішнє сховище</string>
-    <string name="prefs_ims_settings">Налаштування обраних повідомлень</string>
-    <string name="prefs_ims_close_title">Безкоштовний сервіс SMS</string>
-    <string name="prefs_ims_close_title_summary">Увімкніть для безкоштовних SMS, фото, голосових і відео повідомлень</string>
+    <string name="sms_backup_store_in">Зберігати у</string>
+    <string name="sms_backup_sd_card">SD-карта</string>
+    <string name="prefs_ims_settings">Налаштування FMS</string>
+    <string name="prefs_ims_close_title">FMS - безкоштовний сервіс SMS</string>
+    <string name="prefs_ims_close_title_summary">Увімкніть для безкоштовних текстових, фото, голосових і відео повідомлень</string>
     <string name="prefs_ims_aout_to_sms_mode">Пересилати по SMS</string>
-    <string name="prefs_ims_aout_to_sms_summary_mode">Автоматично пересилати безкоштовні повідомлення по SMS якщо немає доступу до мережі.</string>
-    <string name="message_ims_user_service_info">"Безкоштовна інформаційна служба угода 
+    <string name="prefs_ims_aout_to_sms_summary_mode">Автоматично пересилати FMS по SMS, якщо немає доступу до мережі.</string>
+    <string name="message_ims_user_service_info">"Угода користувача "FMS"
 
-Один з них, згоду надати вам наступні права: 
+1. Погоджуюсь надати вам наступні права: 
 
-Встановлення і використання: 
+Встановлення та використання: 
 
 Ви можете копіювати, поширювати і розповсюджувати необмежену кількість програмних продуктів, але ви повинні переконатися, що кожне відтворення, розповсюдження та поширення мають бути повними, включаючи всі програмні продукти на це програмне забезпечення, електронні документи, авторського права і товарних знаках, а також включаючи цієї угоди. 
 
-По-друге, витрати: 
+2. Кошти: 
 
 Ви повинні заплатити власним інтернет або третіх осіб (включаючи, але не обмежуючись, телекомунікацій або оператора мобільного зв`язку) Плата зв`язку заряд, збір інформації та інші супутні витрати. Як пов`язаної з доданою вартістю послуг зв`язку, ми рекомендуємо вам і податок на додану постачальника послуг для підтвердження відповідних витрат. Будь-яке оновлення програмного забезпечення, оновлення та інші зміни будуть предметом цієї угоди. 
 
-Три, захист конфіденційності 
+3. Захист конфіденційних даних 
 
 Щоб захистити конфіденційність користувачів є безкоштовним сервісом, інформація є одним з основних політики, забезпечити не відкриті для громадськості або третьою стороною для забезпечення єдиної реєстраційної інформації до користувачів у використанні мережних послуг недержавного змісту, за винятком наступних ситуацій : 
 
-До отримання чіткого дозволу користувача"</string>
-    <string name="message_ims_user_service_message_info">Безкоштовна інформаційна служба є більш потужною, ніж звичайний обмін інформацією. Голосовий чат з онлайн-контактами, текстові чати, економте гроші при відправці фотографій та іншої мультимедійною інформацією.</string>
+До отримання чіткого дозволу користувача;
+
+Согласно соответствующим законам и правилам;
+
+В соответствии с соответствующими правительственными ведомствами, отвечающий за требованиями;
+
+В целях защиты общественных интересов;
+
+Для защиты законных прав и интересов письмо.
+
+В раскрыто одно приватности пользователя под помещение, имеет право на базу данных пользователей анализируются и пользовательской базы данных для коммерческого использования.
+
+4. Открытие бесплатных информационных услуг необходимо отправить сообщение на сервер, чтобы завершить регистрационный сбор, с обычными сообщениями SMS, носителями заряда, Le лягушки не взимает сборы."</string>
+    <string name="message_ims_user_service_message_info">Безкоштовна інформаційна служба є потужнішою за звичайний обмін інформацією. Використовуйте внітрішній мережевий чат для спілкування та повідомлень, економте гроші при відправці фотографій та іншої мультимедійної інформації.</string>
     <string name="message_ims_user_service_open">Приєднатися</string>
     <string name="message_ims_user_service_to_later">Пізніше</string>
-    <string name="message_ims_user_service_check_protocol">Читати Корис-е угода</string>
-    <string name="message_ims_user_protocol">Користувальницький протокол</string>
+    <string name="message_ims_user_service_check_protocol">Читати Угоду користувача</string>
+    <string name="message_ims_user_protocol">протокол користувача</string>
     <string name="compose_voice_button">Утримуйте для відповіді</string>
-    <string name="compose_recorder_no_press">Нові вкладення!</string>
-    <string name="compose_recorder_to_short">Ваша запис дуже коротка і не може бути відправлена</string>
-    <string name="mms_input_voice_no_sdcard">SD-карта не виявлена, відсутня можливість відправити голосове повідомлення</string>
+    <string name="compose_recorder_no_press">Вкладення невідправлені!</string>
+    <string name="compose_recorder_to_short">Ваш запис дуже короткий і не може бути відправлений</string>
+    <string name="mms_input_voice_no_sdcard">SD-карта не виявлена, неможливо відправити голосове повідомлення</string>
     <string name="compose_recorder_invalid_network">Доступні бездротові мережі, відкрийте Wi-Fi або 3G мережі</string>
-    <string name="mms_ims_message">Безкоштовне сообшение</string>
+    <string name="mms_ims_message">Безкоштовні повідомлення</string>
     <string name="compose_stop_audio_text">стоп</string>
-    <string name="message_ims_sending_file_maxsize">Відправка файлів більше 2 Мб неможлива.</string>
-    <string name="mms_input_play_no_sdcard">SD-карта не виявлена, відсутня можливість відтворити голосове повідомлення</string>
-    <string name="ims_resend_message">Перевідправити FMS</string>
+    <string name="message_ims_sending_file_maxsize">Відправка файлів більших за 3МБ неможлива.</string>
+    <string name="mms_input_play_no_sdcard">SD-карта не виявлена, неможливо відтворити голосове повідомлення</string>
+    <string name="ims_resend_message">Перевідправити як FMS</string>
     <string name="ims_resend_message_to_sms">Перевідправити як SMS</string>
     <string name="mms_audio_message_text">Аудіо</string>
     <string name="mms_image_message_text">Зображення</string>
     <string name="mms_video_message_text">Відео</string>
     <string name="mms_ims_menu_mode_in_call">Режим виклику</string>
     <string name="mms_ims_menu_mode_in_normal">Нормальний режим</string>
-    <string name="mms_ims_open_wait">Відкриваю вільну інформацію, будь ласка, почекайте ……</string>
+    <string name="mms_ims_open_wait">Відкриваю інформацію, будь ласка, почекайте…</string>
     <string name="prefs_ims_service_title">Сервіс безкоштовних повідомлень</string>
-    <string name="mms_ims_attachment_type_error">Мультимедійне додаток не підтримує відправку листів LEWA.</string>
-    <string name="mms_attachment_type_error">Мультимедійне додаток не підтримує MMS.</string>
-    <string name="mms_key_tip">Затисніть повзунок і змістіть його вліво для зміни SIM-карти!</string>
-    <string name="mms_send_error">Не відправлено</string>
+    <string name="mms_ims_attachment_type_error">Мультимедійний додаток не підтримує відправку листів LEWA.</string>
+    <string name="mms_attachment_type_error">Мультимедійний додаток не підтримує MMS.</string>
+    <string name="mms_key_tip">Перетягніть кнопку для зміни SIM-карти!</string>
+    <string name="mms_send_error">не відправлено</string>
     <string name="mms_press_left_sliding">Натисніть і посуньте вліво</string>
     <string name="mms_switch_another_card">Переключитися на іншу SIM-картку</string>
     <string name="mms_press_left_sliding_1">Натисніть і посуньте вліво</string>
-    <string name="mms_switch_another_card_1">надіслати SMS з іншою SIM-карти</string>
+    <string name="mms_switch_another_card_1">надіслати SMS з іншої SIM-карти</string>
     <string name="toast_donot_start_activity">Не активувати</string>
-
-    <string name="dial_key_tip">Затисніть повзунок і змістіть його вліво для зміни SIM-карти!</string>
+    <string name="dial_key_tip">Перетягніть кнопку для зміни SIM-карти!</string>
     <string name="import_contacts_title">Імпорт контактів</string>
     <string name="contact_sync">Синхронізація контактів</string>
-    <string name="login_lewa">Необхідно зайти в Lewa-запис</string>
-    <string name="base_info_title">Базова інформація</string>
+    <string name="login_lewa">Необхідно зайти в обліковий запис Lewa</string>
+    <string name="base_info_title">Основна інформація</string>
     <string name="calllog_select_title">Вибрати</string>
     <string name="crop_photo_title">Обрізати фото</string>
     <string name="crop_complete">Завершено</string>
