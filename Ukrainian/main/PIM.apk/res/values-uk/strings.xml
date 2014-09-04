@@ -1584,26 +1584,26 @@
     <string name="yiliao_progress_match_yiliao_number_fail">Невдале оновлення статусу контакту</string>
     <string name="menu_delete_contact_detail">Видалити контакт</string>
     <string name="deselect_all">Зняти виділення</string>
-
-
-    <string name="importing_vcard_finished_title">Імпорт vCard завершено</string>
     <string name="dialpad_call">Виклик</string>
-    <string name="twelve_hour_time_format">h:mma</string>
     <string name="call_log_clear_all">Очистити журнал виклику</string>
     <string name="mms_select_contacts_recent_contacts">Останні контакти</string>
-    <string name="message_send_fail">Помилка надсилання: %s</string>
-    <string name="pref_title_save_location">Папка збереження вкладень</string>
-    <string name="pref_summary_save_location">Папка для збереження вкладень повідомлень</string>
-    <string name="remove_subject">Видаліть тему</string>
-    <string name="message_compose_menu_mms_resend_label">Надіслати MMS</string>
-    <string name="mms_lewa_easter_eggs">З Новим роком!</string>
+    <string name="message_send_fail">Помилка відправлення: %s</string>
+    <string name="pref_title_save_location">Тека збереження вкладень</string>
+    <string name="pref_summary_save_location">Тека для збереження вкладень повідомлень</string>
+    <string name="remove_subject">видалити тему</string>
+    <string name="message_compose_menu_mms_resend_label">надіслати MMS ще раз</string>
+    <string name="mms_lewa_easter_eggs">щасливого різдва</string>
     <string name="reply">Відповідь</string>
-    <string name="choosesms">Вибрати загальне повідомлення</string>
-    <string name="message_ims_sending_string">Відправити Wassage…….</string>
+    <string name="choosesms">вибрати загальне повідомлення</string>
+    <string name="message_ims_sending_string">Відправити Wassage…</string>
     <string name="mms_menu_del_message">Видалити повідомлення</string>
     <string name="mms_select_contacts_favorites">Обране</string>
-    <string name="mms_menu_select_title">Вибрати</string>
-    <string name="favorite_sms">Вибрані повідомлення</string>
+    <string name="mms_menu_select_title">вибрати</string>
+    <string name="favorite_sms">обране повідомлення</string>
+    
+    
+    
+    
     <string name="mms_load_contacts_name">…</string>
     <string name="mms_notification_no_subject">Немає теми</string>
     <string name="mms_fei_xing_title">[Fei Xing]</string>
@@ -1696,5 +1696,7 @@
     <string name="select_text">Виділити текст</string>
     <string name="file_attachment_vcard_name">vCard(%s)</string>
     <string name="call_custom">%d</string>
+    <string name="importing_vcard_finished_title">Імпорт vCard завершено</string>
+    <string name="twelve_hour_time_format">h:mma</string>
 
 </resources>
