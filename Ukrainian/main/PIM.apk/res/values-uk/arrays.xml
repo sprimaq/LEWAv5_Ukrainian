@@ -172,11 +172,11 @@
     </string-array>
     <string-array name="pref_sms_save_location_choices">
         <item>Телефон</item>
-        <item>SIM-карта</item>
+        <item>SIM-картка</item>
     </string-array>
     <string-array name="pref_sms_save_location_values">
         <item>Телефон</item>
-        <item>SIM-карта</item>
+        <item>SIM-картка</item>
     </string-array>
 
 
@@ -342,7 +342,7 @@
 
 
     <string-array name="ims_ip_call_setting_items">
-        <item>Виклики на великі відстані</item>
+        <item>"Виклики дальнього зв'язку"</item>
         <item>Всі виклики</item>
     </string-array>
     <string-array name="pref_sms_backup_location">
