@@ -1283,34 +1283,60 @@
     <string name="no_messages">Немає повідомлень</string>
     <string name="set_service_center_OK">Успішне встановлення Центру служби SMS</string>
     <string name="set_service_center_fail">Встановлення Центру служби SMS не вдалося</string>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <string name="gemini_3g_indic">3G</string>
-    <string name="service_center_label">"Центр служби: "</string>
-    <string name="cu_subject">Lemei Тему</string>
-    <string name="pref_title_mms_creation_mode">Режим створення</string>
-    <string name="pref_summary_mms_creation_mode">Режим створення MMS для надсилання повідомлення</string>
-    <string name="pref_title_mms_size_limit">Макс. розмір</string>
-    <string name="pref_summary_mms_size_limit">Макс. розмір при складанні MMS-повідомлення</string>
-    <string name="confirm_restricted_audio">Аудіоматеріал обмеженого типу, прикріпити?</string>
-    <string name="confirm_restricted_image">Зображення обмеженого типу, прикріпити?</string>
-    <string name="confirm_restricted_video">Відеоматеріал обмеженого типу, прикріпити?</string>
+    <string name="sms_import_sdcard">Імпорт %s SMS</string>
+    <string name="sms_export_sdcard">Експорт %s SMS</string>
+    <string name="sms_whether_export_item">Бажаєте експортувати %s?</string>
+    <string name="export_message_ongoing">Експорт SMS, будь ласка, зачекайте…</string>
+    <string name="no_sd_card">SD-карта не готова</string>
+    <string name="export_message_empty">Немає SMS для експорту!</string>
+    <string name="export_message_success">Експорт SMS виконано</string>
+    <string name="export_message_fail">Експорт SMS не виконано</string>
+    <string name="import_message_success">Імпорт SMS виконано</string>
+    <string name="import_message_fail">Імпорт SMS не виконано</string>
+    <string name="export_disk_problem">SD-карта не заповнена або запис неможливий</string>
+    <string name="import_message_list">Список SMS DB</string>
+    <string name="import_message_list_empty">Немає файлів SMS DB</string>
+    <string name="whether_import_item">Імпортувати</string>
+    <string name="import_message_ongoing">Імпорт SMS, будь ласка, зачекайте…</string>
+    <string name="confirm_delete_selected_messages">Вибрані повідомлення буде видалено.</string>
+    <string name="cdma_not_support">"CDMA не підтримує дану опцію"</string>
+    <string name="sms_not_ready">Ініціалізація SMS-модуля, очікуйте…</string>
+    <string name="sms_quik_text_no_empty">Швидкий текст SMS не пустий</string>
+    <string name="select_text">Виділити текст</string>
+    <string name="menu_insert_text_vcard">Додати контакт</string>
+    <string name="contact_organization">Організація</string>
+    <string name="contact_address">Адреса</string>
+    <string name="message_compose_menu_resend_label">Перенадіслати</string>
+    <string name="save_message_to_sim">Зберегти повідомлення на SIM-карту</string>
+    <string name="max_recipients_title">Досягнуто ліміту</string>
+    <string name="max_recipients_message">Для MMS можна вказати макс. %s одержувачів. Деяких одержувачів буде вилучено. Продовжити?</string>
+    <string name="converting_to_text_message">Перетворення в SMS повідомлення…</string>
+    <string name="save_message_to_sim_successful">Успішне збереження</string>
+    <string name="save_message_to_sim_unsuccessful">Збереження не виконано</string>
+    <string name="type_common_file">файл</string>
+    <string name="confirm_restricted_audio">Аудіоматеріал обмеженого доступу, прикріпити?</string>
+    <string name="confirm_restricted_image">Зображення обмеженого доступу, прикріпити?</string>
+    <string name="confirm_restricted_video">Відеоматеріал обмеженого доступу, прикріпити?</string>
     <string name="unsupport_media_type">Непідтримуваний тип носія даних</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <string name="select_different_media_type">Виберіть інший носій</string>
     <string name="image_resolution_too_large">Дозвіл вставленого зображення занадто велике</string>
     <string name="wp_msg_type">Сервісне повідомлення</string>
@@ -1334,11 +1360,8 @@
     <string name="broadcast_from_to">%1$s</string>
     <string name="anonymous_recipient">Анонім</string>
     <string name="view_picture">Переглянути зображення</string>
-    <string name="save_message_to_sim">Зберегти повідомлення на SIM</string>
     <string name="sent_on">Відправлено :%s</string>
     <string name="received_on">Отримані: %s</string>
-    <string name="save_message_to_sim_successful">Збереження виконано</string>
-    <string name="save_message_to_sim_unsuccessful">Збереження не виконано</string>
     <string name="transmission_transiently_failed">Помилка передачі даних. Спроба буде повторена пізніше.</string>
     <string name="download_failed_due_to_full_memory">Збій завантаження повідомлення через переповнення пам`яті.</string>
     <string name="mms_too_big_to_download">Повідомлення занадто велике для завантаження з мережі</string>
@@ -1396,7 +1419,6 @@
     <string name="sim1_full_title">SIM1 заповнена</string>
     <string name="sim2_full_title">SIM2 заповнена</string>
     <string name="select_all">Вибрати все</string>
-    <string name="confirm_delete_selected_messages">Вибрані повідомлення будуть видалені.</string>
     <string name="confirm_delete_selected_theads">Вибрані ланцюжка повідомлень будуть видалені.</string>
     <string name="restricted_forward_title">Мультимедійне повідомлення</string>
     <string name="restricted_forward_message">Цей медиафайл може відображатися некоректно у одержувачів. Продовжити?</string>
@@ -1405,8 +1427,6 @@
     <string name="menu_insert_text_vcard">Додати контакт</string>
     <string name="contact_organization">Організація</string>
     <string name="contact_address">Адреса</string>
-    <string name="max_recipients_title">Досягнута межа</string>
-    <string name="max_recipients_message">Для MMS можна вказати макс. %s одержувачів. Деякі одержувачі будуть виключені. Продовжити?</string>
     <string name="sim_selected_dialog_title">Виберіть SIM-картку</string>
     <string name="suggested">Рекомендується</string>
     <string name="add_contact_dialog_message">Додати номер %s в існуючий або новий контакт?</string>
@@ -1430,19 +1450,7 @@
     <string name="sms_input_mode_title">Режим вводу</string>
     <string name="sms_input_mode_dialog_title">Вибрати режим введення</string>
     <string name="sms_input_mode_summary">Режим введення SMS для складання повідомлення</string>
-    <string name="no_sd_card">SD-карта не готова</string>
-    <string name="export_message_ongoing">Експорт SMS на SD-карту, чекайте…</string>
-    <string name="import_message_ongoing">Імпорт SMS з SD-карти, чекайте…</string>
-    <string name="export_message_success">Експорт SMS на SD-карту виконано</string>
-    <string name="import_message_success">Імпорт SMS з SD-карти виконано</string>
-    <string name="import_message_fail">Імпорт SMS з SD-карти не вдався</string>
-    <string name="export_message_fail">Експорт SMS на SD-карту не вдався</string>
-    <string name="import_message_list">Список SMS DB на SD-карті</string>
-    <string name="import_message_list_empty">Немає файлів SMS DB на SD-карті</string>
-    <string name="export_message_empty">Немає SMS для експорту!</string>
     <string name="whether_export_item">Експортувати SMS?</string>
-    <string name="whether_import_item">Імпортувати</string>
-    <string name="export_disk_problem">SD-карта не заповнена чи запис неможлива</string>
     <string name="select_text">Виділити текст</string>
     <string name="unselect_all">Скасувати вибір всього</string>
     <string name="sms_forward_setting">Настроювання пересилання SMS</string>
@@ -1450,7 +1458,6 @@
     <string name="file_attachment_vcard_name">vCard(%s)</string>
     <string name="file_attachment_import_vcard">Імпорт vCard</string>
     <string name="attach_vcard">Контакт</string>
-    <string name="type_common_file">файл</string>
     <string name="failed_to_parse_vcard">Не вдалося обробити файл vCard!</string>
     <string name="empty_vcard">Немає контактів vCard</string>
     <string name="parse_vcard">Обробка vCard</string>
@@ -1507,7 +1514,6 @@
     <string name="twelve_hour_time_format">h:mma</string>
     <string name="call_log_clear_all">Очистити журнал виклику</string>
     <string name="mms_select_contacts_recent_contacts">Останні контакти</string>
-    <string name="message_compose_menu_resend_label">Перенадіслати</string>
     <string name="message_send_fail">Помилка надсилання: %s</string>
     <string name="pref_title_save_location">Папка збереження вкладень</string>
     <string name="pref_summary_save_location">Папка для збереження вкладень повідомлень</string>
@@ -1527,9 +1533,6 @@
     <string name="mms_fei_xing_title">[Fei Xing]</string>
     <string name="sms_backup_store_in">SD-карта</string>
     <string name="sms_backup_sd_card">Внутрішнє сховище</string>
-    <string name="sms_import_sdcard">Імпорт SMS c: %s</string>
-    <string name="sms_export_sdcard">Експорт SMS на: %s</string>
-    <string name="sms_whether_export_item">Ви хочете експортувати на: %s?</string>
     <string name="prefs_ims_settings">Налаштування обраних повідомлень</string>
     <string name="prefs_ims_close_title">Безкоштовний сервіс SMS</string>
     <string name="prefs_ims_close_title_summary">Увімкніть для безкоштовних SMS, фото, голосових і відео повідомлень</string>
@@ -1681,7 +1684,6 @@
     <string name="menu_delete_contact">Видалити контакт</string>
     <string name="forward_prefix">Fwd:</string>
     <string name="discard_message">Скасувати</string>
-    <string name="converting_to_text_message">Перетворення в SMS повідомлення…</string>
     <string name="prefDialogTitle_vibrateWhen">Вібросигнал</string>
     <string name="pref_summary_notification_vibrateWhen">Вібросигнал при отриманні повідомлення</string>
     <string name="draft_separator">", "</string>
@@ -1697,5 +1699,12 @@
     <string name="Insert_sdcard">Встановіть SD-карту</string>
     <string name="pref_title_mms_enable_to_send_delivery_reports">Відправка звіту про доставку</string>
     <string name="pref_summary_mms_enable_to_send_delivery_reports">Надіслати звіт про доставку по кожному одержаному повідомленням</string>
+    <string name="gemini_3g_indic">3G</string>
+    <string name="service_center_label">"Центр служби: "</string>
+    <string name="cu_subject">Lemei Тему</string>
+    <string name="pref_title_mms_creation_mode">Режим створення</string>
+    <string name="pref_summary_mms_creation_mode">Режим створення MMS для надсилання повідомлення</string>
+    <string name="pref_title_mms_size_limit">Макс. розмір</string>
+    <string name="pref_summary_mms_size_limit">Макс. розмір при складанні MMS-повідомлення</string>
 
 </resources>
