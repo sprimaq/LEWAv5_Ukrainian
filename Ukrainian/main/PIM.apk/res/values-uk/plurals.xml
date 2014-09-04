@@ -17,8 +17,8 @@
         <item quantity="one">1 контакт</item>
     </plurals>
     <plurals name="merge_info">
-        <item quantity="other">об`єднано з %0$d джерел</item>
-        <item quantity="one">не об`єднано</item>
+        <item quantity="other">"об'єднано з %0$d джерел"</item>
+        <item quantity="one">"не об'єднано"</item>
     </plurals>
     <plurals name="num_groups_in_account">
         <item quantity="other">Груп: %0$d</item>
