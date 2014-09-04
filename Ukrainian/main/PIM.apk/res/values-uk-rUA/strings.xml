@@ -7,6 +7,6 @@
     <string name="display_options_sort_by_family_name">За прізвищем</string>
     <string name="display_options_view_given_name_first">"Спочатку відображати ім'я"</string>
     <string name="display_options_view_family_name_first">Спочатку відображати прізвище</string>
-    <string name="deleteCallLogConfirmation_title">Видалити журнал виклику(ів)?</string>
-    <string name="deleteCallLogConfirmation_message">Ви дійсно бажаєте видалити журнал вибраного виклику(ів)?</string>
+    <string name="deleteCallLogConfirmation_title">Очистити журнал викликів?</string>
+    <string name="deleteCallLogConfirmation_message">Ви дійсно бажаєте очистити журнал викликів?</string>
 </resources>
