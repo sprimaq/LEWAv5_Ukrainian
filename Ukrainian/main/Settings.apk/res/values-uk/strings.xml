@@ -220,7 +220,7 @@
     <string name="gemini_data_roaming_title">Передача даних в роумінгу</string>
     <string name="gemini_data_roaming_summary">Підключати послуги передачі даних в роумінгу</string>
     <string name="gemini_roaming_reminder_title">Показувати нагадування про роумінг</string>
-    <string name="gemini_roaming_reminder_summary">Пропонувати SIM-карту в залежності від використання SIM-карт</string>
+    <string name="gemini_roaming_reminder_summary">Пропонувати SIM-картку в залежності від використання SIM-картки</string>
     <string name="gemini_contacts_sim_title">Контакти і SIM-картка</string>
     <string name="gemini_contacts_sim_summary">Прив’язка до певної SIM-картки</string>
     <string name="gemini_voice_call">Голосові виклики</string>
@@ -248,21 +248,21 @@
     <string name="gemini_sim_info_editor_color">Встановити колір фону</string>
     <string name="gemini_sim_info_editor_number_display_format">Показати номери</string>
     <string name="gemini_no_sim_indicator">Немає SIM-картки</string>
-    <string name="gemini_sim_list_default_title">Список SIM-карт</string>
+    <string name="gemini_sim_list_default_title">Список SIM-карток</string>
     <string name="gemini_data_connection_progress_message">Зачекайте……</string>
     <string name="gemini_3g_modem_switching_message">Переключення SIM-картки займе близько 10 секунд. Зачекайте…</string>
-    <string name="gemini_3g_modem_switch_confirm_message">На цю SIM-карту будуть підключені послуги 3G. Продовжити? Переконайтеся, що обрана SIM-картка підтримує 3G.</string>
+    <string name="gemini_3g_modem_switch_confirm_message">На цю SIM-картку будуть підключені послуги 3G. Продовжити? Переконайтеся, що обрана SIM-картка підтримує 3G.</string>
     <string name="gemini_3g_disable_warning">В обраній SIM-картці відсутня підтримка послуги 3G. Це може привести до уповільнення завантаження даних. Параметри послуги 3G можна змінити в меню Параметри</string>
     <string name="gemini_3g_disable_warning_cu">В обраній SIM-картці відсутня підтримка послуги 3G. Це може привести до уповільнення завантаження даних. Параметри послуги 3G можна змінити в меню Параметри</string>
     <string name="gemini_wap_push_permission_head">Після увімкнення служби Auto-push користувач може приймати повідомлення розсилок, піддаючи небезпеці працюючі програми і збільшуючи трафік даних. Зазвичай, служба Auto-push вмикає повідомлення про ел. пошту, керування пристроями, службову індикацію, завантаження служби та забезпечення розсилки.</string>
     <string name="gemini_wap_push_permission_tail">Прийняти цю угоду?</string>
     <string name="gemini_wap_push_permission_title">Угода служби Auto-push</string>
     <string name="gemini_wap_push_permission">Служба Auto-push</string>
-    <string name="gemini_3g_disable_warning_case0">Для даної SIM-картки спочатку слід увімкнути роумінг даних, що може спричинити значне підвищення вартості передавання даних! Увімкнути режим роумінгу і вибрати дану SIM-карту?</string>
+    <string name="gemini_3g_disable_warning_case0">Для даної SIM-картки спочатку слід увімкнути роумінг даних, що може спричинити значне підвищення вартості передавання даних! Увімкнути режим роумінгу і вибрати дану SIM-картку?</string>
     <string name="gemini_3g_disable_warning_case1">Для обраної SIM-картки функція 3G не доступна. Це може знизити швидкість передачі даних. Щоб змінити налаштування функції 3D, виберіть пункти меню: Налаштування</string>
     <string name="gemini_3g_disable_warning_case2">Для обраної SIM-картки функція 3G не доступна. Це може знизити швидкість передачі даних. Щоб змінити налаштування функції 3D, виберіть пункти меню: Налаштування</string>
-    <string name="gemini_3g_disable_warning_case3">Для даної SIM-картки спочатку необхідно увімкнути роумінг даних, щоб не допустити значних витрат, пов’язаних з роумінгом. Крім того, функція 3G не доступна для цієї SIM-картки. Це може знизити швидкість передачі даних. Щоб змінити налаштування, виберіть пункти меню: Налаштування > Бездротові та інші мережі > Мобільні мережі. Ви дійсно бажаєте увімкнути роумінг даних і обрати цю SIM-карту?</string>
-    <string name="gemini_3g_disable_warning_case4">Для даної SIM-картки спочатку необхідно увімкнути роумінг даних, щоб не допустити значних витрат, пов’язаних з роумінгом. Крім того, функція 3G не доступна для цієї SIM-картки. Це може знизити швидкість передачі даних. Щоб змінити налаштування, виберіть пункти меню: Налаштування > Керування SIM-картками. Ви дійсно бажаєте увімкнути роумінг даних і обрати цю SIM-карту?</string>
+    <string name="gemini_3g_disable_warning_case3">Для даної SIM-картки спочатку необхідно увімкнути роумінг даних, щоб не допустити значних витрат, пов’язаних з роумінгом. Крім того, функція 3G не доступна для цієї SIM-картки. Це може знизити швидкість передачі даних. Щоб змінити налаштування, виберіть пункти меню: Налаштування > Бездротові та інші мережі > Мобільні мережі. Ви дійсно бажаєте увімкнути роумінг даних і обрати цю SIM-картку?</string>
+    <string name="gemini_3g_disable_warning_case4">Для даної SIM-картки спочатку необхідно увімкнути роумінг даних, щоб не допустити значних витрат, пов’язаних з роумінгом. Крім того, функція 3G не доступна для цієї SIM-картки. Це може знизити швидкість передачі даних. Щоб змінити налаштування, виберіть пункти меню: Налаштування > Керування SIM-картками. Ви дійсно бажаєте увімкнути роумінг даних і обрати цю SIM-картку?</string>
     <string name="gemini_sim_tether_info_title">Контакти &amp; SIM</string>
     <string name="gemini_sim_tether_add_record">Додати контакти</string>
     <string name="gemini_sim_add_title">Контакти</string>
@@ -300,7 +300,7 @@
     <string name="eap_sim_slot_0">Слот SIM1</string>
     <string name="eap_sim_slot_1">Слот SIM2</string>
     <string name="eap_sim_aka_airplanemode">Для використання EAP-SIM/AKA вимкніть режим У літаку</string>
-    <string name="eap_sim_aka_no_sim_error">Для використання EAP-SIM/AKA слід встановити SIM-карту</string>
+    <string name="eap_sim_aka_no_sim_error">Для використання EAP-SIM/AKA слід встановити SIM-картку</string>
     <string name="eap_sim_aka_no_sim_slot_selected">Для використання EAP-SIM/AKA слід вибрати слот SIM-картки</string>
     <string name="wifi_security_wapi_psk">WAPI PSK</string>
     <string name="wifi_security_wapi_certificate">WAPI сертифікат</string>
@@ -344,7 +344,7 @@
     <string name="rcse_settings_title">Налаштування RCS-e</string>
     <string name="MobileNetwork_SIM1_Active">SIM1 активна</string>
     <string name="MobileNetwork_SIM2_Active">SIM2 активна</string>
-    <string name="dlg_mount_external_sd_title">Підключити SD-карту?</string>
+    <string name="dlg_mount_external_sd_title">Підключити SD-картку?</string>
     <string name="dlg_mount_external_sd_summary">При підключенні SD-картки деякі програми, що використовуються можуть зупинити своє виконання</string>
     <string name="tethered_ipv6_title">Налаштування точки доступу і сполучення</string>
     <string name="tethered_ipv6_title_nohotspot">Налаштування роздачі</string>
@@ -552,8 +552,8 @@
     <string name="radioInfo_display_asu">блок квотування</string>
     <string name="radioInfo_lac">LAC</string>
     <string name="radioInfo_cid">CID</string>
-    <string name="sdcard_unmount">Вилучити SD-карту</string>
-    <string name="sdcard_format">Очистити SD-карту</string>
+    <string name="sdcard_unmount">Вилучити SD-картку</string>
+    <string name="sdcard_format">Очистити SD-картку</string>
     <string name="sdcard_formatting">Форматування внутрішньої пам’яті…</string>
     <string name="small_font">Маленький</string>
     <string name="medium_font">Середній</string>
@@ -635,10 +635,10 @@
     <string name="device_picker">Вибір Bluetooth-пристрою</string>
     <string name="bluetooth_permission_request">Запит дозволу на увімкнення Bluetooth</string>
     <string name="bluetooth_ask_enablement">Програма запитує дозвіл увімкнути Bluetooth. Дозволити?</string>
-    <string name="bluetooth_ask_discovery">Одній з програм потрібно, щоб Ваш пристрій був видимий для інших пристроїв протягом %1$d сек. Увімкнути Bluetooth?</string>
-    <string name="bluetooth_ask_lasting_discovery">Одній з програм потрібно, щоб Ваш пристрій був видимий для інших пристроїв. Увімкнути Bluetooth?</string>
-    <string name="bluetooth_ask_enablement_and_discovery">Одній з програм потрібно, щоб Ваш пристрій був видимий для інших пристроїв протягом %1$d сек. Увімкнути Bluetooth?</string>
-    <string name="bluetooth_ask_enablement_and_lasting_discovery">Одній з програм потрібно, щоб Ваш пристрій був видимий для інших пристроїв. Увімкнути Bluetooth?</string>
+    <string name="bluetooth_ask_discovery">Одній з програм потрібно, щоб Ваш телефон був видимий для інших пристроїв протягом %1$d сек. Увімкнути Bluetooth?</string>
+    <string name="bluetooth_ask_lasting_discovery">Одній з програм потрібно, щоб Ваш телефон був видимий для інших пристроїв. Увімкнути Bluetooth?</string>
+    <string name="bluetooth_ask_enablement_and_discovery">Одній з програм потрібно, щоб Ваш телефон був видимий для інших пристроїв протягом %1$d сек. Увімкнути Bluetooth?</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery">Одній з програм потрібно, щоб Ваш телефон був видимий для інших пристроїв. Увімкнути Bluetooth?</string>
     <string name="bluetooth_turning_on">Увімкнення Bluetooth…</string>
     <string name="bluetooth_turning_off">Вимкнення Bluetooth…</string>
     <string name="bluetooth_auto_connect">Автоматичне підключення</string>
@@ -721,7 +721,7 @@
     <string name="sdcard_settings_not_present_status">Немає SD-картки</string>
     <string name="sdcard_settings_available_bytes_label">Вільно, байт:</string>
     <string name="sdcard_settings_mass_storage_status">SD-картка працює як запам’ятовуючий пристрій</string>
-    <string name="sdcard_settings_unmounted_status">Тепер можна витягти SD-карту</string>
+    <string name="sdcard_settings_unmounted_status">Тепер можна витягти SD-картку</string>
     <string name="sdcard_settings_bad_removal_status">SD-картка була вилучена під час використання!</string>
     <string name="sdcard_settings_used_bytes_label">Використано байт:</string>
     <string name="sdcard_settings_scanning_status">Сканування SD-картки…</string>
@@ -731,7 +731,7 @@
     <string name="language_picker_title">Мова</string>
     <string name="activity_picker_label">Вибір дії</string>
     <string name="debug_intent_sender_label">Побажання відправника</string>
-    <string name="device_info_label">Відомості про пристрій</string>
+    <string name="device_info_label">Відомості про телефон</string>
     <string name="battery_info_label">Інформація про батарею</string>
     <string name="display_label">Екран</string>
     <string name="phone_info_label">Інформація про телефон</string>
@@ -748,7 +748,7 @@
     <string name="roaming">Інтернет-роумінг</string>
     <string name="roaming_enable">Підключатися до служб передачі даних під час роумінгу</string>
     <string name="roaming_disable">Підключатися до служб передачі даних під час роумінгу</string>
-    <string name="roaming_reenable_message">Передача даних припинена, тому що пристрій знаходиться за межами домашньої мережі, а Інтернет-роумінг вимкнено</string>
+    <string name="roaming_reenable_message">Передача даних припинена, тому що телефон знаходиться за межами домашньої мережі, а Інтернет-роумінг вимкнено</string>
     <string name="roaming_turn_it_on_button">Увімкнути</string>
     <string name="roaming_warning">Дозволити Інтернет-роумінг? Можливі високі витрати за його використання</string>
     <string name="roaming_warning_multiuser">Використання передачі даних в роумінгу може призвести до велких витрат! 
@@ -1230,7 +1230,7 @@
     <string name="sim_pin_change">Зміна PIN SIM-картки</string>
     <string name="sim_enter_pin">PIN-код SIM-картки</string>
     <string name="sim_enable_sim_lock">Блокування SIM-картки</string>
-    <string name="sim_disable_sim_lock">Розблокувати SIM-карту</string>
+    <string name="sim_disable_sim_lock">Розблокувати SIM-картку</string>
     <string name="sim_enter_old">Старий PIN-код SIM-картки</string>
     <string name="sim_enter_new">Новий PIN SIM-картки</string>
     <string name="sim_reenter_new">Введіть новий PIN повторно</string>
@@ -1260,7 +1260,7 @@
     <string name="device_status_summary">Номер телефону, рівень сигналу тощо</string>
     <string name="storage_settings">Пам’ять</string>
     <string name="storage_settings_title">Налаштування накопичувача</string>
-    <string name="storage_settings_summary">Вимкнути SD-карту, переглянути доступні накопичувачі</string>
+    <string name="storage_settings_summary">Вимкнути SD-картку, переглянути доступні накопичувачі</string>
     <string name="status_imei">IMEI</string>
     <string name="status_imei_sv">IMEI SV</string>
     <string name="status_number">Мій номер телефону</string>
@@ -1297,18 +1297,18 @@
     <string name="memory_media_cache_usage">Кешовані дані</string>
     <string name="sd_eject">Безпечне вилучення</string>
     <string name="sd_eject_summary">Вимкнення SD-картки для її безпечного витягання з пристрою</string>
-    <string name="sd_insert_summary">Вставити SD-карту</string>
-    <string name="sd_mount">Підключити SD-карту</string>
+    <string name="sd_insert_summary">Вставити SD-картку</string>
+    <string name="sd_mount">Підключити SD-картку</string>
     <string name="sd_mount_summary" />
     <string name="sd_format">Очистити пам’ять</string>
     <string name="sd_format_summary">Видалення всіх даних з носія інформації (музика, відео, фото тощо)</string>
     <string name="memory_clear_cache_title">Видалити кеш?</string>
     <string name="memory_clear_cache_message">Це призведе до видалення кешу усіх додатків</string>
     <string name="mtp_ptp_mode_summary">MTP або PTP мережа активна</string>
-    <string name="dlg_confirm_unmount_title">Вимкнути SD-карту?</string>
-    <string name="dlg_confirm_unmount_text">Якщо вимкнути SD-карту, деякі програми перестануть працювати і можуть залишатися недоступними до її підключення.</string>
+    <string name="dlg_confirm_unmount_title">Вимкнути SD-картку?</string>
+    <string name="dlg_confirm_unmount_text">Якщо вимкнути SD-картку, деякі програми перестануть працювати і можуть залишатися недоступними до її підключення.</string>
     <string name="dlg_error_unmount_title" />
-    <string name="dlg_error_unmount_text">Не вдалося вимкнути SD-карту. Повторіть спробу пізніше</string>
+    <string name="dlg_error_unmount_text">Не вдалося вимкнути SD-картку. Повторіть спробу пізніше</string>
     <string name="unmount_inform_text">SD-картка буде вимкнена.</string>
     <string name="sd_ejecting_title">Витягання</string>
     <string name="sd_ejecting_summary">Виконується витягання</string>
@@ -1389,7 +1389,7 @@
     <string name="master_clear_gesture_explanation">Для підтвердження скидання налаштувань необхідно накреслити графічний ключ</string>
     <string name="master_clear_failed">Скидання не виконано, так як служба системного скидання недоступна</string>
     <string name="master_clear_confirm_title">Скинути?</string>
-    <string name="media_format_title">Очистити SD-карту</string>
+    <string name="media_format_title">Очистити SD-картку</string>
     <string name="media_format_summary">Видалення всіх даних з SD-картки</string>
     <string name="media_format_desc">Очистити SD? Всі дані будуть видалені безповоротно</string>
     <string name="media_format_button_text">Очистити SD</string>
@@ -1436,7 +1436,7 @@
     <string name="location_access_title">Доступ до місцезнаходження</string>
     <string name="location_access_summary">Дозволити додаткам використовувати дані про Ваше місцезнаходження</string>
     <string name="location_sources_heading">Визначення місцезнаходження</string>
-    <string name="about_settings">Про пристрій</string>
+    <string name="about_settings">Про телефон</string>
     <string name="about_settings_summary">Перегляд юридичної інформації, стану пристрою і версії ПЗ</string>
     <string name="legal_information">Правова інформація</string>
     <string name="contributors_title">Розробники</string>
@@ -1449,7 +1449,7 @@
     <string name="settings_license_activity_loading">Триває завантаження…</string>
     <string name="settings_safetylegal_title">Відомості про безпеку</string>
     <string name="settings_safetylegal_activity_title">Відомості про безпеку</string>
-    <string name="settings_safetylegal_activity_unreachable">Пристрій не підключено до Інтернету. Щоб переглянути дану інформацію, відкрийте сторінку %s на будь-якому комп`ютері з доступом до інтернету.</string>
+    <string name="settings_safetylegal_activity_unreachable">Пристрій не підключено до Інтернету. Щоб переглянути дану інформацію, відкрийте сторінку %s на будь-якому комп\'ютері з доступом до інтернету.</string>
     <string name="settings_safetylegal_activity_loading">Триває завантаження…</string>
     <string name="lockpassword_choose_your_password_header">Встановіть пароль</string>
     <string name="lockpassword_choose_your_pattern_header">Створіть графічний ключ</string>
@@ -1473,7 +1473,7 @@
     <string name="lockpattern_recording_intro_header">Накресліть графічний ключ розблокування</string>
     <string name="lockpattern_recording_intro_footer">Для довідки натисніть \"Меню\"</string>
     <string name="lockpattern_recording_inprogress">По завершенні відпустіть палець</string>
-    <string name="lockpattern_recording_incorrect_too_short">З`єднайте точки (як мінімум %d). Повторіть спробу:</string>
+    <string name="lockpattern_recording_incorrect_too_short">З\'єднайте точки (як мінімум %d). Повторіть спробу:</string>
     <string name="lockpattern_pattern_entered_header">Графічний ключ розблокування записаний!</string>
     <string name="lockpattern_need_to_confirm">Для підтвердження накресліть графічний ключ повторно:</string>
     <string name="lockpattern_pattern_confirmed_header">Новий графічний ключ розблокування:</string>
@@ -1500,13 +1500,13 @@
     <string name="applications_settings_header">Налаштування програми</string>
     <string name="install_applications">Невідомі джерела</string>
     <string name="install_unknown_applications">Дозволити встановлення програм з Google Play Маркету</string>
-    <string name="install_all_warning">Ваші особисті дані і дані телефону більш уразливі для атак програм з невідомих джерел. Ви погоджуєтеся з тим, що ви несете повну відповідальність за шкоду, заподіяну телефону, і втрати даних, пов`язані з використанням цих програм.</string>
+    <string name="install_all_warning">Ваші особисті дані і дані телефону більш уразливі для атак програм з невідомих джерел. Ви погоджуєтеся з тим, що ви несете повну відповідальність за шкоду, заподіяну телефону, і втрати даних, пов\'язані з використанням цих програм.</string>
     <string name="verify_applications">Перевіряти додатки</string>
     <string name="verify_applications_summary">Заборонити встановлення додатків, які можуть спричинити шкоду пристрою, або попереджувати про них</string>
     <string name="advanced_settings">Додатково</string>
     <string name="advanced_settings_summary">Увімкнути додаткові налаштування</string>
     <string name="application_info_label">Про програму</string>
-    <string name="storage_label">Пам`ять</string>
+    <string name="storage_label">Пам\'ять</string>
     <string name="auto_launch_label">Запуск за замовчуванням</string>
     <string name="auto_launch_label_generic">За замовчуванням</string>
     <string name="screen_compatibility_label">Сумісність екрану</string>
@@ -1551,7 +1551,7 @@
 
  Дані програм не видалятимуться."</string>
     <string name="reset_app_preferences_button">Так</string>
-    <string name="manage_space_text">Керування пам`яттю</string>
+    <string name="manage_space_text">Керування пам\'яттю</string>
     <string name="filter">Фільтр</string>
     <string name="filter_dlg_title">Оберіть параметри фільтру</string>
     <string name="filter_apps_all">Всі</string>
@@ -1561,7 +1561,7 @@
     <string name="disabled">Вимкнено</string>
     <string name="not_installed">Не встановлено</string>
     <string name="no_applications">Немає програм</string>
-    <string name="internal_storage">Внутрішня пам`ять</string>
+    <string name="internal_storage">Внутрішня пам\'ять</string>
     <string name="sd_card_storage">SD-картка</string>
     <string name="recompute_size">Повторне обчислення розміру…</string>
     <string name="clear_data_dlg_title">Видалити дані програми?</string>
@@ -1576,7 +1576,7 @@
     <string name="clear_failed_dlg_title">Стерти дані</string>
     <string name="clear_failed_dlg_text">Не вдалося видалити дані</string>
     <string name="security_settings_desc">У цього додатка є доступ до наступної інформації на пристрої:</string>
-    <string name="security_settings_desc_multi">Для збільшення швидкодії та зменшення споживання пам`яті деякі з дозволів доступні %1$s, тому що він запущений одним процесом з %2$s:</string>
+    <string name="security_settings_desc_multi">Для збільшення швидкодії та зменшення споживання пам\'яті деякі з дозволів доступні %1$s, тому що він запущений одним процесом з %2$s:</string>
     <string name="join_two_items">%1$s %2$s</string>
     <string name="join_many_items_last">%1$s %2$s</string>
     <string name="join_many_items_first">%1$s %2$s</string>
@@ -1589,7 +1589,7 @@
     <string name="version_text">Версія %1$s</string>
     <string name="move_app">Перемістити</string>
     <string name="move_app_to_internal">Перемістити у телефон</string>
-    <string name="move_app_to_sdcard">Перемістити на SD-карту</string>
+    <string name="move_app_to_sdcard">Перемістити на SD-картку</string>
     <string name="moving">Переміщення</string>
     <string name="insufficient_storage">Недостатньо місця</string>
     <string name="does_not_exist">Додаток не встановлено</string>
@@ -1725,7 +1725,7 @@
     <string name="development_settings_title">Для розробників</string>
     <string name="development_settings_summary">Налаштування параметрів для розробників</string>
     <string name="enable_adb">Налагодження по USB</string>
-    <string name="enable_adb_summary">Увімкнути режим відлагодження при підключенні до комп`ютера по USB</string>
+    <string name="enable_adb_summary">Увімкнути режим відлагодження при підключенні до комп\'ютера по USB</string>
     <string name="bugreport_in_power">Звіти про помилки</string>
     <string name="bugreport_in_power_summary">Показувати звіти про помилки</string>
     <string name="keep_screen_on">Підсвітка під час зарядки</string>
@@ -1733,14 +1733,14 @@
     <string name="allow_mock_location">Фіктивні розташування</string>
     <string name="allow_mock_location_summary">Дозволити використання фіктивних розташуваннь</string>
     <string name="adb_warning_title">Дозволити налагодження по USB?</string>
-    <string name="adb_warning_message">Налагодження по USB призначене лише для розробників. Воно використовується для копіювання даних між комп`ютером і пристроєм, встановлення програм на пристрій без попередження та читання даних журналу.</string>
+    <string name="adb_warning_message">Налагодження по USB призначене лише для розробників. Воно використовується для копіювання даних між комп\'ютером і пристроєм, встановлення програм на пристрій без попередження та читання даних журналу.</string>
     <string name="dev_settings_warning_title">Зміна налаштувань</string>
     <string name="dev_settings_warning_message">Тільки для розробників. Зміна цих параметрів може призвести до збоїв або неправильної роботи приcтрою та програм.</string>
     <string name="verify_apps_over_usb_title">Встановлення через USB</string>
     <string name="verify_apps_over_usb_summary">Перевіряти безпечніть додатків, що встановлюються через ADB/ADT</string>
-    <string name="enforce_read_external_title">Захистити SD-карту</string>
+    <string name="enforce_read_external_title">Захистити SD-картку</string>
     <string name="enforce_read_external_summary">Запитувати дозвіл для читання даних з SD-картки</string>
-    <string name="enforce_read_external_confirm_title">Захистити SD-карту?</string>
+    <string name="enforce_read_external_confirm_title">Захистити SD-картку?</string>
     <string name="enforce_read_external_confirm_message">"Якщо SD-картка захищена, програми повинні запитувати дозвіл для зчитування даних з неї. 
 
 Деякі функції можуть не працювати. В цьому випадку дочекайтеся, поки вони не оновляться."</string>
@@ -1787,7 +1787,13 @@
     <string name="accessibility_toggle_screen_magnification_preference_title">Маштаб</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Зберігати маштаб</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Зберігати маштаб при переключенні між додатками</string>
+    <string name="accessibility_power_button_ends_call_prerefence_title">Клавіша живлення завершує виклик</string>
+    <string name="accessibility_toggle_speak_password_preference_title">Озвучувати паролі</string>
+    <string name="accessibility_long_press_timeout_preference_title">Затримки при натисненні та утриманні</string>
+    <string name="accessibility_toggle_script_injection_preference_title">Спеціальні веб-скрипти</string>
     <string name="accessibility_menu_item_settings">Налаштування</string>
+    <string name="accessibility_feature_state_on">Увімкнено</string>
+    <string name="accessibility_feature_state_off">Вимкнено</string>
     <string name="accessibility_script_injection_allowed">Дозволено</string>
     <string name="accessibility_script_injection_disallowed">Не дозволено</string>
     <string name="accessibility_script_injection_button_allow">Дозволити</string>
@@ -1798,7 +1804,7 @@
     <string name="accessibility_service_disable_warning_summary">Щоб вимкнути %1$s, натисніть ОК.</string>
     <string name="accessibility_no_services_installed">Немає встановлених служб</string>
     <string name="accessibility_service_no_apps_title">Потрібно читання з екрану?</string>
-    <string name="accessibility_service_no_apps_message">Додаток TalkBack забезпечує мовний зворотній зв`язок для допомоги користувачам з вадами зору. Встановити це додаток з Android Market (безкоштовно)?</string>
+    <string name="accessibility_service_no_apps_message">Додаток TalkBack забезпечує мовний зворотній зв\'язок для допомоги користувачам з вадами зору. Встановити це додаток з Android Market (безкоштовно)?</string>
     <string name="accessibility_script_injection_security_warning_summary">Дозволити програмам встановлювати сценарії від Google, які зроблять свій веб-вміст доступнішим?</string>
     <string name="accessibility_service_default_description">Опис не наведено.</string>
     <string name="settings_button">Налаштування</string>
@@ -1852,7 +1858,7 @@
     <string name="battery_action_bluetooth">Налаштування Bluetooth</string>
     <string name="battery_desc_voice">Споживання батареї для голосових викликів</string>
     <string name="battery_desc_standby">Витрати заряду батареї в режимі очікування</string>
-    <string name="battery_desc_radio">Витрати енергії на підтримання зв`язку з мережею в режимі очікування</string>
+    <string name="battery_desc_radio">Витрати енергії на підтримання зв\'язку з мережею в режимі очікування</string>
     <string name="battery_sugg_radio">Якщо немає доступу до мережі, увімкнути режим У літаку для економії заряду</string>
     <string name="battery_desc_display">Споживання батареї для підсвічування екрану</string>
     <string name="battery_sugg_display">Зменшити яскравість екрану і/або час до вимкнення екрану</string>
@@ -1866,7 +1872,7 @@
     <string name="battery_sugg_apps_gps">Вмикайте і вимикайте GPS вручну, щоб програми не могли використовувати цю функцію</string>
     <string name="battery_sugg_apps_settings">Програма може мати налаштування режиму економії батареї</string>
     <string name="battery_desc_users">Споживання батареї</string>
-    <string name="menu_stats_unplugged">%1$s з моменту від`єднання від живлення</string>
+    <string name="menu_stats_unplugged">%1$s з моменту від\'єднання від живлення</string>
     <string name="menu_stats_last_unplugged">З моменту останнього вимкнення %1$s</string>
     <string name="menu_stats_total">Всього</string>
     <string name="menu_stats_refresh">Оновити</string>
@@ -2061,7 +2067,7 @@
     <string name="header_add_an_account">Додайте запис</string>
     <string name="finish_button_label">Готово</string>
     <string name="really_remove_account_title">Видалити обліковий запис?</string>
-    <string name="really_remove_account_message">Видалення облікового запису призведе до втрати всіх пов`язаних з ним повідомлень, контактів та інших даних, наявних в телефоні</string>
+    <string name="really_remove_account_message">Видалення облікового запису призведе до втрати всіх пов\'язаних з ним повідомлень, контактів та інших даних, наявних в телефоні</string>
     <string name="remove_account_failed">Обліковий запис потрібен для доступу до деяких програм. Щоб видалити його, потрібно відновити на пристрої налаштування за замовчуванням (це знищить всі особисті дані). Це можна зробити в розділі \"Налаштування > \"Резервне копіювання та відновлення\"</string>
     <string name="provider_label">Підписка на розсилки оператора</string>
     <string name="sync_item_title">%s</string>
@@ -2086,7 +2092,7 @@
     <string name="select_application">Оберіть програми</string>
     <string name="no_application">Нічого</string>
     <string name="wait_for_debugger">Очікування відладчика</string>
-    <string name="wait_for_debugger_summary">Додаток очікує з`єднання з відладчиком перед запуском</string>
+    <string name="wait_for_debugger_summary">Додаток очікує з\'єднання з відладчиком перед запуском</string>
     <string name="debug_input_category">Введення</string>
     <string name="debug_drawing_category">Відображення</string>
     <string name="debug_monitoring_category">Моніторинг</string>
@@ -2095,7 +2101,7 @@
     <string name="pointer_location">Розташування покажчика</string>
     <string name="pointer_location_summary">Екран, що показує дані про дотик</string>
     <string name="show_touches">Показувати торкання</string>
-    <string name="show_touches_summary">Показувати зоровий зворотний зв`язок для торкань</string>
+    <string name="show_touches_summary">Показувати зоровий зворотний зв\'язок для торкань</string>
     <string name="show_screen_updates">Показувати оновлення екрану</string>
     <string name="show_screen_updates_summary">Миготіння оновлених областей екрану</string>
     <string name="show_hw_screen_updates">Показувати оновлення екрану</string>
@@ -2172,7 +2178,7 @@
 Відповідні параметри можна знайти в налаштуваннях цих програм."</string>
     <string name="data_usage_restrict_denied_dialog">Обмеження фонового режиму можливо тільки за умови лімітування мобільного трафіку.</string>
     <string name="data_usage_auto_sync_on_dialog_title">Увімкнути автосинхронизацію?</string>
-    <string name="data_usage_auto_sync_on_dialog">"Всі зміни, внесені до облікових записів на комп`ютері, будуть автоматично скопійовані на пристрій. 
+    <string name="data_usage_auto_sync_on_dialog">"Всі зміни, внесені до облікових записів на комп\'ютері, будуть автоматично скопійовані на телефон. 
 
 В деяких випадках також виконується зворотня синхронізація. 
 
@@ -2187,7 +2193,7 @@
     <string name="data_usage_limit_dialog_title">Ліміт трафіку</string>
     <string name="data_usage_limit_dialog_mobile">"По досягненні ліміту трафіку контроль трафіку по мобільній мережі буде вимкнено.
 
-Щоб уникнути додаткових витрат намагайтеся не наближатись до цього ліміту, оскільки оператор і ваш пристрій можуть по-різному враховувати трафік."</string>
+Щоб уникнути додаткових витрат намагайтеся не наближатись до цього ліміту, оскільки оператор і ваш телефон можуть по-різному враховувати трафік."</string>
     <string name="data_usage_restrict_background_title">Обмежити фоновий трафік?</string>
     <string name="data_usage_restrict_background">Якщо обмежити передачу даних у фоновому режимі по мобільній мережі, деякі програми і служби не будуть працювати без підключення до мережі Wi-Fi.</string>
     <string name="data_usage_restrict_background_multiuser">"В разі заборони передачі даних у фоновому режимі, деякі додатки та служби можуть не працювати, доки Ви не підключитесь до мережі Wi-Fi.
@@ -2203,7 +2209,7 @@
     <string name="data_usage_total_during_range">Трафік за період %2$s: %1$s</string>
     <string name="data_usage_total_during_range_mobile">%2$s: %1$s (трафік, підрахований пристроєм). Дані оператора можуть відрізнятися.</string>
     <string name="data_usage_metered_title">Точки доступу до мобільної мережі</string>
-    <string name="data_usage_metered_body">Оберіть мережі Wi-Fi з тарифікацією трафіку. Можливо, програми не зможуть використовувати їх для роботи у фоновому режимі. Крім того, перш ніж завантажити великий обсяг даних, може з`явитись попередження.</string>
+    <string name="data_usage_metered_body">Оберіть мережі Wi-Fi з тарифікацією трафіку. Можливо, програми не зможуть використовувати їх для роботи у фоновому режимі. Крім того, перш ніж завантажити великий обсяг даних, може з\'явитись попередження.</string>
     <string name="data_usage_metered_mobile">Мобільні мережі</string>
     <string name="data_usage_metered_wifi">Мережі Wi-Fi</string>
     <string name="data_usage_metered_wifi_disabled">Щоб обрати точку доступу, увімкніть Wi-Fi</string>
@@ -2223,7 +2229,7 @@
     <string name="vpn_search_domains">Домени для пошуку DNS</string>
     <string name="vpn_dns_servers">DNS-сервери (наприклад, 8.8.8.8)</string>
     <string name="vpn_routes">Маршрути пересилання (наприклад, 10.0.0.0/8)</string>
-    <string name="vpn_username">Ім`я користувача</string>
+    <string name="vpn_username">Ім\'я користувача</string>
     <string name="vpn_password">Пароль</string>
     <string name="vpn_save_login">Зберегти облікові дані</string>
     <string name="vpn_not_used">(не використовується)</string>
@@ -2242,7 +2248,7 @@
     <string name="vpn_lockdown_summary">Оберіть постійну мережу VPN: трафік буде дозволений лише при підключенні до цієї мережі.</string>
     <string name="vpn_lockdown_none">Мережу не обрано</string>
     <string name="vpn_lockdown_config_error">Вкажіть IP-адресу для серверу та DNS.</string>
-    <string name="vpn_no_network">Відсутнє мережеве з`єднання. Повторіть спробу пізніше.</string>
+    <string name="vpn_no_network">Відсутнє мережеве з\'єднання. Повторіть спробу пізніше.</string>
     <string name="vpn_missing_cert">Відсутній сертифікат. Змініть профіль.</string>
     <string name="trusted_credentials_system_tab">Система</string>
     <string name="trusted_credentials_user_tab">Користувач</string>
@@ -2285,7 +2291,7 @@
     <string name="user_setup_dialog_message">Якщо користувач не має можливості налаштувати обліковий запис зараз, він зможе зробити це пізніше.</string>
     <string name="user_setup_button_setup_now">Налаштувати зараз</string>
     <string name="user_setup_button_setup_later">Не зараз</string>
-    <string name="user_cannot_manage_message">Лише власник може налаштувати пристрій для інших користувачів.</string>
+    <string name="user_cannot_manage_message">Лише власник може налаштувати телефон для інших користувачів.</string>
     <string name="user_remove_user_menu">Видалити користувача %1$s</string>
     <string name="user_new_user_name">Новий користувач</string>
     <string name="user_confirm_remove_self_title">Видалити ваш обліковий запис?</string>
@@ -2319,7 +2325,7 @@
     <string name="user_picture_title">Документ із фото</string>
     <string name="cell_broadcast_settings">Широкомовна передача повідомлень</string>
     <string name="cell_broadcast_settings_summary">Оберіть типи екстрених повідомлень на екрані.</string>
-    <string name="erase_internal_sd_storage">Стерти внутрішню пам`ять</string>
+    <string name="erase_internal_sd_storage">Стерти внутрішню пам\'ять</string>
     <string name="buttonlight_title">Підсвічування клавіш</string>
     <string name="buttonlight_msg">Підсвічування клавіш при торканні экрану</string>
     <string name="frequent_default_key">dualsimcard|mobile_network_settings|audio_profile|ringtone|wallpaper|wifi_display_settings|wifi_settings|application_settings|bluetooth_settings|location_gps|security_settings|language|screen_timeout|font_size|power_on_off|tether_settings|status_bar_settings</string>
@@ -2357,12 +2363,12 @@
     <string name="silent_mode_title">Тихий режим</string>
     <string name="device_lewa_version">"Версія LEWAv5： "</string>
     <string name="device_cpu">"Процесор： "</string>
-    <string name="device_memory">"Пам`ять "</string>
-    <string name="device_system_memory">"Оперативна пам`ять： "</string>
+    <string name="device_memory">"Пам\'ять "</string>
+    <string name="device_system_memory">"Оперативна пам\'ять： "</string>
     <string name="device_system_rom">"Прошивка： "</string>
     <string name="internal_memory_available">"Внутрішнє сховище： "</string>
     <string name="sdcard_available">"SD-картка： "</string>
-    <string name="rom_size_title">"Пам`ять телефону:： "</string>
+    <string name="rom_size_title">"Пам\'ять телефону:： "</string>
     <string name="setting_info_empty_text">Немає</string>
     <string name="system_tutorial_list_item_title">Підручник по системі</string>
     <string name="lewa_firmware_version">"Версія Android： "</string>
@@ -2396,9 +2402,9 @@
     <string name="try_title">Спробувати</string>
     <string name="try_msg">Затисніть та перетягніть уліво</string>
     <string name="success_msg">Вітання! Ви вивчили Класичну модель.</string>
-    <string name="remeber_head">Запам`ятайте</string>
+    <string name="remeber_head">Запам\'ятайте</string>
     <string name="remeber_tail">перетягнути уліво</string>
-    <string name="default_gprs_title">Оберіть SIM-карту за замовчуванням для GPRS</string>
+    <string name="default_gprs_title">Оберіть SIM-картку за замовчуванням для GPRS</string>
     <string name="could_modify_in_simmanagement">Можна змінити у керуванні SIM-картками</string>
     <string name="sim_china_mobile">CMCC</string>
     <string name="sim_china_telecom">CTCC</string>
@@ -2431,7 +2437,7 @@
     <string name="nightmodecolor_title">Кольори нічного режиму</string>
     <string name="summary_nightmode_value">%1$s</string>
     <string name="inadvertmode_title">Контроль випадкових натиснень</string>
-    <string name="inadvertmode_msg">Відкинути випадкові натискання, коли пристрій знаходиться в кишені</string>
+    <string name="inadvertmode_msg">Відкинути випадкові натискання, коли телефон знаходиться в кишені</string>
     <string name="sim_settings_guide_editname_title">Майстер налаштування SIM</string>
     <string name="sim_settings_guide_voicesms_title">Голосові дзвінки і SMS/MMS</string>
     <string name="sim_settings_guide_data_title">Передача даних</string>
@@ -2463,15 +2469,15 @@
     <string name="smart_launcher_title">Лаунчер</string>
     <string name="smart_launcher_summary">Пересування поміж робочими столами</string>
     <string name="smart_unlock_title">Розблокування</string>
-    <string name="smart_unlock_summary">"В заблокованому стані, пристрій
+    <string name="smart_unlock_summary">"В заблокованому стані, телефон
 при наближенні давача
-пристрій
+телефон
 самостійно
 разблокується"</string>
     <string name="smart_somatosensory_tile">Розумні давачі</string>
     <string name="smart_sms_title">Набір в SMS/MMS</string>
-    <string name="smart_sms_summary">"В режимі SMS/MMS піднесіть пристрій до вуха
-і пристрій почне набір номеру абонента"</string>
+    <string name="smart_sms_summary">"В режимі SMS/MMS піднесіть телефон до вуха
+і телефон почне набір номеру абонента"</string>
     <string name="smart_call_title">Відповідь в авто</string>
     <string name="smart_call_summary">"Під час виклику
 піднесіть пальця до сенсору
@@ -2515,9 +2521,9 @@
     <string name="autostarts_startup_boot_des">Під час завантаження</string>
     <string name="autostarts_startup_background_des">Після завантаження</string>
     <string name="usb_storage_title">USB-сховище</string>
-    <string name="sdcardclean_title">Стерти SD-карту</string>
+    <string name="sdcardclean_title">Стерти SD-картку</string>
     <string name="usbclean_title">Стерти USB-сховище</string>
-    <string name="internalclean_title">Стерти внутрішню пам`ять</string>
+    <string name="internalclean_title">Стерти внутрішню пам\'ять</string>
     <string name="clean_size">Вивільнення місця…</string>
     <string name="calculate_size_result">Вибрано %s додатків для видалення</string>
     <string name="clean_all_storage">Стерти все</string>
@@ -2576,9 +2582,9 @@
     <string name="root_access_adb">Лише ADB</string>
     <string name="root_access_all">додатки та ADB</string>
     <string name="header_lewa_account_info">Інформація облікового запису</string>
-    <string name="header_lewa_account_info_nickname">І`мя:</string>
+    <string name="header_lewa_account_info_nickname">І\'мя:</string>
     <string name="header_lewa_account_info_usergroup">Група користувачів:</string>
-    <string name="pond_nickname">І`мя:</string>
+    <string name="pond_nickname">І\'мя:</string>
     <string name="pond_usergroup">Група користувачів:</string>
     <string name="pond_loading">Завантаження…</string>
     <string name="pond_none">Немає</string>
@@ -2592,29 +2598,29 @@
     <string name="halo_summary_off">Закрити Гало</string>
     <string name="thumb_search_title">Пошук жестами</string>
     <string name="thumb_search_msg">З допомогою пошуку жестами Ви можете користуватись інтелектуальним пошуком необхідної інформації в браузері</string>
-    <string name="internal_storage_title">Внутрішня пам`ять</string>
+    <string name="internal_storage_title">Внутрішня пам\'ять</string>
     <string name="calculate_size">Підрахунок місця для очищення …</string>
     <string name="memory_preferred">За замовчуванням</string>
-    <string name="default_memory_title">Пам`ять за замовчуванням</string>
-    <string name="phone_memory_title">Пам`ять пристрою</string>
+    <string name="default_memory_title">Пам\'ять за замовчуванням</string>
+    <string name="phone_memory_title">Пам\'ять пристрою</string>
     <string name="memory_others">Інші</string>
     <string name="sdcard_storage_title">SD-картка</string>
     <string name="sensor_settings">Розумні давачі</string>
     <string name="sensor_call_setting">Під час виклику</string>
     <string name="sensor_other_setting">Інші</string>
     <string name="sensor_smart_answer">Розумна відповідь</string>
-    <string name="sensor_smart_answer_summary">Для відповіді на вхідний дзвінок піднесіть пристрій до вуха</string>
+    <string name="sensor_smart_answer_summary">Для відповіді на вхідний дзвінок піднесіть телефон до вуха</string>
     <string name="sensor_turn_slient">Відключення звуку перевертанням</string>
     <string name="sensor_turn_slient_summary">Перевертання пристрою відключає звук дзвінку</string>
     <string name="sensor_packet_ring">Режим у кишені</string>
-    <string name="sensor_packet_ring_summary">Активується вібрація та збільшується гучність дзвінку, якщо пристрій знаходиться у кишені</string>
+    <string name="sensor_packet_ring_summary">Активується вібрація та збільшується гучність дзвінку, якщо телефон знаходиться у кишені</string>
     <string name="sensor_desk_ring">Гучність виклику</string>
     <string name="sensor_desk_ring_summary">Під час виклику гучність буде потроху збільшена від 0 до максимуму</string>
     <string name="sensor_voice">Режим розмови</string>
-    <string name="sensor_voice_summary">В режимі гучного зв`язку для повернення у нормальний режим піднесіть пристрій до вуха</string>
+    <string name="sensor_voice_summary">В режимі гучного зв\'язку для повернення у нормальний режим піднесіть телефон до вуха</string>
     <string name="sensor_smart_call">Розумний виклик</string>
-    <string name="sensor_smart_call_summary">Для виклику контакту під час перегляду даних та повідомлень, піднесіть пристрій до вуха</string>
-    <string name="sensor_shake_degree_gentle">М`яко</string>
+    <string name="sensor_smart_call_summary">Для виклику контакту під час перегляду даних та повідомлень, піднесіть телефон до вуха</string>
+    <string name="sensor_shake_degree_gentle">М\'яко</string>
     <string name="sensor_shake_degree_normal">Нормально</string>
     <string name="sensor_shake_degree_strength">Сильно</string>
     <string name="shake_degree_title">Чутливість струшування</string>
@@ -2656,18 +2662,18 @@
     <string name="dialog_apn_disabled_msg">Вимкніть режим У літаку, щоби увімкнути параметри APN.</string>
     <string name="hdmi_notification_title">HDMI-кабель підключений</string>
     <string name="hdmi_notification_content">Клікніть для налаштування HDMI</string>
-    <string name="gemini_data_connection_and_video_call">З`єднання для передачі даних</string>
+    <string name="gemini_data_connection_and_video_call">З\'єднання для передачі даних</string>
     <string name="data_default_sim_title">Дані за замовчуванням</string>
     <string name="voice_sms_default_sim_title">Виклик/SMS за замовчуванням</string>
     <string name="show_dev_countdown">Ви майже досягли мети. Лишилося декілька кроків: %1$d.</string>
     <string name="bluetooth_visibility">Виявлення дозволено</string>
     <string name="bluetooth_not_discoverable">Дозволити виявлення пристрою</string>
     <string name="bluetooth_visibility_timeout_summary">Вказання тривалості періоду дозволу виявлення</string>
-    <string name="bluetooth_pbap_connection_permission_request">Запит Pbap-з`єднання</string>
-    <string name="bluetooth_ftp_connection_permission_request">Запит Ftp-з`єднання</string>
-    <string name="bluetooth_map_connection_permission_request">Запит Map-з`єднання</string>
-    <string name="bluetooth_sap_connection_permission_request">Запит Sap-з`єднання</string>
-    <string name="bluetooth_dun_connection_permission_request">Запит Dun-з`єднання</string>
+    <string name="bluetooth_pbap_connection_permission_request">Запит Pbap-з\'єднання</string>
+    <string name="bluetooth_ftp_connection_permission_request">Запит Ftp-з\'єднання</string>
+    <string name="bluetooth_map_connection_permission_request">Запит Map-з\'єднання</string>
+    <string name="bluetooth_sap_connection_permission_request">Запит Sap-з\'єднання</string>
+    <string name="bluetooth_dun_connection_permission_request">Запит Dun-з\'єднання</string>
     <string name="bluetooth_ftp_request">Запит FTP</string>
     <string name="bluetooth_ftp_acceptance_dialog_text">%1$s бажає отримати доступ до файлів та тек. Дозволити?</string>
     <string name="bluetooth_ftp_remember_choice">Не запитувати знову</string>
@@ -2706,10 +2712,10 @@
     <string name="testing_FMC">FMC</string>
     <string name="testing_FMC_set">Вказати налаштування FMC</string>
     <string name="FMC_notify_title">Wi-Fi від China Telecom підключений</string>
-    <string name="FMC_notify_text">Wi-Fi від China Telecom успішно під`єднано, для перевірки рахунку наберіть 10000 або відвідайте найближче бізнес-лобі</string>
+    <string name="FMC_notify_text">Wi-Fi від China Telecom успішно під\'єднано, для перевірки рахунку наберіть 10000 або відвідайте найближче бізнес-лобі</string>
     <string name="config_maually">Налаштування SIP Server</string>
     <string name="sip_server_config">Налаштування SIP Server</string>
-    <string name="user_name">Им`я користувача</string>
+    <string name="user_name">Им\'я користувача</string>
     <string name="server_address">Адреса серверу</string>
     <string name="server_port">Порт</string>
     <string name="proxy_server_address">Адреса проксі-серверу</string>
@@ -2721,7 +2727,7 @@
     <string name="skip_button_label">Відхилити</string>
     <string name="next_button_label">Далі</string>
     <string name="lock_title">Забезпечення безпеки пристрою</string>
-    <string name="lock_intro_message">"Щоби ніхто, крім Вас, не зміг скористатись пристроєм, створіть графічний ключ розблокування екрану. Для цього з`єднайте у довільному порядку не менше чотирьох точок на наступному екрані. 
+    <string name="lock_intro_message">"Щоби ніхто, крім Вас, не зміг скористатись пристроєм, створіть графічний ключ розблокування екрану. Для цього з\'єднайте у довільному порядку не менше чотирьох точок на наступному екрані. 
 
 Щоби розпочати, натисніть \"Далі\""</string>
     <string name="show_password_summary" />
@@ -2733,21 +2739,21 @@
     <string name="enable_schpwr">Увімкнено</string>
     <string name="disable_schpwr">Вимкнено</string>
     <string name="day_concat">", "</string>
-    <string name="schpwr_shutdown_message">Пристрій вимкнеться за %s секунд(и)</string>
+    <string name="schpwr_shutdown_message">Телефон вимкнеться за %s секунд(и)</string>
     <string name="schpwr_shutdown_message_second">Пристрій вимкнеться за %s секунду</string>
     <string name="title_charger_over_voltage">Перевищено напругу на зарядному пристрої</string>
     <string name="title_battery_over_temperature">Перенагрів батареї</string>
     <string name="title_over_current_protection">Захист від перевантаження за струмом</string>
     <string name="title_battery_over_voltage">Перевищено напругу на батареї</string>
     <string name="title_safety_timer_timeout">Перевищено час заряджання</string>
-    <string name="msg_charger_over_voltage">Перевищено напругу на зарядному пристрої, від`єднайте зарядний пристрій!</string>
+    <string name="msg_charger_over_voltage">Перевищено напругу на зарядному пристрої, від\'єднайте зарядний пристрій!</string>
     <string name="msg_battery_over_temperature">Батарея перенагрілася, вийміть батарею!</string>
     <string name="msg_over_current_protection">Спрацював захист батареї від перевантаження за струмом, вийміть батарею!</string>
     <string name="msg_battery_over_voltage">Перевищено напругу на батареї, вийміть батарею!</string>
-    <string name="msg_safety_timer_timeout">Заряджання триває надто довго, від`єднайте зарядний пристрій!</string>
+    <string name="msg_safety_timer_timeout">Заряджання триває надто довго, від\'єднайте зарядний телефон!</string>
     <string name="btn_ok_msg">Відкласти</string>
     <string name="btn_cancel_msg">Відключити</string>
-    <string name="screensaver_settings_summary_on">Буде запущено, якщо під`єднано до зарядного пристрою</string>
+    <string name="screensaver_settings_summary_on">Буде запущено, якщо під\'єднано до зарядного пристрою</string>
     <string name="screensaver_component_title">Обрано Candy</string>
     <string name="screensaver_timeout_title">Коли активувати</string>
     <string name="screensaver_timeout_summary">Після %1$s простою</string>
@@ -2768,9 +2774,9 @@
     <string name="status_esn_number">ESN</string>
     <string name="read_only">" (тільки читання)"</string>
     <string name="usb_sdcard_title">Монтування SD-картки</string>
-    <string name="usb_sdcard_summary">Дозволяє передавати файли на SD-карту</string>
+    <string name="usb_sdcard_summary">Дозволяє передавати файли на SD-картку</string>
     <string name="usb_charging_title">Заряджання</string>
-    <string name="usb_charging_summary">Дозволяє лише заряджати пристрій</string>
+    <string name="usb_charging_summary">Дозволяє лише заряджати телефон</string>
     <string name="apn_new">Нова точка доступу</string>
     <string name="usb_media_format_title">Стерти внутрішнє сховище</string>
     <string name="usb_media_format_desc">Стерти внутрішнє сховище. Дані будуть втрачені безповоротно!</string>
@@ -2801,7 +2807,7 @@
     <string name="data_usage_enable_mobile_statistics_dialog">Увімкнення даної опції може пришвидшити розрядку батареї…</string>
     <string name="user_details_title">Редагувати</string>
     <string name="user_information_heading">Інформація про користувача</string>
-    <string name="user_name_title">І`мя</string>
+    <string name="user_name_title">І\'мя</string>
     <string name="user_restrictions_heading">Омеження</string>
     <string name="user_market_requires_pin">Потребується PIN-код</string>
     <string name="user_max_content_rating">Рейтинг вмісту</string>
@@ -2851,7 +2857,7 @@
     <string name="callback_enable_summary">Переважний зворотній виклик увім.</string>
     <string name="callback_disable_summary">Переважний зворотній виклик вимк.</string>
     <string name="close_dialog">ОК</string>
-    <string name="sim_naming_title">І`мя SIM-картки</string>
+    <string name="sim_naming_title">І\'мя SIM-картки</string>
     <string name="summary_network_settings">Налаштування мережі, APN</string>
     <string name="summary_call_settings">Вибір голосової пошти, опції виклику для дуал-SIM</string>
     <string name="sim_enabler_title">SIM-картка</string>
@@ -2874,7 +2880,7 @@
     <string name="sub_deactivate_not_supported">Деакцивація не підтримується</string>
     <string name="sub_activate_not_supported">Акцивація не підтримується</string>
     <string name="sub_not_changed">Статус не змінено</string>
-    <string name="title_sim_alias">І`мя</string>
+    <string name="title_sim_alias">І\'мя</string>
     <string name="same_name_alert">Неможна назвати дві SIM однаково!</string>
     <string name="normal_brightness_title">Регулювання яскравості</string>
     <string name="normal_brightness_summary">Регулювання яскравості і вибір її режимів</string>
