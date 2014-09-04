@@ -1535,15 +1535,12 @@
     <string name="sms_input_mode_dialog_title">Вибрати режим введення</string>
     <string name="sms_input_mode_summary">Режим введення SMS для складання повідомлення</string>
     <string name="whether_export_item">Експортувати SMS?</string>
-    <string name="select_text">Виділити текст</string>
     <string name="unselect_all">Скасувати вибір всього</string>
     <string name="sms_forward_setting">Настроювання пересилання SMS</string>
     <string name="sms_forward_setting_summary">Надіслати SMS з іменем та номером відправника</string>
-    <string name="file_attachment_vcard_name">vCard(%s)</string>
     <string name="note">Примітка</string>
     <string name="organization">Організація</string>
     <string name="website">Веб-сайт</string>
-    <string name="call_custom">%d</string>
     <string name="inbox">Вхідні</string>
     <string name="outbox">Вихідні</string>
     <string name="draftbox">Чернетки</string>
@@ -1694,5 +1691,8 @@
     <string name="menu_insert_text_vcard">Додати контакт</string>
     <string name="contact_organization">Організація</string>
     <string name="contact_address">Адреса</string>
+    <string name="select_text">Виділити текст</string>
+    <string name="file_attachment_vcard_name">vCard(%s)</string>
+    <string name="call_custom">%d</string>
 
 </resources>
