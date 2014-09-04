@@ -872,7 +872,7 @@
     <string name="sum_search_networks">Пошук доступних мереж</string>
     <string name="choose_resources_header">Вибір ресурсів</string>
     <string name="menu_all_contacts">Всі контакти</string>
-    <string name="recentCalls_delete">Видалити</string>
+    <string name="recentCalls_delete">Очистити журнал</string>
     <string name="all_tab_label1">ВСІ</string>
     <string name="dialpad_showdialpad">Показати панель набору номеру</string>
     <string name="call_ip_dial">IP-виклик</string>
@@ -1105,7 +1105,7 @@
     <string name="menu_unlock">З обраного</string>
     <string name="sim_copy_to_phone_memory">"Копіювати у пам'ять телефону"</string>
     <string name="sim_delete">Видалити</string>
-    <string name="sim_manage_messages_title">Текстові повідомлення на SIM-картці</string>
+    <string name="sim_manage_messages_title">SMS на SIM-картці</string>
     <string name="sim_view">Перегляд</string>
     <string name="sim_empty">На SIM-картці немає повідомлень</string>
     <string name="delivery_header_title">Звіт</string>
@@ -1208,7 +1208,7 @@
 
 
     <string name="message_empty_text">Відсутній вміст</string>
-    <string name="sms_recommend_message">шаблони</string>
+    <string name="sms_recommend_message">Шаблони</string>
     <string name="message_early">Раніше</string>
     <string name="message_today">Сьогодні</string>
     <string name="message_yesterday">Вчора</string>
@@ -1283,9 +1283,9 @@
     <string name="no_messages">Немає повідомлень</string>
     <string name="set_service_center_OK">Успішне встановлення Центру служби SMS</string>
     <string name="set_service_center_fail">Встановлення Центру служби SMS не вдалося</string>
-    <string name="sms_import_sdcard">Імпорт %s SMS</string>
-    <string name="sms_export_sdcard">Експорт %s SMS</string>
-    <string name="sms_whether_export_item">Бажаєте експортувати %s?</string>
+    <string name="sms_import_sdcard">Імпорт SMS з: %s</string>
+    <string name="sms_export_sdcard">Експорт SMS до: %s</string>
+    <string name="sms_whether_export_item">Бажаєте експортувати до: %s?</string>
     <string name="export_message_ongoing">Експорт SMS, будь ласка, зачекайте…</string>
     <string name="no_sd_card">SD-картка не готова</string>
     <string name="export_message_empty">Немає SMS для експорту!</string>
@@ -1294,8 +1294,8 @@
     <string name="import_message_success">Імпорт SMS виконано</string>
     <string name="import_message_fail">Імпорт SMS не виконано</string>
     <string name="export_disk_problem">SD-картка не заповнена або запис неможливий</string>
-    <string name="import_message_list">Список SMS DB</string>
-    <string name="import_message_list_empty">Немає файлів SMS DB</string>
+    <string name="import_message_list">Список .db-файлів з SMS</string>
+    <string name="import_message_list_empty">Немає .db-файлів з SMS</string>
     <string name="whether_import_item">Імпортувати</string>
     <string name="import_message_ongoing">Імпорт SMS, будь ласка, зачекайте…</string>
     <string name="confirm_delete_selected_messages">Вибрані повідомлення буде видалено.</string>
@@ -1399,7 +1399,7 @@
     <string name="multichoice_confirmation_message_copy_with_account">Скасувати копіювання контактів з облікового запису %s?</string>
     <string name="search_results_for">Результати пошуку для: %s</string>
     <string name="listFoundAllCalllogZero">Виклик в журналі не знайдено</string>
-    <string name="calllogList">Журнал викликів</string>
+    <string name="calllogList">Виклики</string>
     <string name="calllogHint">Пошук викликів в журналі</string>
     <string name="calllog_description">Вхідні, вихідні та пропущені виклики</string>
     <string name="noMatchingCalllogs">Відповідний виклик не знайдено в журналі.</string>
