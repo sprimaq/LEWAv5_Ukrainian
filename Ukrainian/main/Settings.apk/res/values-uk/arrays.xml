@@ -104,13 +104,13 @@
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>Пошук...</item>
-        <item>З’єднання...</item>
-        <item>Підтвердження...</item>
-        <item>Отримання IP адреси...</item>
+        <item>Пошук…</item>
+        <item>З’єднання…</item>
+        <item>Підтвердження…</item>
+        <item>Отримання IP адреси…</item>
         <item>Підключено</item>
         <item>Під’єднано</item>
-        <item>Роз’єднання...</item>
+        <item>Роз’єднання…</item>
         <item>Роз’єднано</item>
         <item>Невдало</item>
         <item>Блоковано</item>
@@ -118,13 +118,13 @@
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Пошук...</item>
-        <item>З’єднання %1$s...</item>
-        <item>Автентифікація %1$s...</item>
-        <item>Отримання IP-адреси від %1$s...</item>
+        <item>Пошук…</item>
+        <item>З’єднання %1$s…</item>
+        <item>Автентифікація %1$s…</item>
+        <item>Отримання IP-адреси від %1$s…</item>
         <item>Підключено до %1$s</item>
         <item>Підключено</item>
-        <item>Від’єднання %1$s...</item>
+        <item>Від’єднання %1$s…</item>
         <item>Роз’єднано</item>
         <item>Невдало</item>
         <item>Блоковано</item>
@@ -278,8 +278,8 @@
         <item>0</item>
     </string-array>
     <string-array name="app_install_location_entries">
-        <item>Внутрішня пам`ять</item>
-        <item>SD-карта</item>
+        <item>"Внутрішня пам'ять"</item>
+        <item>SD-картка</item>
         <item>На вибір системи</item>
     </string-array>
     <string-array name="app_install_location_values">
@@ -425,10 +425,10 @@
         <item>IPSec VPN з сертифікатами та гібридною автентифікацією</item>
     </string-array>
     <string-array name="vpn_states">
-        <item>Роз`єднано</item>
-        <item>Ініціалізація...</item>
-        <item>З`єднання...</item>
-        <item>З`єднано</item>
+        <item>"Роз'єднано"</item>
+        <item>Ініціалізація…</item>
+        <item>"З'єднання…"</item>
+        <item>"З'єднано"</item>
         <item>Час очікування вичерпано</item>
         <item>Невдало</item>
     </string-array>
