@@ -955,7 +955,7 @@
     <string name="insufficient_drm_rights">Виявлених прав DRM недостатньо.</string>
     <string name="copy_message_text">Скопіювати текст</string>
     <string name="message_options">Параметри повідомлення</string>
-    <string name="done">Виконано</string>
+    <string name="slideshow_options">Опции слайд-шоу</string>
     <string name="move_up">Перемістити вгору</string>
     <string name="move_down">Перемістити вниз</string>
     <string name="remove_slide">Видалити слайд</string>
