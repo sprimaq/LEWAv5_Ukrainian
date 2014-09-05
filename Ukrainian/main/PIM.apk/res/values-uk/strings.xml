@@ -813,7 +813,7 @@
     <string name="menu_call_via_another_slot">Телефонувати з іншої SIM-картки</string>
     <string name="call_detail_delete_calllog">Видалити цей виклик</string>
     <string name="dialer_invalid_number_taost">Некоректний номер для виклику</string>
-    <string name="call_dialpad_setting">Налаштування панелі набору номеру</string>
+    <string name="call_dialpad_setting">Налаштування дзвінків</string>
     <string name="single_hand_dialpad_open">Увімкнути набір однією рукою</string>
     <string name="single_hand_dialpad_close">Вимкнути набір однією рукою</string>
     <string name="dialog_voicemail_not_ready_title">Номер голосової пошти недоступний</string>
