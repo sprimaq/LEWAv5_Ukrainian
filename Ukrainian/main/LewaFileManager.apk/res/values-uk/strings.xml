@@ -218,7 +218,7 @@
 	<string name="operation_create_folder">Нова тека</string>
 	<string name="operation_create_folder_message">Введіть назву теки</string>
 	<string name="operation_delete">Видалити</string>
-	<string name="operation_delete_confirm_message">Підтверджуєте видалення?</string>
+	<string name="operation_delete_confirm_message">Дійсно видалити?</string>
 	<string name="operation_hide_sys">Не показувати приховані</string>
 	<string name="operation_info">Докладніше</string>
 	<string name="operation_move">Перемістити</string>
