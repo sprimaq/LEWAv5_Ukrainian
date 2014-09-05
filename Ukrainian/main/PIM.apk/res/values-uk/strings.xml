@@ -954,7 +954,7 @@
     <string name="drm_protected_text">* Текст захищено засобами DRM *</string>
     <string name="insufficient_drm_rights">Виявлених прав DRM недостатньо.</string>
     <string name="copy_message_text">Скопіювати текст</string>
-    <string name="message_options">Параметри повідомлення</string>
+    <string name="message_options">Додаткові операції</string>
     <string name="slideshow_options">Опции слайд-шоу</string>
     <string name="move_up">Перемістити вгору</string>
     <string name="move_down">Перемістити вниз</string>
@@ -1250,7 +1250,7 @@
     <string name="mms_timer_add_error">Помилка таймера, не раніше системного часу</string>
     <string name="mms_nomal_message">Текст повідомлення</string>
     <string name="attach_select_local_video">локальне відео</string>
-    <string name="quick_text">Швидкий текст </string>
+    <string name="quick_text">"Швидкий текст "</string>
     <string name="add_quick_text">Додати швидкий текст</string>
     <string name="menu_delete_quick_text">Видалити швидкий текст</string>
     <string name="menu_select_quick_text">Швидкий текст вибрано</string>
@@ -1267,7 +1267,7 @@
     <string name="sentbox">Надіслані</string>
     <string name="sms_recommend_copy_text">Копіювати</string>
     <string name="sms_recommend_copy_text_ready">Скопійовано</string>
-    <string name="message_favorite">Обрані повідомлення </string>
+    <string name="message_favorite">"Обрані повідомлення "</string>
     <string name="call_people">Люди</string>
     <string name="sms_send_count_limit">Надіслати повідомлення можна тільки вибравши один з 100 контактів</string>
     <string name="mms_select_contacts_group_count">контакти</string>
