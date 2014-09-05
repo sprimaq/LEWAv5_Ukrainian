@@ -170,7 +170,7 @@
     <string name="minutereminder_title">Хвилинне нагадування</string>
     <string name="minutereminder_turnon">Додати нагадування на 50-й секунді кожної хвилини</string>
     <string name="minutereminder_turnoff">Вимкнути нагадування хвилинне</string>
-    <string name="voice_call_settings">Налаштування голосових дзвінків</string>
+    <string name="voice_call_settings">Налаштування дзвінків</string>
     <string name="enable_sip_dialog_message">Інтернет-дзвінки вимкнені, Увімкнути їх?</string>
     <string name="ip_prefix_setting">Префікс IP-адреси</string>
     <string name="ip_prefix_setting_sum">Налаштування префікса IP-адреси</string>
