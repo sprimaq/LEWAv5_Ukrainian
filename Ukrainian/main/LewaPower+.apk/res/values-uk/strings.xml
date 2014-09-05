@@ -43,14 +43,14 @@
 	<string name="bedtime_set_time_title">Розклад</string>
 	<string name="bedtime_set_time">Інтервал економії енергії</string>
 	<string name="bedtime_check_title">Режиму сну</string>
-	<string name="bedtime_auto_sp">Увімкнення/вимкнення розумної економії</string>
+	<string name="bedtime_auto_sp">Активація режиму розумної економії</string>
 	<string name="intelligent_time_set">Розклад</string>
 	<string name="intelligent_start_time">Початок</string>
 	<string name="intelligent_end_time">Кінець</string>
 	<string name="intelligent_start_time_value">23:00</string>
 	<string name="intelligent_end_time_value">07:00</string>
 	<string name="intelligent_time_frame_mode">Налаштування</string>
-	<string name="intelligent_time_frame_mode_summary">Вкажіть, які функції увімкнути/вимкнути в цьому режимі</string>
+	<string name="intelligent_time_frame_mode_summary">Вкажіть, які функції активувати в цьому режимі</string>
 	<string name="save_power_based_on_battery_percent">При низькому заряді батареї</string>
 	<string name="low_power_save">При низькому заряді батареї</string>
 	<string name="low_power_save_auto_sp">Перейти у режим очікування, коли батарея розряджена</string>
@@ -118,7 +118,7 @@
 	<string name="spm_custom_settings_setting_max_title_smart">максимальні значення</string>
 	<string name="spm_custom_settings_intelli_other">Додатково</string>
 	<string name="spm_custom_settings_intelli_batterylow_title">Повідомлення про низький заряд</string>
-	<string name="spm_custom_settings_intelli_batterylow_summy">"Попередження про низький заряд батареї. Поточне значення: "</string>
+	<string name="spm_custom_settings_intelli_batterylow_summy">"Попередження про низький заряд батареї. Поточне налаштування: "</string>
 	<string name="spm_battery_low_warnnig_title">Батарея розряджена!</string>
 	<string name="spm_battery_low_warnnig_msg">Увага! Рівень заряду менше</string>
 	<string name="spm_battery_low_warnnig_msg_1">Відкрити додаток Батарея+ ?</string>
