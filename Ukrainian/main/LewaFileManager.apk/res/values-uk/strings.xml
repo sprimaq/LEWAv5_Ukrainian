@@ -97,7 +97,7 @@
 	<string name="rename_fail">Назва містить заборонені символи</string>
 	<string name="rename_fail_secret">Секретний файл не може бути перейменований</string>
 	<string name="sure">ОК</string>
-	<string name="feedback_confirm">"Wi-Fi наразі недоступний. Розмір одного з зображень понад 300 кб, це може спричинити додаткові витрати на Інтернет. 
+	<string name="feedback_confirm">"Wi-Fi наразі недоступний. Розмір одного з зображень понад 300 КБ, це може спричинити додаткові витрати на Інтернет. 
 
 Продовжити?"</string>
 	<string name="reminder">Нагадування</string>
@@ -331,9 +331,9 @@
 	<string name="filtersize_pic_preference">0</string>
 	<string name="pic_exceed_max">Розмір перевищує максимальне значення</string>
 	<string name="size_index_01">Менше 500 КБ</string>
-	<string name="size_index_02">500 Кб - 1 МБ</string>
-	<string name="size_index_03">1 Мб - 5 МБ</string>
-	<string name="size_index_04">5 Мб - 10 МБ</string>
+	<string name="size_index_02">500 КБ - 1 МБ</string>
+	<string name="size_index_03">1 МБ - 5 МБ</string>
+	<string name="size_index_04">5 МБ - 10 МБ</string>
 	<string name="size_index_05">Понад 10 МБ</string>
 	<string name="date_index_01">Сьогодні</string>
 	<string name="date_index_02">Вчора</string>
