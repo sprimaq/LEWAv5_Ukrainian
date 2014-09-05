@@ -1308,7 +1308,7 @@
     <string name="contact_address">Адреса</string>
     
     <string name="message_compose_menu_resend_label">Перенадіслати</string>
-    <string name="save_message_to_sim">Зберегти повідомлення на SIM-картку</string>
+    <string name="save_message_to_sim">Зберегти на SIM-картку</string>
     <string name="max_recipients_title">Досягнуто ліміту</string>
     <string name="max_recipients_message">Для MMS можна вказати макс. %s одержувачів. Деяких одержувачів буде вилучено. Продовжити?</string>
     <string name="converting_to_text_message">Перетворення в SMS повідомлення…</string>
