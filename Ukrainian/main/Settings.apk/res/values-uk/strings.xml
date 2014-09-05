@@ -1515,7 +1515,7 @@
     <string name="clear_cache_btn_text">Стерти кеш</string>
     <string name="cache_size_label">Кеш</string>
     <string name="controls_label">Елементи керування</string>
-    <string name="force_stop">Примусова зупинка</string>
+    <string name="force_stop">Зупинити</string>
     <string name="total_size_label">" Всього"</string>
     <string name="application_size_label">" Додаток"</string>
     <string name="external_code_size_label">Додаток на USB-накопичувачі</string>
@@ -1838,7 +1838,7 @@
     <string name="power_cell">Зв’язок з мережею</string>
     <string name="power_phone">Голосові виклики</string>
     <string name="power_idle">Режим очікування</string>
-    <string name="usage_type_cpu">Завантаження ЦП (всього)</string>
+    <string name="usage_type_cpu">Завантаження ЦП (загалом)</string>
     <string name="usage_type_cpu_foreground">Завантаження ЦП (при роботі)</string>
     <string name="usage_type_wake_lock">Активний режим</string>
     <string name="usage_type_gps">GPS</string>
@@ -1857,13 +1857,13 @@
     <string name="battery_action_wifi">Налаштування Wi-Fi</string>
     <string name="battery_action_bluetooth">Налаштування Bluetooth</string>
     <string name="battery_desc_voice">Споживання батареї для голосових викликів</string>
-    <string name="battery_desc_standby">Витрати заряду батареї в режимі очікування</string>
-    <string name="battery_desc_radio">Витрати енергії на підтримання зв\'язку з мережею в режимі очікування</string>
+    <string name="battery_desc_standby">Споживання батареї в режимі очікування</string>
+    <string name="battery_desc_radio">"Споживання батареї для підтримання зв'язку з мережею в режимі очікування"</string>
     <string name="battery_sugg_radio">Якщо немає доступу до мережі, увімкнути режим У літаку для економії заряду</string>
     <string name="battery_desc_display">Споживання батареї для підсвічування екрану</string>
-    <string name="battery_sugg_display">Зменшити яскравість екрану і/або час до вимкнення екрану</string>
+    <string name="battery_sugg_display">Зменшуйте яскравість та час до вимкнення екрану</string>
     <string name="battery_desc_wifi">Споживання батареї модулем Wi-Fi</string>
-    <string name="battery_sugg_wifi">Вимкнути модуль Wi-Fi, коли він не використовується або мережа недоступна</string>
+    <string name="battery_sugg_wifi">Вимикайте модуль Wi-Fi, коли він не використовується або мережа недоступна</string>
     <string name="battery_desc_bluetooth">Споживання батареї модулем Bluetooth</string>
     <string name="battery_sugg_bluetooth_basic">Вимкніть Bluetooth, якщо він не використовується</string>
     <string name="battery_sugg_bluetooth_headset">Спробуйте підключитися до іншого Bluetooth-пристрою</string>
@@ -2426,7 +2426,7 @@
     <string name="sim_displayname_too_long">Максимум 8 символів</string>
     <string name="fast_mode">Швидкий режим</string>
     <string name="fast_mode_title">Швидкий виклик/SMS</string>
-    <string name="fast_mode_summary">Інтелектуальний швидкий набір та відправка SMS</string>
+    <string name="fast_mode_summary">Інтелектуальний швидкий набір та відправлення повідомлень</string>
     <string name="ring_title">Виклик (дзвінок, повідомлення, оповіщення)</string>
     <string name="voice_call_alarm_description">Виклик (голосовий виклик)</string>
     <string name="media_volume_description">Мультимедіа (музика, відео, ігри тощо)</string>
@@ -2454,7 +2454,7 @@
     <string name="sim_settings_guide_data_summary">Вибір SIM-картки для передачі даних</string>
     <string name="sim_settings_guide_datasave_summary">Рекомендується обмежити обсяг трафіку. Оскільки, у випадку його перевищення, оператором може стягуватись додаткова оплата</string>
     <string name="sim_settings_guide_video_summary">Вибір підтримки 3G для SIM-картки, з якої здійснюватимуться відеодзвінки</string>
-    <string name="sim_settings_guide_fastmode_summary">Інтелектуальний швидкий набір і відправлення SMS/MMS</string>
+    <string name="sim_settings_guide_fastmode_summary">Інтелектуальний швидкий набір та відправлення повідомлень</string>
     <string name="nightmode_title">Нічний режим</string>
     <string name="battery_style">Індикатор рівня заряду</string>
     <string name="screen_timeout_never">Ніколи</string>
