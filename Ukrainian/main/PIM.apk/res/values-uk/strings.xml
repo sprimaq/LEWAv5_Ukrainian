@@ -1036,7 +1036,7 @@
     <string name="try_to_send">Спробувати відправити</string>
     <string name="preferences_title">Налаштування повідомлень</string>
     <string name="restore_default">Відновити налаштування за замовчуванням</string>
-    <string name="pref_notification_settings_title">Налаштування сповіщень</string>
+    <string name="pref_notification_settings_title">Налаштування сповіщення</string>
     <string name="pref_mms_settings_title">Налаштування MMS</string>
     <string name="pref_sms_settings_title">Налаштування SMS</string>
     <string name="pref_sms_storage_title">Налаштування сховища</string>
@@ -1047,7 +1047,7 @@
     <string name="pref_summary_auto_delete">Видаляти старі повідомлення по досягненні ліміту кількості</string>
     <string name="pref_summary_delete_limit">Повідомлень у ланцюжку: %1$s</string>
     <string name="pref_summary_mms_group_mms">Використовуйте MMS для відправки одного повідомлення з багатьма одержувачами</string>
-    <string name="pref_title_manage_sim_messages">Впорядкувати повідомлення на SIM-картці</string>
+    <string name="pref_title_manage_sim_messages">Впорядкувати повідомлення</string>
     <string name="pref_title_mms_delivery_reports">Запит звіту про доставку</string>
     <string name="pref_title_mms_group_mms">Групове повідомлення</string>
     <string name="pref_title_mms_read_reports">Запит звіту про прочитання</string>
@@ -1057,7 +1057,7 @@
     <string name="pref_title_mms_delete">Ліміт кількості MMS</string>
     <string name="pref_title_notification_enabled">Сповіщення</string>
     <string name="pref_title_notification_vibrateWhen">Вібросигнал</string>
-    <string name="pref_title_notification_ringtone">Оберіть рингтон</string>
+    <string name="pref_title_notification_ringtone">Мелодія SMS/MMS</string>
     <string name="pref_messages_to_save">Встановити ліміт повідомлень для зберігання</string>
     <string name="silent_ringtone">Без звуку</string>
     <string name="prefDefault_vibrate_true">завжди</string>
@@ -1207,7 +1207,7 @@
 
 
 
-    <string name="message_empty_text">Відсутній вміст</string>
+    <string name="message_empty_text">Нічого немає</string>
     <string name="sms_recommend_message">Шаблони</string>
     <string name="message_early">Раніше</string>
     <string name="message_today">Сьогодні</string>
@@ -1283,8 +1283,8 @@
     <string name="no_messages">Немає повідомлень</string>
     <string name="set_service_center_OK">Успішне встановлення Центру служби SMS</string>
     <string name="set_service_center_fail">Встановлення Центру служби SMS не вдалося</string>
-    <string name="sms_import_sdcard">Імпорт SMS з: %s</string>
-    <string name="sms_export_sdcard">Експорт SMS до: %s</string>
+    <string name="sms_import_sdcard">Імпортувати SMS з: %s</string>
+    <string name="sms_export_sdcard">Експортувати SMS до: %s</string>
     <string name="sms_whether_export_item">Бажаєте експортувати до: %s?</string>
     <string name="export_message_ongoing">Експорт SMS, будь ласка, зачекайте…</string>
     <string name="no_sd_card">SD-картка не готова</string>
