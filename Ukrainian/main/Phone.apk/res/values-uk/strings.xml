@@ -167,7 +167,7 @@
     <string name="dual_mic_title">Шумозаглушення</string>
     <string name="dual_mic_turnoff">Вимкнути два мікрофона</string>
     <string name="dual_mic_turnon">Увімкнути два мікрофона</string>
-    <string name="minutereminder_title">Хвилинне нагадування</string>
+    <string name="minutereminder_title">Щохвилинне нагадування</string>
     <string name="minutereminder_turnon">Додати нагадування на 50-й секунді кожної хвилини</string>
     <string name="minutereminder_turnoff">Вимкнути нагадування хвилинне</string>
     <string name="voice_call_settings">Налаштування дзвінків</string>
