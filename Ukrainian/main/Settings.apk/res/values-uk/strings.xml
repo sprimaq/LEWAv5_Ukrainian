@@ -29,7 +29,7 @@
     <string name="NI_Request_ID">ID клієнта сервера</string>
     <string name="NI_Request_ClientName">Ім’я клієнта</string>
     <string name="agps_str_verify">Перевірка</string>
-    <string name="agps_str_notify">Повідомлення</string>
+    <string name="agps_str_notify">Сповіщення</string>
     <string name="EM_NotifyDialog_title">Повідомлення EM</string>
     <string name="agps_OK">ОК</string>
     <string name="agps_str_allow">Дозволити</string>
@@ -1158,10 +1158,10 @@
     <string name="musicfx_title">Еквалайзер</string>
     <string name="ring_volume_title">Гучність дзвінка</string>
     <string name="vibrate_in_silent_title">У режимі Без звуку</string>
-    <string name="notification_sound_title">Повідомлення</string>
+    <string name="notification_sound_title">Сповіщення</string>
     <string name="notification_pulse_title">Індикація</string>
     <string name="incoming_call_volume_title">Мелодія</string>
-    <string name="notification_volume_title">Повідомлення</string>
+    <string name="notification_volume_title">Сповіщення</string>
     <string name="checkbox_notification_same_as_incoming_call">Використовувати цей рівень гучності також для повідомлень</string>
     <string name="notification_sound_dialog_title">Вибрати мелодію повідомлень</string>
     <string name="media_volume_title">Мультимедіа</string>
@@ -1996,7 +1996,7 @@
     <string name="device_admin_status">Цей адміністратор активований і дозволяє додаткам %1$s виконувати наступні дії:</string>
     <string name="untitled_apn">Без назви</string>
     <string name="sound_category_sound_title">Загальні</string>
-    <string name="sound_category_notification_title">Повідомлення</string>
+    <string name="sound_category_notification_title">Сповіщення</string>
     <string name="sound_category_call_ringtone_vibrate_title">Звуки</string>
     <string name="sound_category_system_title">Система</string>
     <string name="wifi_setup_title">Налаштування Wi-Fi</string>
@@ -2335,8 +2335,8 @@
     <string name="ringvolume_vibrate_title">Мелодії і вібрація</string>
     <string name="audio_sound_title">Звук</string>
     <string name="ringvolume_settings_title">Мелодії</string>
-    <string name="voice_call_ringtone_title">Мелодія виклику</string>
-    <string name="sms_call_ringtone_title">SMS-повідомлення</string>
+    <string name="voice_call_ringtone_title">Мелодія дзвінку</string>
+    <string name="sms_call_ringtone_title">SMS/MMS</string>
     <string name="status_bar_title">Панель оповіщень</string>
     <string name="haptic_feedback_enable_summary">Вібрація при натисканні екранних клавіш</string>
     <string name="key_label">Клавіши</string>
