@@ -748,6 +748,7 @@
     <string name="card_title_hanging_up">Завершення розмови</string>
     <string name="card_title_in_call">Вхідний дзвінок</string>
     <string name="card_title_my_phone_number">Мій номер: %s</string>
+    <string name="notification_dialing">Набір</string>
     <string name="notification_missedCallTitle">Пропущений виклик</string>
     <string name="notification_missedCallsTitle">Пропущені виклики</string>
     <string name="notification_missedCallsMsg">Пропущених викликів: %s</string>
@@ -989,6 +990,7 @@
     <string name="voicemail_notification_vibrate_when_title">Вібрація</string>
     <string name="voicemail_notification_vibarte_when_dialog_title">Вібрація</string>
     <string name="voicemail_notification_ringtone_title">Мелодія виклику</string>
+    <string name="default_notification_description">Мелодія за замовчуванням (%1$s)</string>
     <string name="voicemail_notification_vibrate_when_default">ніколи</string>
     <string name="ringtone_title">Мелодія виклику</string>
     <string name="vibrate_on_ring_title">Вібрація при виклику</string>
@@ -999,7 +1001,6 @@
     <string name="endtitle">Кінець виклику</string>
     <string name="advanced_setting">Додаткові налаштування</string>
     <string name="vibrate_outgoing">Вібрація при відповіді</string>
-    <string name="vibrate_ringing">Вібрація при виклику</string>
     <string name="vibrate_outgoing_sum">Вібрувати при знятті трубки співрозмовником</string>
     <string name="vibrate_45">Вібрація кожні 45 сек.</string>
     <string name="vibrate_45_sum">Вібрувати кожні 45 секунд під час вихідних дзвінків</string>
@@ -1049,8 +1050,6 @@
     <string name="dualtalk_tip_accept_disconnect_current">Відповідь на цей виклик призведе до завершення поточного дзвінка</string>
     <string name="dualtalk_tip_accept_disconnect_outgoing">Відповідь на цей виклик призведе до завершення вихідного дзвінка</string>
     <string name="dualtalk_tip_accept_disconnect_incoming">Відповідь на цей виклик призведе до відхилення іншого вхідного виклику</string>
-    <string name="notification_dialing">Набір</string>
-    <string name="default_notification_description">Мелодія за замовчуванням (%1$s)</string>
     <string name="slide_to_decline">Вліво для скасування</string>
     <string name="slide_to_answer">Вправо для відповіді</string>
     <string name="international_dialing_dial_with_country_code">Набір з кодом країни</string>
@@ -1129,6 +1128,8 @@
     <string name="pch_data_prefer_message">"Краща мобільна служба передачі даних використовується для підвищення ефективності передачі даних за нижчою шкалою цін, що застосовується при вхідному виклику. Використовувати не рекомендується. 
 
 Ви готові використовувати бажану мобільну службу передачі даних?"</string>
+
+    <string name="vibrate_ringing">Вібрація при виклику</string>
 
     <string name="absent_num">НОМЕР ВІДСУТНІЙ</string>
     
