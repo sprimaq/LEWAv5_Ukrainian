@@ -193,10 +193,7 @@
     <string name="reminder">Нагадування</string>
     <string name="vt_media_occupied">Неможливо підключити відеодзвінок через відсутність доступу до камери. Перевірте, чи не використовується камера іншим додатком</string>
     <string name="vt_media_video_fail">Погана якість відеозв’язку. Відеодзвінок перерваний</string>
-    <string name="incall_toast_hold">Утримання</string>
     <string name="incall_toast_unhold">Відновити</string>
-    <string name="onscreenCdmaManageCallext">Керування викликом</string>
-    <string name="onscreenCdmaMergeCallext">Об’єднання виклику</string>
     <string name="dualtalk_tip_accept_disconnect_voice">Відповідь на цей виклик призведе до завершення голосового дзвінка</string>
     <string name="dualtalk_tip_accept_disconnect_outgoing_reject_incoming">Відповідь на цей виклик призведе до завершення вихідного виклику і відхиленням іншого вхідного виклику</string>
     <string name="dualtalk_tip_accept_disconnect_current_reject_incoming">Відповідь на цей виклик призведе до завершення поточного дзвінка та відхиленню іншого вхідного виклику</string>
@@ -1081,6 +1078,9 @@
     <string name="simlock_newsiminsert">Вставлена нова SIM-карта</string>
     <string name="simlock_moreinfo">Детальніше</string>
     <string name="simlock_unlockmardedcard">Розблокувати</string>
+    <string name="incall_toast_hold">Утримання</string>
+    <string name="onscreenCdmaManageCallext">Керування викликом</string>
+    <string name="onscreenCdmaMergeCallext">Об’єднання виклику</string>
 
     <string name="call_reject_title">Відхилення виклику</string>
     <string name="call_reject_sum">Керування режимом автоматичного відхилення і списком</string>
