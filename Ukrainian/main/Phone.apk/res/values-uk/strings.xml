@@ -351,11 +351,6 @@
     <string name="network_id">Ім’я мережі (ID)</string>
     <string name="dialog_network_priority_title">Пріоритет</string>
     <string name="plmn_list_setting_add_plmn">Додати нову мережу PLMN</string>
-    <string name="reset">Скидання</string>
-    <string name="reset_alert">Очистити інформацію про обсяг переданих даних?</string>
-    <string name="reset_data_usage">Скидання об’єму даних</string>
-    <string name="fdn_contact_max">Контакт заповнений</string>
-    <string name="simContacts_emptyLoading_ex">Читання контактів з %s...</string>
     <string name="international_dialing_add_country_code_input_area_code">Виявлено, що Ви набираєте номер: %s. Якщо це так, вкажіть код міста.</string>
     <string name="international_dialing_add_country_code_default_input_area_code" formatted="false">Виявлено, що Ви набираєте номер: %s. Якщо номер абонента не знаходиться в місті %s, введіть код міста.</string>
     <string name="international_dialing_need_area_code">Для здійснення виклику необхідно вказати код міста абонента</string>
@@ -565,7 +560,12 @@
     <string name="gsm_umts_options">Параметри GSM/UMTS</string>
     <string name="cdma_options">Параметри CDMA</string>
     <string name="throttle_data_usage">Передача даних</string>
+    <string name="reset">Скидання</string>
+    <string name="reset_alert">Очистити інформацію про обсяг переданих даних?</string>
     <string name="throttle_current_usage">Передача даних в поточному періоді</string>
+    <string name="reset_data_usage">Скидання об’єму даних</string>
+    <string name="fdn_contact_max">Контакт заповнений</string>
+    <string name="simContacts_emptyLoading_ex">Читання контактів з %s...</string>
     <string name="throttle_time_frame">Час передачі даних</string>
     <string name="throttle_rate">Швидкість передачі даних</string>
     <string name="throttle_help">Детальніше</string>
