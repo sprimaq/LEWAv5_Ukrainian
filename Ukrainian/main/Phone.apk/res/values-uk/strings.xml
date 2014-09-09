@@ -334,14 +334,8 @@
     <string name="mt_code_forwarded_cf_not_reachable">Переадресований дзвінок недоступний</string>
     <string name="networksettings_tips_data_enabled">Увімкнути передачу даних? Можливо споживання трафіку!</string>
     <string name="networksettings_tips_data_disabled">Вимкнути передачу даних? Можуть бути порушені інші служби, наприклад, відправлення та отримання MMS або ел. пошти</string>
-    <string name="sim_manage_suggested">Пропонується</string>
     <string name="sim_manage_sipcall">Інтернет-виклик</string>
     <string name="sim_manage_call_via">Виклик через</string>
-    <string name="pch_data_prefer_title">Бажана служба передачі даних</string>
-    <string name="pch_data_prefer_summary">Дозволити мобільного службі передачі даних працювати з повною швидкістю</string>
-    <string name="pch_data_prefer_message">"Краща мобільна служба передачі даних використовується для підвищення ефективності передачі даних за нижчою шкалою цін, що застосовується при вхідному виклику. Використовувати не рекомендується. 
-
-Ви готові використовувати бажану мобільну службу передачі даних?"</string>
     <string name="manual_select_title">Ручний вибір</string>
     <string name="manual_select_dialog_msg">У режимі ручного вибору пристрій не зможе вибирати інших операторів. У разі втрати служби обраного оператора Вам доведеться повторно проводити ручний вибір або повернутися в режим автоматичного вибору. Рекомендується використовувати режим \"Автоматичний вибір\". Хочете вибрати мережу вручну?</string>
     <string name="no_service_msg_gemini">"Зараз немає доступних служб обраного оператора для \" %s\" SIM-карти. 
@@ -362,6 +356,35 @@
     <string name="reset_data_usage">Скидання об’єму даних</string>
     <string name="fdn_contact_max">Контакт заповнений</string>
     <string name="simContacts_emptyLoading_ex">Читання контактів з %s...</string>
+    <string name="international_dialing_add_country_code_input_area_code">Виявлено, що Ви набираєте номер: %s. Якщо це так, вкажіть код міста.</string>
+    <string name="international_dialing_add_country_code_default_input_area_code" formatted="false">Виявлено, що Ви набираєте номер: %s. Якщо номер абонента не знаходиться в місті %s, введіть код міста.</string>
+    <string name="international_dialing_need_area_code">Для здійснення виклику необхідно вказати код міста абонента</string>
+    <string name="international_dialing_input_area_code">Введіть сюди код міста</string>
+    <string name="international_dialing_dialed_number">Набір номера:</string>
+    <string name="international_dialing_confirm_area_code">Якщо місто абонента не %s, введіть код міста абонента у розташованому нижче полі</string>
+    <string name="international_dialing_click_below_button">Натисніть кнопку розташовану нижче, щоб змінити код країни</string>
+    <string name="international_dialing_yes">Так, використовувати наступний номер:</string>
+    <string name="international_dialing_no">Ні, використовувати вихідний номер:</string>
+    <string name="international_dialing_call_button">Зателефонувати</string>
+    <string name="international_dialing_area_code">Код міста</string>
+    <string name="international_dialing_invalid_number">Неправильний номер. Продовжити попри Все?</string>
+    <string name="international_dialing_add_country_code_and_area_code_without_prefix">Додати код країни та міста?</string>
+    <string name="no_search_result">Немає результатів пошуку</string>
+    <string name="which_call_to_activate">Який виклик активувати?</string>
+    <string name="gemini_3g_disable_warning_case0">Для даної SIM-карти спочатку слід Увімкнути передачу даних у роумінгу, що може спричинити значне підвищення вартості передавання даних! Увімкнути передачу даних в роуменге і вибрати дану SIM-карту?</string>
+    <string name="gemini_3g_disable_warning_case1">В обраній SIM-карті відсутня підтримка послуги 3G. Це може привести до уповільнення завантаження даних. Параметри послуги 3G можна змінити в налаштуваннях</string>
+    <string name="gemini_3g_disable_warning_case2">Для даної SIM-карти спочатку необхідно Увімкнути передачу даних у роумінгу, що може спричинити значне підвищення вартості передавання даних! Крім того, функція 3G недоступна для цієї SIM-карти, що може знизити швидкість передачі даних. Ви дійсно хочете Увімкнути передачу даних у роумінгу і вибрати цю SIM-карту?</string>
+    <string name="disable_data_connection_msg">При пошуку всіх доступних мереж буде відключена використовується інформаційна зв’язок. Продовжити?</string>
+    <string name="voice_command_notification_ticker" formatted="false">Ви можете повідомити \"%s\" або \"%s\" відповісти або проігнорувати дзвінок</string>
+    <string name="voice_command_notification_title">Голосове керування</string>
+    <string name="voice_command_notification_message">Голосове керування увімкнено</string>
+    <string name="callFailed_simError_cdma">Немає UIM/SIM або помилка UIM/SIM</string>
+    <string name="voice_mail_dialog_text">Надійшла нова голосова пошта%s, отримати її зараз?</string>
+    <string name="fake_phone_activity_infoText_text">Вхідний номер телефону</string>
+    <string name="fake_phone_activity_placeCall_text">Помилковий дзвінок</string>
+    <string name="fdn_only_error">Можливі операції тільки з дозволеними номерами</string>
+    <string name="voicemail_settings_for">Параметри: %s</string>
+    <string name="card_title_incoming_vt_call">Вхідний відеодзвінок</string>
     <string name="one_retry_left">Залишилася одна спроба</string>
     <string name="retries_left">Залишилося %d спроб</string>
     <string name="pin2_unblocked">PIN2 розблоковано</string>
@@ -369,8 +392,6 @@
     <string name="sim_permanently_locked">З-за введення неправильного PUK2 більше 10 разів SIM-карту повністю заблоковано</string>
     <string name="pin_length_indicate">(4-8 цифр)</string>
     <string name="puk_length_indicate">(8 цифр)</string>
-    <string name="card_title_incoming_vt_call">Вхідний відеодзвінок</string>
-    <string name="voice_mail_dialog_text">Надійшла нова голосова пошта%s, отримати її зараз?</string>
     <string name="sip_call_options_title_single_sim">Параметри Інтернет-телефонії</string>
     <string name="callFailed_simError_slotNumber">Немає SIM-карти або помилка SIM-карти в слоті %d</string>
     <string name="preferred_network_mode_wcdma_perf_summary">Режим мережі: GSM/WCDMA (авторежим)</string>
@@ -384,14 +405,11 @@
     <string name="preferred_network_mode_cdma_only_summary">Режим мережі: лише CDMA</string>
     <string name="preferred_network_mode_evdo_only_summary">Режим мережі: лише EvDo</string>
     <string name="preferred_network_mode_lte_cdma_summary">Режим мережі: LTE або CDMA</string>
-    <string name="fake_phone_activity_infoText_text">Вхідний номер телефону</string>
-    <string name="fake_phone_activity_placeCall_text">Помилковий дзвінок</string>
     <string name="absent_num">НОМЕР ВІДСУТНІЙ</string>
     <string name="network_setting_all_forbidden_dialog">Немає доступних мереж. Будь ласка, спробуйте Увімкнути послугу 3G, або виберіть іншу мережу для реєстрації вручну</string>
     <string name="throttle_status_subtext">"%1$s (%2$d٪) з %3$s (максимум) 
 Наступний період почнеться через %4$d дн. (%5$s)"</string>
     <string name="throttle_data_usage_subtext">%1$s (%2$d٪) з %3$s (максимум)</string>
-    <string name="voicemail_settings_for">Параметри: %s</string>
     <string name="throttle_time_frame_subtext">"%1$d٪ періоду пройшло. 
 Наступний період починається через %2$d дн. (%3$s)"</string>
     <string name="phoneAppLabel">Телефон</string>
@@ -509,7 +527,6 @@
     <string name="response_error">Несподіваний відгук мережі</string>
     <string name="exception_error">Помилка мережі або SIM-карти</string>
     <string name="fdn_check_failure">Ваш пристрій в режимі Дозволені номери. Деякі функції викликів можуть не працювати</string>
-    <string name="fdn_only_error">Можливі операції тільки з дозволеними номерами</string>
     <string name="radio_off_error">Щоб побачити ці налаштування, потрібно Увімкнути зв’язок</string>
     <string name="close_dialog">ОК</string>
     <string name="enable">Увімкнути</string>
@@ -1033,29 +1050,6 @@
     <string name="international_dialing_add_country_code" formatted="false">Виявлено, що Ви набираєте номер: %s. Додати код країни: ( %s)?</string>
     <string name="international_dialing_add_country_code_and_area_code">Виявлено, що Ви набираєте номер: %1$s %2$s. Додати код країни і міста: ( %3$s)?</string>
     <string name="international_dialing_change_country_prefix">Виявлено, що Ви набираєте номер з: %s. Змінити префікс міжнародного набору на: ’ ’?</string>
-    <string name="international_dialing_add_country_code_input_area_code">Виявлено, що Ви набираєте номер: %s. Якщо це так, вкажіть код міста.</string>
-    <string name="international_dialing_add_country_code_default_input_area_code" formatted="false">Виявлено, що Ви набираєте номер: %s. Якщо номер абонента не знаходиться в місті %s, введіть код міста.</string>
-    <string name="international_dialing_need_area_code">Для здійснення виклику необхідно вказати код міста абонента</string>
-    <string name="international_dialing_input_area_code">Введіть сюди код міста</string>
-    <string name="international_dialing_dialed_number">Набір номера:</string>
-    <string name="international_dialing_confirm_area_code">Якщо місто абонента не %s, введіть код міста абонента у розташованому нижче полі</string>
-    <string name="international_dialing_click_below_button">Натисніть кнопку розташовану нижче, щоб змінити код країни</string>
-    <string name="international_dialing_yes">Так, використовувати наступний номер:</string>
-    <string name="international_dialing_no">Ні, використовувати вихідний номер:</string>
-    <string name="international_dialing_call_button">Зателефонувати</string>
-    <string name="international_dialing_area_code">Код міста</string>
-    <string name="international_dialing_invalid_number">Неправильний номер. Продовжити попри Все?</string>
-    <string name="international_dialing_add_country_code_and_area_code_without_prefix">Додати код країни та міста?</string>
-    <string name="no_search_result">Немає результатів пошуку</string>
-    <string name="which_call_to_activate">Який виклик активувати?</string>
-    <string name="gemini_3g_disable_warning_case0">Для даної SIM-карти спочатку слід Увімкнути передачу даних у роумінгу, що може спричинити значне підвищення вартості передавання даних! Увімкнути передачу даних в роуменге і вибрати дану SIM-карту?</string>
-    <string name="gemini_3g_disable_warning_case1">В обраній SIM-карті відсутня підтримка послуги 3G. Це може привести до уповільнення завантаження даних. Параметри послуги 3G можна змінити в налаштуваннях</string>
-    <string name="gemini_3g_disable_warning_case2">Для даної SIM-карти спочатку необхідно Увімкнути передачу даних у роумінгу, що може спричинити значне підвищення вартості передавання даних! Крім того, функція 3G недоступна для цієї SIM-карти, що може знизити швидкість передачі даних. Ви дійсно хочете Увімкнути передачу даних у роумінгу і вибрати цю SIM-карту?</string>
-    <string name="disable_data_connection_msg">При пошуку всіх доступних мереж буде відключена використовується інформаційна зв’язок. Продовжити?</string>
-    <string name="voice_command_notification_ticker" formatted="false">Ви можете повідомити \"%s\" або \"%s\" відповісти або проігнорувати дзвінок</string>
-    <string name="voice_command_notification_title">Голосове керування</string>
-    <string name="voice_command_notification_message">Голосове керування увімкнено</string>
-    <string name="callFailed_simError_cdma">Немає UIM/SIM або помилка UIM/SIM</string>
     <string name="notification_dialing">Набір</string>
     <string name="default_notification_description">Мелодія за замовчуванням (%1$s)</string>
     <string name="slide_to_decline">Вліво для скасування</string>
@@ -1129,5 +1123,13 @@
     <string name="auto_reject_sum_voice">Пряме блокування всіх вхідних голосових дзвінків</string>
     <string name="auto_reject_sum_video">Пряме блокування всіх вхідних відеодзвінків</string>
     <string name="auto_reject_sum_sip">Пряме блокування всіх вхідних інтернет-дзвінків</string>
+
+    <string name="sim_manage_suggested">Пропонується</string>
+    <string name="pch_data_prefer_title">Бажана служба передачі даних</string>
+    <string name="pch_data_prefer_summary">Дозволити мобільного службі передачі даних працювати з повною швидкістю</string>
+    <string name="pch_data_prefer_message">"Краща мобільна служба передачі даних використовується для підвищення ефективності передачі даних за нижчою шкалою цін, що застосовується при вхідному виклику. Використовувати не рекомендується. 
+
+Ви готові використовувати бажану мобільну службу передачі даних?"</string>
+
     
 </resources>
