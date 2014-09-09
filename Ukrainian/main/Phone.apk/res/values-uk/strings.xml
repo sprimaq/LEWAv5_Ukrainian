@@ -108,7 +108,6 @@
     <string name="vt_local_video_effect">Локальний відеоефект</string>
     <string name="vt_local_video_nightmode">Нічний режим локального відео</string>
     <string name="vt_peer_video_quality">Налаштування якості відео</string>
-    <string name="vt_pic_replace_local">Зображення для заміни локального відео</string>
     <string name="vt_enable_back_camera">Включення задньої камери</string>
     <string name="vt_enable_back_camera_description">Можливість перемикання камер при включенні</string>
     <string name="vt_peer_video_bigger">Перегляд відео, більше локального</string>
@@ -142,8 +141,6 @@
     <string name="vt_menu_hide_me">Приховати локальний відеосигнал</string>
     <string name="vt_menu_show_me">Увімкнути локальний відеосигнал</string>
     <string name="vt_menu_snapshot">Захоплення кадру прийнятого відео</string>
-    <string name="vt_dis_exit">Вихід</string>
-    <string name="vt_dis_callback">Передзвонити</string>
     <string name="vt_dis_peer_rep">Заміна відображення прийнятого відео</string>
     <string name="vt_dis_peer_rep_des">Показати зображення замість прийнятого відео, коли воно недоступне</string>
     <string name="vt_peer_video_rep">Заміна прийнятого відео</string>
@@ -199,6 +196,9 @@
     <string name="incall_toast_unhold">Відновити</string>
     <string name="onscreenCdmaManageCallext">Керування викликом</string>
     <string name="onscreenCdmaMergeCallext">Об’єднання виклику</string>
+    <string name="dualtalk_tip_accept_disconnect_voice">Відповідь на цей виклик призведе до завершення голосового дзвінка</string>
+    <string name="dualtalk_tip_accept_disconnect_outgoing_reject_incoming">Відповідь на цей виклик призведе до завершення вихідного виклику і відхиленням іншого вхідного виклику</string>
+    <string name="dualtalk_tip_accept_disconnect_current_reject_incoming">Відповідь на цей виклик призведе до завершення поточного дзвінка та відхиленню іншого вхідного виклику</string>
     <string name="end_call_because_can_not_hold">Закінчити поточний виклик, так як він не може бути утримано</string>
     <string name="ring_only_once_title">Дзвонити тільки раз</string>
     <string name="ring_only_once_summary">Дзвонити тільки раз, коли приймається відеодзвінок через голосового дзвінка</string>
@@ -211,9 +211,11 @@
     <string name="labelCFC">Скасувати всю переадресацію</string>
     <string name="cdma_cfu_dialog_sum">Завжди використовувати цей номер</string>
     <string name="dual_mic_title">Шумозаглушення</string>
+    <string name="dual_mic_summary">Придушення фонового шуму під час розмови</string>
     <string name="dual_mic_turnoff">Вимкнути два мікрофона</string>
     <string name="dual_mic_turnon">Увімкнути два мікрофона</string>
     <string name="minutereminder_title">Щохвилинне нагадування</string>
+    <string name="minutereminder_summary">Нагадування на 50-й секунді кожної хвилини</string>
     <string name="minutereminder_turnon">Додати нагадування на 50-й секунді кожної хвилини</string>
     <string name="minutereminder_turnoff">Вимкнути нагадування хвилинне</string>
     <string name="voice_call_settings">Налаштування дзвінків</string>
@@ -235,24 +237,6 @@
     <string name="enable_3G_service">Увімкнути режим 3G</string>
     <string name="setting_for_3G_service">Служба 3G</string>
     <string name="network_forbidden">Вимкнути</string>
-    <string name="call_reject_title">Відхилення виклику</string>
-    <string name="call_reject_sum">Керування режимом автоматичного відхилення і списком</string>
-    <string name="voice_call_reject_mode_title">Режим автоматичного відхилення голосового дзвінка</string>
-    <string name="voice_call_all_numbers">Режим автоматичного відхилення голосового дзвінка: Усі номери</string>
-    <string name="video_call_all_numbers">Режим автоматичного відхилення відео виклику: Усі номери</string>
-    <string name="voice_call_reject_list_title">Список режим автоматичного відхилення голосового дзвінка</string>
-    <string name="voice_call_reject_list_sum">Редагування списку для автоматичного відхилення голосового дзвінка</string>
-    <string name="video_call_reject_mode_title">Режим автоматичного відхилення відеодзвінка</string>
-    <string name="video_call_reject_list_title">Список режим автоматичного відхилення відеодзвінка</string>
-    <string name="video_call_reject_list_sum">Редагування списку для автоматичного відхилення відеодзвінка</string>
-    <string name="call_reject_list_delete">ВИДАЛИТИ</string>
-    <string name="call_reject_list_add">ДОДАТИ</string>
-    <string name="add_call_reject_number">Додати номер для автоматичного відхилення</string>
-    <string name="select_from">Вибрати від</string>
-    <string name="select_all">Вибрати все</string>
-    <string name="select_clear">Очистити вибрані</string>
-    <string name="select_trash">Кошик</string>
-    <string name="selected_item_count">%d вибрано</string>
     <string name="call_reject_please_wait">Будь ласка, зачекайте...</string>
     <string name="call_reject_no_name">Без імені</string>
     <string name="lable_call_barring">Заборона дзвінків</string>
@@ -264,14 +248,6 @@
     <string name="deactivate_all">Заборонити всі</string>
     <string name="change_password">Змінити пароль заборони</string>
     <string name="call_barring_sum">Налаштування заборони голосових дзвінків</string>
-    <string name="lable_voice">ГОЛОС</string>
-    <string name="lable_data">ДАНІ</string>
-    <string name="lable_fax">ФАКС</string>
-    <string name="lable_sms">SMS</string>
-    <string name="lable_data_sync">СИНХРОНІЗ.-ДАНИХ</string>
-    <string name="lable_data_async">АСИНХР.-ДАНИХ</string>
-    <string name="lable_packet">Пакет</string>
-    <string name="lable_pad">PAD</string>
     <string name="lable_disable">Вимкнено</string>
     <string name="lable_enable">Увімкнено</string>
     <string name="old_password_label">Колишній пароль (4 цифри)</string>
@@ -327,14 +303,6 @@
     <string name="vt_call_settings">Налаштування відеодзвінка</string>
     <string name="vt_local_video_rep">Заміна відеосигналу</string>
     <string name="vt_pic_replace_local_description">Вибрати зображення для відображення, коли камера не використовується</string>
-    <string name="auto_reject_title">Заблокувати вхідні дзвінки</string>
-    <string name="auto_reject_sum">Пряме блокування вхідних дзвінків</string>
-    <string name="auto_reject_title_voice">Голосові виклики</string>
-    <string name="auto_reject_title_video">Відеодзвінок</string>
-    <string name="auto_reject_title_sip">Інтернет-виклик</string>
-    <string name="auto_reject_sum_voice">Пряме блокування всіх вхідних голосових дзвінків</string>
-    <string name="auto_reject_sum_video">Пряме блокування всіх вхідних відеодзвінків</string>
-    <string name="auto_reject_sum_sip">Пряме блокування всіх вхідних інтернет-дзвінків</string>
     <string name="mo_code_unconditional_cf_active">Безумовна переадресація активована</string>
     <string name="mo_code_some_cf_active">Умовна переадресація виклику</string>
     <string name="mo_code_call_forwarded">Виклик переадресовано</string>
@@ -1051,14 +1019,12 @@
     <string name="incoming_call_silent">Перевернути для тихого режиму</string>
     <string name="smart_answer">Розумна відповідь</string>
     <string name="smart_answer_summary">Піднесіть пристрій до вуха для відповіді під час дзвінка</string>
+    <string name="vt_pic_replace_local">Зображення для заміни локального відео</string>
+    <string name="vt_dis_exit">Вихід</string>
+    <string name="vt_dis_callback">Передзвонити</string>
     <string name="dualtalk_tip_accept_disconnect_current">Відповідь на цей виклик призведе до завершення поточного дзвінка</string>
     <string name="dualtalk_tip_accept_disconnect_outgoing">Відповідь на цей виклик призведе до завершення вихідного дзвінка</string>
     <string name="dualtalk_tip_accept_disconnect_incoming">Відповідь на цей виклик призведе до відхилення іншого вхідного виклику</string>
-    <string name="dualtalk_tip_accept_disconnect_voice">Відповідь на цей виклик призведе до завершення голосового дзвінка</string>
-    <string name="dualtalk_tip_accept_disconnect_outgoing_reject_incoming">Відповідь на цей виклик призведе до завершення вихідного виклику і відхиленням іншого вхідного виклику</string>
-    <string name="dualtalk_tip_accept_disconnect_current_reject_incoming">Відповідь на цей виклик призведе до завершення поточного дзвінка та відхиленню іншого вхідного виклику</string>
-    <string name="dual_mic_summary">Придушення фонового шуму під час розмови</string>
-    <string name="minutereminder_summary">Нагадування на 50-й секунді кожної хвилини</string>
     <string name="international_dialing_title">Допомога для виконання міжнародного виклику</string>
     <string name="international_dialing_select_country">Виявлено, що Ви здійснюєте міжнародний виклик. Виберіть місце призначення</string>
     <string name="international_dialing_add_country_code" formatted="false">Виявлено, що Ви набираєте номер: %s. Додати код країни: ( %s)?</string>
@@ -1092,6 +1058,7 @@
     <string name="slide_to_decline">Вліво для скасування</string>
     <string name="slide_to_answer">Вправо для відповіді</string>
     <string name="international_dialing_dial_with_country_code">Набір з кодом країни</string>
+
     <string name="simlock_name">Блокування SIM-карти ME</string>
     <string name="simlock_ok">OK</string>
     <string name="simlock_dismiss">Відбій</string>
@@ -1123,5 +1090,41 @@
     <string name="simlock_moreinfo">Детальніше</string>
     <string name="simlock_unlockmardedcard">Розблокувати</string>
 
+    <string name="call_reject_title">Відхилення виклику</string>
+    <string name="call_reject_sum">Керування режимом автоматичного відхилення і списком</string>
+    <string name="voice_call_reject_mode_title">Режим автоматичного відхилення голосового дзвінка</string>
+    <string name="voice_call_all_numbers">Режим автоматичного відхилення голосового дзвінка: Усі номери</string>
+    <string name="video_call_all_numbers">Режим автоматичного відхилення відео виклику: Усі номери</string>
+    <string name="voice_call_reject_list_title">Список режим автоматичного відхилення голосового дзвінка</string>
+    <string name="voice_call_reject_list_sum">Редагування списку для автоматичного відхилення голосового дзвінка</string>
+    <string name="video_call_reject_mode_title">Режим автоматичного відхилення відеодзвінка</string>
+    <string name="video_call_reject_list_title">Список режим автоматичного відхилення відеодзвінка</string>
+    <string name="video_call_reject_list_sum">Редагування списку для автоматичного відхилення відеодзвінка</string>
+    <string name="call_reject_list_delete">ВИДАЛИТИ</string>
+    <string name="call_reject_list_add">ДОДАТИ</string>
+    <string name="add_call_reject_number">Додати номер для автоматичного відхилення</string>
+    <string name="select_from">Вибрати від</string>
+    <string name="select_all">Вибрати все</string>
+    <string name="select_clear">Очистити вибрані</string>
+    <string name="select_trash">Кошик</string>
+    <string name="selected_item_count">%d вибрано</string>
+    
+    <string name="lable_voice">ГОЛОС</string>
+    <string name="lable_data">ДАНІ</string>
+    <string name="lable_fax">ФАКС</string>
+    <string name="lable_sms">SMS</string>
+    <string name="lable_data_sync">СИНХРОНІЗ.-ДАНИХ</string>
+    <string name="lable_data_async">АСИНХР.-ДАНИХ</string>
+    <string name="lable_packet">Пакет</string>
+    <string name="lable_pad">PAD</string>
+
+    <string name="auto_reject_title">Заблокувати вхідні дзвінки</string>
+    <string name="auto_reject_sum">Пряме блокування вхідних дзвінків</string>
+    <string name="auto_reject_title_voice">Голосові виклики</string>
+    <string name="auto_reject_title_video">Відеодзвінок</string>
+    <string name="auto_reject_title_sip">Інтернет-виклик</string>
+    <string name="auto_reject_sum_voice">Пряме блокування всіх вхідних голосових дзвінків</string>
+    <string name="auto_reject_sum_video">Пряме блокування всіх вхідних відеодзвінків</string>
+    <string name="auto_reject_sum_sip">Пряме блокування всіх вхідних інтернет-дзвінків</string>
     
 </resources>
