@@ -1034,11 +1034,14 @@
     <string name="dialpad_tone_dlg_title">Тон клавіатури</string>
     <string name="dialpad_tone_title">Тон клавіатури</string>
     <string name="dialpad_tone_default_summary">Тон клавіатури за замовчуванням</string>
+    <string name="slide_to_decline">Вліво для скасування</string>
+    <string name="slide_to_answer">Вправо для відповіді</string>
     <string name="yellowpage_title">Жовті сторінки</string>
     <string name="yellowpage_summary">Відображення в підказках швидких номерів різних компаній і служб</string>
     <string name="auto_voice_record_title">Автоматичний запис</string>
     <string name="auto_voice_record_summary">Автоматично включати запис розмови під час дзвінка</string>
     <string name="audio_sound_title">Звуки</string>
+    <string name="vibrate_ringing">Вібрація при виклику</string>
     <string name="voice_call_ringtone_setting_title">Налаштування мелодії виклику</string>
     <string name="voice_call_ringtone_title">Мелодія виклику</string>
     <string name="incoming_call_silent">Перевернути для тихого режиму</string>
@@ -1047,12 +1050,6 @@
     <string name="vt_pic_replace_local">Зображення для заміни локального відео</string>
     <string name="vt_dis_exit">Вихід</string>
     <string name="vt_dis_callback">Передзвонити</string>
-    <string name="dualtalk_tip_accept_disconnect_current">Відповідь на цей виклик призведе до завершення поточного дзвінка</string>
-    <string name="dualtalk_tip_accept_disconnect_outgoing">Відповідь на цей виклик призведе до завершення вихідного дзвінка</string>
-    <string name="dualtalk_tip_accept_disconnect_incoming">Відповідь на цей виклик призведе до відхилення іншого вхідного виклику</string>
-    <string name="slide_to_decline">Вліво для скасування</string>
-    <string name="slide_to_answer">Вправо для відповіді</string>
-    <string name="international_dialing_dial_with_country_code">Набір з кодом країни</string>
 
     <string name="simlock_name">Блокування SIM-карти ME</string>
     <string name="simlock_ok">OK</string>
@@ -1129,8 +1126,12 @@
 
 Ви готові використовувати бажану мобільну службу передачі даних?"</string>
 
-    <string name="vibrate_ringing">Вібрація при виклику</string>
 
     <string name="absent_num">НОМЕР ВІДСУТНІЙ</string>
+    
+    <string name="dualtalk_tip_accept_disconnect_current">Відповідь на цей виклик призведе до завершення поточного дзвінка</string>
+    <string name="dualtalk_tip_accept_disconnect_outgoing">Відповідь на цей виклик призведе до завершення вихідного дзвінка</string>
+    <string name="dualtalk_tip_accept_disconnect_incoming">Відповідь на цей виклик призведе до відхилення іншого вхідного виклику</string>
+    <string name="international_dialing_dial_with_country_code">Набір з кодом країни</string>
     
 </resources>
