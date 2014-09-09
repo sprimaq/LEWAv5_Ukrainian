@@ -122,7 +122,9 @@
     <string name="vt_pic_replace_local_freezeme">Зафіксувати зображення</string>
     <string name="vt_pic_replace_local_mypic">Моє зображення</string>
     <string name="vt_local_video_display">Відображення локального відео</string>
-    <string name="vt_sd_null">SD-карта недоступна</string>
+    <string name="vt_sd_null">SD-карта недоступна
+
+    </string>
     <string name="vt_sd_not_enough">"Недостатньо місця 
 на SD-карті"</string>
     <string name="vt_peer_video_quality_normal">Звичайний</string>
@@ -303,8 +305,10 @@
     <string name="vt_call_settings">Налаштування відеодзвінка</string>
     <string name="vt_local_video_rep">Заміна відеосигналу</string>
     <string name="vt_pic_replace_local_description">Вибрати зображення для відображення, коли камера не використовується</string>
-    <string name="mo_code_unconditional_cf_active">Безумовна переадресація активована</string>
-    <string name="mo_code_some_cf_active">Умовна переадресація виклику</string>
+    <string name="mo_code_unconditional_cf_active">Безумовна переадресація 
+активована</string>
+    <string name="mo_code_some_cf_active">Умовна 
+переадресація виклику</string>
     <string name="mo_code_call_forwarded">Виклик переадресовано</string>
     <string name="mo_code_call_is_waiting">Очікування дзвінка</string>
     <string name="mo_code_cug_call">Закрита група користувачів</string>
