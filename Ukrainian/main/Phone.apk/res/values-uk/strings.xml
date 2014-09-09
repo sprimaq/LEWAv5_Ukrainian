@@ -393,25 +393,6 @@
     <string name="pin_length_indicate">(4-8 цифр)</string>
     <string name="puk_length_indicate">(8 цифр)</string>
     <string name="sip_call_options_title_single_sim">Параметри Інтернет-телефонії</string>
-    <string name="callFailed_simError_slotNumber">Немає SIM-карти або помилка SIM-карти в слоті %d</string>
-    <string name="preferred_network_mode_wcdma_perf_summary">Режим мережі: GSM/WCDMA (авторежим)</string>
-    <string name="preferred_network_mode_scdma_perf_summary">Режим мережі: перевага для TD-SCDMA</string>
-    <string name="preferred_network_mode_gsm_only_summary">Режим мережі: лише GSM</string>
-    <string name="preferred_network_mode_wcdma_only_summary">Режим мережі: лише WCDMA</string>
-    <string name="preferred_network_mode_scdma_only_summary">Режим мережі: лише TD-SCDMA</string>
-    <string name="preferred_network_mode_gsm_wcdma_summary">Режим мережі: GSM або WCDMA</string>
-    <string name="preferred_network_mode_cdma_summary">Режим мережі: CDMA</string>
-    <string name="preferred_network_mode_cdma_evdo_summary">Режим мережі: CDMA/EvDo</string>
-    <string name="preferred_network_mode_cdma_only_summary">Режим мережі: лише CDMA</string>
-    <string name="preferred_network_mode_evdo_only_summary">Режим мережі: лише EvDo</string>
-    <string name="preferred_network_mode_lte_cdma_summary">Режим мережі: LTE або CDMA</string>
-    <string name="absent_num">НОМЕР ВІДСУТНІЙ</string>
-    <string name="network_setting_all_forbidden_dialog">Немає доступних мереж. Будь ласка, спробуйте Увімкнути послугу 3G, або виберіть іншу мережу для реєстрації вручну</string>
-    <string name="throttle_status_subtext">"%1$s (%2$d٪) з %3$s (максимум) 
-Наступний період почнеться через %4$d дн. (%5$s)"</string>
-    <string name="throttle_data_usage_subtext">%1$s (%2$d٪) з %3$s (максимум)</string>
-    <string name="throttle_time_frame_subtext">"%1$d٪ періоду пройшло. 
-Наступний період починається через %2$d дн. (%3$s)"</string>
     <string name="phoneAppLabel">Телефон</string>
     <string name="emergencyDialerIconLabel">Екстрений виклик</string>
     <string name="phoneIconLabel">Телефон</string>
@@ -432,6 +413,7 @@
     <string name="callFailed_limitExceeded">Перевищено ліміт ACM</string>
     <string name="callFailed_powerOff">Мережа відключена</string>
     <string name="callFailed_simError">SIM-карта не встановлена або помилка SIM-карти</string>
+    <string name="callFailed_simError_slotNumber">Немає SIM-карти або помилка SIM-карти в слоті %d</string>
     <string name="callFailed_outOfService">Поза зоною дії мережі</string>
     <string name="callFailed_fdn_only">Ви можете зателефонувати на номери зі списку дозволених номерів</string>
     <string name="callFailed_cb_enabled">Якщо увімкнено функція заборони, неможливо здійснювати вихідні дзвінки</string>
@@ -561,6 +543,24 @@
     <string name="preferred_network_mode_title">Режим мережі</string>
     <string name="preferred_network_mode_summary">Змінити режим роботи мережі</string>
     <string name="preferred_network_mode_dialogtitle">Кращі мережі</string>
+    <string name="preferred_network_mode_wcdma_perf_summary">Режим мережі: GSM/WCDMA (авторежим)</string>
+    <string name="preferred_network_mode_scdma_perf_summary">Режим мережі: перевага для TD-SCDMA</string>
+    <string name="preferred_network_mode_gsm_only_summary">Режим мережі: лише GSM</string>
+    <string name="preferred_network_mode_wcdma_only_summary">Режим мережі: лише WCDMA</string>
+    <string name="preferred_network_mode_scdma_only_summary">Режим мережі: лише TD-SCDMA</string>
+    <string name="preferred_network_mode_gsm_wcdma_summary">Режим мережі: GSM або WCDMA</string>
+    <string name="preferred_network_mode_cdma_summary">Режим мережі: CDMA</string>
+    <string name="preferred_network_mode_cdma_evdo_summary">Режим мережі: CDMA/EvDo</string>
+    <string name="preferred_network_mode_cdma_only_summary">Режим мережі: лише CDMA</string>
+    <string name="preferred_network_mode_evdo_only_summary">Режим мережі: лише EvDo</string>
+    <string name="preferred_network_mode_lte_cdma_summary">Режим мережі: LTE або CDMA</string>
+    <string name="absent_num">НОМЕР ВІДСУТНІЙ</string>
+    <string name="network_setting_all_forbidden_dialog">Немає доступних мереж. Будь ласка, спробуйте Увімкнути послугу 3G, або виберіть іншу мережу для реєстрації вручну</string>
+    <string name="throttle_status_subtext">"%1$s (%2$d٪) з %3$s (максимум) 
+Наступний період почнеться через %4$d дн. (%5$s)"</string>
+    <string name="throttle_data_usage_subtext">%1$s (%2$d٪) з %3$s (максимум)</string>
+    <string name="throttle_time_frame_subtext">"%1$d٪ періоду пройшло. 
+Наступний період починається через %2$d дн. (%3$s)"</string>
     <string name="data_enabled">Передача даних</string>
     <string name="data_enable_summary">Дозволити передачу даних по мережі мобільного зв’язку</string>
     <string name="roaming">Інтернет-роумінг</string>
