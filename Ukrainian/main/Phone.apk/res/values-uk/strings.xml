@@ -554,13 +554,7 @@
     <string name="preferred_network_mode_cdma_only_summary">Режим мережі: лише CDMA</string>
     <string name="preferred_network_mode_evdo_only_summary">Режим мережі: лише EvDo</string>
     <string name="preferred_network_mode_lte_cdma_summary">Режим мережі: LTE або CDMA</string>
-    <string name="absent_num">НОМЕР ВІДСУТНІЙ</string>
     <string name="network_setting_all_forbidden_dialog">Немає доступних мереж. Будь ласка, спробуйте Увімкнути послугу 3G, або виберіть іншу мережу для реєстрації вручну</string>
-    <string name="throttle_status_subtext">"%1$s (%2$d٪) з %3$s (максимум) 
-Наступний період почнеться через %4$d дн. (%5$s)"</string>
-    <string name="throttle_data_usage_subtext">%1$s (%2$d٪) з %3$s (максимум)</string>
-    <string name="throttle_time_frame_subtext">"%1$d٪ періоду пройшло. 
-Наступний період починається через %2$d дн. (%3$s)"</string>
     <string name="data_enabled">Передача даних</string>
     <string name="data_enable_summary">Дозволити передачу даних по мережі мобільного зв’язку</string>
     <string name="roaming">Інтернет-роумінг</string>
@@ -575,6 +569,11 @@
     <string name="throttle_time_frame">Час передачі даних</string>
     <string name="throttle_rate">Швидкість передачі даних</string>
     <string name="throttle_help">Детальніше</string>
+    <string name="throttle_status_subtext">"%1$s (%2$d٪) з %3$s (максимум) 
+Наступний період почнеться через %4$d дн. (%5$s)"</string>
+    <string name="throttle_data_usage_subtext">%1$s (%2$d٪) з %3$s (максимум)</string>
+    <string name="throttle_time_frame_subtext">"%1$d٪ періоду пройшло. 
+Наступний період починається через %2$d дн. (%3$s)"</string>
     <string name="throttle_data_rate_reduced_subtext">"Перевищено ліміт %1$s. 
 Швидкість передачі даних знижена до %2$d кБ/с."</string>
     <string name="throttle_rate_subtext">Перевищення ліміту знижує швидкість передачі даних до %1$d кБ/с</string>
@@ -1131,5 +1130,6 @@
 
 Ви готові використовувати бажану мобільну службу передачі даних?"</string>
 
+    <string name="absent_num">НОМЕР ВІДСУТНІЙ</string>
     
 </resources>
