@@ -123,8 +123,7 @@
     <string name="vt_pic_replace_local_mypic">Моє зображення</string>
     <string name="vt_local_video_display">Відображення локального відео</string>
     <string name="vt_sd_null">SD-карта недоступна
-
-    </string>
+</string>
     <string name="vt_sd_not_enough">"Недостатньо місця 
 на SD-карті"</string>
     <string name="vt_peer_video_quality_normal">Звичайний</string>
