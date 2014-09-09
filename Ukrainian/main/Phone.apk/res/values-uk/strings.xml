@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name=окскрін>Інтернет-виклик</string>
+    <string name="simui_intenet_call">Інтернет-виклик</string>
     <string name="lockscreen">Локскрін Lewa</string>
     <string name="lockscreen_summary">Локскрін© LeWaTek Limited</string>
     <string name="fancywallpaper">Незвичайні шпалери</string>
@@ -82,24 +82,24 @@
     <string name="stop_record">Зупинити запис</string>
     <string name="str_db_playlist_name">Мої записи</string>
     <string name="alert_device_error">Помилка аудіопристрої</string>
-    <string name="ext_media_badremoval_notification_title">Непередбачене витяг SD-карти</string>
-    <string name="error_sdcard_access">Не вдалося отримати доступ до SD карті</string>
-    <string name="confirm_device_info_full">На SD-карті закінчилося місце, запис збережено</string>
+    <string name="ext_media_badremoval_notification_title">Непередбачене витяг SD-картки</string>
+    <string name="error_sdcard_access">Не вдалося отримати доступ до SD картки</string>
+    <string name="confirm_device_info_full">На SD-картці закінчилося місце, запис збережено</string>
     <string name="confirm_save_info_saved">Запис збережено</string>
     <string name="sim_toolkit">Меню SIM</string>
     <string name="activity_not_found">Додаток не встановлено</string>
-    <string name="no_sim_card_inserted">Будь ласка, вставте SIM для запуску Меню SIM-карти</string>
-    <string name="airplane_mode_on">Неможливо запустити Меню SIM-карти, поки увімкнено режим польоту</string>
-    <string name="lable_sim_not_ready">Додаток Меню SIM-карти не готовий або не підтримується</string>
+    <string name="no_sim_card_inserted">Будь ласка, вставте SIM для запуску Меню SIM-картки</string>
+    <string name="airplane_mode_on">Неможливо запустити Меню SIM-картки, поки увімкнено режим польоту</string>
+    <string name="lable_sim_not_ready">Додаток Меню SIM-картки не готовий або не підтримується</string>
     <string name="gemini_3g_indic">3G</string>
     <string name="callFailed_dsac_vt_incompatible_destination">Відеодзвінок не може бути налаштований. Режим відеотелефона не підтримується використовуваних Вами пристроєм, виконати голосовий виклик?</string>
     <string name="callFailed_dsac_vt_resource_unavailable">Відеодзвінок не може бути налаштований. Набраний Вами номер телефону, поза зоною обслуговування 3G, голосовий дзвінок?</string>
     <string name="callFailed_dsac_vt_bearer_not_avail">Відеодзвінок не може бути налаштований. Виконати голосовий виклик?</string>
     <string name="callFailed_dsac_vt_out_of_3G_yourphone">Ваш телефон поза зоною обслуговування 3G, виконати голосой виклик?</string>
-    <string name="callFailed_dsac_vt_bear_not_authorized">Відеодзвінок не може бути налаштований. Відеотелефон не активований на цій SIM-карті, виконати голосовий виклик?</string>
+    <string name="callFailed_dsac_vt_bear_not_authorized">Відеодзвінок не може бути налаштований. Відеотелефон не активований на цій SIM-картці, виконати голосовий виклик?</string>
     <string name="notification_voicemail">Голосова пошта</string>
     <string name="turn_on_3g_service_message">Служба 3G в даний момент відключена, підключити її?</string>
-    <string name="associate_sim_missing_message">SIM-карта %1$s недоступна. Виконати виклик через %2$s</string>
+    <string name="associate_sim_missing_message">SIM-картка %1$s недоступна. Виконати виклик через %2$s</string>
     <string name="associate_sim_missing_other">Інше</string>
     <string name="vt_incoming_call">Вхідний відеодзвінок</string>
     <string name="vt_settings">Налаштування відео</string>
@@ -122,17 +122,17 @@
     <string name="vt_pic_replace_local_freezeme">Зафіксувати зображення</string>
     <string name="vt_pic_replace_local_mypic">Моє зображення</string>
     <string name="vt_local_video_display">Відображення локального відео</string>
-    <string name="vt_sd_null">SD-карта недоступна
+    <string name="vt_sd_null">SD-картка недоступна
 </string>
-    <string name="vt_sd_not_enough">"Недостатньо місця 
-на SD-карті"</string>
+    <string name="vt_sd_not_enough">"Бракує місця 
+на SD-картці"</string>
     <string name="vt_peer_video_quality_normal">Звичайний</string>
     <string name="vt_peer_video_quality_sharp">Високий</string>
     <string name="vt_ask_show_local">Показувати локальний відео дзвонить?</string>
     <string name="vt_ask_show_local_yes">Відображення</string>
     <string name="vt_ask_show_local_no">Не відображати</string>
     <string name="vt_change_my_pic">Змінити</string>
-    <string name="vt_pic_saved_to_sd">Скріншот збережений на SD-карті</string>
+    <string name="vt_pic_saved_to_sd">Скріншот збережений на SD-картці</string>
     <string name="vt_pic_saved_to_sd_fail">Не вдалося зберегти скріншот</string>
     <string name="vt_error_network">Мережа недоступна. Відеодзвінок буде завершено</string>
     <string name="vt_error_media">Неможливо коректно відобразити відеозображення. Відеодзвінок буде завершено</string>
@@ -181,7 +181,7 @@
     <string name="vt_recorder_only_voice">Тільки голос</string>
     <string name="vt_recorder_only_peer_video">Тільки перегляд відео</string>
     <string name="vt_recording_saved">Запис збережено</string>
-    <string name="vt_recording_saved_sd_full">На SD-карті закінчилося місце, запис збережено</string>
+    <string name="vt_recording_saved_sd_full">На SD-картці закінчилося місце, запис збережено</string>
     <string name="vt_recording_saved_fail">Не вдалося зберегти запис</string>
     <string name="vt_recording_error">Помилка при запису</string>
     <string name="start_record_vt">Запуск запису</string>
@@ -231,8 +231,8 @@
     <string name="vt_cb_call_description">Налаштування заборони відеодзвінків</string>
     <string name="vt_addtional_call_description">Налаштування номери телефону і очікування викликів</string>
     <string name="others">Інші налаштування</string>
-    <string name="confirm_3g_switch">Дійсно встановити службу 3G на даній SIM-карті? При цьому ця SIM-карта буде автоматично встановлена SIM-картка за замовчуванням для відеодзвінків</string>
-    <string name="modem_switching">Перемикання SIM-карти займе близько 10 секунд. Почекайте...</string>
+    <string name="confirm_3g_switch">Дійсно встановити службу 3G на даній SIM-картці? При цьому ця SIM-картка буде автоматично встановлена SIM-картка за замовчуванням для відеодзвінків</string>
+    <string name="modem_switching">Перемикання SIM-картки займе близько 10 секунд. Почекайте...</string>
     <string name="confirm_3g_switch_to_off">Хочете відключити послуги 3G? Це автоматично призведе до відключення служби відеодзвінків</string>
     <string name="service_3g_off">Викл.</string>
     <string name="enable_3G_service">Увімкнути режим 3G</string>
@@ -284,7 +284,7 @@
     <string name="fdn_errorcode_storage_info">Операція не вдалася через брак місця</string>
     <string name="fdn_errorcode_phb_info">Операція не вдалася через неготовність телефонної книги, повторіть спробу пізніше</string>
     <string name="fdn_errorcode_pin2_info">Операція не вдалася через неправильний PIN2</string>
-    <string name="net_or_simcard_busy">Мережа або SIM-карта зайнята, повторіть спробу пізніше</string>
+    <string name="net_or_simcard_busy">Мережа або SIM-картка зайнята, повторіть спробу пізніше</string>
     <string name="gsm_umts_network_preferences_title">Параметри мережі GSM/UMTS</string>
     <string name="gsm_umts_network_preferneces_summary">Ще не реалізовано!</string>
     <string name="gsm_umts_network_preferences_dialogtitle">Налаштування мережі GSM/UMTS</string>
@@ -338,7 +338,7 @@
     <string name="sim_manage_call_via">Виклик через</string>
     <string name="manual_select_title">Ручний вибір</string>
     <string name="manual_select_dialog_msg">У режимі ручного вибору пристрій не зможе вибирати інших операторів. У разі втрати служби обраного оператора Вам доведеться повторно проводити ручний вибір або повернутися в режим автоматичного вибору. Рекомендується використовувати режим \"Автоматичний вибір\". Хочете вибрати мережу вручну?</string>
-    <string name="no_service_msg_gemini">"Зараз немає доступних служб обраного оператора для \" %s\" SIM-карти. 
+    <string name="no_service_msg_gemini">"Зараз немає доступних служб обраного оператора для \" %s\" SIM-картки. 
 Рекомендується використовувати режим \"Автоматичний вибір\" або вручну вибрати іншого оператора."</string>
     <string name="no_service_msg">"Зараз немає доступних служб обраного оператора. 
 Рекомендується використовувати режим \"Автоматичний вибір\" або вручну вибрати іншого оператора."</string>
@@ -371,9 +371,9 @@
     <string name="international_dialing_add_country_code_and_area_code_without_prefix">Додати код країни та міста?</string>
     <string name="no_search_result">Немає результатів пошуку</string>
     <string name="which_call_to_activate">Який виклик активувати?</string>
-    <string name="gemini_3g_disable_warning_case0">Для даної SIM-карти спочатку слід Увімкнути передачу даних у роумінгу, що може спричинити значне підвищення вартості передавання даних! Увімкнути передачу даних в роуменге і вибрати дану SIM-карту?</string>
-    <string name="gemini_3g_disable_warning_case1">В обраній SIM-карті відсутня підтримка послуги 3G. Це може привести до уповільнення завантаження даних. Параметри послуги 3G можна змінити в налаштуваннях</string>
-    <string name="gemini_3g_disable_warning_case2">Для даної SIM-карти спочатку необхідно Увімкнути передачу даних у роумінгу, що може спричинити значне підвищення вартості передавання даних! Крім того, функція 3G недоступна для цієї SIM-карти, що може знизити швидкість передачі даних. Ви дійсно хочете Увімкнути передачу даних у роумінгу і вибрати цю SIM-карту?</string>
+    <string name="gemini_3g_disable_warning_case0">Для даної SIM-картки спочатку слід Увімкнути передачу даних у роумінгу, що може спричинити значне підвищення вартості передавання даних! Увімкнути передачу даних в роуменге і вибрати дану SIM-картку?</string>
+    <string name="gemini_3g_disable_warning_case1">В обраній SIM-картці відсутня підтримка послуги 3G. Це може привести до уповільнення завантаження даних. Параметри послуги 3G можна змінити в налаштуваннях</string>
+    <string name="gemini_3g_disable_warning_case2">Для даної SIM-картки спочатку необхідно Увімкнути передачу даних у роумінгу, що може спричинити значне підвищення вартості передавання даних! Крім того, функція 3G недоступна для цієї SIM-картки, що може знизити швидкість передачі даних. Ви дійсно хочете Увімкнути передачу даних у роумінгу і вибрати цю SIM-картку?</string>
     <string name="disable_data_connection_msg">При пошуку всіх доступних мереж буде відключена використовується інформаційна зв’язок. Продовжити?</string>
     <string name="voice_command_notification_ticker" formatted="false">Ви можете повідомити \"%s\" або \"%s\" відповісти або проігнорувати дзвінок</string>
     <string name="voice_command_notification_title">Голосове керування</string>
@@ -389,7 +389,7 @@
     <string name="retries_left">Залишилося %d спроб</string>
     <string name="pin2_unblocked">PIN2 розблоковано</string>
     <string name="unblock_pin2">Розблокувати PIN2</string>
-    <string name="sim_permanently_locked">З-за введення неправильного PUK2 більше 10 разів SIM-карту повністю заблоковано</string>
+    <string name="sim_permanently_locked">З-за введення неправильного PUK2 більше 10 разів SIM-картку повністю заблоковано</string>
     <string name="pin_length_indicate">(4-8 цифр)</string>
     <string name="puk_length_indicate">(8 цифр)</string>
     <string name="sip_call_options_title_single_sim">Параметри Інтернет-телефонії</string>
@@ -412,8 +412,8 @@
     <string name="callFailed_noSignal">Немає сигналу</string>
     <string name="callFailed_limitExceeded">Перевищено ліміт ACM</string>
     <string name="callFailed_powerOff">Мережа відключена</string>
-    <string name="callFailed_simError">SIM-карта не встановлена або помилка SIM-карти</string>
-    <string name="callFailed_simError_slotNumber">Немає SIM-карти або помилка SIM-карти в слоті %d</string>
+    <string name="callFailed_simError">SIM-картка не встановлена або помилка SIM-картки</string>
+    <string name="callFailed_simError_slotNumber">Немає SIM-картки або помилка SIM-картки в слоті %d</string>
     <string name="callFailed_outOfService">Поза зоною дії мережі</string>
     <string name="callFailed_fdn_only">Ви можете зателефонувати на номери зі списку дозволених номерів</string>
     <string name="callFailed_cb_enabled">Якщо увімкнено функція заборони, неможливо здійснювати вихідні дзвінки</string>
@@ -444,19 +444,19 @@
     <string name="pause_prompt_no">Ні</string>
     <string name="wild_prompt_str">Замінити універсальний символ на</string>
     <string name="no_vm_number">Не вказано номер голосової пошти</string>
-    <string name="no_vm_number_msg">На SIM-карті немає жодного номера голосової пошти</string>
+    <string name="no_vm_number_msg">На SIM-картці немає жодного номера голосової пошти</string>
     <string name="add_vm_number_str">Додати номер</string>
     <string name="verifyNewPin">Введіть новий PIN-код ще раз для підтвердження</string>
     <string name="buttonTxtContinue">Продовжити</string>
-    <string name="puk_unlocked">SIM-карта розблокована. Здійснюється розблокування телефону...</string>
-    <string name="label_ndp">PIN-код для розблокування мережі SIM-карти</string>
+    <string name="puk_unlocked">SIM-картка розблокована. Здійснюється розблокування телефону...</string>
+    <string name="label_ndp">PIN-код для розблокування мережі SIM-картки</string>
     <string name="sim_ndp_unlock_text">Розблокувати</string>
     <string name="sim_ndp_dismiss_text">Закрити</string>
     <string name="requesting_unlock">Запит на розблокування мережі...</string>
     <string name="unlock_failed">Запит на розблокування мережі не виконано</string>
     <string name="unlock_success">Розблоковано успішно</string>
     <string name="imei">IMEI</string>
-    <string name="meid">НАС</string>
+    <string name="meid">MEID</string>
     <string name="labelGSMMore">Налаштування дзвінків GSM</string>
     <string name="labelCDMAMore">Налаштування дзвінків CDMA</string>
     <string name="apn_settings">Точки доступу</string>
@@ -507,7 +507,7 @@
     <string name="updating_settings">Оновлення налаштувань...</string>
     <string name="reverting_settings">Повернення до попередніх налаштувань...</string>
     <string name="response_error">Несподіваний відгук мережі</string>
-    <string name="exception_error">Помилка мережі або SIM-карти</string>
+    <string name="exception_error">Помилка мережі або SIM-картки</string>
     <string name="fdn_check_failure">Ваш пристрій в режимі Дозволені номери. Деякі функції викликів можуть не працювати</string>
     <string name="radio_off_error">Щоб побачити ці налаштування, потрібно Увімкнути зв’язок</string>
     <string name="close_dialog">ОК</string>
@@ -575,10 +575,10 @@
     <string name="throttle_status_subtext">"%1$s (%2$d٪) з %3$s (максимум) 
 Наступний період почнеться через %4$d дн. (%5$s)"</string>
     <string name="throttle_data_usage_subtext">%1$s (%2$d٪) з %3$s (максимум)</string>
-    <string name="throttle_time_frame_subtext">"%1$d٪ періоду пройшло. 
-Наступний період починається через %2$d дн. (%3$s)"</string>
     <string name="throttle_data_rate_reduced_subtext">"Перевищено ліміт %1$s. 
 Швидкість передачі даних знижена до %2$d кБ/с."</string>
+    <string name="throttle_time_frame_subtext">"%1$d٪ періоду пройшло. 
+Наступний період починається через %2$d дн. (%3$s)"</string>
     <string name="throttle_rate_subtext">Перевищення ліміту знижує швидкість передачі даних до %1$d кБ/с</string>
     <string name="throttle_help_subtext">Докладніше про політику передачі даних вашого оператора мобільного зв’язку...</string>
     <string name="cell_broadcast_sms">Широкомовні SMS-служби</string>
@@ -700,12 +700,12 @@
     <string name="pin2_or_fdn_invalid">Список номерів фіксованого набору не оновлено. Вказаний неправильний PIN2-код або номер телефону</string>
     <string name="fdn_contact_max">Контакт заповнений</string>
     <string name="simContacts_emptyLoading_ex">Читання контактів з %s...</string>
-    <string name="simContacts_emptyLoading">Зчитування з SIM-карти...</string>
-    <string name="simContacts_empty">На SIM-карті немає контактів</string>
+    <string name="simContacts_emptyLoading">Зчитування з SIM-картки...</string>
+    <string name="simContacts_empty">На SIM-картці немає контактів</string>
     <string name="simContacts_title">Виберіть контакти для імпорту</string>
     <string name="simContacts_airplaneMode">Щоб імпортувати контакти з SIM-картки, вимкніть режим польоту</string>
-    <string name="enable_pin">Увімкнути/вимкнути запит PIN-коду SIM-карти</string>
-    <string name="change_pin">Змінити PIN-код SIM-карти</string>
+    <string name="enable_pin">Увімкнути/вимкнути запит PIN-коду SIM-картки</string>
+    <string name="change_pin">Змінити PIN-код SIM-картки</string>
     <string name="enter_pin_text">PIN-код SIM-картки:</string>
     <string name="oldPinLabel">Колишній PIN-код</string>
     <string name="newPinLabel">Новий PIN-код</string>
@@ -713,14 +713,14 @@
     <string name="badPin">Введений невірний колишній PIN-код. Повторіть спробу</string>
     <string name="mismatchPin">Введені PIN-код не збігаються. Повторіть спробу</string>
     <string name="invalidPin">Введіть PIN-код, що містить від 4 до 8 цифр</string>
-    <string name="disable_sim_pin">Вимкнути запит на PIN для SIM-карти</string>
-    <string name="enable_sim_pin">Увімкнути запит на PIN для SIM-карти</string>
+    <string name="disable_sim_pin">Вимкнути запит на PIN для SIM-картки</string>
+    <string name="enable_sim_pin">Увімкнути запит на PIN для SIM-картки</string>
     <string name="enable_in_progress">Почекайте...</string>
     <string name="enable_pin_ok">Запит PIN-коду SIM-картки увімкнено</string>
     <string name="disable_pin_ok">Запит PIN-коду SIM-картки вимкнено</string>
     <string name="pin_failed">Введено неправильний PIN-код</string>
-    <string name="pin_changed">PIN-код SIM-карти успішно змінено</string>
-    <string name="puk_requested">Невірний пароль, SIM-карту заблоковано! Введіть код PUK2</string>
+    <string name="pin_changed">PIN-код SIM-картки успішно змінено</string>
+    <string name="puk_requested">Невірний пароль, SIM-картку заблоковано! Введіть код PUK2</string>
     <string name="enter_pin2_text">PIN2</string>
     <string name="oldPin2Label">Колишній PIN2</string>
     <string name="newPin2Label">Новий PIN2</string>
@@ -733,7 +733,7 @@
     <string name="pin2_changed">PIN2 успішно змінено</string>
     <string name="label_puk2_code">Введіть код PUK2</string>
     <string name="fdn_enable_puk2_requested">Невірний пароль. Змініть PIN2 та повторіть спробу</string>
-    <string name="puk2_requested">Невірний пароль, SIM-карту заблоковано! Введіть код PUK2</string>
+    <string name="puk2_requested">Невірний пароль, SIM-картку заблоковано! Введіть код PUK2</string>
     <string name="doneButton">Готово</string>
     <string name="caller_manage_header">Конференц-виклик: %s</string>
     <string name="caller_manage_manage_done_text">Повернутися до виклику</string>
@@ -821,7 +821,7 @@
 "</string>
     <string name="importSimEntry">Імпортувати</string>
     <string name="importAllSimEntries">Імпортувати всі</string>
-    <string name="importingSimContacts">Імпорт контактів з SIM-карти</string>
+    <string name="importingSimContacts">Імпорт контактів з SIM-картки</string>
     <string name="importToFDNfromContacts">Імпортувати контакти</string>
     <string name="hac_mode_title">Слухові апарати</string>
     <string name="hac_mode_summary">Увімкнути слуховий апарат</string>
@@ -1013,7 +1013,7 @@
     <string name="gemini_data_roaming_title">Передача даних у роумінгу</string>
     <string name="gemini_data_roaming_summary">Дозволити/заборонити передачу даних у роумінгу</string>
     <string name="gemini_roaming_reminder_title">Відображати повідомлення про роумінг</string>
-    <string name="gemini_roaming_reminder_summary">Пропонувати SIM-карту, спираючись на історію використання</string>
+    <string name="gemini_roaming_reminder_summary">Пропонувати SIM-картку, спираючись на історію використання</string>
     <string name="per_change_mobile_network">Поміняти мережа (2G/3G)</string>
     <string name="per_change_mobile_network_desc">Зміна передачі даних між 2G і 3G. 3G швидше, споживає більше заряду батареї, а також може коштувати дорожче</string>
     <string name="hasblockwarning">Неможливо додати номер, так як він вже в списку</string>
@@ -1050,20 +1050,19 @@
     <string name="vt_pic_replace_local">Зображення для заміни локального відео</string>
     <string name="vt_dis_exit">Вихід</string>
     <string name="vt_dis_callback">Передзвонити</string>
-
-    <string name="simlock_name">Блокування SIM-карти ME</string>
+    <string name="simlock_name">Блокування SIM-картки ME</string>
     <string name="simlock_ok">OK</string>
     <string name="simlock_dismiss">Відбій</string>
     <string name="simlock_retriesleft">"Залишилося: "</string>
     <string name="pin_name">PIN-код</string>
     <string name="pin2_name">PIN2</string>
-    <string name="simlock_newsim">Нова SIM-карта</string>
+    <string name="simlock_newsim">Нова SIM-картка</string>
     <string name="simlock_nocard">Немає</string>
     <string name="simlock_emergency">Екстрений виклик</string>
     <string name="simlock_wrongcode">Невірний код</string>
     <string name="simlock_input4_8digits">Введіть 4-8 цифр</string>
     <string name="simlock_input8digits">Введіть 8 цифр</string>
-    <string name="simlock_entersimmelock">Введення блокування SIM-карти ME</string>
+    <string name="simlock_entersimmelock">Введення блокування SIM-картки ME</string>
     <string name="simlock_for">для</string>
     <string name="simlock_enterpin2code">"Введіть новий код PIN2 "</string>
     <string name="simlock_enterpincode">Введіть PIN-код</string>
@@ -1076,15 +1075,14 @@
     <string name="simlock_pinnotmatched">Коди не повинні співпадати</string>
     <string name="simlock_unlocking">Розблокування...</string>
     <string name="simlock_returntocall">Повернутися до виклику</string>
-    <string name="simlock_firstsim">для першої SIM-карти</string>
-    <string name="simlock_secondsim">для другої SIM-карти</string>
-    <string name="simlock_newsiminsert">Вставлена нова SIM-карта</string>
+    <string name="simlock_firstsim">для першої SIM-картки</string>
+    <string name="simlock_secondsim">для другої SIM-картки</string>
+    <string name="simlock_newsiminsert">Вставлена нова SIM-картка</string>
     <string name="simlock_moreinfo">Детальніше</string>
     <string name="simlock_unlockmardedcard">Розблокувати</string>
     <string name="incall_toast_hold">Утримання</string>
     <string name="onscreenCdmaManageCallext">Керування викликом</string>
     <string name="onscreenCdmaMergeCallext">Об’єднання виклику</string>
-
     <string name="call_reject_title">Відхилення виклику</string>
     <string name="call_reject_sum">Керування режимом автоматичного відхилення і списком</string>
     <string name="voice_call_reject_mode_title">Режим автоматичного відхилення голосового дзвінка</string>
@@ -1103,7 +1101,6 @@
     <string name="select_clear">Очистити вибрані</string>
     <string name="select_trash">Кошик</string>
     <string name="selected_item_count">%d вибрано</string>
-    
     <string name="lable_voice">ГОЛОС</string>
     <string name="lable_data">ДАНІ</string>
     <string name="lable_fax">ФАКС</string>
@@ -1112,7 +1109,6 @@
     <string name="lable_data_async">АСИНХР.-ДАНИХ</string>
     <string name="lable_packet">Пакет</string>
     <string name="lable_pad">PAD</string>
-
     <string name="auto_reject_title">Заблокувати вхідні дзвінки</string>
     <string name="auto_reject_sum">Пряме блокування вхідних дзвінків</string>
     <string name="auto_reject_title_voice">Голосові виклики</string>
