@@ -569,8 +569,6 @@
     <string name="reset_alert">Очистити інформацію про обсяг переданих даних?</string>
     <string name="throttle_current_usage">Передача даних в поточному періоді</string>
     <string name="reset_data_usage">Скидання об’єму даних</string>
-    <string name="fdn_contact_max">Контакт заповнений</string>
-    <string name="simContacts_emptyLoading_ex">Читання контактів з %s...</string>
     <string name="throttle_time_frame">Час передачі даних</string>
     <string name="throttle_rate">Швидкість передачі даних</string>
     <string name="throttle_help">Детальніше</string>
@@ -700,6 +698,8 @@
     <string name="pin2_invalid">Неправильний PIN2!</string>
     <string name="fdn_invalid_number">Номер в Дозволених номерах не оновлено: він не повинен містити більше 20 цифр</string>
     <string name="pin2_or_fdn_invalid">Список номерів фіксованого набору не оновлено. Вказаний неправильний PIN2-код або номер телефону</string>
+    <string name="fdn_contact_max">Контакт заповнений</string>
+    <string name="simContacts_emptyLoading_ex">Читання контактів з %s...</string>
     <string name="simContacts_emptyLoading">Зчитування з SIM-карти...</string>
     <string name="simContacts_empty">На SIM-карті немає контактів</string>
     <string name="simContacts_title">Виберіть контакти для імпорту</string>
