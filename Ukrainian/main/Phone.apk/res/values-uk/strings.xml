@@ -351,6 +351,11 @@
     <string name="network_id">Ім’я мережі (ID)</string>
     <string name="dialog_network_priority_title">Пріоритет</string>
     <string name="plmn_list_setting_add_plmn">Додати нову мережу PLMN</string>
+    <string name="international_dialing_title">Допомога для виконання міжнародного виклику</string>
+    <string name="international_dialing_select_country">Виявлено, що Ви здійснюєте міжнародний виклик. Виберіть місце призначення</string>
+    <string name="international_dialing_add_country_code" formatted="false">Виявлено, що Ви набираєте номер: %s. Додати код країни: ( %s)?</string>
+    <string name="international_dialing_add_country_code_and_area_code">Виявлено, що Ви набираєте номер: %1$s %2$s. Додати код країни і міста: ( %3$s)?</string>
+    <string name="international_dialing_change_country_prefix">Виявлено, що Ви набираєте номер з: %s. Змінити префікс міжнародного набору на: ’ ’?</string>
     <string name="international_dialing_add_country_code_input_area_code">Виявлено, що Ви набираєте номер: %s. Якщо це так, вкажіть код міста.</string>
     <string name="international_dialing_add_country_code_default_input_area_code" formatted="false">Виявлено, що Ви набираєте номер: %s. Якщо номер абонента не знаходиться в місті %s, введіть код міста.</string>
     <string name="international_dialing_need_area_code">Для здійснення виклику необхідно вказати код міста абонента</string>
@@ -1044,11 +1049,6 @@
     <string name="dualtalk_tip_accept_disconnect_current">Відповідь на цей виклик призведе до завершення поточного дзвінка</string>
     <string name="dualtalk_tip_accept_disconnect_outgoing">Відповідь на цей виклик призведе до завершення вихідного дзвінка</string>
     <string name="dualtalk_tip_accept_disconnect_incoming">Відповідь на цей виклик призведе до відхилення іншого вхідного виклику</string>
-    <string name="international_dialing_title">Допомога для виконання міжнародного виклику</string>
-    <string name="international_dialing_select_country">Виявлено, що Ви здійснюєте міжнародний виклик. Виберіть місце призначення</string>
-    <string name="international_dialing_add_country_code" formatted="false">Виявлено, що Ви набираєте номер: %s. Додати код країни: ( %s)?</string>
-    <string name="international_dialing_add_country_code_and_area_code">Виявлено, що Ви набираєте номер: %1$s %2$s. Додати код країни і міста: ( %3$s)?</string>
-    <string name="international_dialing_change_country_prefix">Виявлено, що Ви набираєте номер з: %s. Змінити префікс міжнародного набору на: ’ ’?</string>
     <string name="notification_dialing">Набір</string>
     <string name="default_notification_description">Мелодія за замовчуванням (%1$s)</string>
     <string name="slide_to_decline">Вліво для скасування</string>
