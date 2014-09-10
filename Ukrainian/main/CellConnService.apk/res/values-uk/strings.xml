@@ -45,20 +45,20 @@
 	<string name="confirm_roaming_for3Sims_msg">SIM-картка, яку ви збираєтеся використовувати, в роумінгу. Ви хочете продовжити?</string>
 	<string name="confirm_roaming_for3Sims_msg_uim">UIM-картка, яку ви збираєтеся використовувати, в роумінгу. Ви хочете продовжити?</string>
 	<string name="confirm_roaming_for3Sims_msg_card">Картка, яку ви збираєтеся використовувати, в роумінгу. Ви хочете продовжити?</string>
-	<string name="confirm_permit_roaming_fail_uim">Ви відключили це дія для UIM-картки в роумінгу</string>
-	<string name="confirm_permit_roaming_fail_card">Ви відключили це дія для картки у роумінгу</string>
-	<string name="confirm_sim_locked_message_uim">UIM-картка безповоротно заблокована</string>
-	<string name="confirm_sim_locked_message_card">Картка безповоротно заблокована</string>
-	<string name="button_yes">Так</string>
-	<string name="button_no">Ні</string>
 
 	<string name="confirm_radio_lbutton">Включити</string>
 	<string name="confirm_unlock_lbutton">Розблокувати</string>
 	<string name="confirm_unlock_fail">Операція скасована</string>
 	<string name="confirm_turnon_radio_fail">Операція скасована</string>
 	<string name="confirm_permit_roaming_fail">Ви відключили цю дію для SIM-картки в роумінгу</string>
+	<string name="confirm_permit_roaming_fail_uim">Ви відключили це дія для UIM-картки в роумінгу</string>
+	<string name="confirm_permit_roaming_fail_card">Ви відключили це дія для картки у роумінгу</string>
 	<string name="confirm_sim_locked_message">SIM-картка безповоротно заблокована</string>
+	<string name="confirm_sim_locked_message_uim">UIM-картка безповоротно заблокована</string>
+	<string name="confirm_sim_locked_message_card">Картка безповоротно заблокована</string>
 	<string name="confirm_slot_locked_message">Слот заблокований назавжди</string>
+	<string name="button_yes">Так</string>
+	<string name="button_no">Ні</string>
 	
 	
 </resources>
