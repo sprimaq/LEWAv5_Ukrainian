@@ -18,15 +18,15 @@
 
     <string name="data_usage_warning_body">Увага, за тарифним планом залишилося лише %s</string>
     <string name="global_actions_toggle_airplane_mode">У літаку</string>
-    <string name="global_action_power_off">Вимкнути</string>
+    <string name="global_action_power_off">Вимкнути телефон</string>
     <string name="global_action_reboot">Перезавантаження</string>
     <string name="global_action_screenshot">Скріншот</string>
     <string name="global_action_toggle_silent_mode">Без звуку</string>
-    <string name="reboot_progress">Перезавантаження...</string>
+    <string name="reboot_progress">Перезавантаження…</string>
     <string name="reboot_reboot">Перезавантаження</string>
     <string name="reboot_system">Перезавантаження системи</string>
     <string name="power_off">Вимикання</string>
-    <string name="shutdown_progress">Вимикається...</string>
+    <string name="shutdown_progress">Вимикається…</string>
     <string name="shutdown_confirm">Телефон буде вимкнено</string>
 
 
@@ -114,11 +114,11 @@
     <string name="lunar_er">два</string>
     <string name="lunar_san">три</string>
     <string name="lunar_si">чотири</string>
-    <string name="lunar_wu">п’ять</string>
+    <string name="lunar_wu">п\'ять</string>
     <string name="lunar_liu">шість</string>
     <string name="lunar_qi">сім</string>
     <string name="lunar_ba">вісім</string>
-    <string name="lunar_jiu">дев’ять</string>
+    <string name="lunar_jiu">дев\'ять</string>
     <string name="lunar_shi">десять</string>
     <string name="lunar_shi_yi">зимовий</string>
     <string name="lunar_shi_er">грудень</string>
