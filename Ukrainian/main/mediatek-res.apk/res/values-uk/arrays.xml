@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="bootup_mode">
-        <item>Дві SIM-карти</item>
+        <item>Дві SIM-картки</item>
         <item>SIM1</item>
         <item>SIM2</item>
     </string-array>
@@ -12,7 +12,7 @@
     </string-array>
     <string-array name="gprs_mode_2">
         <item>SIM2</item>
-        <item>Не включати передачу даних</item>
+        <item>Не вмикати передачу даних</item>
         <item>Скасувати</item>
     </string-array>
 </resources>
