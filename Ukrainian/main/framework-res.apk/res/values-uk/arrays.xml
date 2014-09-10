@@ -4,7 +4,7 @@
         <item>Особистий</item>
         <item>Робочий</item>
         <item>Інший</item>
-        <item>+...</item>
+        <item>+…</item>
     </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
@@ -19,7 +19,7 @@
     <string-array name="organizationTypes">
         <item>Робочий</item>
         <item>Інший</item>
-        <item>+...</item>
+        <item>+…</item>
     </string-array>
     <string-array name="phoneTypes">
         <item>Домашній</item>
@@ -29,19 +29,19 @@
         <item>Домашній факс</item>
         <item>Пейджер</item>
         <item>Інший</item>
-        <item>+...</item>
+        <item>+…</item>
     </string-array>
     <string-array name="postalAddressTypes">
         <item>Домашній</item>
         <item>Робочий</item>
         <item>Інший</item>
-        <item>+...</item>
+        <item>+…</item>
     </string-array>
     <string-array name="imAddressTypes">
         <item>Домашній</item>
         <item>Робочий</item>
         <item>Інше</item>
-        <item>+...</item>
+        <item>+…</item>
     </string-array>
     <array name="carrier_properties" />
 </resources>
