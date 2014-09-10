@@ -745,7 +745,7 @@
     <string name="card_title_incoming_call">Вхідний дзвінок</string>
     <string name="card_title_call_ended">Виклик завершено</string>
     <string name="card_title_on_hold">Чекає відповіді</string>
-    <string name="card_title_hanging_up">Завершення розмови</string>
+    <string name="card_title_hanging_up">Закінчення розмови</string>
     <string name="card_title_in_call">Вхідний дзвінок</string>
     <string name="card_title_my_phone_number">Мій номер: %s</string>
     <string name="notification_dialing">Набір</string>
