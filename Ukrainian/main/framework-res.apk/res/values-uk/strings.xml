@@ -22,7 +22,7 @@
     <string name="yes">ОК</string>
     <string name="dialog_alert_title">Увага</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Це відео не призначене для потокового відтворення на даному пристрої</string>
-    <string name="selectTextMode">Вибрати текст...</string>
+    <string name="selectTextMode">Вибрати текст…</string>
     <string name="status_bar_notification_info_overflow">999</string>
     <string name="config_ethernet_iface_regex">eth\\d</string>
     <string name="config_tether_apndata" />
@@ -117,8 +117,8 @@
     <string name="terabyteShort">ТБ</string>
     <string name="petabyteShort">ПБ</string>
     <string name="fileSizeSuffix">%1$s %2$s</string>
-    <string name="ellipsis">...</string>
-    <string name="ellipsis_two_dots">...</string>
+    <string name="ellipsis">…</string>
+    <string name="ellipsis_two_dots">…</string>
     <string name="mmiError">Неполадки підключення або невірний код MMI</string>
     <string name="mmiFdnError">Операція можлива тільки для дозволених номерів</string>
     <string name="serviceEnabled">Служба увімкнена</string>
@@ -223,7 +223,7 @@
     <string name="silent_mode_silent">Звук вимкнено</string>
     <string name="silent_mode_vibrate">Вібросигнал</string>
     <string name="silent_mode_ring">Звук увімкнено</string>
-    <string name="shutdown_progress">Вимикання...</string>
+    <string name="shutdown_progress">Вимикання…</string>
     <string name="shutdown_confirm">Пристрій буде вимкнено</string>
     <string name="shutdown_confirm_question">Вимкнути?</string>
     <string name="reboot_safemode_title">Перехід в безпечний режим</string>
@@ -776,7 +776,7 @@
     <string name="lockscreen_sim_puk_locked_message">SIM-карта заблокована за допомогою PUK-коду</string>
     <string name="lockscreen_sim_puk_locked_instructions">Ознайомтеся з посібником користувача або зв’яжіться зі службою підтримки</string>
     <string name="lockscreen_sim_locked_message">SIM-карта заблокована</string>
-    <string name="lockscreen_sim_unlock_progress_dialog_message">Розблокування SIM-карти...</string>
+    <string name="lockscreen_sim_unlock_progress_dialog_message">Розблокування SIM-карти…</string>
     <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Ви %d разів невірно вказали графічний ключ. 
 
 Повтор через %d секунд."</string>
@@ -802,7 +802,7 @@
     <string name="lockscreen_glogin_invalid_input">Невірне ім’я користувача або пароль</string>
     <string name="lockscreen_glogin_account_recovery_hint">\"Забули ім’я користувача або пароль?
 Перейдіть на сторінку \"<b>google.com/accounts/recovery</b>.</string>
-    <string name="lockscreen_glogin_checking_password">Перевірка...</string>
+    <string name="lockscreen_glogin_checking_password">Перевірка…</string>
     <string name="lockscreen_unlock_label">Розблокувати</string>
     <string name="lockscreen_sound_on_label">Увім. звук</string>
     <string name="lockscreen_sound_off_label">Вимк. звук</string>
@@ -986,7 +986,7 @@
     <string name="editTextMenuTitle">Операції з текстом</string>
     <string name="low_internal_storage_view_title">Закінчується вільне місце</string>
     <string name="low_internal_storage_view_text">Деякі системні функції можуть не працювати</string>
-    <string name="loading">Завантаження...</string>
+    <string name="loading">Завантаження…</string>
     <string name="capital_on">УВІМ</string>
     <string name="capital_off">ВИМК</string>
     <string name="whichApplication">Що використовувати?</string>
@@ -1023,10 +1023,10 @@
     <string name="screen_compat_mode_hint">Увімкнути цю функцію можна в меню \"Налаштування > Додатки > Завантажені\"</string>
     <string name="smv_application">Програма \"%1$s\" (процес: %2$s) порушила власну політику StrictMode</string>
     <string name="smv_process">Процес %1$s порушив власну політику StrictMode</string>
-    <string name="android_upgrading_title">Оновлення системи...</string>
+    <string name="android_upgrading_title">Оновлення системи…</string>
     <string name="android_upgrading_apk">Оптимізація додатків %1$d з %2$d</string>
     <string name="android_upgrading_starting_apps">Запуск додатків</string>
-    <string name="android_upgrading_complete">Закінчення завантаження...</string>
+    <string name="android_upgrading_complete">Закінчення завантаження…</string>
     <string name="heavy_weight_notification">Додаток %1$s запущено</string>
     <string name="heavy_weight_notification_detail">Натисніть, щоб перейти на додаток</string>
     <string name="heavy_weight_switcher_title">Перемикання між додатками</string>
@@ -1141,7 +1141,7 @@
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="candidates_style">&lt;u>варіанти&lt;/u></string>
     <string name="ext_media_checking_notification_title">Підготовка носія інформації</string>
-    <string name="ext_media_checking_notification_message">Перевірка помилок...</string>
+    <string name="ext_media_checking_notification_message">Перевірка помилок…</string>
     <string name="ext_media_nofs_notification_title">Порожній носій інформації</string>
     <string name="ext_media_nofs_notification_message">Носій інформації не містить даних, або його файлова система не підтримується</string>
     <string name="ext_media_unmountable_notification_title">Пошкоджено носій інформації</string>
@@ -1190,7 +1190,7 @@
     <string name="vpn_title_long">Мережа VPN активована додатком %s</string>
     <string name="vpn_text">Натисніть, щоб відкрити настройки</string>
     <string name="vpn_text_long">Мережа VPN підключена: %s. Натисніть, щоб відкрити налаштування</string>
-    <string name="vpn_lockdown_connecting">З’єднання...</string>
+    <string name="vpn_lockdown_connecting">З’єднання…</string>
     <string name="vpn_lockdown_connected">З’єднано</string>
     <string name="vpn_lockdown_error">Помилка</string>
     <string name="vpn_lockdown_reset">Натисніть, щоби скинути з’єднання</string>
@@ -1212,8 +1212,8 @@
     <string name="no_matches">Немає збігів</string>
     <string name="find_on_page">Знайти на сторінці</string>
     <string name="action_mode_done">Готово</string>
-    <string name="progress_unmounting">Відключення носія інформації...</string>
-    <string name="progress_erasing">Очищення носія інформації...</string>
+    <string name="progress_unmounting">Відключення носія інформації…</string>
+    <string name="progress_erasing">Очищення носія інформації…</string>
     <string name="format_error">Не вдалося очистити носій інформації</string>
     <string name="media_bad_removal">Носій інформації був витягнутий до вимкнення</string>
     <string name="media_checking">Виконується перевірка носія інформації</string>
@@ -1297,7 +1297,7 @@
     <string name="data_usage_wifi_limit_snoozed_title">Перевищено ліміт трафіку Wi-Fi</string>
     <string name="data_usage_limit_snoozed_body">Ліміт перевищено на %s.</string>
     <string name="data_usage_restricted_title">Фоновий режим обмежено</string>
-    <string name="data_usage_restricted_body">Зняти обмеження...</string>
+    <string name="data_usage_restricted_body">Зняти обмеження…</string>
     <string name="ssl_certificate">Сертифікат безпеки</string>
     <string name="ssl_certificate_is_valid">Цей сертифікат дійсний.</string>
     <string name="issued_to">Кому видано:</string>
@@ -1317,7 +1317,7 @@
     <string name="share_action_provider_share_with">Відкрити доступ</string>
     <string name="status_bar_device_locked">Пристрій заблоковано.</string>
     <string name="list_delimeter">", "</string>
-    <string name="sending">Відправка...</string>
+    <string name="sending">Відправка…</string>
     <string name="launchBrowserDefault">Запустити браузер?</string>
     <string name="SetupCallDefault">Відповісти?</string>
     <string name="activity_resolver_use_always">Завжди</string>
@@ -1330,8 +1330,8 @@
     <string name="bluetooth_a2dp_audio_route_name">Відтворення звуку через Bluetooth</string>
     <string name="media_route_chooser_grouping_done">Готово</string>
     <string name="media_route_button_content_description">Направляти потік мультимедіа</string>
-    <string name="media_route_status_scanning">Сканування...</string>
-    <string name="media_route_status_connecting">Підключення...</string>
+    <string name="media_route_status_scanning">Сканування…</string>
+    <string name="media_route_status_connecting">Підключення…</string>
     <string name="media_route_status_available">Доступно</string>
     <string name="media_route_status_not_available">Недоступно</string>
     <string name="display_manager_built_in_display_name">Вбудований екран</string>
@@ -1354,7 +1354,7 @@
     <string name="kg_puk_enter_puk_hint">SIM-карту заблоковано. Щоб продовжити, введіть PUK-код. За детальною інформацією зверніться до свого оператора зв’язку.</string>
     <string name="kg_puk_enter_pin_hint">Введіть бажаний PIN-код</string>
     <string name="kg_enter_confirm_pin_hint">Введіть PIN-код ще раз</string>
-    <string name="kg_sim_unlock_progress_dialog_message">Розблокування SIM-карти...</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Розблокування SIM-карти…</string>
     <string name="kg_password_wrong_pin_code">Невірний PIN-код.</string>
     <string name="kg_invalid_sim_pin_hint">Введіть PIN-код (від 4 до 8 цифр).</string>
     <string name="kg_invalid_sim_puk_hint">PUK-код повинен містити не менше 8 символів.</string>
@@ -1368,7 +1368,7 @@
     <string name="kg_login_invalid_input">Невірне ім’я користувача або пароль.</string>
     <string name="kg_login_account_recovery_hint">"Забули ім’я користувача чи пароль? 
 Перейдіть на сторінку "<b>google.com/accounts/recovery</b>.</string>
-    <string name="kg_login_checking_password">Перевірка даних...</string>
+    <string name="kg_login_checking_password">Перевірка даних…</string>
     <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Ви %d разів невірно вказали PIN-код. 
 
 Повтор за  %d секунд."</string>
