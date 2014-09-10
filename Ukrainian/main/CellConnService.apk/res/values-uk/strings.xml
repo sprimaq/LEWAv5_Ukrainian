@@ -45,7 +45,6 @@
 	<string name="confirm_roaming_for3Sims_msg">SIM-картка, яку ви збираєтеся використовувати, в роумінгу. Ви хочете продовжити?</string>
 	<string name="confirm_roaming_for3Sims_msg_uim">UIM-картка, яку ви збираєтеся використовувати, в роумінгу. Ви хочете продовжити?</string>
 	<string name="confirm_roaming_for3Sims_msg_card">Картка, яку ви збираєтеся використовувати, в роумінгу. Ви хочете продовжити?</string>
-
 	<string name="confirm_radio_lbutton">Включити</string>
 	<string name="confirm_unlock_lbutton">Розблокувати</string>
 	<string name="confirm_unlock_fail">Операція скасована</string>
@@ -59,6 +58,6 @@
 	<string name="confirm_slot_locked_message">Слот заблокований назавжди</string>
 	<string name="button_yes">Так</string>
 	<string name="button_no">Ні</string>
-	
+	<string name="confirm_disable_lbutton">заборонено</string> 	
 	
 </resources>
