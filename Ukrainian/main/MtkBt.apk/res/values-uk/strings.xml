@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="bt_bip_app_name">Bluetooth-передача</string>
-	<string name="bt_bipi_push_confirmation">Зображення Натисніть Підтвердження</string>
+	<string name="bt_bipi_push_confirmation">Image Push Confirmation</string>
 	<string name="bt_bipi_unsupported_format">"Кодування не підтримується приймачем. 
 Продовжити?"</string>
 	<string name="bt_bipi_push_confirmation_ok">Ок</string>
