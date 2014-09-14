@@ -10,5 +10,5 @@
     <string name="vis2_desc">Форма звуку відтворюваної мелодії</string>
     <string name="vis3_desc">Частотний спектр відтворнюваної мелодії</string>
     <string name="vis4_desc">Імітація аналогового волюметра</string>
-    <string name="vis5_desc">Показ всіх живих шпалер по черзі</string>
+    <string name="vis5_desc">Показ усіх живих шпалер по черзі</string>
 </resources>
