@@ -2,11 +2,11 @@
 <resources>
 	<string name="app_name">Блокнот</string>
 	<string name="live_folder_name">Примітки</string>
-	<string name="title_edit_title">Заголовок замітки:</string>
-	<string name="title_create">Нова замітка</string>
+	<string name="title_edit_title">Заголовок нотатка:</string>
+	<string name="title_create">Нова нотатка</string>
 	<string name="title_edit">Правка: %1$s</string>
 	<string name="title_notes_list">Примітки</string>
-	<string name="menu_add">Нова замітка</string>
+	<string name="menu_add">Нова нотатка</string>
 	<string name="menu_save">Зберегти</string>
 	<string name="menu_delete">Видалити</string>
 	<string name="menu_open">Відкрити</string>
