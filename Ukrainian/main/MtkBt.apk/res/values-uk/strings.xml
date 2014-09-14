@@ -378,7 +378,6 @@
 	<string name="bt_share_openfile_message_resource_not_found">Файл не знайдено: %1$s</string>
 	<string name="bt_share_openfile_confirm">Ок</string>
 	<string name="bt_oppc_push_toast_unknown_device">невідомий пристрій</string>
-
 	<string name="permlab_bluetoothWhitelist">Білий список Bluetooth</string>
 	<string name="permdesc_bluetoothWhitelist">Дозволяє додатком тимчасово додавати пристрій Bluetooth у білий список, що дозволяє відправку файлів без підтвердження</string>
 	<string name="permlab_handoverStatus">Отримання сервісної інформації Bluetooth</string>
@@ -398,6 +397,4 @@
 	<string name="bluetooth_pbap_server_auth_chall_message">Запит ідентифікації PBAP від %1$s</string>
 	<string name="bluetooth_pbap_server_authorize_decline">Заборонити</string>
 	<string name="bluetooth_pbap_server_authorize_alwaysallowed">Завжди дозволяти?</string>
-
-	
 </resources>
