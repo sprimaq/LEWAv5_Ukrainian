@@ -201,6 +201,11 @@
 	<string name="bluetooth_hid_unplug_confirm">Ви хочете від’єднати бездротовий пристрій %1$s?</string>
 	<string name="bluetooth_hid_auth_confirm">Ви хочете підтвердити запит від бездротового пристрою"% 1$s?</string>
 	<string name="bluetooth_hid_summary_disconnecting">Від’єднання...</string>
+
+
+
+
+
 	<string name="bluetooth_map_server_authorize_request_ticker">Запит авторизації Remote Message Access</string>
 	<string name="bluetooth_map_server_authorize_request_title">Запит авторизації Remote Message Access</string>
 	<string name="bluetooth_map_server_authorize_request_message">Виберіть, щоб дозволити з’єднання Remote Message Access</string>
@@ -246,10 +251,6 @@
 	<string name="bt_oppc_push_toast_unsupported_uri">Непідтримувану вміст: %1$s</string>
 	<string name="bt_opps_toast_storage_unavailable">Немає SD карти або не вистачає місця для прийому файлу</string>
 	<string name="bt_opps_push_toast_invalid_request">Невірний запит з віддаленого пристрою</string>
-	<string name="permlab_bluetoothWhitelist">Білий список Bluetooth</string>
-	<string name="permdesc_bluetoothWhitelist">Дозволяє додатком тимчасово додавати пристрій Bluetooth у білий список, що дозволяє відправку файлів без підтвердження</string>
-	<string name="permlab_handoverStatus">Отримання сервісної інформації Bluetooth</string>
-	<string name="permdesc_handoverStatus">Дозволяє отримувати сервісні повідомлення про статусеBluetooth</string>
 	<string name="bluetooth_pan_GN_authorize_confirm_title">Прийняти груповий Ad-hoc Network запит авторизації</string>
 	<string name="bluetooth_pan_NAP_authorize_confirm_title">Прийняти Network Access Points запит авторизації</string>
 	<string name="bluetooth_pan_GN_authorize_confirm">Ви хочете взяти Ad-hoc Network запит авторизації від %1$s?</string>
@@ -392,4 +393,10 @@
 	<string name="bluetooth_simap_server_sim_index_summary_sim3">SIM3</string>
 	<string name="bluetooth_simap_server_sim_index_summary_sim4">SIM4</string>
 	<string name="bt_oppc_push_toast_unknown_device">невідомий пристрій</string>
+
+	<string name="permlab_bluetoothWhitelist">Білий список Bluetooth</string>
+	<string name="permdesc_bluetoothWhitelist">Дозволяє додатком тимчасово додавати пристрій Bluetooth у білий список, що дозволяє відправку файлів без підтвердження</string>
+	<string name="permlab_handoverStatus">Отримання сервісної інформації Bluetooth</string>
+	<string name="permdesc_handoverStatus">Дозволяє отримувати сервісні повідомлення про статусеBluetooth</string>
+	
 </resources>
