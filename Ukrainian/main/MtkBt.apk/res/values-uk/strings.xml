@@ -353,6 +353,8 @@
 	<string name="bluetooth_simap_server_sim_index_title">Вибрати SIM</string>
 	<string name="bluetooth_simap_server_sim_index_summary_sim1">SIM1</string>
 	<string name="bluetooth_simap_server_sim_index_summary_sim2">SIM2</string>
+	<string name="bluetooth_simap_server_sim_index_summary_sim3">SIM3</string>
+	<string name="bluetooth_simap_server_sim_index_summary_sim4">SIM4</string>
 	<string name="app_label">Bluetooth</string>
 	<string name="app_description">Пакет профілю Bluetooth</string>
 	<string name="bt_base_activity_busy_message">Завантаження...</string>
@@ -375,8 +377,6 @@
 	<string name="bt_share_openfile_message_unsupported_type">Непідтримуваний тип файлу: %1$s</string>
 	<string name="bt_share_openfile_message_resource_not_found">Файл не знайдено: %1$s</string>
 	<string name="bt_share_openfile_confirm">Ок</string>
-	<string name="bluetooth_simap_server_sim_index_summary_sim3">SIM3</string>
-	<string name="bluetooth_simap_server_sim_index_summary_sim4">SIM4</string>
 	<string name="bt_oppc_push_toast_unknown_device">невідомий пристрій</string>
 
 	<string name="permlab_bluetoothWhitelist">Білий список Bluetooth</string>
