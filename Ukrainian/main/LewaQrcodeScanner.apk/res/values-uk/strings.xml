@@ -151,7 +151,7 @@
 	<string name="contact_new">Новий контакт</string>
 	<string name="contact_save">Додати до контакту</string>
 	<string name="fragment_result">Результат</string>
-	<string name="download_times">Завантаження: %s 次</string>
+	<string name="download_times">Завантаження: %s разів</string>
 	<string name="theme_author">Автор: %s</string>
 	<string name="theme_size">Розмір: %s</string>
 	<string name="theme_version">Версія: %s</string>
