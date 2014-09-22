@@ -1799,7 +1799,7 @@
     <string name="accessibility_script_injection_button_allow">Дозволити</string>
     <string name="accessibility_script_injection_button_disallow">Заборонити</string>
     <string name="accessibility_service_security_warning_title">Використовувати %1$s?</string>
-    <string name="accessibility_service_security_warning_summary">Служба% 1$s може зберігати будь-який текст, який вводиться, крім паролів. Зокрема, зберігаються особисті відомості, наприклад, номери кредитних карт. Крім того, можуть збиратися дані про використання телефону.</string>
+    <string name="accessibility_service_security_warning_summary">Служба %1$s може зберігати будь-який текст, який вводиться, крім паролів. Зокрема, зберігаються особисті відомості, наприклад, номери кредитних карт. Крім того, можуть збиратися дані про використання телефону.</string>
     <string name="accessibility_service_disable_warning_title">Вимкнути %1$s?</string>
     <string name="accessibility_service_disable_warning_summary">Щоб вимкнути %1$s, натисніть ОК.</string>
     <string name="accessibility_no_services_installed">Немає встановлених служб</string>
