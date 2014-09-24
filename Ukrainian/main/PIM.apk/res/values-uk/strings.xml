@@ -254,7 +254,7 @@
     <string name="import_from_sim">Імпортувати з SIM-картки</string>
     <string name="import_from_sdcard">Імпортувати з SD-картки</string>
     <string name="export_to_sdcard">Експортувати на SD-картку</string>
-    <string name="share_visible_contacts">Передати видимі контакти</string>
+    <string name="share_visible_contacts">Поділитись контактами</string>
     <string name="import_one_vcard_string">Імпорт одного файлу VCard</string>
     <string name="import_multiple_vcard_string">Імпорт декількох файлів vCard</string>
     <string name="import_all_vcard_string">Імпорт всіх файлів VCard</string>
@@ -652,7 +652,7 @@
     <string name="export_to_sim">Експорт на SIM-картку</string>
     <string name="import_from_sdcard_vcf">Імпорт Vcard зі сховища</string>
     <string name="import_from_sim_contacts">Імпорт контактів з SIM-картки</string>
-    <string name="export_to_sdcard_vcf">Експорт контактів у сховище у форматі Vcard</string>
+    <string name="export_to_sdcard_vcf">Експорт контактів до сховища у форматі Vcard</string>
     <string name="export_to_sim_contacts">Експорт контактів на SIM-картку</string>
     <string name="sim_contact_count">Зберігається %s контактів</string>
     <string name="sim_contact_residue_count">%s контактів можна імпортувати</string>
