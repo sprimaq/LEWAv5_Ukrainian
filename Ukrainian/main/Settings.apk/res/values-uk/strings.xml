@@ -1175,7 +1175,7 @@
     <string name="audio_record_proc_title">Шумозаглушення</string>
     <string name="volume_media_description">Мультимедіа</string>
     <string name="volume_ring_description">Мелодія і повідомлення</string>
-    <string name="volume_notification_description">Оповіщення</string>
+    <string name="volume_notification_description">Сповіщення</string>
     <string name="volume_alarm_description">Будильник</string>
     <string name="volume_ring_mute">Вимкнути дзвінок і повідомлення</string>
     <string name="volume_media_mute">Вимкнути музику і медіа</string>
@@ -1288,7 +1288,7 @@
     <string name="memory_available_read_only">Доступно (тільки читання)</string>
     <string name="memory_size">Загальний обсяг</string>
     <string name="memory_calculating_size">Йде підрахунок…</string>
-    <string name="memory_apps_usage">Програми</string>
+    <string name="memory_apps_usage">Додатки</string>
     <string name="memory_media_usage">Мультимедіа</string>
     <string name="memory_downloads_usage">Завантаження</string>
     <string name="memory_dcim_usage">Зображення та відео</string>
@@ -1495,7 +1495,7 @@
     <string name="activity_not_found">Додаток не встановлений</string>
     <string name="manageapplications_settings_title">Керування додатками</string>
     <string name="manageapplications_settings_summary">Керування встановленими програмами та їх видалення</string>
-    <string name="applications_settings">Програми</string>
+    <string name="applications_settings">Додатки</string>
     <string name="applications_settings_summary">Керування додатками, створення ярликів швидкого запуску</string>
     <string name="applications_settings_header">Налаштування програми</string>
     <string name="install_applications">Невідомі джерела</string>
@@ -1607,7 +1607,7 @@
     <string name="app_special_disable_dlg_title">Вимкнути?</string>
     <string name="app_special_disable_dlg_text">Якщо вимкнути вбудований додаток, інші додатки можуть працювати неправильно. Окрім того, будуть видалені всі дані.</string>
     <string name="app_disable_notifications_dlg_title">Вимкнути повідомлення?</string>
-    <string name="app_disable_notifications_dlg_text">Якщо в налаштуваннях цього додатка вимкнені повідомлення, ви можете пропустити важливі оповіщення та оновлення.</string>
+    <string name="app_disable_notifications_dlg_text">Якщо в налаштуваннях цього додатка вимкнені повідомлення, ви можете пропустити важливі сповіщення та оновлення.</string>
     <string name="storageuse_settings_title">Використання сховища</string>
     <string name="storageuse_settings_summary">Перегляд використання сховища додатками</string>
     <string name="runningservices_settings_title">Працюючі служби</string>
@@ -1703,7 +1703,7 @@
     <string name="quick_launch_clear_dialog_message">Ярлик для %1$s (%2$s) буде видалений</string>
     <string name="quick_launch_clear_ok_button">ОК</string>
     <string name="quick_launch_clear_cancel_button">Скасувати</string>
-    <string name="quick_launch_display_mode_applications">Програми</string>
+    <string name="quick_launch_display_mode_applications">Додатки</string>
     <string name="quick_launch_display_mode_shortcuts">Ярлики</string>
     <string name="input_methods_settings_title">Введення тексту</string>
     <string name="input_method">Спосіб введення</string>
@@ -2132,7 +2132,7 @@
     <string name="transition_animation_scale_title">Шкала анімації переходів</string>
     <string name="animator_duration_scale_title">Швидкість анімації</string>
     <string name="overlay_display_devices_title">Емуляція додаткових екранів</string>
-    <string name="debug_applications_category">Програми</string>
+    <string name="debug_applications_category">Додатки</string>
     <string name="immediately_destroy_activities">Не зберігати дії</string>
     <string name="immediately_destroy_activities_summary">Знищувати всі дії при виході користувача</string>
     <string name="app_process_limit_title">Обмеження фонових процесів</string>
@@ -2337,7 +2337,7 @@
     <string name="ringvolume_settings_title">Мелодії</string>
     <string name="voice_call_ringtone_title">Мелодія дзвінку</string>
     <string name="sms_call_ringtone_title">SMS/MMS</string>
-    <string name="status_bar_title">Панель оповіщень</string>
+    <string name="status_bar_title">Панель сповіщень</string>
     <string name="haptic_feedback_enable_summary">Вібрація при натисканні екранних клавіш</string>
     <string name="key_label">Клавіши</string>
     <string name="keyboard_lights_title">Підсвічування клавіш</string>
@@ -2427,7 +2427,7 @@
     <string name="fast_mode">Швидкий режим</string>
     <string name="fast_mode_title">Швидкий виклик/SMS</string>
     <string name="fast_mode_summary">Інтелектуальний швидкий набір та відправлення повідомлень</string>
-    <string name="ring_title">Виклик (дзвінок, повідомлення, оповіщення)</string>
+    <string name="ring_title">Виклик (дзвінок, повідомлення, сповіщення)</string>
     <string name="voice_call_alarm_description">Виклик (голосовий виклик)</string>
     <string name="media_volume_description">Мультимедіа (музика, відео, ігри тощо)</string>
     <string name="system_volume_description">Система (фото, скріншоти, натискання клавіш)</string>
@@ -2633,11 +2633,11 @@
     <string name="led_frequence_summary">Частота блимання</string>
     <string name="led_pulse_summary">Блимати світлодіодом якщо є новиі повідомлення</string>
     <string name="breathing_light_freq_title">Частота блимання</string>
-    <string name="led_settings_summary">Керування частотою блимання світлодіоду для кращого розпізнавання оповіщення</string>
-    <string name="notification_led_color_titel">Колір для оповіщення</string>
+    <string name="led_settings_summary">Керування частотою блимання світлодіоду для кращого розпізнавання сповіщень</string>
+    <string name="notification_led_color_titel">Колір для сповіщення</string>
     <string name="incoming_call_led_color_titel">Колір для вхідного виклику</string>
     <string name="mms_led_color_titel">Колір для SMS</string>
-    <string name="notification_led_freq_title">Частота блимання для оповіщення</string>
+    <string name="notification_led_freq_title">Частота блимання для сповіщення</string>
     <string name="incoming_call_led_freq_title">Частота блимання для вхідного виклику</string>
     <string name="mms_led_freq_title">Частота блимання для SMS</string>
     <string name="day">1 день</string>
