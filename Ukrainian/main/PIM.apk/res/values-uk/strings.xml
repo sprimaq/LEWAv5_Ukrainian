@@ -940,7 +940,7 @@
     <string name="view_message_details">Подробиці</string>
     <string name="view_delivery_report">Переглянути звіт</string>
     <string name="delete_message">Видалити</string>
-    <string name="expire_on">Термін закінчується: %s</string>
+    <string name="expire_on">Повідомлення застаріє: %s</string>
     <string name="kilobyte">КБ</string>
     <string name="undelivered_msg_dialog_title">Недоставлене повідомлення</string>
     <string name="undelivered_msg_dialog_body">"Неможливо надіслати повідомлення. 
