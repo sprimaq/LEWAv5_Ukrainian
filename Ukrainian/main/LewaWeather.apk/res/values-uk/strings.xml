@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Погода</string>
+    <string name="app_name_weather">Погода</string>
     <string name="settings">Налаштування</string>
     <string name="temp_settings">Налаштування температури</string>
     <string name="warn">Нагадувати</string>
@@ -45,11 +45,11 @@
     <string name="air_publish">Одиниця вимірювання: μг/м³  Опубліковано:</string>
     <string name="unknown">Невідомо</string>
     <string name="entercity">Введіть назву міста</string>
-    <string name="hot_cities">Популярні міста</string>
-    <string name="contacts_cities">Дружні міста</string>
+    <string name="hot_cities">ТОП-міста</string>
+    <string name="contacts_cities">Міста друзів</string>
     <string name="search_cities">Знайти місто</string>
     <string name="auto_location">Визначення місцезнаходження</string>
-    <string name="no_net">Сеть недоступна</string>
+    <string name="no_net">Мережа недоступна</string>
     <string name="location_wait">Визначається ваше місцезнаходження…</string>
     <string name="locate_fail">Місцезнаходження не визначене</string>
     <string name="sudden_weather_alert">Оповіщати про різку зміну погоди</string>
