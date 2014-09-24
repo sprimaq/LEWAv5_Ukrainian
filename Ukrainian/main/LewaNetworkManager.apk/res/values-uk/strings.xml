@@ -111,7 +111,7 @@
 	<string name="data_plan_set_message">Трафік 2G/3G понад 1 МБ. Якщо у Вас не передбачена передача даних за тарифним планом, це може призвести до додаткових витрат. Рекомендовано розірвати з’єднання або встановити тарифний план</string>
 	<string name="data_plan_button_set">Встановити тарифний план</string>
 	<string name="data_plan_button_close">Пряме закриття (%d)</string>
-	<string name="usagedata_setting">Трафік в повідомленнях</string>
+	<string name="usagedata_setting">Трафік у панелі сповіщень</string>
 	<string name="netspeed_setting">Швидкість мережі</string>
 	<string name="daily_usage_warning_title">Денне попередження</string>
 	<string name="daily_usage_warning_message">Сьогодні трафік 2G/3G склав %1$s, це більше за денний ліміт. Рекомендується перевірити і налаштувати місячний тарифний план</string>
