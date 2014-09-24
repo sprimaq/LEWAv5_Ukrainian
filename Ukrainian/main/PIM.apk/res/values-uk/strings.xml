@@ -738,7 +738,7 @@
     <string name="prompt_contact_dual_control_1">Натисніть та перетягуйте вліво</string>
     <string name="prompt_contact_dual_control_2">Переключитися на іншу SIM-картку</string>
     
-    <string name="dialpad_empty_text">Список дзвінків порожній</string>
+    <string name="dialpad_empty_text">Нічого немає</string>
     <string name="group_member">Члени групи</string>
     <string name="no_visible_groups">У Вас немає видимих груп</string>
     <string name="no_valid_number_in_group">У цій групі немає контакту з допустимим номером телефону</string>
