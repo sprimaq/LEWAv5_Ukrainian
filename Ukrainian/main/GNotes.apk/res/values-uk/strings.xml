@@ -1,54 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Привіт!</string>
     <string name="app_name">GNotes</string>
-    <string name="local_storage_provider_external_label">Зовнішнє сховище (SD-картка)</string>
-    <string name="local_storage_provider_internal_label">"Внутрішня пам'ять"</string>
-    <string name="local_storage_provider_samsunggalaxy_label">%1$s додаткове внутрішнє сховище</string>
-    <string name="local_storage_provider_label">Розташування сховища</string>
-    <string name="abs__action_bar_home_description">Додому</string>
-    <string name="abs__action_bar_up_description">Догори</string>
-    <string name="abs__action_menu_overflow_description">Ще</string>
-    <string name="abs__action_mode_done">Готово</string>
-    <string name="abs__activity_chooser_view_see_all">Переглянути все...</string>
-    <string name="abs__activity_chooser_view_dialog_title_default">Вибір дії</string>
-    <string name="abs__share_action_provider_share_with">Відправити…</string>
-    <string name="abs__activitychooserview_choose_application">Обрати додаток</string>
-    <string name="abs__shareactionprovider_share_with">Відправити</string>
-    <string name="abs__shareactionprovider_share_with_application">Відправити до %s</string>
-    <string name="abs__searchview_description_search">Пошук</string>
-    <string name="abs__searchview_description_query">Запит</string>
-    <string name="abs__searchview_description_clear">Очистити</string>
-    <string name="abs__searchview_description_submit">Відправити запит</string>
-    <string name="abs__searchview_description_voice">Голосовий пошук</string>
-    <string name="ga_trackingId">UA-33394687-2</string>
     <string name="preferences_default_theme">0</string>
-    <string name="com.crashlytics.android.build_id">8ce0c121-3ce6-499f-a25b-ac485e22b8e2</string>
     <string name="support_email">mailto:support%2Bandroid-VERSIONCODE@gnotes.me</string>
-    <string name="gnotes_me_link"><a href="https://gnotes.me">https://gnotes.me</a></string>
-    <string name="sbj_china_link"><a href="https://www.suibiji.com">https://www.suibiji.com</a></string>
-    <string name="forget_password_link_gnotes">https://gnotes.me/sign/requestRestPassword?username=</string>
-    <string name="forget_password_link_sbj">https://www.suibiji.com/sign/requestRestPassword?username=</string>
-    <string name="preferences_help_url_gnotes">https://help.gnotes.me/</string>
-    <string name="preferences_help_url_sbj">https://help.suibiji.com/</string>
-    <string name="gnotes_follow_url_gnotes">https://plus.google.com/u/0/106069384073628672405/</string>
-    <string name="gnotes_follow_url_sbj">http://weibo.com/gnotes</string>
-    <string name="ticktick_link">https://play.google.com/store/apps/details?id=com.ticktick.task</string>
-    <string name="ex_email_unable_get_folder_list">Не вдалося отримати перелік тек.</string>
-    <string name="ex_email_unable_get_folder">Не вдалося отримати префікс IMAP</string>
-    <string name="ex_email_fetch_messages_error">Помилка</string>
-    <string name="ex_email_add_notes_error">Помилка додавання нотаток</string>
-    <string name="ex_email_del_notes_error">Помилка видалення нотаток</string>
-    <string name="ex_email_update_notes_error">Помилка оновлення нотаток</string>
-    <string name="ex_email_get_folder_failed">"Помилка з'єднання"</string>
-    <string name="ex_email_login_failed">Помилка входу</string>
-    <string name="ex_sbj_400">400 Bad Request</string>
-    <string name="ex_sbj_408">408 Request Timeout</string>
-    <string name="ex_sbj_500">500 Server Error</string>
-    <string name="ex_sbj_504">504 Gateway Timeout</string>
-    <string name="ex_sbj_connect_service_error">Помилка підключення</string>
-    <string name="ex_sbj_network_error">Помилка мережі</string>
-    <string name="search_hint">Пошукк нотаток</string>
+    <string name="search_hint">Пошук нотаток</string>
     <string name="search_result_title">Результат пошуку</string>
     <string name="delete">Видалити</string>
     <string name="reminder">Нагадування</string>
