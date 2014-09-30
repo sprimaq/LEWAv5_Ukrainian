@@ -75,8 +75,7 @@
     <string name="sync_remind_btn_ok">OK</string>
     <string name="sync_remind_btn_cancle">Скасувати</string>
     <string name="wifi_remind_title">Синхронізація лише по Wi-Fi</string>
-    <string name="wifi_remind_message">"Ви обрали синхронізацію нотаток лише по Wi-Fi.
-Змінити налатування?"</string>
+    <string name="wifi_remind_message">"Ви обрали синхронізацію нотаток лише по Wi-Fi. Змінити налатування?"</string>
     <string name="wifi_remind_btn_ok">Так</string>
     <string name="wifi_remind_btn_cancle">Ні</string>
     <string name="sort_by">Сортування</string>
@@ -123,6 +122,7 @@
     <string name="file_info">Докладно:</string>
     <string name="file_folder">Тека</string>
     <string name="file_file">Файл</string>
+    <string name="ok">OK</string>
     <string name="menu_filebrowser_home">Додому</string>
     <string name="menu_filebrowser_refresh">Оновити</string>
     <string name="menu_filebrowser_exit">Вихід</string>
@@ -243,10 +243,8 @@
     <string name="title_bar_attach">Файл</string>
     <string name="gmail_needs_connecting">Натисніть для підключення до Вашого облікового запису Gmail.</string>
     <string name="ui_connected_label">Обліковий запис</string>
-    <string name="ui_authen_success_content_sbj">Ваши нотатки будет синхронізовано з хмарним сховищем, перегляньте їх у web:</string>
     <string name="server_needs_connecting">Синхронізація даних з GNotes</string>
     <string name="server_account_label">Обліковий запис GNotes</string>
-    <string name="account_empty_setup_des_gnotes">Авторизуйтесь для синхронізації нотаток.</string>
     <string name="title_account_gnotes">Обліковий запис GNotes</string>
     <string name="smmary_sync_server">Синхронізація з обліковим записом GNotes</string>
     <string name="server_step_second">"З'єднання…"</string>
@@ -261,7 +259,6 @@
     <string name="message_edit_conflict">Конфлікт редагування</string>
     <string name="detail_more_cling_title">Перетягування</string>
     <string name="detail_more_cling_about">Переміщуйте значки перетягуванням</string>
-    <string name="ui_date_migrate_message">Переміщення нотаток з %1$s до облікового запису GNotes.</string>
     <string name="notification_recording_summary">Торкніться для подробиць</string>
     <string name="notification_warning">Бракує місця (менш ніж %d хвилин)…</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
@@ -307,192 +304,4 @@
     <string name="sync_options_summary">Синхронізація вручну, розмір зображень…</string>
     <string name="db_backup_restore_title">Відновлення даних</string>
     <string name="db_backup_restore_success">Дані відновлено.</string>
-    <string name="dialog_relogin">Вхід</string>
-    <string name="g_upgrade">Оновлення</string>
-    <string name="dialog_upgrade_content">Версія застаріла, встановіть оновлення.</string>
-    <string name="upgrade_url">https://market.android.com/details?id=org.dayup.gnotes</string>
-    <string name="account_index_title">Обліковий запис</string>
-    <string name="account_email_title">Обліковий запис Email</string>
-    <string name="account_email_xoauth_hint">XOAuth доступне лише для Gmail та Google Apps Mail</string>
-    <string name="account_email_plain_hint">Увійдіть через Gmail:</string>
-    <string name="account_info_title">Інформація про обліковий запис</string>
-    <string name="account_info_account">Обліковий запис</string>
-    <string name="account_info_sign_out">Вийти</string>
-    <string name="account_index_email">Email</string>
-    <string name="account_index_email_summary">Синхронізувати з обліковим записом email</string>
-    <string name="btn_account_sign_up">Реєстрація</string>
-    <string name="query_invitation_code_failed">не знайдений код запрошення.</string>
-    <string name="forget_password_text"><a href="">Забули пароль?</a></string>
-    <string name="register_failed">Помилка реєстрації</string>
-    <string name="register_gnotes_title">Реєстрація облікового запису GNotes</string>
-    <string name="ui_login_username_label">"Ім'я користувача</string>
-    <string name="dialog_no_invatecode_message_gnotes">Даруйте, сьогодні реєстрації закінчились, спробуйте завтра, або отримайте код запрошення через наш Google+</string>
-    <string name="dialog_no_invatecode_message_sbj">Даруйте, сьогодні реєстрації закінчились, спробуйте завтра, або отримайте код запрошення через наш weibo (http://weibo.com/gnotes).</string>
-    <string name="g_follow">Перейти</string>
-    <string name="singin_out_message">"Після виходу нотатки та теки будуть недоступні, щоб побачити їх знову, необхідно буде увійти до облікового запису.
-Бажаєте вийти?"</string>
-    <string name="ui_register_username_label">"Ім'я користувача: Ваш Email"</string>
-    <string name="ui_register_password_label">Пароль: 6~20 символів</string>
-    <string name="show_passwd">Показати пароль</string>
-    <string name="sbj_account_sign_up"><a href="">Реєстрація</a></string>
-    <string name="register_remind_text">Переконайтесь що email доступний. Це єдиний шлях відновлення паролю.</string>
-    <string name="summary_account_info_email">Обліковий запис Email</string>
-    <string name="preferences_about_title">Про додаток</string>
-    <string name="preferences_about_summary">Версія, оновлення, відгук…</string>
-    <string name="preferences_check_update">Перевіряння на оновлення</string>
-    <string name="preferences_check_update_summary">Версія:</string>
-    <string name="check_update_waitting_msg">Перевірка оновлення…</string>
-    <string name="check_update_needupdate_msg">"Поточна версія %1$s, остання %2$s.
-Оновити?"</string>
-    <string name="check_update_btn_update">Оновити</string>
-    <string name="check_update_already_new">Встановлено останню вірсію.</string>
-    <string name="check_update_btn_confirm">Підтвердити</string>
-    <string name="check_update_network_error">Помилка мережі, спробуйте пізніше.</string>
-    <string name="email_format_error">Введіть коректний email</string>
-    <string name="toast_downloading">Завантаження файлу, очікуйте</string>
-    <string name="dialog_download_content">Размір файлу понад 2MB. Бажаєте завантажити?</string>
-    <string name="btn_dialog_download">Завантаження</string>
-    <string name="title_dialog_download">Завантаження вкладення</string>
-    <string name="sharelist_msg_empty">Можна поділитись нотаткою з друзями.</string>
-    <string name="message_compose_error_invalid_email">Адреси email невірні</string>
-    <string name="message_compose_error_no_recipients">Необхідно додати отримувача</string>
-    <string name="share_input_hint">Введіть email</string>
-    <string name="menu_send">Відправити</string>
-    <string name="chips_waiting_for_directory_result">Очікую ще контактів</string>
-    <string name="g_you">Я</string>
-    <string name="g_owner">Власник</string>
-    <string name="dialog_remove_share_title">Видалення доступу</string>
-    <string name="dialog_reomve_share_message">"Після видалення себе зі списку доступу нотатка видалиться з облікового запису.
-Видалити?"</string>
-    <string name="dialog_btn_confirm">Підтвердити</string>
-    <string name="share_note_unavailable">Нотатка недоступна</string>
-    <string name="check_share_failed_gnotes">Помилка з\'єднання з сервером. Повторіть спробу або відправте нотатку через <a href="https://gnotes.me">https://gnotes.me</a></string>
-    <string name="check_share_failed_sbj">Помилка з\'єднання з сервером. Повторіть спробу або відправте нотатку через <a href="https://www.suibiji.com">https://www.suibiji.com</a></string>
-    <string name="g_retry">Повтор</string>
-    <string name="toast_share_owner_remove">Неможливо видалити власника</string>
-    <string name="toast_share_sync_failed">ПОмилка синхронізації, спробуйте ще раз</string>
-    <string name="sbj_registing">"З'єднання…"</string>
-    <string name="sbj_Linking_server">"З'єднання…"</string>
-    <string name="g_loading">Завантаження…</string>
-    <string name="folder_list_edit_title">Перелік тек</string>
-    <string name="folder_label_share">Відправити</string>
-    <string name="folder_edit_title">Змінити теку</string>
-    <string name="folder_edit_lock">Блокування</string>
-    <string name="folder_edit_lock_summary">Блокування теки графічним ключем або PIN-кодом</string>
-    <string name="folder_set_default_summary">Тека для нотаток, створених у віджеті</string>
-    <string name="toast_token_timeout">Помилка авторизації, спробуйте ще раз.</string>
-    <string name="upgrade_url_gnotes">https://market.android.com/details?id=org.dayup.gnotes</string>
-    <string name="g_gnotes">GNotes</string>
-    <string name="account_info_account_free">Безкоштовний обліковий запис</string>
-    <string name="premium_user_dialog_title">Лише для преміум-користувачів</string>
-    <string name="premium_user_dialog_message_cn">Необхіна авторизація у GNotes(www.suibiji.com).</string>
-    <string name="premium_user_dialog_message_other">Необхіна авторизація у GNotes(www.gnotes.me).</string>
-    <string name="premium_user_dialog_buy_key">Придбати ключ</string>
-    <string name="premium_user_dialog_switch_account">Змінити обліковий запис</string>
-    <string name="premium_user_dialog_cancel">Скасувати</string>
-    <string name="premium_user_dialog_sign_in">Вхід</string>
-    <string name="account_info_switch">Переключення GNotes</string>
-    <string name="account_info_switch_summary_sbj">Синхронізуйтесь з хмарою GNotes, відвідайте https://suibiji.com для перегляду або редагування нотаток.</string>
-    <string name="account_info_switch_summary_gnotes">Синхронізуйтесь з хмарою GNotes, відвідайте https://gnotes.me для перегляду або редагування нотаток.</string>
-    <string name="account_info_signout_summary_sbj">Вийти або змінити обліковий запис</string>
-    <string name="account_info_signout_summary_email">Вихід</string>
-    <string name="g_email_account">Обліковий запис Email</string>
-    <string name="book_name_too_long">Не більше 20 символів</string>
-    <string name="detail_created_time">Час створення</string>
-    <string name="remind_set_timeout">Нагадування застаріло</string>
-    <string name="file_not_uplaod">Файл більше за 2M, не буде вивантажений</string>
-    <string name="file_not_upload_title">Файл не вивантажено</string>
-    <string name="file_not_upload_message">Файл більше за 2M, не буде вивантажений.</string>
-    <string name="share_guide_describe">Ви можете запросити людей до співробітництва, додавши їх email. Видалення контакту з листу припинить відправлення йому нотаток.</string>
-    <string name="detail_set_reminder">Встановити нагадуваня</string>
-    <string name="editor_day_ago">" днів тому"</string>
-    <string name="editor_days_ago">" днів тому"</string>
-    <string name="editor_tomorrow">сьогодні</string>
-    <string name="editor_day_left">завтра</string>
-    <string name="editor_days_left">" днів лишилось"</string>
-    <string name="list_title_new_note">Нова нотатка</string>
-    <string name="list_title_new_checklist">Новий список</string>
-    <string name="share_limit_no_play">Безкоштовний обліковий запис дозволяє поділитись лише з одним співробітником</string>
-    <string name="share_limit_played">Ви можете надіслати нотатку лише 10 співробітникам</string>
-    <string name="contact_not_exist">Контакт не існує</string>
-    <string name="toast_attach_over_limit">Можливо не більше за 99 вкладень</string>
-    <string name="toast_item_over_limit">Можливо не більше за 99 пунктів</string>
-    <string name="note_paint_by_widget">Замальовку додано</string>
-    <string name="note_handwrite_by_widget">Рукопис додано</string>
-    <string name="file_type_not_support_message">Тип файлу не підтримується, не буде вивантажений.</string>
-    <string name="checklist_item_over_length">Перевищено довжину пункту списку</string>
-    <string name="no_permission_read_profile">Відсутній доступ до перегляду профілю</string>
-    <string name="remind_sound_silent">Без звуку</string>
-    <string name="reminder_missed_single_title">Пропущено 1 нагадування</string>
-    <string name="reminder_missed_some_title">Пропущено %d нагадувань</string>
-    <string name="datepicker_btn_next_week">Наст. тиждень</string>
-    <string name="datepicker_btn_tomorrow">Завтра</string>
-    <string name="datepicker_btn_today">Сьогодні</string>
-    <string name="datepicker_btn_repeat">ПОВТОР</string>
-    <string name="calendar_no_date">Немає дати</string>
-    <string name="ca_no_reminder">Немає нагадування</string>
-    <string name="g_am">AM</string>
-    <string name="g_pm">PM</string>
-    <string name="save">Зберегти</string>
-    <string name="file_save_as_success">Файл збережено до SD-картки</string>
-    <string name="disimss">Приховати</string>
-    <string name="syncing_info_stc">Завантаження з серверу</string>
-    <string name="syncing_info_cts">Вивантаження на сервер</string>
-    <string name="syncing_info_download_att">Завантаження вкладення з серверу</string>
-    <string name="syncing_info_upload_att">Вивантаження вкладення на сервер</string>
-    <string name="syncing_info_end">Синхронізацію виконано</string>
-    <string name="verify_failed">Помилка</string>
-    <string name="need_account_dialog_title">Встановлення блокування</string>
-    <string name="need_account_dialog_content">Для отримання даних назад, якщо Ви забули пароль, налаштуйте обліковий запис на використання функції блокування.</string>
-    <string name="reset_lock">Скидання блокування</string>
-    <string name="reset_lock_content">"Авторизуйтесь в цьому обліковому записі
-%s
-для скидання блокування."</string>
-    <string name="reset_success">Вдало</string>
-    <string name="lock_and_exit">Блокування &amp; вихід</string>
-    <string name="contact_not_found">Додаток з контактами не знайдено</string>
-    <string name="menu_find">Пошук</string>
-    <string name="preferences_calendar_fow">Перший день тижня</string>
-    <string name="action_mode_select">%1$s вибрано</string>
-    <string name="drag_notes">Нотатки</string>
-    <string name="account_info_last_sync">Остання синхронізація</string>
-    <string name="account_info_never_synced">Не синхронізувалося</string>
-    <string name="shortcuts_config_title">Ярлики GNotes</string>
-    <string name="reminder_dialog_dismiss">Приховати вікно</string>
-    <string name="add_attach_photo_success">Зображення додано</string>
-    <string name="add_attach_camera_success">Фото додано</string>
-    <string name="add_attach_video_success">Відео додано</string>
-    <string name="add_attach_audio_success">Аудіо додано</string>
-    <string name="add_attach_file_success">Файл додано</string>
-    <string name="mail_too_large">Деякі листи занадто велики для завантаження.</string>
-    <string name="mail_too_large_with_title">Лист з темою \"%s\"занадто великий для завантаження.</string>
-    <string name="oauth_loading">Завантаження…</string>
-    <string name="oauth2_reauth_title">Авторизація</string>
-    <string name="oauth2_reauth_message">Авторизацію GNotes змінено на рекомендовану Google, необхідно перезайти.</string>
-    <string name="scroll_widget_name">Віджет GNotes що прокручується</string>
-    <string name="scroll_widget_not_current_user">Користувача змінено</string>
-    <string name="scroll_widget_empty_text">Немає нотаток</string>
-    <string name="scroll_widget_config_title">Оберіть теку</string>
-    <string name="premium_user_dialog_message_buy">Придбайте ключ для отримання цієї функції</string>
-    <string name="google_play_not_find">Google Play не знайдено.</string>
-    <string name="toast_file_not_exist">Файл не знайдено</string>
-    <string name="promotion_app_title">Ще додатки</string>
-    <string name="menu_detail">Деталі</string>
-    <string name="detail_title">Деталі</string>
-    <string name="detail_msg">"К-ть слів:
-%1$d
-Змінено:
-%2$s
-Створено:
-%3$s"</string>
-    <string name="toast_no_item_selected">Нотатку не обрано</string>
-    <string name="toast_no_storage">Бракує місця на пристрої</string>
-    <string name="dialog_title_no_storage">Сховище заповнене</string>
-    <string name="dialog_message_no_storage">Бракує місця для створення нотатки.</string>
-    <string name="toast_low_storage_save">Бракує місця для збереження нотаток.</string>
-    <string name="toast_low_storage_add_attach">Бракує місця для прикріплення файлів.</string>
-    <string name="more_repeat_reminder"><a href="">Повторити нагадування?</a></string>
-    <string name="dialog_title_more_repeat_reminder">Повтор нагадування</string>
-    <string name="dialog_message_more_repeat_reminder">TickTick - це наш новий додаток, що дозволяє встановлювати повторення нагадування. Також можна зв\'язати нагадування з місцезнаходженням.</string>
-    <string name="dialog_btn_more_repeat_reminder">Встановити зараз</string>
 </resources>
