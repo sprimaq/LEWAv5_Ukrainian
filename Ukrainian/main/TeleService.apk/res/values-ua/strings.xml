@@ -732,7 +732,7 @@
     <string name="onscreenMuteText">"Вимкн. мікр."</string>
     <string name="onscreenAddCallText">"+ виклик"</string>
     <string name="onscreenMergeCallsText">"Об'єднати"</string>
-    <string name="onscreenSwapCallsText">"Переклад виклику"</string>
+    <string name="onscreenSwapCallsText">"Переведення виклику"</string>
     <string name="onscreenManageCallsText">Управління викликами</string>
     <string name="onscreenManageConferenceText">Управління конференцією</string>
     <string name="onscreenAudioText">"Динамік"</string>
