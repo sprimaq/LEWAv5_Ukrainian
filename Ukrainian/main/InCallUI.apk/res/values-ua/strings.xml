@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="storage_withsd">Недостатньо місця на внутрішньому сховище. Звільніть небагато місця або змініть пам'ять за замовчуванням</string>
+    <string name="storage_withsd">Недостатньо місця на внутрішньому сховище. Звільніть небагато місця або змініть пам\'ять за замовчуванням</string>
     <string name="storage_withoutsd">Недостатньо місця на внутрішньому сховище. Звільніть небагато місця або вставте SD-картrу</string>
-    <string name="storage_sd">Недостатньо місця на SD-картwі. Звільніть небагато місця або змініть пам'ять за замовчуванням</string>
+    <string name="storage_sd">Недостатньо місця на SD-картwі. Звільніть небагато місця або змініть пам\'ять за замовчуванням</string>
     <string name="onscreenHangupAll">Покласти всі телефонні трубки</string>
     <string name="onscreenHangupHolding">Утримання режиму покладеної трубки</string>
     <string name="onscreenHangupActiveAndAnswerWaiting">Режим покладеної трубки активний, очікування відповіді</string>
