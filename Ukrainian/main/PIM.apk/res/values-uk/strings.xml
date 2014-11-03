@@ -714,6 +714,8 @@
     <string name="menu_manually_refresh">Оновити</string>
     <string name="add_to_blacklist">Додати до чорного списку</string>
     <string name="clear_from_blacklist">Видалити з чорного списку</string>
+    <string name="add_to_autorecord_list">Додати до автозапису</string>
+    <string name="clear_from_autorecord_list">Видалити з автозапису</string>
     <string name="addblack_dec">"Зауваження (необов'язково)"</string>
     <string name="importsms_black">Для імпорту журналу дзвінків та SMS-повідомлень</string>
     <string name="deleteCallLogConfirmation_title">Видалити виклики?</string>
@@ -916,7 +918,9 @@
     <string name="yellowpages_detail_error_label">Помилка</string>
     <string name="yellowpages_detail_error_description">Допомога надається за номером телефону</string>
     <string name="label_yellowpages_mark">%s людей відмічено</string>
-    
+    <string name="addContactToAutoRecordConfirmation_message">Додати контакт в список автозапису розмов?</string>
+    <string name="removeContactFromAutoRecordConfirmation_message">Видалити контакт із списка автозапису розмов?</string>
+    <string name="also_open_auto_phone_record">Одночасний запис викликів</string>
     <string name="copy_email">Копіювати адресу ел.пошти</string>
     <string name="copy_number">Копіювати номер телефону</string>
     <string name="done">Виконано</string>
