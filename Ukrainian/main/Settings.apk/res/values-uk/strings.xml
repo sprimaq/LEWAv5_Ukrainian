@@ -2631,7 +2631,7 @@
     <string name="led_settings">Індикація</string>
     <string name="led_colors_summary">Колір повідомлень</string>
     <string name="led_frequence_summary">Частота блимання</string>
-    <string name="led_pulse_summary">Блимати світлодіодом якщо є новиі повідомлення</string>
+    <string name="led_pulse_summary">Блимати світлодіодом якщо є нові повідомлення</string>
     <string name="breathing_light_freq_title">Частота блимання</string>
     <string name="led_settings_summary">Керування частотою блимання світлодіоду для кращого розпізнавання сповіщень</string>
     <string name="notification_led_color_titel">Колір для сповіщення</string>
