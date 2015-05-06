@@ -484,8 +484,8 @@
         <item>ГБ/міс.</item>
     </string-array>
     <string-array name="led_freq_entries">
+        <item>1 сек.</item>
         <item>2 сек.</item>
-        <item>3 сек.</item>
         <item>4 сек.</item>
         <item>5 сек.</item>
         <item>6 сек.</item>
@@ -494,8 +494,8 @@
         <item>9 сек.</item>
     </string-array>
     <string-array name="led_freq_values">
+        <item>1000</item>
         <item>2000</item>
-        <item>3000</item>
         <item>4000</item>
         <item>5000</item>
         <item>6000</item>
